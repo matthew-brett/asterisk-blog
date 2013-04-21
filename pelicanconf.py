@@ -4,9 +4,9 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Matthew Brett'
 SITENAME = u'Asterisk'
-SITEURL = ''
+SITEURL = 'http://asterisk.dynevor.org'
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'America/Los_Angeles'
 
 DEFAULT_LANG = u'en'
 
@@ -18,12 +18,13 @@ TRANSLATION_FEED_ATOM = None
 # Blogroll
 LINKS =  (('Pelican', 'http://getpelican.com/'),
           ('Python.org', 'http://python.org/'),
-          ('Jinja2', 'http://jinja.pocoo.org/'),
-          ('You can modify those links in your config file', '#'),)
+          ('My pages', 'http://matthew.dynevor.org'),
+          ('Nipy', 'http://nipy.org/'))
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+# SOCIAL = (('You can add links in your config file', '#'),
+#           ('Another social link', '#'),)
+SOCIAL = (())
 
 DEFAULT_PAGINATION = 10
 
