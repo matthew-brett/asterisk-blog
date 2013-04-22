@@ -1,0 +1,29 @@
+Title: Disapproval of heart
+Date: 2013-04-22 00:50
+Tags: History, China
+Category: organizations
+Slug: disapproval-of-heart
+Author: Matthew Brett
+Summary: Sima Qian on the dangers of a wry smile
+
+> Shortly before this, the minister of agriculture Yan Yi had been put to
+> death. Yan Yi had originally been a village head in Ji'nan.  Because of his
+> honesty and integrity, he was gradually promoted in office until he became
+> one of the highest ministers. [...]
+>
+> ... Yan Yi was on bad terms with Zhang Tang.  When someone bought an
+> accusation against Yan Yi for some other affair, the matter was referred to
+> Zhang Tang for investigation.  Earlier Yan Yi had been talking with one of
+> his guests, when the guest remarked that some new law that had just been put
+> into affect did not seem very practical.  Yan Yi had made no answer, but
+> given only a subtle wry twist of his lips.  Zhang Tang sent a memorial to the
+> throne relating this affair and stating "Yang Yi, one of the nine highest
+> ministers, having seen that the law was impractical, did not state his
+> opinion to the emperor, but nevertheless disapproved of it in his heart.  For
+> this offence he is deserving of death!".  From this time on, the crime known
+> as "disapproval of heart" became a part of the law, and most of the high
+> ministers and officials resorted to gross flattery in order to stay in the
+> good graces of the emperor.
+>
+> -- <cite>Sima Qian, Records of the Grand Historian; Han Dynasty III. p 76
+> Translated by Burton Watson, revised edition.  Columbia University Press 1993
