@@ -11,6 +11,5 @@ Summary: Sima Qian on decay
 > and righteousness; they put wealth and possession first and courtesy and
 > humility last.
 >
-> -- <cite>Sima Qian, Records of the Grand Historian; Han Dynasty III. p 84
-> Translated by Burton Watson, revised edition.  Columbia University Press 1993
-
+> -- <cite>Sima Qian, Records of the Grand Historian; Han Dynasty II (revised
+> edition). p 84 Translated by Burton Watson.  Columbia University Press 1993

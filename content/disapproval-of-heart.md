@@ -25,5 +25,5 @@ Summary: Sima Qian on the dangers of a wry smile
 > ministers and officials resorted to gross flattery in order to stay in the
 > good graces of the emperor.
 >
-> -- <cite>Sima Qian, Records of the Grand Historian; Han Dynasty III. p 76
-> Translated by Burton Watson, revised edition.  Columbia University Press 1993
+> -- <cite>Sima Qian, Records of the Grand Historian; Han Dynasty II (revised
+> edition). pp 75-76 Translated by Burton Watson.  Columbia University Press 1993
