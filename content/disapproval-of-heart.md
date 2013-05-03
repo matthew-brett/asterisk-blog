@@ -26,4 +26,5 @@ Summary: Sima Qian on the dangers of a wry smile
 > good graces of the emperor.
 >
 > -- <cite>Sima Qian, Records of the Grand Historian; Han Dynasty II (revised
-> edition). pp 75-76 Translated by Burton Watson.  Columbia University Press 1993
+> edition). pp 75-76 Translated by Burton Watson.  Columbia University Press
+> 1993 </cite>

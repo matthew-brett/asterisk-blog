@@ -13,3 +13,4 @@ Summary: Sima Qian on decay
 >
 > -- <cite>Sima Qian, Records of the Grand Historian; Han Dynasty II (revised
 > edition). p 84 Translated by Burton Watson.  Columbia University Press 1993
+> </cite>
