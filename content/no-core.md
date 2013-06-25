@@ -1,0 +1,69 @@
+Title: The core melts down
+Date: 2013-06-25 14:00
+Tags: Management, open source, free software, core, BSD, NetBSD
+Category: organizations
+Slug: melting-core
+Author: Matthew Brett
+Summary: NetBSD developers on death by leadership vacuum
+
+My friend [Paul Ivanov](http://pirsquared.org) kindly pointed me to this
+[Self-interview after leaving the NetBSD
+board](http://julipedia.meroh.net/2013/06/self-interview-after-leaving-netbsd.html) by Julio Merino.
+
+This lead me to an earlier [NetBSD resignation
+email](http://mail-index.netbsd.org/netbsd-users/2006/08/30/0016.html) from
+Charles Hannum, one of the "4 originators of NetBSD".
+
+They both complain of lack of leadership.  From Merino's post:
+
+> [the "core" and "board of directors"] teams are dysfunctional because they
+> do not provide leadership: all they do is act reactively to requests from
+> users and/or to resolve internal disputes. In other words: there is no
+> initiative nor vision emerging from these teams (and, for that matter, from
+> anybody).
+
+From Hannum:
+
+> There is no high-level direction; if you ask "what about the problems with
+> threads" or "will there be a flash-friendly file system", the best you'll
+> get is "we'd love to have both" -- but no work is done to recruit people to
+> code these things, or encourage existing developers to work on them.
+
+Merino also complains that the NetBSD leadership will not take risks:
+
+> As things are today, the project leaders will almost always settle for
+> either the conservative solution or a solution that compromises on every
+> detail so as to not annoy anyone. Unfortunately, this approach implicitly
+> disappoints a group of people — a group of people that may not be vocal
+> enough to express their preferences out of previous disappointments. All of
+> this, of course, only happens when the leader teams are asked about
+> something, as they will rarely provide input unless asked for (see reactive
+> model above).
+
+Hannum wonders aloud whether the diffuse management structure is the problem:
+
+> Much of this early structure (CVS, web site, cabal ["core" group], etc.) was
+> copied verbatim by other open source (this term not being in wide use yet)
+> projects -- even the form of the project name and the term "core".  This
+> later became a kind of standard template for starting up an open source
+> project. [...] I'm sorry to say that I helped create this problem, and that
+> most of the projects which modeled themselves after NetBSD (probably due to
+> its high popularity in 1993 and 1994) have suffered similar problems.
+> FreeBSD and XFree86, for example, have both forked successor projects
+> (Dragonfly and X.org) for very similar reasons.>
+
+Hannum wanted a change in leadership:
+
+> 1) There must be a strong leadership, and it is not the current one.
+>  The leadership must honestly want NetBSD to be a premier, world class
+>  system with leading edge features.  The leadership must set
+>  aggressive goals, and actively recruit people to make them happen.
+
+and:
+
+> I must repeat a point I've made earlier.  The current "management" of the
+> project is not going to either fix the project's problems, or lead the
+> project to solutions.  They are going to maintain the status quo, and
+> nothing else.  If the project is to rise from its charred stump, this
+> "management" must be disbanded and replaced wholesale.  Anything less is a
+> non-solution.
