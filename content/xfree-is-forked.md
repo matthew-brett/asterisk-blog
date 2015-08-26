@@ -12,30 +12,31 @@ Forks are experiments in open-source management [^oss-why-fork].
 
 [^oss-why-fork]: http://www.dwheeler.com/oss_fs_why.html#forking
 
-Management in open-source can be a mysterious matter, even taboo.  The hacker
-way is to believe that all you need is good code, and that management is for
-corporate types, whom we despise.
+Management in open-source can mysterious. In our technical world, we would
+rather believe that anything important must be technical, and management seems
+soft and poorly defined. We want to believe that all you need is good code,
+and that management is for corporate types, whom we despise.
 
 A fork is interesting because it usually comes about when one group of
 developers thinks that they can do a better job managing a project than the
 current group in charge.
 
-The group doing the fork takes a risk, because forking is a code of honor
-violation. They will probably have to start under a new project and package
-name, and then compete for consumers with the old project.
+The group doing the fork takes a risk, because forking is violation of the
+code of honor. The group will probably have to start under a new project and
+package name, and then compete with the old project for users.
 
-If the fork fails and the old project succeeds, the conclusion is still not
-clear, because of the inertia bias against the fork.  If both fail, the
-project may have already been doomed by bad code or changes in fashion. If
-both succeed, the forkers were right enough about the management to survive
-the resistance for forking.  The most interesting outcome is where the fork
-succeeds and the original project fails.  In this case we may be able to
-conclude that there really was a problem with the old management that has been
-fixed by the fork.
+If the fork fails and the old project succeeds, it is difficult to draw
+conclusions about which project had better management, because of the inertia
+bias against the fork.  If both fail, the project may have already been doomed
+by bad code or changes in fashion. If both succeed, the forkers were right
+enough about the management to survive the resistance to forking.  The most
+interesting outcome is where the fork succeeds and the original project fails.
+In this case we may be able to conclude that there really was a problem with
+the old management that has been fixed by the fork.
 
-The X.org fork of XFree86 is particularly interesting because XFree86 went
-into steep decline and died, to be fully replaced by X.org. There may be
-interesting lessons we can learn from why the fork happened.
+The X.org fork of XFree86 is particularly interesting because, after the fork,
+XFree86 went into steep decline and died, to be fully replaced by X.org. There
+may be interesting lessons we can learn from why the fork happened.
 
 I've set out the background in some detail because I think it is important to
 be able to understand motivations and arguments of the actors in the fork
@@ -75,7 +76,7 @@ and David Wexelblat [^xfree86-announce].
 [^wp-x386]: http://en.wikipedia.org/wiki/X386
 
 In order to get access to the development versions of the reference
-X-consortium code, XFree96 needed to be a member of the X-consortium.  To do
+X-consortium code, XFree86 needed to be a member of the X-consortium.  To do
 this, XFree86 formed a corporation called "XFree86 inc" in January 1994.
 XFree86 inc then asked for donations for X-consortium membership, and joined
 [^xfree86-history]
@@ -167,7 +168,7 @@ XFree86.  He complained in a blog post of very slow or completely failed patch
 review, even from vendors like ATI, and the very small number of developers
 with CVS write access given the size of the project [^mh-blog].  In a
 follow-up post he records his surprise at the level of support he had got for
-his blog post by email [mh-blog-fu].  A KDE developer agreed later that there
+his blog post by email [^mh-blog-fu].  A KDE developer agreed later that there
 was a widespread impression of XFree86 as a slow and unresponsive project
 [^kp-issue]. Others had similar complaints
 [^forum-communication][^debian-xfree86-pain]
@@ -178,8 +179,7 @@ was a widespread impression of XFree86 as a slow and unresponsive project
 [^forum-communication]: http://xfree86.org/pipermail/forum/2003-March/000476.html
 [^debian-xfree86-pain]: http://lists.debian.org/debian-x/2003/11/msg00285.html
 
-Packard complained that he had been gradually excluded from XFree86
-management:
+Packard felt that he had been gradually excluded from XFree86 management:
 
 > My ability to contribute to the project was severely curtailed in stages,
 > first administration of the public server, next permission to represent
@@ -201,12 +201,12 @@ The extension appears to have been disabled by default [^xfixes-disabled].
 [^xfixes-announce]: http://www.mail-archive.com/xpert@xfree86.org/msg11266.html
 [^xfixes-disabled]: http://www.mail-archive.com/xpert@xfree86.org/msg11290.html
 
-The commit of XFIXES appears to have been just before a release feature
-freeze.  Some process occurred by which Packard lost his CVS commit rights on
-the basis that he should have discussed the changes before committing
-[^kp-no-cvs].  David Dawes refers to a rumor that Packard did this in order to
-cause a crisis [^kp-xfixes-rumor].  There does not appear to be any public
-record of this decision at the time.
+It seems the commit of XFIXES was just before a release feature freeze.  Some
+process occurred by which Packard lost his CVS commit rights on the basis that
+he should have discussed the changes before committing [^kp-no-cvs].  David
+Dawes refers to a rumor that Packard did this in order to cause a crisis
+[^kp-xfixes-rumor].  There does not appear to be any public record of this
+decision at the time.
 
 [^kp-is-out]: http://www.xfree86.org/pipermail/forum/2003-March/001997.html
 [^call-for-open]: http://www.xfree86.org/pipermail/forum/2003-March/002165.html
@@ -233,7 +233,7 @@ they were unable to release this evidence because the emails were private and
 Packard had asked for them not to be released [^dw-have-cause]. Packard
 responded with permission to release the mails [^kp-release-emails] and David
 Wexelblat, for the board, said that they would release some version of the
-emails soon after [^dw-well-try].  I could find no evidence that this
+emails soon after ([^dw-well-try]).  I could find no evidence that this
 happened. It's possible that the email enclosed in [^private-cced] is an
 example of the discussion leading to Packard's expulsion.
 
@@ -399,8 +399,8 @@ He insisted that change was essential to the project:
 
 Packard and other interested developers held a series of teleconferences in
 late March / early April to discuss what to do next
-[^teleconference-1][^teleconference-2][^teleconference-3]. They decided to set
-up a new site for collaboration on X windows work,
+([^teleconference-1][^teleconference-2][^teleconference-3]). They decided to
+set up a new site for collaboration on X windows work,
 [xwin.org](http://web.archive.org/web/20030531183127/http://xwin.org/):
 
 > xwin.org is a forum for community participation in X, not a development
@@ -426,15 +426,15 @@ In August
 [xouvert.org](http://web.archive.org/web/20030819010029/http://www.xouvert.org/)
 announced a fork of the XFree86 project. Xouvert did a first release in
 December 2003, but the main XFree96 developers were not involved, and the
-project slowed and folded relatively quickly thereafter [^osnews-x-marks]
+project slowed and folded relatively quickly thereafter ([^osnews-x-marks]).
 
 [^osnews-x-marks]: http://www.osnews.com/story/6157/X_Marks_the_Spot_Looking_back_at_X11_Developments_of_Past_Year/page2/
 
 ## Cygwin loses patience
 
 In October 2003, Cygwin publicly announced it would no longer contribute to
-XFree86 development they had been unable to persuade David Dawes to give them
-CVS commit access [^cygwin-no-more]
+XFree86 development because they had been unable to persuade David Dawes to
+give them CVS commit access ([^cygwin-no-more]).
 
 [^cygwin-no-more]: http://cygwin.com/ml/cygwin-xfree/2003-10/msg00328.html
 
@@ -444,19 +444,20 @@ Egbert Eich commented as an XFree86 core member:
 > point that people are starting to use bad words.  I've tried to get support
 > from individual core team members for giving you commit rights. After I was
 > unable to do so (maybe I asked the wrong ones) I decided to no longer persue
-> the issue.  None of the initiatives I've made so far have been accepted.
+> [sic] the issue.  None of the initiatives I've made so far have been
+> accepted.
 >
 > I don't understand why people cannot deal with issues on the pragmatic level
 > by looking at how one can best distribute the workload so that the burdeon
-> on each individual volunteer is reduced.  The discussion always turns to who
-> owes what to whom. This is the wrong question. All or most of us are
-> volunteers. Therefore noone owes anything to anybody. [^egbert-sigh]
+> [sic] on each individual volunteer is reduced.  The discussion always turns
+> to who owes what to whom. This is the wrong question. All or most of us are
+> volunteers. Therefore noone owes anything to anybody ([^egbert-sigh]).
 
 [^egbert-sigh]: http://cygwin.com/ml/cygwin-xfree/2003-10/msg00360.html
 
 ## XFree86 core team disbands
 
-David Dawes successfully proposed disbanding the XFree96 core team in December
+David Dawes successfully proposed disbanding the XFree86 core team in December
 2003:
 
 > I'm very pleased to announce that a majority of the XFree86 core team has
@@ -464,7 +465,7 @@ David Dawes successfully proposed disbanding the XFree96 core team in December
 
 > I believe that this is an acknowlegement [sic] that the core team was no
 > longer representative of the active, experienced and skilled XFree86
-> developers, or a place where technical discussion happens [^core-disbands]
+> developers, or a place where technical discussion happens ([^core-disbands])
 
 The bare announcement caused considerable confusion, with some taking it to
 mean that the XFree86 project was closing down [^disband-confused]. There was
@@ -473,18 +474,18 @@ of the core team explained it as a way of avoiding potential complaint:
 
 > I think it doesn't really mean anything at all, so it's hard to say much
 > about it.  The core team was basically an honor role, which outsiders
-> assumed was a kabal of some sort despite the core and bod repeatedly
-> explaining that it wasn't.  Now it's gone, so people will have to find
-> something else to complain about. [^core-gone]
+> assumed was a kabal [sic] of some sort despite the core and bod [board of
+> directors] repeatedly explaining that it wasn't.  Now it's gone, so people
+> will have to find something else to complain about. ([^core-gone])
 
 [^core-disbands]: http://www.mail-archive.com/devel%40xfree86.org/msg04639.html
 [^disband-confused]: http://www.mail-archive.com/devel@xfree86.org/msg04658.html
 [^core-gone]: http://www.mail-archive.com/devel@xfree86.org/msg04888.html
 
-## License change
+## License change and collapse of XFree86
 
 At the end of January 2004, David Dawes announced a change to the base XFree86
-license [^license-announce]
+license ([^license-announce]).
 
 The [new license](http://www.xfree86.org/legal/licenses.html) added a
 non-standard clause that required any derived work to include a
@@ -512,14 +513,42 @@ ought to change instead:
 
 > Has anyone considered modifying the GPL to be more compatible with other
 > Open Source licences rather than trying to force all Open Source licences to
-> be a subset of the GPL? [^gpl-should-change]
+> be a subset of the GPL? ([^gpl-should-change])
 
 [^license-announce]: http://www.xfree86.org/pipermail/forum/2004-January/001892.html
 [^gpl-should-change]: http://www.xfree86.org/pipermail/forum/2004-January/003907.html
 
-[Gettys objects to license change](http://www.xfree86.org/pipermail/forum/2004-February/003945.html)
+The long email threads that followed mostly the license change - e.g.
+[^gettys-on-change].
 
-http://www.dwheeler.com/essays/gpl-compatible.html#xfree86
+Richard Stallman joined the discussion to see if he could help restore GPL
+compatibility ([^stallman-on-license]) but Dawes was not ready to compromise:
 
-[XFree86 4.4.0 distribution support](http://web.archive.org/web/20040531203819/http://www.xfree86.org/distro-support.html)
+> However, I also believe that all of that is irrelevant, and that anyone who
+> writes software should have the freedom to set conditions on what others may
+> do with it(*).  The choice for others is then either to accept the
+> conditions (legally enforcable or not), or to avoid said software.
+
+> (*) Providing of course that the act of setting the conditions is not itself
+> illegal. ([^dawes-no-gpl])
+
+This appears to have been the last straw in forcing adoption of X.org instead
+of XFree86 ([^xfree86-and-gpl]).  In a page dated from May 2004, XFree86 lists
+the Linux and BSD distributions supporting the XFree86 4.4.0 release that
+contained the license change ([^xfree-distributions]).  The list does not
+include SUSE, Redhat or Debian among many others.
+
+The page at [^xfree86-and-gpl] gives a vivid summary of the almost complete
+collapse of XFree86 at this point, with all significant developer and packager
+interest switching to X.org.
+
+[^gettys-on-change]: http://www.xfree86.org/pipermail/forum/2004-February/003945.html
+
+[^stallman-on-license]: http://www.xfree86.org/pipermail/forum/2004-February/003974.html
+
+[^dawes-no-gpl]: http://www.xfree86.org/pipermail/forum/2004-February/004021.html
+
+[^xfree86-and-gpl]: http://www.dwheeler.com/essays/gpl-compatible.html#xfree86
+
+[^xfree86-and-gpl]: http://web.archive.org/web/20040531203819/http://www.xfree86.org/distro-support.html
 
