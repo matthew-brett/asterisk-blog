@@ -518,8 +518,8 @@ ought to change instead:
 [^license-announce]: http://www.xfree86.org/pipermail/forum/2004-January/001892.html
 [^gpl-should-change]: http://www.xfree86.org/pipermail/forum/2004-January/003907.html
 
-The long email threads that followed mostly the license change - e.g.
-[^gettys-on-change].
+The long email threads that followed were mostly against the license change
+- e.g. [^gettys-on-change].
 
 Richard Stallman joined the discussion to see if he could help restore GPL
 compatibility ([^stallman-on-license]) but Dawes was not ready to compromise:
