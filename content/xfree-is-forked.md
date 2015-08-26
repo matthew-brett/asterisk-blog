@@ -48,7 +48,7 @@ make our own discussions easier to think about and better informed.
 ## A sketch of early X history with some dramatis personae
 
 [^wp-x-history]: <http://en.wikipedia.org/wiki/X_Window_System#History>
-[^xfree86-history]: XFree86](http://www.linux-mag.com/id/922/
+[^xfree86-history]: <http://www.linux-mag.com/id/922>
 
 [^wp-x-history] attributes the original idea for X to Jim Gettys and Bob
 Scheifler at MIT in 1984.
