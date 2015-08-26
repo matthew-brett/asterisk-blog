@@ -134,12 +134,14 @@ Now we're ready for the events around the fork.
 ## Background to the fork
 
 Although XFree86 had a development CVS repository, it was only available to
-those granted "membership" of the project.  The development
-mailing lists were also not public [^kp-interview].  This had been forced on
-the project because of the initial contract with the X consortium.  After the
-Open Group had tried and failed to change the license, it appears that this
-was no longer necessary, but nevertheless continued to be the case until Keith
-Packard joined the project [^kp-interview]
+those granted "membership" of the project.  The development mailing lists were
+also not public ([^kp-lwn-interview]).  This had been forced on the project
+because of the initial contract with the X consortium.  After the Open Group
+had tried and failed to change the license, it appears that this was no longer
+necessary, but nevertheless continued to be the case until Keith Packard
+joined the project ([^kp-lwn-interview]).
+
+[^kp-lwn-interview]: http://lwn.net/Articles/27673
 
 Keith Packard started to work on XFree86 at the end of 1999 as an employee of
 SuSE. He became a member of the XFree86 core in the same year [^coreteam]. He
@@ -152,14 +154,13 @@ Worth) the [Cairo rendering
 library](http://en.wikipedia.org/wiki/Cairo_(graphics)) and the [fontconfig
 library](http://en.wikipedia.org/wiki/Fontconfig) [^kp-resume].
 
-[^kp-resume]: http://keithp.com/keithp/resume/
-[^kp-interview]: http://lwn.net/Articles/27673/
+[^kp-resume]: http://keithp.com/keithp/resume
 [^xrandr-man]: http://www.xfree86.org/4.3.0/Xrandr.3.html
 
 Packard successfully lobbied for open read access to the CVS repository, and
 moving at least some of the development discussion to public mailing lists.
 He said that some of the development discussion continued to be on private
-mailing lists [^kp-interview].
+mailing lists ([^kp-lwn-interview]).
 
 Over a period of years before 2003 there seems have been considerable
 frustration at the slow pace of XFree86 development, and the difficulty of
@@ -184,7 +185,7 @@ Packard felt that he had been gradually excluded from XFree86 management:
 > My ability to contribute to the project was severely curtailed in stages,
 > first administration of the public server, next permission to represent
 > XFree86 to other groups, then administration of the public mailing lists, and
-> finally CVS access.  [^kp-interview]
+> finally CVS access.  [^kp-lwn-interview]
 
 He lost CVS access when he committed the XFIXES extension to CVS in November
 2002:
@@ -409,7 +410,7 @@ set up a new site for collaboration on X windows work,
 > advances in the X window system
 
 Packard explained his reasons for acting in a Linux Weekly News interview
-[^kp-interview]:
+[^kp-lwn-interview].
 
 > The highest priority should be to create an environment where people are
 > encouraged to participate to whatever extent they are able, and where these
@@ -550,5 +551,5 @@ interest switching to X.org.
 
 [^xfree86-and-gpl]: http://www.dwheeler.com/essays/gpl-compatible.html#xfree86
 
-[^xfree86-and-gpl]: http://web.archive.org/web/20040531203819/http://www.xfree86.org/distro-support.html
+[^xfree-distributions]: http://web.archive.org/web/20040531203819/http://www.xfree86.org/distro-support.html
 
