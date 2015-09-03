@@ -8,7 +8,7 @@ Summary: A short history of the XFree86 / X.org fork and some interpretations
 
 ## Why a history of the X.org fork?
 
-Forks are experiments in open-source management [^oss-why-fork].
+Forks are experiments in open-source management ([^oss-why-fork]).
 
 [^oss-why-fork]: <http://www.dwheeler.com/oss_fs_why.html#forking>
 
@@ -63,13 +63,13 @@ later in the year.
 The development of XFree86 itself started as a fork. Thomas Roell developed
 the first X implementation for the Intel 386 chip, called X386. He donated the
 code to the X consortium and this code was part of the X11R5 release in 1991
-[^wp-x-history][^xfree86-history].  Roell then took a job with a company
+([^wp-x-history][^xfree86-history]).  Roell then took a job with a company
 called SGCS and further versions of his X386 code were not open source
-[^rebel-code][^wp-x386].  A group of programmers found they were maintaining
+([^rebel-code][^wp-x386]).  A group of programmers found they were maintaining
 the original open-source version of X386 and joined together to form a fork of
-X386 called "XFree86" [^xfree86-announce]. XFree86 was a joke from the X386
+X386 called "XFree86" ([^xfree86-announce]). XFree86 was a joke from the X386
 name. The original team for XFree86 was David Dawes, Glenn Lai, Jim Tsillas
-and David Wexelblat [^xfree86-announce].
+and David Wexelblat ([^xfree86-announce]).
 
 [^rebel-code]: Glynn Moody "Rebel Code: Linux and the Open Source Revolution"
     2002, p63. Perseus Publishing.
@@ -79,20 +79,22 @@ In order to get access to the development versions of the reference
 X-consortium code, XFree86 needed to be a member of the X-consortium.  To do
 this, XFree86 formed a corporation called "XFree86 inc" in January 1994.
 XFree86 inc then asked for donations for X-consortium membership, and joined
-[^xfree86-history]
+([^xfree86-history]).
 
 At least by May 1994, XFree86 had a BSD-like governance, with a core group and
 a board of directors.  The board of directors was David Dawes, Glenn Lai, Dirk
 Hohndel, Rich Murphey, Jon Tombs, Jim Tsillas, and David Wexelblat
-[^xfree-inc-minutes].  The core group was the same as or similar to
-the board of directors at this stage [^core-board-1994].
+([^xfree-inc-minutes]).  The core group was the same as or similar to the
+board of directors at this stage ([^core-board-1994]).
 
 In November 1994 David Wexelblat handed over the XFree86 board presidency to
-David Dawes, the current president of the board [^president-dawes]
+David Dawes ([^president-dawes]). Dawes continued as president at least until
+2015 ([^current-bod]).
 
 [^xfree-inc-minutes]: <http://web.archive.org/web/20030101005232/http://www.xfree86.org/legal/org_minutes.html>
 [^core-board-1994]: <http://ftp.x.org/R5contrib/XFree86-2.1.Announce>
 [^president-dawes]: <http://www.informatica.co.cr/linux-desktops/research/1994/1116.html>
+[^current-bod]: <http://www.xfree86.org/legal/bod.html>
 
 In 1997, the X-consortium handed over X stewardship to a vendor group called
 "The Open Group". In April 1998, the Open Group changed the X license to
@@ -105,23 +107,23 @@ fee](http://old.lwn.net/lwn/1998/0409/xstate.html):
 
 XFree86 decided to continue development without using any new code from the
 Open Group reference implementation, in order to avoid the new license. At the
-same time, the Open Group X development stalled [^xfree86-history] leaving
+same time, the Open Group X development stalled ([^xfree86-history]) leaving
 XFree86 to become the de-facto reference implementation.  The Open Group
 reverted to the old license in September 1998, and formed a new consortium for
-X stewardship called X.Org in 1999 [^wp-x-history][^xorg-consortium]. X.Org
+X stewardship called X.Org in 1999 ([^wp-x-history][^xorg-consortium]). X.Org
 (the consortium) went on to supervise the releases of the X reference
 implementation.  XFree86 joined X.Org as an honorary member in the same year.
 
 [^xorg-consortium]: <http://web.archive.org/web/20030402160332/http://www.x.org/XOrg_background.html>
 
 An article in 2001 said "Today, XFree86 is considered to be among the most
-successful open source projects in existence." [^xfree86-history]
+successful open source projects in existence." ([^xfree86-history]).
 
 By 1999 the board of directors was unchanged apart from the additions of Robin
-Cutshaw and Marc Evans [^readme-3.3.6]
+Cutshaw and Marc Evans ([^readme-3.3.6]).
 
 By February 2003 the "core" group was 16 people, of which 7 were also on the
-board of directors (at least as of 1999) [^man-4.3.0][^coreteam]
+board of directors (at least as of 1999) ([^man-4.3.0][^coreteam]).
 
 [^readme-3.3.6]: <http://www.xfree86.org/3.3.6/README7.html>
 [^man-4.3.0]: <http://www.xfree86.org/4.3.0/XFree86.1.html>
@@ -144,15 +146,15 @@ joined the project ([^kp-lwn-interview]).
 [^kp-lwn-interview]: <http://lwn.net/Articles/27673>
 
 Keith Packard started to work on XFree86 at the end of 1999 as an employee of
-SuSE. He became a member of the XFree86 core in the same year [^coreteam]. He
+SuSE. He became a member of the XFree86 core in the same year ([^coreteam]). He
 moved to the Cambridge Research Laboratory to work for Compaq / HP at the end
 of 2001 and continued to work on XFree86. Among his contributions were the
 [Render extension](http://en.wikipedia.org/wiki/X_Rendering_Extension), (with
 Jim Gettys) the [XRandR
-exntension](http://en.wikipedia.org/wiki/RandR)[^xrandr-man], (with Carl
+extension](http://en.wikipedia.org/wiki/RandR)([^xrandr-man]), (with Carl
 Worth) the [Cairo rendering
 library](http://en.wikipedia.org/wiki/Cairo_(graphics)) and the [fontconfig
-library](http://en.wikipedia.org/wiki/Fontconfig) [^kp-resume].
+library](http://en.wikipedia.org/wiki/Fontconfig) ([^kp-resume]).
 
 [^kp-resume]: <http://keithp.com/keithp/resume>
 [^xrandr-man]: <http://www.xfree86.org/4.3.0/Xrandr.3.html>
@@ -167,12 +169,12 @@ frustration at the slow pace of XFree86 development, and the difficulty of
 getting patches accepted.  Mike Harris was a Redhat developer working on
 XFree86.  He complained in a blog post of very slow or completely failed patch
 review, even from vendors like ATI, and the very small number of developers
-with CVS write access given the size of the project [^mh-blog].  In a
+with CVS write access given the size of the project ([^mh-blog]).  In a
 follow-up post he records his surprise at the level of support he had got for
-his blog post by email [^mh-blog-fu].  A KDE developer agreed later that there
-was a widespread impression of XFree86 as a slow and unresponsive project
-[^kp-issue]. Others had similar complaints
-[^forum-communication][^debian-xfree86-pain]
+his blog post by email ([^mh-blog-fu]).  A KDE developer agreed later that
+there was a widespread impression of XFree86 as a slow and unresponsive
+project ([^kp-issue]). Others had similar complaints
+([^forum-communication][^debian-xfree86-pain]).
 
 [^mh-blog]: <http://web.archive.org/web/20030304041751/http://advogato.org/person/mharris/diary.html?start=5>
 [^mh-blog-fu]: <http://web.archive.org/web/20030304041751/http://advogato.org/person/mharris/diary.html?start=6>
@@ -185,7 +187,7 @@ Packard felt that he had been gradually excluded from XFree86 management:
 > My ability to contribute to the project was severely curtailed in stages,
 > first administration of the public server, next permission to represent
 > XFree86 to other groups, then administration of the public mailing lists, and
-> finally CVS access.  [^kp-lwn-interview]
+> finally CVS access.  ([^kp-lwn-interview])
 
 He lost CVS access when he committed the XFIXES extension to CVS in November
 2002:
@@ -193,20 +195,20 @@ He lost CVS access when he committed the XFIXES extension to CVS in November
 > I've stuck these features into a new XFIXES extension and included that in
 > XFree86 CVS so that others might see the code and specification and test
 > whether they solve the issues they're supposed to.  This does not represent
-> any endorsement by the XFree86 project or it's members (other than me), nor
-> any assurance that the extension will be included in future XFree86
-> releases.  [^xfixes-announce]
+> any endorsement by the XFree86 project or it's [sic] members (other than
+> me), nor any assurance that the extension will be included in future XFree86
+> releases.  ([^xfixes-announce])
 
-The extension appears to have been disabled by default [^xfixes-disabled].
+The extension appears to have been disabled by default ([^xfixes-disabled]).
 
 [^xfixes-announce]: <http://www.mail-archive.com/xpert@xfree86.org/msg11266.html>
 [^xfixes-disabled]: <http://www.mail-archive.com/xpert@xfree86.org/msg11290.html>
 
 It seems the commit of XFIXES was just before a release feature freeze.  Some
 process occurred by which Packard lost his CVS commit rights on the basis that
-he should have discussed the changes before committing [^kp-no-cvs].  David
+he should have discussed the changes before committing ([^kp-no-cvs]).  David
 Dawes refers to a rumor that Packard did this in order to cause a crisis
-[^kp-xfixes-rumor].  There does not appear to be any public record of this
+([^kp-xfixes-rumor]).  There does not appear to be any public record of this
 decision at the time.
 
 [^kp-is-out]: <http://www.xfree86.org/pipermail/forum/2003-March/001997.html>
@@ -218,10 +220,10 @@ decision at the time.
 
 In March 2003, David Dawes used an email asking for public discussion of
 XFree86 to announce that the XFree86 board of directors had expelled Keith
-Packard from the core group [^kp-is-out]:
+Packard from the core group ([^kp-is-out]):
 
 > It has been brought to the attention of the XFree86 Core Team that one of
-> its members, Keith Packard, has been actively (but privately) seeking out
+> its members, Keith Packard, has been actively (but privately) se)eking out
 > support for a fork of XFree86 that would be led by himself.  He is also in
 > the process of forming a by-invitation-only group of vested interests to
 > discuss privately concerns he has about XFree86 and the future of X.  He has
@@ -231,11 +233,11 @@ Packard from the core group [^kp-is-out]:
 
 The board claimed to have email evidence of Packard's intentions, but that
 they were unable to release this evidence because the emails were private and
-Packard had asked for them not to be released [^dw-have-cause]. Packard
-responded with permission to release the mails [^kp-release-emails] and David
+Packard had asked for them not to be released ([^dw-have-cause]). Packard
+responded with permission to release the mails ([^kp-release-emails]) and David
 Wexelblat, for the board, said that they would release some version of the
 emails soon after ([^dw-well-try]).  I could find no evidence that this
-happened. It's possible that the email enclosed in [^private-cced] is an
+happened. It's possible that the email enclosed in ([^private-cced]) is an
 example of the discussion leading to Packard's expulsion.
 
 [^private-cced]: <http://www.xfree86.org/pipermail/forum/2003-April/003139.html>
@@ -244,7 +246,7 @@ example of the discussion leading to Packard's expulsion.
 [^dw-well-try]: <http://www.xfree86.org/pipermail/forum/2003-March/002545.html>
 
 Packard didn't reply directly to the thread expelling him from the core, but
-instead posted an appeal for open governance of XFree86 [^call-for-open].  He
+instead posted an appeal for open governance of XFree86 ([^call-for-open]).  He
 lists four problems:
 
 * Limited development resources
@@ -281,11 +283,11 @@ difficulty of the codebase, and emphasized the previous work of David Dawes:
 > As for the rest of the above. I'd urge people to think of how XFree86 has
 > got were it has - under the directive of the current team, headed by David
 > Dawes. David has worked tirelessly in his own time to bring XFree86 where it
-> is today. And I applaud him for that devotion. [^hourihane1]
+> is today. And I applaud him for that devotion. ([^hourihane1])
 
 [^hourihane1]: <http://www.xfree86.org/pipermail/forum/2003-March/002168.html>
 
-David Dawes' employer, the CEO of Tungsten graphics [^dawes-tungsten] saw
+David Dawes' employer, the CEO of Tungsten graphics ([^dawes-tungsten]) saw
 problems in the organization of XFree86:
 
 > We are seeing Keith Packard, a loyal and dedicated XFree86 contributor,
@@ -306,7 +308,7 @@ He asked for greater democracy in governing the project:
 > Under those circumstances, a fork was inevitable.  There is currently no way
 > for dissenting voices to have an opportunity to fairly affect the direction
 > of XFree86, no matter what percentage of interested parties agree.
-> [^tungsten-boss].
+> ([^tungsten-boss]).
 
 [^tungsten-boss]: <http://xfree86.org/pipermail/forum/2003-March/002040.html>
 [^dawes-tungsten]: <http://www.xfree86.org/pipermail/forum/2003-April/003357.html>
@@ -334,7 +336,7 @@ and didn't see a need for fully open governance:
 > - There is no reason for XFree86 BOD matters to be public. The XFree86
 >   Project, Inc is a privately-held corporation.
 > - There is no reason for Core Team matters to be public. This is the
->   leadership forum, not a public forum. [^dx-cheap]
+>   leadership forum, not a public forum. ([^dx-cheap])
 
 [^dx-cheap]: <http://xfree86.org/pipermail/forum/2003-March/002124.html>
 
@@ -345,7 +347,7 @@ David Dawes saw his opponents as trying to take over the hard work of others:
 > they want to come back and take over where they left off.  If we'd listened
 > to them, we'd have abandoned it too.  And they want us all to follow their
 > lead now? "Thanks for keeping it alive guys, but we'll take it from here,"
-> is the attitude. [^dawes-old-guys]
+> is the attitude. ([^dawes-old-guys])
 
 [^dawes-old-guys]: <http://xfree86.org/pipermail/forum/2003-March/002208.html>
 
@@ -372,7 +374,7 @@ Developers are leaders and should not be accountable to any 'community':
 >
 > I wish you luck in holding everyone accountable to the
 > will of the community and imposing formal policies on everyone.
-> I can imagine how many developers that will attract [^murphey-phoey]
+> I can imagine how many developers that will attract ([^murphey-phoey])
 
 [^murphey-phoey]: <http://xfree86.org/pipermail/forum/2003-March/002286.html>
 
@@ -394,7 +396,7 @@ He insisted that change was essential to the project:
 > believes the current plodding progress is the right path, don't harass Keith
 > work with him, endorse an Xperimental project and see what it produces.  If
 > it works the community wins, if it fails you get both to smirk, and to take
-> the good bits and the lessons it learned.  [^cox-change]
+> the good bits and the lessons it learned.  ([^cox-change])
 
 [^cox-change]: <http://www.xfree86.org/pipermail/forum/2003-March/002077.html>
 
@@ -410,7 +412,7 @@ set up a new site for collaboration on X windows work,
 > advances in the X window system
 
 Packard explained his reasons for acting in a Linux Weekly News interview
-[^kp-lwn-interview].
+([^kp-lwn-interview]).
 
 > The highest priority should be to create an environment where people are
 > encouraged to participate to whatever extent they are able, and where these
@@ -469,9 +471,9 @@ David Dawes successfully proposed disbanding the XFree86 core team in December
 > developers, or a place where technical discussion happens ([^core-disbands])
 
 The bare announcement caused considerable confusion, with some taking it to
-mean that the XFree86 project was closing down [^disband-confused]. There was
-no indication of any other structure to replace the core.  An ex-member
-of the core team explained it as a way of avoiding potential complaint:
+mean that the XFree86 project was closing down ([^disband-confused]). There
+was no indication of any other structure to replace the core.  An ex-member of
+the core team explained it as a way of avoiding potential complaint:
 
 > I think it doesn't really mean anything at all, so it's hard to say much
 > about it.  The core team was basically an honor role, which outsiders
@@ -507,8 +509,8 @@ change in a private meeting ([^dawes-hung-out]).
 Most people considered that the new license did not allow derived code to use
 the GPL license, because the GPL says that a GPL or derived work "may not
 impose any further restrictions on the recipients' exercise of the rights
-granted herein." [^gpl-2].  Here the further restriction is the requirement to
-acknowledge XFree86 in documentation or "in the software itself".
+granted herein." ([^gpl-2]).  Here the further restriction is the requirement
+to acknowledge XFree86 in documentation or "in the software itself".
 
 [^gpl-2]: <http://www.gnu.org/licenses/old-licenses/gpl-2.0.html>
 
@@ -523,7 +525,7 @@ ought to change instead:
 [^gpl-should-change]: <http://www.xfree86.org/pipermail/forum/2004-January/003907.html>
 
 The long email threads that followed were mostly against the license change
-- e.g. [^gettys-on-change], [^license-no-support].
+- e.g. ([^gettys-on-change], [^license-no-support]).
 
 [^license-no-support]: <http://www.xfree86.org/pipermail/forum/2004-February/004035.html>
 
@@ -546,7 +548,7 @@ unmoving position on the license:
 > me out to dry on this.  I also can't speak for why some developers have
 > privately supported the change, but won't do so publicly.  But then taking
 > the heat on things like this comes with the job.  And I have very thick
-> asbestos undies, but boy do they itch :-) [^dawes-hung-out]
+> asbestos undies, but boy do they itch :-) ([^dawes-hung-out])
 
 [^dawes-hung-out]: <http://www.xfree86.org/pipermail/forum/2004-February/004039.html>
 
@@ -556,17 +558,13 @@ XFree86 lists the Linux and BSD distributions supporting the first release of
 XFree86 that contained the license change ([^xfree-distributions]).  The list
 does not include SUSE, Redhat or Debian among many others.
 
-The page at [^xfree86-and-gpl] gives a vivid summary of the almost complete
+The page at ([^xfree86-and-gpl]) gives a vivid summary of the almost complete
 collapse of XFree86 at this point, with all significant developer and packager
 interest switching to X.org.
 
 [^gettys-on-change]: <http://www.xfree86.org/pipermail/forum/2004-February/003945.html>
-
 [^stallman-on-license]: <http://www.xfree86.org/pipermail/forum/2004-February/003974.html>
-
 [^dawes-no-gpl]: <http://www.xfree86.org/pipermail/forum/2004-February/004021.html>
-
 [^xfree86-and-gpl]: <http://www.dwheeler.com/essays/gpl-compatible.html#xfree86>
-
 [^xfree-distributions]: <http://web.archive.org/web/20040531203819/http://www.xfree86.org/distro-support.html>
 
