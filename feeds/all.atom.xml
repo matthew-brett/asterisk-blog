@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Asterisk</title><link href="http://asterisk.dynevor.org/" rel="alternate"></link><link href="http://asterisk.dynevor.org/feeds/all.atom.xml" rel="self"></link><id>http://asterisk.dynevor.org/</id><updated>2013-06-25T16:00:00-07:00</updated><entry><title>The XFree / X.Org fork and open source governance</title><link href="http://asterisk.dynevor.org/xfree-forked.html" rel="alternate"></link><updated>2013-06-25T16:00:00-07:00</updated><author><name>Matthew Brett</name></author><id>tag:asterisk.dynevor.org,2013-06-25:xfree-forked.html</id><summary type="html">&lt;h2&gt;Why a history of the X.org fork?&lt;/h2&gt;
-&lt;p&gt;Forks are experiments in open-source management &lt;sup id="fnref:oss-why-fork"&gt;&lt;a class="footnote-ref" href="#fn:oss-why-fork" rel="footnote"&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;Forks are experiments in open-source management (&lt;sup id="fnref:oss-why-fork"&gt;&lt;a class="footnote-ref" href="#fn:oss-why-fork" rel="footnote"&gt;1&lt;/a&gt;&lt;/sup&gt;).&lt;/p&gt;
 &lt;p&gt;Management in open-source can mysterious. In our technical world, we would
 rather believe that anything important must be technical, and management seems
 soft and poorly defined. We want to believe that all you need is good code,
@@ -39,25 +39,26 @@ later in the year.&lt;/p&gt;
 &lt;p&gt;The development of XFree86 itself started as a fork. Thomas Roell developed
 the first X implementation for the Intel 386 chip, called X386. He donated the
 code to the X consortium and this code was part of the X11R5 release in 1991
-&lt;sup id="fnref:wp-x-history"&gt;&lt;a class="footnote-ref" href="#fn:wp-x-history" rel="footnote"&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;sup id="fnref:xfree86-history"&gt;&lt;a class="footnote-ref" href="#fn:xfree86-history" rel="footnote"&gt;3&lt;/a&gt;&lt;/sup&gt;.  Roell then took a job with a company
+(&lt;sup id="fnref:wp-x-history"&gt;&lt;a class="footnote-ref" href="#fn:wp-x-history" rel="footnote"&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;sup id="fnref:xfree86-history"&gt;&lt;a class="footnote-ref" href="#fn:xfree86-history" rel="footnote"&gt;3&lt;/a&gt;&lt;/sup&gt;).  Roell then took a job with a company
 called SGCS and further versions of his X386 code were not open source
-&lt;sup id="fnref:rebel-code"&gt;&lt;a class="footnote-ref" href="#fn:rebel-code" rel="footnote"&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;sup id="fnref:wp-x386"&gt;&lt;a class="footnote-ref" href="#fn:wp-x386" rel="footnote"&gt;5&lt;/a&gt;&lt;/sup&gt;.  A group of programmers found they were maintaining
+(&lt;sup id="fnref:rebel-code"&gt;&lt;a class="footnote-ref" href="#fn:rebel-code" rel="footnote"&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;sup id="fnref:wp-x386"&gt;&lt;a class="footnote-ref" href="#fn:wp-x386" rel="footnote"&gt;5&lt;/a&gt;&lt;/sup&gt;).  A group of programmers found they were maintaining
 the original open-source version of X386 and joined together to form a fork of
-X386 called "XFree86" &lt;sup id="fnref:xfree86-announce"&gt;&lt;a class="footnote-ref" href="#fn:xfree86-announce" rel="footnote"&gt;12&lt;/a&gt;&lt;/sup&gt;. XFree86 was a joke from the X386
+X386 called "XFree86" (&lt;sup id="fnref:xfree86-announce"&gt;&lt;a class="footnote-ref" href="#fn:xfree86-announce" rel="footnote"&gt;13&lt;/a&gt;&lt;/sup&gt;). XFree86 was a joke from the X386
 name. The original team for XFree86 was David Dawes, Glenn Lai, Jim Tsillas
-and David Wexelblat &lt;sup id="fnref:xfree86-announce"&gt;&lt;a class="footnote-ref" href="#fn:xfree86-announce" rel="footnote"&gt;12&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+and David Wexelblat (&lt;sup id="fnref:xfree86-announce"&gt;&lt;a class="footnote-ref" href="#fn:xfree86-announce" rel="footnote"&gt;13&lt;/a&gt;&lt;/sup&gt;).&lt;/p&gt;
 &lt;p&gt;In order to get access to the development versions of the reference
 X-consortium code, XFree86 needed to be a member of the X-consortium.  To do
 this, XFree86 formed a corporation called "XFree86 inc" in January 1994.
 XFree86 inc then asked for donations for X-consortium membership, and joined
-&lt;sup id="fnref:xfree86-history"&gt;&lt;a class="footnote-ref" href="#fn:xfree86-history" rel="footnote"&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+(&lt;sup id="fnref:xfree86-history"&gt;&lt;a class="footnote-ref" href="#fn:xfree86-history" rel="footnote"&gt;3&lt;/a&gt;&lt;/sup&gt;).&lt;/p&gt;
 &lt;p&gt;At least by May 1994, XFree86 had a BSD-like governance, with a core group and
 a board of directors.  The board of directors was David Dawes, Glenn Lai, Dirk
 Hohndel, Rich Murphey, Jon Tombs, Jim Tsillas, and David Wexelblat
-&lt;sup id="fnref:xfree-inc-minutes"&gt;&lt;a class="footnote-ref" href="#fn:xfree-inc-minutes" rel="footnote"&gt;6&lt;/a&gt;&lt;/sup&gt;.  The core group was the same as or similar to
-the board of directors at this stage &lt;sup id="fnref:core-board-1994"&gt;&lt;a class="footnote-ref" href="#fn:core-board-1994" rel="footnote"&gt;7&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+(&lt;sup id="fnref:xfree-inc-minutes"&gt;&lt;a class="footnote-ref" href="#fn:xfree-inc-minutes" rel="footnote"&gt;6&lt;/a&gt;&lt;/sup&gt;).  The core group was the same as or similar to the
+board of directors at this stage (&lt;sup id="fnref:core-board-1994"&gt;&lt;a class="footnote-ref" href="#fn:core-board-1994" rel="footnote"&gt;7&lt;/a&gt;&lt;/sup&gt;).&lt;/p&gt;
 &lt;p&gt;In November 1994 David Wexelblat handed over the XFree86 board presidency to
-David Dawes, the current president of the board &lt;sup id="fnref:president-dawes"&gt;&lt;a class="footnote-ref" href="#fn:president-dawes" rel="footnote"&gt;8&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+David Dawes (&lt;sup id="fnref:president-dawes"&gt;&lt;a class="footnote-ref" href="#fn:president-dawes" rel="footnote"&gt;8&lt;/a&gt;&lt;/sup&gt;). Dawes continued as president at least until
+2015 (&lt;sup id="fnref:current-bod"&gt;&lt;a class="footnote-ref" href="#fn:current-bod" rel="footnote"&gt;9&lt;/a&gt;&lt;/sup&gt;).&lt;/p&gt;
 &lt;p&gt;In 1997, the X-consortium handed over X stewardship to a vendor group called
 "The Open Group". In April 1998, the Open Group changed the X license to
 require commercial entities to &lt;a href="http://old.lwn.net/lwn/1998/0409/xstate.html"&gt;pay a license
@@ -69,58 +70,59 @@ specs, protocols or cash is a flat zero.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;XFree86 decided to continue development without using any new code from the
 Open Group reference implementation, in order to avoid the new license. At the
-same time, the Open Group X development stalled &lt;sup id="fnref:xfree86-history"&gt;&lt;a class="footnote-ref" href="#fn:xfree86-history" rel="footnote"&gt;3&lt;/a&gt;&lt;/sup&gt; leaving
+same time, the Open Group X development stalled (&lt;sup id="fnref:xfree86-history"&gt;&lt;a class="footnote-ref" href="#fn:xfree86-history" rel="footnote"&gt;3&lt;/a&gt;&lt;/sup&gt;) leaving
 XFree86 to become the de-facto reference implementation.  The Open Group
 reverted to the old license in September 1998, and formed a new consortium for
-X stewardship called X.Org in 1999 &lt;sup id="fnref:wp-x-history"&gt;&lt;a class="footnote-ref" href="#fn:wp-x-history" rel="footnote"&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;sup id="fnref:xorg-consortium"&gt;&lt;a class="footnote-ref" href="#fn:xorg-consortium" rel="footnote"&gt;9&lt;/a&gt;&lt;/sup&gt;. X.Org
+X stewardship called X.Org in 1999 (&lt;sup id="fnref:wp-x-history"&gt;&lt;a class="footnote-ref" href="#fn:wp-x-history" rel="footnote"&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;sup id="fnref:xorg-consortium"&gt;&lt;a class="footnote-ref" href="#fn:xorg-consortium" rel="footnote"&gt;10&lt;/a&gt;&lt;/sup&gt;). X.Org
 (the consortium) went on to supervise the releases of the X reference
-implementation.  XFree86 joined X.Org as an honorary member in the same year.&lt;/p&gt;
+implementation.  XFree86 joined the X.Org consortium as an honorary member in
+the same year.&lt;/p&gt;
 &lt;p&gt;An article in 2001 said "Today, XFree86 is considered to be among the most
-successful open source projects in existence." &lt;sup id="fnref:xfree86-history"&gt;&lt;a class="footnote-ref" href="#fn:xfree86-history" rel="footnote"&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+successful open source projects in existence." (&lt;sup id="fnref:xfree86-history"&gt;&lt;a class="footnote-ref" href="#fn:xfree86-history" rel="footnote"&gt;3&lt;/a&gt;&lt;/sup&gt;).&lt;/p&gt;
 &lt;p&gt;By 1999 the board of directors was unchanged apart from the additions of Robin
-Cutshaw and Marc Evans &lt;sup id="fnref:readme-3.3.6"&gt;&lt;a class="footnote-ref" href="#fn:readme-3.3.6" rel="footnote"&gt;10&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+Cutshaw and Marc Evans (&lt;sup id="fnref:readme-3.3.6"&gt;&lt;a class="footnote-ref" href="#fn:readme-3.3.6" rel="footnote"&gt;11&lt;/a&gt;&lt;/sup&gt;).&lt;/p&gt;
 &lt;p&gt;By February 2003 the "core" group was 16 people, of which 7 were also on the
-board of directors (at least as of 1999) &lt;sup id="fnref:man-4.3.0"&gt;&lt;a class="footnote-ref" href="#fn:man-4.3.0" rel="footnote"&gt;11&lt;/a&gt;&lt;/sup&gt;&lt;sup id="fnref:coreteam"&gt;&lt;a class="footnote-ref" href="#fn:coreteam" rel="footnote"&gt;14&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+board of directors (at least as of 1999) (&lt;sup id="fnref:man-4.3.0"&gt;&lt;a class="footnote-ref" href="#fn:man-4.3.0" rel="footnote"&gt;12&lt;/a&gt;&lt;/sup&gt;&lt;sup id="fnref:coreteam"&gt;&lt;a class="footnote-ref" href="#fn:coreteam" rel="footnote"&gt;15&lt;/a&gt;&lt;/sup&gt;).&lt;/p&gt;
 &lt;p&gt;Now we're ready for the events around the fork.&lt;/p&gt;
 &lt;h2&gt;Background to the fork&lt;/h2&gt;
 &lt;p&gt;Although XFree86 had a development CVS repository, it was only available to
-those granted "membership" of the project.  The development
-mailing lists were also not public &lt;sup id="fnref:kp-interview"&gt;&lt;a class="footnote-ref" href="#fn:kp-interview" rel="footnote"&gt;16&lt;/a&gt;&lt;/sup&gt;.  This had been forced on
-the project because of the initial contract with the X consortium.  After the
-Open Group had tried and failed to change the license, it appears that this
-was no longer necessary, but nevertheless continued to be the case until Keith
-Packard joined the project &lt;sup id="fnref:kp-interview"&gt;&lt;a class="footnote-ref" href="#fn:kp-interview" rel="footnote"&gt;16&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+those granted "membership" of the project.  The development mailing lists were
+also not public (&lt;sup id="fnref:kp-lwn-interview"&gt;&lt;a class="footnote-ref" href="#fn:kp-lwn-interview" rel="footnote"&gt;16&lt;/a&gt;&lt;/sup&gt;).  This had been forced on the project
+because of the initial contract with the X consortium.  After the Open Group
+had tried and failed to change the license, it appears that this was no longer
+necessary, but nevertheless continued to be the case until Keith Packard
+joined the project (&lt;sup id="fnref:kp-lwn-interview"&gt;&lt;a class="footnote-ref" href="#fn:kp-lwn-interview" rel="footnote"&gt;16&lt;/a&gt;&lt;/sup&gt;).&lt;/p&gt;
 &lt;p&gt;Keith Packard started to work on XFree86 at the end of 1999 as an employee of
-SuSE. He became a member of the XFree86 core in the same year &lt;sup id="fnref:coreteam"&gt;&lt;a class="footnote-ref" href="#fn:coreteam" rel="footnote"&gt;14&lt;/a&gt;&lt;/sup&gt;. He
+SuSE. He became a member of the XFree86 core in the same year (&lt;sup id="fnref:coreteam"&gt;&lt;a class="footnote-ref" href="#fn:coreteam" rel="footnote"&gt;15&lt;/a&gt;&lt;/sup&gt;). He
 moved to the Cambridge Research Laboratory to work for Compaq / HP at the end
 of 2001 and continued to work on XFree86. Among his contributions were the
 &lt;a href="http://en.wikipedia.org/wiki/X_Rendering_Extension"&gt;Render extension&lt;/a&gt;, (with
 Jim Gettys) the &lt;a href="http://en.wikipedia.org/wiki/RandR"&gt;XRandR
-exntension&lt;/a&gt;&lt;sup id="fnref:xrandr-man"&gt;&lt;a class="footnote-ref" href="#fn:xrandr-man" rel="footnote"&gt;17&lt;/a&gt;&lt;/sup&gt;, (with Carl
+extension&lt;/a&gt;(&lt;sup id="fnref:xrandr-man"&gt;&lt;a class="footnote-ref" href="#fn:xrandr-man" rel="footnote"&gt;18&lt;/a&gt;&lt;/sup&gt;), (with Carl
 Worth) the &lt;a href="http://en.wikipedia.org/wiki/Cairo_(graphics)"&gt;Cairo rendering
 library&lt;/a&gt; and the &lt;a href="http://en.wikipedia.org/wiki/Fontconfig"&gt;fontconfig
-library&lt;/a&gt; &lt;sup id="fnref:kp-resume"&gt;&lt;a class="footnote-ref" href="#fn:kp-resume" rel="footnote"&gt;15&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+library&lt;/a&gt; (&lt;sup id="fnref:kp-resume"&gt;&lt;a class="footnote-ref" href="#fn:kp-resume" rel="footnote"&gt;17&lt;/a&gt;&lt;/sup&gt;).&lt;/p&gt;
 &lt;p&gt;Packard successfully lobbied for open read access to the CVS repository, and
 moving at least some of the development discussion to public mailing lists.
 He said that some of the development discussion continued to be on private
-mailing lists &lt;sup id="fnref:kp-interview"&gt;&lt;a class="footnote-ref" href="#fn:kp-interview" rel="footnote"&gt;16&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+mailing lists (&lt;sup id="fnref:kp-lwn-interview"&gt;&lt;a class="footnote-ref" href="#fn:kp-lwn-interview" rel="footnote"&gt;16&lt;/a&gt;&lt;/sup&gt;).&lt;/p&gt;
 &lt;p&gt;Over a period of years before 2003 there seems have been considerable
 frustration at the slow pace of XFree86 development, and the difficulty of
 getting patches accepted.  Mike Harris was a Redhat developer working on
 XFree86.  He complained in a blog post of very slow or completely failed patch
 review, even from vendors like ATI, and the very small number of developers
-with CVS write access given the size of the project &lt;sup id="fnref:mh-blog"&gt;&lt;a class="footnote-ref" href="#fn:mh-blog" rel="footnote"&gt;18&lt;/a&gt;&lt;/sup&gt;.  In a
+with CVS write access given the size of the project (&lt;sup id="fnref:mh-blog"&gt;&lt;a class="footnote-ref" href="#fn:mh-blog" rel="footnote"&gt;19&lt;/a&gt;&lt;/sup&gt;).  In a
 follow-up post he records his surprise at the level of support he had got for
-his blog post by email &lt;sup id="fnref:mh-blog-fu"&gt;&lt;a class="footnote-ref" href="#fn:mh-blog-fu" rel="footnote"&gt;19&lt;/a&gt;&lt;/sup&gt;.  A KDE developer agreed later that there
-was a widespread impression of XFree86 as a slow and unresponsive project
-&lt;sup id="fnref:kp-issue"&gt;&lt;a class="footnote-ref" href="#fn:kp-issue" rel="footnote"&gt;20&lt;/a&gt;&lt;/sup&gt;. Others had similar complaints
-&lt;sup id="fnref:forum-communication"&gt;&lt;a class="footnote-ref" href="#fn:forum-communication" rel="footnote"&gt;21&lt;/a&gt;&lt;/sup&gt;&lt;sup id="fnref:debian-xfree86-pain"&gt;&lt;a class="footnote-ref" href="#fn:debian-xfree86-pain" rel="footnote"&gt;22&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+his blog post by email (&lt;sup id="fnref:mh-blog-fu"&gt;&lt;a class="footnote-ref" href="#fn:mh-blog-fu" rel="footnote"&gt;20&lt;/a&gt;&lt;/sup&gt;).  A KDE developer agreed later that
+there was a widespread impression of XFree86 as a slow and unresponsive
+project (&lt;sup id="fnref:kp-issue"&gt;&lt;a class="footnote-ref" href="#fn:kp-issue" rel="footnote"&gt;21&lt;/a&gt;&lt;/sup&gt;). Others had similar complaints
+(&lt;sup id="fnref:forum-communication"&gt;&lt;a class="footnote-ref" href="#fn:forum-communication" rel="footnote"&gt;22&lt;/a&gt;&lt;/sup&gt;&lt;sup id="fnref:debian-xfree86-pain"&gt;&lt;a class="footnote-ref" href="#fn:debian-xfree86-pain" rel="footnote"&gt;23&lt;/a&gt;&lt;/sup&gt;).&lt;/p&gt;
 &lt;p&gt;Packard felt that he had been gradually excluded from XFree86 management:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;My ability to contribute to the project was severely curtailed in stages,
 first administration of the public server, next permission to represent
 XFree86 to other groups, then administration of the public mailing lists, and
-finally CVS access.  &lt;sup id="fnref:kp-interview"&gt;&lt;a class="footnote-ref" href="#fn:kp-interview" rel="footnote"&gt;16&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+finally CVS access.  (&lt;sup id="fnref:kp-lwn-interview"&gt;&lt;a class="footnote-ref" href="#fn:kp-lwn-interview" rel="footnote"&gt;16&lt;/a&gt;&lt;/sup&gt;)&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;He lost CVS access when he committed the XFIXES extension to CVS in November
 2002:&lt;/p&gt;
@@ -128,24 +130,24 @@ finally CVS access.  &lt;sup id="fnref:kp-interview"&gt;&lt;a class="footnote-re
 &lt;p&gt;I've stuck these features into a new XFIXES extension and included that in
 XFree86 CVS so that others might see the code and specification and test
 whether they solve the issues they're supposed to.  This does not represent
-any endorsement by the XFree86 project or it's members (other than me), nor
-any assurance that the extension will be included in future XFree86
-releases.  &lt;sup id="fnref:xfixes-announce"&gt;&lt;a class="footnote-ref" href="#fn:xfixes-announce" rel="footnote"&gt;23&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+any endorsement by the XFree86 project or it's [sic] members (other than
+me), nor any assurance that the extension will be included in future XFree86
+releases.  (&lt;sup id="fnref:xfixes-announce"&gt;&lt;a class="footnote-ref" href="#fn:xfixes-announce" rel="footnote"&gt;24&lt;/a&gt;&lt;/sup&gt;)&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;The extension appears to have been disabled by default &lt;sup id="fnref:xfixes-disabled"&gt;&lt;a class="footnote-ref" href="#fn:xfixes-disabled" rel="footnote"&gt;24&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;The extension appears to have been disabled by default (&lt;sup id="fnref:xfixes-disabled"&gt;&lt;a class="footnote-ref" href="#fn:xfixes-disabled" rel="footnote"&gt;25&lt;/a&gt;&lt;/sup&gt;).&lt;/p&gt;
 &lt;p&gt;It seems the commit of XFIXES was just before a release feature freeze.  Some
 process occurred by which Packard lost his CVS commit rights on the basis that
-he should have discussed the changes before committing &lt;sup id="fnref:kp-no-cvs"&gt;&lt;a class="footnote-ref" href="#fn:kp-no-cvs" rel="footnote"&gt;27&lt;/a&gt;&lt;/sup&gt;.  David
+he should have discussed the changes before committing (&lt;sup id="fnref:kp-no-cvs"&gt;&lt;a class="footnote-ref" href="#fn:kp-no-cvs" rel="footnote"&gt;28&lt;/a&gt;&lt;/sup&gt;).  David
 Dawes refers to a rumor that Packard did this in order to cause a crisis
-&lt;sup id="fnref:kp-xfixes-rumor"&gt;&lt;a class="footnote-ref" href="#fn:kp-xfixes-rumor" rel="footnote"&gt;28&lt;/a&gt;&lt;/sup&gt;.  There does not appear to be any public record of this
+(&lt;sup id="fnref:kp-xfixes-rumor"&gt;&lt;a class="footnote-ref" href="#fn:kp-xfixes-rumor" rel="footnote"&gt;29&lt;/a&gt;&lt;/sup&gt;).  There does not appear to be any public record of this
 decision at the time.&lt;/p&gt;
 &lt;h2&gt;The forking fighting&lt;/h2&gt;
 &lt;p&gt;In March 2003, David Dawes used an email asking for public discussion of
 XFree86 to announce that the XFree86 board of directors had expelled Keith
-Packard from the core group &lt;sup id="fnref:kp-is-out"&gt;&lt;a class="footnote-ref" href="#fn:kp-is-out" rel="footnote"&gt;25&lt;/a&gt;&lt;/sup&gt;:&lt;/p&gt;
+Packard from the core group (&lt;sup id="fnref:kp-is-out"&gt;&lt;a class="footnote-ref" href="#fn:kp-is-out" rel="footnote"&gt;26&lt;/a&gt;&lt;/sup&gt;):&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;It has been brought to the attention of the XFree86 Core Team that one of
-its members, Keith Packard, has been actively (but privately) seeking out
+its members, Keith Packard, has been actively (but privately) se)eking out
 support for a fork of XFree86 that would be led by himself.  He is also in
 the process of forming a by-invitation-only group of vested interests to
 discuss privately concerns he has about XFree86 and the future of X.  He has
@@ -155,14 +157,14 @@ a consequence, Keith Packard is no longer a member of the XFree86 Core Team.&lt;
 &lt;/blockquote&gt;
 &lt;p&gt;The board claimed to have email evidence of Packard's intentions, but that
 they were unable to release this evidence because the emails were private and
-Packard had asked for them not to be released &lt;sup id="fnref:dw-have-cause"&gt;&lt;a class="footnote-ref" href="#fn:dw-have-cause" rel="footnote"&gt;30&lt;/a&gt;&lt;/sup&gt;. Packard
-responded with permission to release the mails &lt;sup id="fnref:kp-release-emails"&gt;&lt;a class="footnote-ref" href="#fn:kp-release-emails" rel="footnote"&gt;31&lt;/a&gt;&lt;/sup&gt; and David
+Packard had asked for them not to be released (&lt;sup id="fnref:dw-have-cause"&gt;&lt;a class="footnote-ref" href="#fn:dw-have-cause" rel="footnote"&gt;31&lt;/a&gt;&lt;/sup&gt;). Packard
+responded with permission to release the mails (&lt;sup id="fnref:kp-release-emails"&gt;&lt;a class="footnote-ref" href="#fn:kp-release-emails" rel="footnote"&gt;32&lt;/a&gt;&lt;/sup&gt;) and David
 Wexelblat, for the board, said that they would release some version of the
-emails soon after (&lt;sup id="fnref:dw-well-try"&gt;&lt;a class="footnote-ref" href="#fn:dw-well-try" rel="footnote"&gt;32&lt;/a&gt;&lt;/sup&gt;).  I could find no evidence that this
-happened. It's possible that the email enclosed in &lt;sup id="fnref:private-cced"&gt;&lt;a class="footnote-ref" href="#fn:private-cced" rel="footnote"&gt;29&lt;/a&gt;&lt;/sup&gt; is an
+emails soon after (&lt;sup id="fnref:dw-well-try"&gt;&lt;a class="footnote-ref" href="#fn:dw-well-try" rel="footnote"&gt;33&lt;/a&gt;&lt;/sup&gt;).  I could find no evidence that this
+happened. It's possible that the email enclosed in (&lt;sup id="fnref:private-cced"&gt;&lt;a class="footnote-ref" href="#fn:private-cced" rel="footnote"&gt;30&lt;/a&gt;&lt;/sup&gt;) is an
 example of the discussion leading to Packard's expulsion.&lt;/p&gt;
 &lt;p&gt;Packard didn't reply directly to the thread expelling him from the core, but
-instead posted an appeal for open governance of XFree86 &lt;sup id="fnref:call-for-open"&gt;&lt;a class="footnote-ref" href="#fn:call-for-open" rel="footnote"&gt;26&lt;/a&gt;&lt;/sup&gt;.  He
+instead posted an appeal for open governance of XFree86 (&lt;sup id="fnref:call-for-open"&gt;&lt;a class="footnote-ref" href="#fn:call-for-open" rel="footnote"&gt;27&lt;/a&gt;&lt;/sup&gt;).  He
 lists four problems:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Limited development resources&lt;/li&gt;
@@ -198,9 +200,9 @@ difficulty of the codebase, and emphasized the previous work of David Dawes:&lt;
 &lt;p&gt;As for the rest of the above. I'd urge people to think of how XFree86 has
 got were it has - under the directive of the current team, headed by David
 Dawes. David has worked tirelessly in his own time to bring XFree86 where it
-is today. And I applaud him for that devotion. &lt;sup id="fnref:hourihane1"&gt;&lt;a class="footnote-ref" href="#fn:hourihane1" rel="footnote"&gt;33&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+is today. And I applaud him for that devotion. (&lt;sup id="fnref:hourihane1"&gt;&lt;a class="footnote-ref" href="#fn:hourihane1" rel="footnote"&gt;34&lt;/a&gt;&lt;/sup&gt;)&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;David Dawes' employer, the CEO of Tungsten graphics &lt;sup id="fnref:dawes-tungsten"&gt;&lt;a class="footnote-ref" href="#fn:dawes-tungsten" rel="footnote"&gt;35&lt;/a&gt;&lt;/sup&gt; saw
+&lt;p&gt;David Dawes' employer, the CEO of Tungsten graphics (&lt;sup id="fnref:dawes-tungsten"&gt;&lt;a class="footnote-ref" href="#fn:dawes-tungsten" rel="footnote"&gt;36&lt;/a&gt;&lt;/sup&gt;) saw
 problems in the organization of XFree86:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;We are seeing Keith Packard, a loyal and dedicated XFree86 contributor,
@@ -221,7 +223,7 @@ between the desires of its constituency and those of its managing cadre.
 Under those circumstances, a fork was inevitable.  There is currently no way
 for dissenting voices to have an opportunity to fairly affect the direction
 of XFree86, no matter what percentage of interested parties agree.
-&lt;sup id="fnref:tungsten-boss"&gt;&lt;a class="footnote-ref" href="#fn:tungsten-boss" rel="footnote"&gt;34&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+(&lt;sup id="fnref:tungsten-boss"&gt;&lt;a class="footnote-ref" href="#fn:tungsten-boss" rel="footnote"&gt;35&lt;/a&gt;&lt;/sup&gt;).&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;In reply, David Wexelblat denied there were organizational problems, blaming
 Packard:&lt;/p&gt;
@@ -245,7 +247,7 @@ quietly accept it being done by someone who is lying to my face.&lt;/p&gt;
 &lt;li&gt;There is no reason for XFree86 BOD matters to be public. The XFree86
   Project, Inc is a privately-held corporation.&lt;/li&gt;
 &lt;li&gt;There is no reason for Core Team matters to be public. This is the
-  leadership forum, not a public forum. &lt;sup id="fnref:dx-cheap"&gt;&lt;a class="footnote-ref" href="#fn:dx-cheap" rel="footnote"&gt;36&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+  leadership forum, not a public forum. (&lt;sup id="fnref:dx-cheap"&gt;&lt;a class="footnote-ref" href="#fn:dx-cheap" rel="footnote"&gt;37&lt;/a&gt;&lt;/sup&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;David Dawes saw his opponents as trying to take over the hard work of others:&lt;/p&gt;
@@ -255,7 +257,7 @@ quietly accept it being done by someone who is lying to my face.&lt;/p&gt;
 they want to come back and take over where they left off.  If we'd listened
 to them, we'd have abandoned it too.  And they want us all to follow their
 lead now? "Thanks for keeping it alive guys, but we'll take it from here,"
-is the attitude. &lt;sup id="fnref:dawes-old-guys"&gt;&lt;a class="footnote-ref" href="#fn:dawes-old-guys" rel="footnote"&gt;37&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+is the attitude. (&lt;sup id="fnref:dawes-old-guys"&gt;&lt;a class="footnote-ref" href="#fn:dawes-old-guys" rel="footnote"&gt;38&lt;/a&gt;&lt;/sup&gt;)&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Rich Murphey could not see the point of governance discussions:&lt;/p&gt;
 &lt;blockquote&gt;
@@ -278,7 +280,7 @@ accountability to you because they are volunteers.  They
 code whatever they damn well please when the want to.&lt;/p&gt;
 &lt;p&gt;I wish you luck in holding everyone accountable to the
 will of the community and imposing formal policies on everyone.
-I can imagine how many developers that will attract &lt;sup id="fnref:murphey-phoey"&gt;&lt;a class="footnote-ref" href="#fn:murphey-phoey" rel="footnote"&gt;38&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+I can imagine how many developers that will attract (&lt;sup id="fnref:murphey-phoey"&gt;&lt;a class="footnote-ref" href="#fn:murphey-phoey" rel="footnote"&gt;39&lt;/a&gt;&lt;/sup&gt;)&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;a href="http://en.wikipedia.org/wiki/Alan_Cox"&gt;Alan Cox&lt;/a&gt; thought the problem was one
 of resistance to change:&lt;/p&gt;
@@ -297,11 +299,11 @@ changes, but that change is vital to the future of X11.&lt;/p&gt;
 believes the current plodding progress is the right path, don't harass Keith
 work with him, endorse an Xperimental project and see what it produces.  If
 it works the community wins, if it fails you get both to smirk, and to take
-the good bits and the lessons it learned.  &lt;sup id="fnref:cox-change"&gt;&lt;a class="footnote-ref" href="#fn:cox-change" rel="footnote"&gt;39&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+the good bits and the lessons it learned.  (&lt;sup id="fnref:cox-change"&gt;&lt;a class="footnote-ref" href="#fn:cox-change" rel="footnote"&gt;40&lt;/a&gt;&lt;/sup&gt;)&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Packard and other interested developers held a series of teleconferences in
 late March / early April to discuss what to do next
-(&lt;sup id="fnref:teleconference-1"&gt;&lt;a class="footnote-ref" href="#fn:teleconference-1" rel="footnote"&gt;40&lt;/a&gt;&lt;/sup&gt;&lt;sup id="fnref:teleconference-2"&gt;&lt;a class="footnote-ref" href="#fn:teleconference-2" rel="footnote"&gt;41&lt;/a&gt;&lt;/sup&gt;&lt;sup id="fnref:teleconference-3"&gt;&lt;a class="footnote-ref" href="#fn:teleconference-3" rel="footnote"&gt;42&lt;/a&gt;&lt;/sup&gt;). They decided to
+(&lt;sup id="fnref:teleconference-1"&gt;&lt;a class="footnote-ref" href="#fn:teleconference-1" rel="footnote"&gt;41&lt;/a&gt;&lt;/sup&gt;&lt;sup id="fnref:teleconference-2"&gt;&lt;a class="footnote-ref" href="#fn:teleconference-2" rel="footnote"&gt;42&lt;/a&gt;&lt;/sup&gt;&lt;sup id="fnref:teleconference-3"&gt;&lt;a class="footnote-ref" href="#fn:teleconference-3" rel="footnote"&gt;43&lt;/a&gt;&lt;/sup&gt;). They decided to
 set up a new site for collaboration on X windows work,
 &lt;a href="http://web.archive.org/web/20030531183127/http://xwin.org/"&gt;xwin.org&lt;/a&gt;:&lt;/p&gt;
 &lt;blockquote&gt;
@@ -310,7 +312,8 @@ project. The X development community needs to work together to form a
 government. The hope is that community governance will encourage rapid
 advances in the X window system&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Packard explained his reasons for acting in a Linux Weekly News interview&lt;/p&gt;
+&lt;p&gt;Packard explained his reasons for acting in a Linux Weekly News interview
+(&lt;sup id="fnref:kp-lwn-interview"&gt;&lt;a class="footnote-ref" href="#fn:kp-lwn-interview" rel="footnote"&gt;16&lt;/a&gt;&lt;/sup&gt;).&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;The highest priority should be to create an environment where people are
 encouraged to participate to whatever extent they are able, and where these
@@ -322,11 +325,11 @@ which they work.&lt;/p&gt;
 &lt;a href="http://web.archive.org/web/20030819010029/http://www.xouvert.org/"&gt;xouvert.org&lt;/a&gt;
 announced a fork of the XFree86 project. Xouvert did a first release in
 December 2003, but the main XFree96 developers were not involved, and the
-project slowed and folded relatively quickly thereafter (&lt;sup id="fnref:osnews-x-marks"&gt;&lt;a class="footnote-ref" href="#fn:osnews-x-marks" rel="footnote"&gt;43&lt;/a&gt;&lt;/sup&gt;).&lt;/p&gt;
+project slowed and folded relatively quickly thereafter (&lt;sup id="fnref:osnews-x-marks"&gt;&lt;a class="footnote-ref" href="#fn:osnews-x-marks" rel="footnote"&gt;44&lt;/a&gt;&lt;/sup&gt;).&lt;/p&gt;
 &lt;h2&gt;Cygwin loses patience&lt;/h2&gt;
 &lt;p&gt;In October 2003, Cygwin publicly announced it would no longer contribute to
 XFree86 development because they had been unable to persuade David Dawes to
-give them CVS commit access (&lt;sup id="fnref:cygwin-no-more"&gt;&lt;a class="footnote-ref" href="#fn:cygwin-no-more" rel="footnote"&gt;44&lt;/a&gt;&lt;/sup&gt;).&lt;/p&gt;
+give them CVS commit access (&lt;sup id="fnref:cygwin-no-more"&gt;&lt;a class="footnote-ref" href="#fn:cygwin-no-more" rel="footnote"&gt;45&lt;/a&gt;&lt;/sup&gt;).&lt;/p&gt;
 &lt;p&gt;Egbert Eich commented as an XFree86 core member:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;I understand that the level of frustration among contributors has risen to a
@@ -339,7 +342,7 @@ accepted.&lt;/p&gt;
 by looking at how one can best distribute the workload so that the burdeon
 [sic] on each individual volunteer is reduced.  The discussion always turns
 to who owes what to whom. This is the wrong question. All or most of us are
-volunteers. Therefore noone owes anything to anybody (&lt;sup id="fnref:egbert-sigh"&gt;&lt;a class="footnote-ref" href="#fn:egbert-sigh" rel="footnote"&gt;45&lt;/a&gt;&lt;/sup&gt;).&lt;/p&gt;
+volunteers. Therefore noone owes anything to anybody (&lt;sup id="fnref:egbert-sigh"&gt;&lt;a class="footnote-ref" href="#fn:egbert-sigh" rel="footnote"&gt;46&lt;/a&gt;&lt;/sup&gt;).&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2&gt;XFree86 core team disbands&lt;/h2&gt;
 &lt;p&gt;David Dawes successfully proposed disbanding the XFree86 core team in December
@@ -349,22 +352,46 @@ volunteers. Therefore noone owes anything to anybody (&lt;sup id="fnref:egbert-s
 voted in favour of my proposal to disband the core team.&lt;/p&gt;
 &lt;p&gt;I believe that this is an acknowlegement [sic] that the core team was no
 longer representative of the active, experienced and skilled XFree86
-developers, or a place where technical discussion happens (&lt;sup id="fnref:core-disbands"&gt;&lt;a class="footnote-ref" href="#fn:core-disbands" rel="footnote"&gt;46&lt;/a&gt;&lt;/sup&gt;)&lt;/p&gt;
+developers, or a place where technical discussion happens (&lt;sup id="fnref:core-disbands"&gt;&lt;a class="footnote-ref" href="#fn:core-disbands" rel="footnote"&gt;47&lt;/a&gt;&lt;/sup&gt;)&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;The bare announcement caused considerable confusion, with some taking it to
-mean that the XFree86 project was closing down &lt;sup id="fnref:disband-confused"&gt;&lt;a class="footnote-ref" href="#fn:disband-confused" rel="footnote"&gt;47&lt;/a&gt;&lt;/sup&gt;. There was
-no indication of any other structure to replace the core.  An ex-member
-of the core team explained it as a way of avoiding potential complaint:&lt;/p&gt;
+mean that the XFree86 project was closing down (&lt;sup id="fnref:disband-confused"&gt;&lt;a class="footnote-ref" href="#fn:disband-confused" rel="footnote"&gt;48&lt;/a&gt;&lt;/sup&gt;). There
+was no indication of any other structure to replace the core.  An ex-member of
+the core team explained it as a way of avoiding potential complaint:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;I think it doesn't really mean anything at all, so it's hard to say much
 about it.  The core team was basically an honor role, which outsiders
 assumed was a kabal [sic] of some sort despite the core and bod [board of
 directors] repeatedly explaining that it wasn't.  Now it's gone, so people
-will have to find something else to complain about. (&lt;sup id="fnref:core-gone"&gt;&lt;a class="footnote-ref" href="#fn:core-gone" rel="footnote"&gt;48&lt;/a&gt;&lt;/sup&gt;)&lt;/p&gt;
+will have to find something else to complain about. (&lt;sup id="fnref:core-gone"&gt;&lt;a class="footnote-ref" href="#fn:core-gone" rel="footnote"&gt;49&lt;/a&gt;&lt;/sup&gt;)&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;h2&gt;Start of the X.org foundation&lt;/h2&gt;
+&lt;p&gt;In Januay 2004, many of those involved in the discussion formed a new company
+called the X.Org foundation (as distinct from the previous X.Org consortium).
+A presentation to the Linux World Expo (&lt;sup id="fnref:xorg-foundation"&gt;&lt;a class="footnote-ref" href="#fn:xorg-foundation" rel="footnote"&gt;50&lt;/a&gt;&lt;/sup&gt;) gave the mission
+statement as:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;To promote a proactive and participatory community for Open Source X Window
+System and desktop development&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The same presentation records that a development tree had been established.&lt;/p&gt;
+&lt;p&gt;The interim board of directors (&lt;sup id="fnref:xorg-interim-bod"&gt;&lt;a class="footnote-ref" href="#fn:xorg-interim-bod" rel="footnote"&gt;51&lt;/a&gt;&lt;/sup&gt;) was composed of
+representatives from industry and free software organizations:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Stuart Anderson, Free Standards Group&lt;/li&gt;
+&lt;li&gt;Egbert Eich - SuSe&lt;/li&gt;
+&lt;li&gt;Mattais Ettrich - KDE&lt;/li&gt;
+&lt;li&gt;Jim Gettys - Hewlett Packard&lt;/li&gt;
+&lt;li&gt;Georg Greve - FSF Europe&lt;/li&gt;
+&lt;li&gt;Stuart Kreitman - SUN Microsystems&lt;/li&gt;
+&lt;li&gt;Kevin Martin - Red Hat&lt;/li&gt;
+&lt;li&gt;Jim McQuillan - Linux Terminal Server Project&lt;/li&gt;
+&lt;li&gt;Leon Shiman - Shiman Associates&lt;/li&gt;
+&lt;li&gt;Jeremy White - Code Weavers&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2&gt;License change and collapse of XFree86&lt;/h2&gt;
 &lt;p&gt;At the end of January 2004, David Dawes announced a change to the base XFree86
-license (&lt;sup id="fnref:license-announce"&gt;&lt;a class="footnote-ref" href="#fn:license-announce" rel="footnote"&gt;50&lt;/a&gt;&lt;/sup&gt;).&lt;/p&gt;
+license (&lt;sup id="fnref:license-announce"&gt;&lt;a class="footnote-ref" href="#fn:license-announce" rel="footnote"&gt;53&lt;/a&gt;&lt;/sup&gt;).&lt;/p&gt;
 &lt;p&gt;The &lt;a href="http://www.xfree86.org/legal/licenses.html"&gt;new license&lt;/a&gt; added a
 non-standard clause that required any derived work to include a
 specified acknowledgment of XFree86 in the documentation or "in the software
@@ -378,204 +405,262 @@ acknowledgments. Alternately, this acknowledgment may appear in the software
 itself, in the same form and location as other such third-party
 acknowledgments.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Most people considered this change did not allow derived code to use the GPL
-license, because the GPL says that a GPL or derived work "may not impose
-any further restrictions on the recipients' exercise of the rights granted
-herein." &lt;sup id="fnref:gpl-2"&gt;&lt;a class="footnote-ref" href="#fn:gpl-2" rel="footnote"&gt;49&lt;/a&gt;&lt;/sup&gt;.  Here the further restriction is the requirement to
-acknowledge XFree86 in documentation or "in the software itself".&lt;/p&gt;
+&lt;p&gt;It later turned out that the board of directors had unanimously agreed to this
+change in a private meeting (&lt;sup id="fnref:dawes-hung-out"&gt;&lt;a class="footnote-ref" href="#fn:dawes-hung-out" rel="footnote"&gt;56&lt;/a&gt;&lt;/sup&gt;).&lt;/p&gt;
+&lt;p&gt;Most people considered that the new license did not allow derived code to use
+the GPL license, because the GPL says that a GPL or derived work "may not
+impose any further restrictions on the recipients' exercise of the rights
+granted herein." (&lt;sup id="fnref:gpl-2"&gt;&lt;a class="footnote-ref" href="#fn:gpl-2" rel="footnote"&gt;52&lt;/a&gt;&lt;/sup&gt;).  Here the further restriction is the requirement
+to acknowledge XFree86 in documentation or "in the software itself".&lt;/p&gt;
 &lt;p&gt;Dawes appeared unmoved by concerns about this change, suggesting that the GPL
 ought to change instead:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Has anyone considered modifying the GPL to be more compatible with other
 Open Source licences rather than trying to force all Open Source licences to
-be a subset of the GPL? (&lt;sup id="fnref:gpl-should-change"&gt;&lt;a class="footnote-ref" href="#fn:gpl-should-change" rel="footnote"&gt;51&lt;/a&gt;&lt;/sup&gt;)&lt;/p&gt;
+be a subset of the GPL? (&lt;sup id="fnref:gpl-should-change"&gt;&lt;a class="footnote-ref" href="#fn:gpl-should-change" rel="footnote"&gt;54&lt;/a&gt;&lt;/sup&gt;)&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;The long email threads that followed mostly the license change - e.g.
-&lt;sup id="fnref:gettys-on-change"&gt;&lt;a class="footnote-ref" href="#fn:gettys-on-change" rel="footnote"&gt;52&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;The long email threads that followed were mostly against the license change
+- e.g. (&lt;sup id="fnref:gettys-on-change"&gt;&lt;a class="footnote-ref" href="#fn:gettys-on-change" rel="footnote"&gt;58&lt;/a&gt;&lt;/sup&gt;, &lt;sup id="fnref:license-no-support"&gt;&lt;a class="footnote-ref" href="#fn:license-no-support" rel="footnote"&gt;55&lt;/a&gt;&lt;/sup&gt;).&lt;/p&gt;
 &lt;p&gt;Richard Stallman joined the discussion to see if he could help restore GPL
-compatibility (&lt;sup id="fnref:stallman-on-license"&gt;&lt;a class="footnote-ref" href="#fn:stallman-on-license" rel="footnote"&gt;53&lt;/a&gt;&lt;/sup&gt;) but Dawes was not ready to compromise:&lt;/p&gt;
+compatibility (&lt;sup id="fnref:stallman-on-license"&gt;&lt;a class="footnote-ref" href="#fn:stallman-on-license" rel="footnote"&gt;59&lt;/a&gt;&lt;/sup&gt;) but Dawes was not ready to compromise:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;However, I also believe that all of that is irrelevant, and that anyone who
 writes software should have the freedom to set conditions on what others may
 do with it(*).  The choice for others is then either to accept the
 conditions (legally enforcable or not), or to avoid said software.&lt;/p&gt;
 &lt;p&gt;(*) Providing of course that the act of setting the conditions is not itself
-illegal. (&lt;sup id="fnref:dawes-no-gpl"&gt;&lt;a class="footnote-ref" href="#fn:dawes-no-gpl" rel="footnote"&gt;54&lt;/a&gt;&lt;/sup&gt;)&lt;/p&gt;
+illegal. (&lt;sup id="fnref:dawes-no-gpl"&gt;&lt;a class="footnote-ref" href="#fn:dawes-no-gpl" rel="footnote"&gt;60&lt;/a&gt;&lt;/sup&gt;)&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;This appears to have been the last straw in forcing adoption of X.org instead
-of XFree86 (&lt;sup id="fnref:xfree86-and-gpl"&gt;&lt;a class="footnote-ref" href="#fn:xfree86-and-gpl" rel="footnote"&gt;55&lt;/a&gt;&lt;/sup&gt;).  In a page dated from May 2004, XFree86 lists
-the Linux and BSD distributions supporting the XFree86 4.4.0 release that
-contained the license change ([^xfree-distributions]).  The list does not
-include SUSE, Redhat or Debian among many others.&lt;/p&gt;
-&lt;p&gt;The page at &lt;sup id="fnref:xfree86-and-gpl"&gt;&lt;a class="footnote-ref" href="#fn:xfree86-and-gpl" rel="footnote"&gt;55&lt;/a&gt;&lt;/sup&gt; gives a vivid summary of the almost complete
+&lt;p&gt;Dawes was clearly surprised that others on the board did not support his
+unmoving position on the license:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I can't speak for why the XFree86 board that voted unanimously for the
+change, (and some of whom were advocating more radical changes), have hung
+me out to dry on this.  I also can't speak for why some developers have
+privately supported the change, but won't do so publicly.  But then taking
+the heat on things like this comes with the job.  And I have very thick
+asbestos undies, but boy do they itch :-) (&lt;sup id="fnref:dawes-hung-out"&gt;&lt;a class="footnote-ref" href="#fn:dawes-hung-out" rel="footnote"&gt;56&lt;/a&gt;&lt;/sup&gt;)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;X.org releases fork of X&lt;/h2&gt;
+&lt;p&gt;In April 2004, the new X.Org foundation released their own fork of X
+Windows (&lt;sup id="fnref:xorg-release"&gt;&lt;a class="footnote-ref" href="#fn:xorg-release" rel="footnote"&gt;57&lt;/a&gt;&lt;/sup&gt;):&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The new X.Org release, called X Window System Version 11 Release 6.7
+(X11R6.7), builds on the work of the X.Org X11R6.6 and XFree86TM Project
+Inc. V4.4RC2 releases to combine many of the latest developments from a
+large number of the participants and companies working with the X Window
+community ...&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The announcement quotes Jim Gettys:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This release marks the return to community development of the X Window
+System under governance open to all contributors for the first time since
+the founding of the X Consortium in 1988.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Among other endorsements in that announcment, Branden Robinson of Debian
+writes:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;We're also delighted that the X.Org Foundation is dedicated to retaining the
+licensing model that has made the X Window System an enduring success.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;The decline and fall of XFree86&lt;/h2&gt;
+&lt;p&gt;The license change appears to have been the last straw in forcing adoption of
+X.org instead of XFree86 (&lt;sup id="fnref:xfree86-and-gpl"&gt;&lt;a class="footnote-ref" href="#fn:xfree86-and-gpl" rel="footnote"&gt;61&lt;/a&gt;&lt;/sup&gt;).  In a page dated from May 2004,
+XFree86 lists the Linux and BSD distributions supporting the first release of
+XFree86 that contained the license change (&lt;sup id="fnref:xfree-distributions"&gt;&lt;a class="footnote-ref" href="#fn:xfree-distributions" rel="footnote"&gt;62&lt;/a&gt;&lt;/sup&gt;).  The list
+does not include SUSE, Redhat or Debian among many others.&lt;/p&gt;
+&lt;p&gt;The page at (&lt;sup id="fnref:xfree86-and-gpl"&gt;&lt;a class="footnote-ref" href="#fn:xfree86-and-gpl" rel="footnote"&gt;61&lt;/a&gt;&lt;/sup&gt;) gives a vivid summary of the almost complete
 collapse of XFree86 at this point, with all significant developer and packager
 interest switching to X.org.&lt;/p&gt;
 &lt;div class="footnote"&gt;
 &lt;hr /&gt;
 &lt;ol&gt;
 &lt;li id="fn:oss-why-fork"&gt;
-&lt;p&gt;http://www.dwheeler.com/oss_fs_why.html#forking&amp;#160;&lt;a class="footnote-backref" href="#fnref:oss-why-fork" rev="footnote" title="Jump back to footnote 1 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.dwheeler.com/oss_fs_why.html#forking"&gt;http://www.dwheeler.com/oss_fs_why.html#forking&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:oss-why-fork" rev="footnote" title="Jump back to footnote 1 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:wp-x-history"&gt;
-&lt;p&gt;http://en.wikipedia.org/wiki/X_Window_System#History&amp;#160;&lt;a class="footnote-backref" href="#fnref:wp-x-history" rev="footnote" title="Jump back to footnote 2 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://en.wikipedia.org/wiki/X_Window_System#History"&gt;http://en.wikipedia.org/wiki/X_Window_System#History&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:wp-x-history" rev="footnote" title="Jump back to footnote 2 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:xfree86-history"&gt;
-&lt;p&gt;XFree86](http://www.linux-mag.com/id/922/&amp;#160;&lt;a class="footnote-backref" href="#fnref:xfree86-history" rev="footnote" title="Jump back to footnote 3 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.linux-mag.com/id/922"&gt;http://www.linux-mag.com/id/922&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:xfree86-history" rev="footnote" title="Jump back to footnote 3 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:rebel-code"&gt;
 &lt;p&gt;Glynn Moody "Rebel Code: Linux and the Open Source Revolution"
 2002, p63. Perseus Publishing.&amp;#160;&lt;a class="footnote-backref" href="#fnref:rebel-code" rev="footnote" title="Jump back to footnote 4 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:wp-x386"&gt;
-&lt;p&gt;http://en.wikipedia.org/wiki/X386&amp;#160;&lt;a class="footnote-backref" href="#fnref:wp-x386" rev="footnote" title="Jump back to footnote 5 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://en.wikipedia.org/wiki/X386"&gt;http://en.wikipedia.org/wiki/X386&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:wp-x386" rev="footnote" title="Jump back to footnote 5 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:xfree-inc-minutes"&gt;
-&lt;p&gt;http://web.archive.org/web/20030101005232/http://www.xfree86.org/legal/org_minutes.html&amp;#160;&lt;a class="footnote-backref" href="#fnref:xfree-inc-minutes" rev="footnote" title="Jump back to footnote 6 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://web.archive.org/web/20030101005232/http://www.xfree86.org/legal/org_minutes.html"&gt;http://web.archive.org/web/20030101005232/http://www.xfree86.org/legal/org_minutes.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:xfree-inc-minutes" rev="footnote" title="Jump back to footnote 6 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:core-board-1994"&gt;
-&lt;p&gt;http://ftp.x.org/R5contrib/XFree86-2.1.Announce&amp;#160;&lt;a class="footnote-backref" href="#fnref:core-board-1994" rev="footnote" title="Jump back to footnote 7 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://ftp.x.org/R5contrib/XFree86-2.1.Announce"&gt;http://ftp.x.org/R5contrib/XFree86-2.1.Announce&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:core-board-1994" rev="footnote" title="Jump back to footnote 7 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:president-dawes"&gt;
-&lt;p&gt;http://www.informatica.co.cr/linux-desktops/research/1994/1116.html&amp;#160;&lt;a class="footnote-backref" href="#fnref:president-dawes" rev="footnote" title="Jump back to footnote 8 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.informatica.co.cr/linux-desktops/research/1994/1116.html"&gt;http://www.informatica.co.cr/linux-desktops/research/1994/1116.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:president-dawes" rev="footnote" title="Jump back to footnote 8 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id="fn:current-bod"&gt;
+&lt;p&gt;&lt;a href="http://www.xfree86.org/legal/bod.html"&gt;http://www.xfree86.org/legal/bod.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:current-bod" rev="footnote" title="Jump back to footnote 9 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:xorg-consortium"&gt;
-&lt;p&gt;http://web.archive.org/web/20030402160332/http://www.x.org/XOrg_background.html&amp;#160;&lt;a class="footnote-backref" href="#fnref:xorg-consortium" rev="footnote" title="Jump back to footnote 9 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://web.archive.org/web/20030402160332/http://www.x.org/XOrg_background.html"&gt;http://web.archive.org/web/20030402160332/http://www.x.org/XOrg_background.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:xorg-consortium" rev="footnote" title="Jump back to footnote 10 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:readme-3.3.6"&gt;
-&lt;p&gt;http://www.xfree86.org/3.3.6/README7.html&amp;#160;&lt;a class="footnote-backref" href="#fnref:readme-3.3.6" rev="footnote" title="Jump back to footnote 10 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.xfree86.org/3.3.6/README7.html"&gt;http://www.xfree86.org/3.3.6/README7.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:readme-3.3.6" rev="footnote" title="Jump back to footnote 11 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:man-4.3.0"&gt;
-&lt;p&gt;http://www.xfree86.org/4.3.0/XFree86.1.html&amp;#160;&lt;a class="footnote-backref" href="#fnref:man-4.3.0" rev="footnote" title="Jump back to footnote 11 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.xfree86.org/4.3.0/XFree86.1.html"&gt;http://www.xfree86.org/4.3.0/XFree86.1.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:man-4.3.0" rev="footnote" title="Jump back to footnote 12 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:xfree86-announce"&gt;
-&lt;p&gt;https://groups.google.com/forum/#!original/comp.unix.bsd/vQZnxPoIYEA/G0B0hyz0iYgJ&amp;#160;&lt;a class="footnote-backref" href="#fnref:xfree86-announce" rev="footnote" title="Jump back to footnote 12 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://groups.google.com/forum/#!original/comp.unix.bsd/vQZnxPoIYEA/G0B0hyz0iYgJ"&gt;https://groups.google.com/forum/#!original/comp.unix.bsd/vQZnxPoIYEA/G0B0hyz0iYgJ&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:xfree86-announce" rev="footnote" title="Jump back to footnote 13 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:x-non-free"&gt;
-&lt;p&gt;http://old.lwn.net/lwn/1998/0409/xstate.html&amp;#160;&lt;a class="footnote-backref" href="#fnref:x-non-free" rev="footnote" title="Jump back to footnote 13 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://old.lwn.net/lwn/1998/0409/xstate.html"&gt;http://old.lwn.net/lwn/1998/0409/xstate.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:x-non-free" rev="footnote" title="Jump back to footnote 14 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:coreteam"&gt;
-&lt;p&gt;http://web.archive.org/web/20020906035319/http://www.xfree86.org/coreteam.html&amp;#160;&lt;a class="footnote-backref" href="#fnref:coreteam" rev="footnote" title="Jump back to footnote 14 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://web.archive.org/web/20020906035319/http://www.xfree86.org/coreteam.html"&gt;http://web.archive.org/web/20020906035319/http://www.xfree86.org/coreteam.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:coreteam" rev="footnote" title="Jump back to footnote 15 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id="fn:kp-lwn-interview"&gt;
+&lt;p&gt;&lt;a href="http://lwn.net/Articles/27673"&gt;http://lwn.net/Articles/27673&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:kp-lwn-interview" rev="footnote" title="Jump back to footnote 16 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:kp-resume"&gt;
-&lt;p&gt;http://keithp.com/keithp/resume/&amp;#160;&lt;a class="footnote-backref" href="#fnref:kp-resume" rev="footnote" title="Jump back to footnote 15 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://keithp.com/keithp/resume"&gt;http://keithp.com/keithp/resume&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:kp-resume" rev="footnote" title="Jump back to footnote 17 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id="fn:kp-interview"&gt;&lt;/li&gt;
 &lt;li id="fn:xrandr-man"&gt;
-&lt;p&gt;http://www.xfree86.org/4.3.0/Xrandr.3.html&amp;#160;&lt;a class="footnote-backref" href="#fnref:xrandr-man" rev="footnote" title="Jump back to footnote 17 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.xfree86.org/4.3.0/Xrandr.3.html"&gt;http://www.xfree86.org/4.3.0/Xrandr.3.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:xrandr-man" rev="footnote" title="Jump back to footnote 18 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:mh-blog"&gt;
-&lt;p&gt;http://web.archive.org/web/20030304041751/http://advogato.org/person/mharris/diary.html?start=5&amp;#160;&lt;a class="footnote-backref" href="#fnref:mh-blog" rev="footnote" title="Jump back to footnote 18 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://web.archive.org/web/20030304041751/http://advogato.org/person/mharris/diary.html?start=5"&gt;http://web.archive.org/web/20030304041751/http://advogato.org/person/mharris/diary.html?start=5&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:mh-blog" rev="footnote" title="Jump back to footnote 19 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:mh-blog-fu"&gt;
-&lt;p&gt;http://web.archive.org/web/20030304041751/http://advogato.org/person/mharris/diary.html?start=6&amp;#160;&lt;a class="footnote-backref" href="#fnref:mh-blog-fu" rev="footnote" title="Jump back to footnote 19 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://web.archive.org/web/20030304041751/http://advogato.org/person/mharris/diary.html?start=6"&gt;http://web.archive.org/web/20030304041751/http://advogato.org/person/mharris/diary.html?start=6&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:mh-blog-fu" rev="footnote" title="Jump back to footnote 20 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:kp-issue"&gt;
-&lt;p&gt;http://wwwd.xfree86.org/pipermail/forum/2003-March/002018.html&amp;#160;&lt;a class="footnote-backref" href="#fnref:kp-issue" rev="footnote" title="Jump back to footnote 20 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://wwwd.xfree86.org/pipermail/forum/2003-March/002018.html"&gt;http://wwwd.xfree86.org/pipermail/forum/2003-March/002018.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:kp-issue" rev="footnote" title="Jump back to footnote 21 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:forum-communication"&gt;
-&lt;p&gt;http://xfree86.org/pipermail/forum/2003-March/000476.html&amp;#160;&lt;a class="footnote-backref" href="#fnref:forum-communication" rev="footnote" title="Jump back to footnote 21 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://xfree86.org/pipermail/forum/2003-March/000476.html"&gt;http://xfree86.org/pipermail/forum/2003-March/000476.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:forum-communication" rev="footnote" title="Jump back to footnote 22 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:debian-xfree86-pain"&gt;
-&lt;p&gt;http://lists.debian.org/debian-x/2003/11/msg00285.html&amp;#160;&lt;a class="footnote-backref" href="#fnref:debian-xfree86-pain" rev="footnote" title="Jump back to footnote 22 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://lists.debian.org/debian-x/2003/11/msg00285.html"&gt;http://lists.debian.org/debian-x/2003/11/msg00285.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:debian-xfree86-pain" rev="footnote" title="Jump back to footnote 23 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:xfixes-announce"&gt;
-&lt;p&gt;http://www.mail-archive.com/xpert@xfree86.org/msg11266.html&amp;#160;&lt;a class="footnote-backref" href="#fnref:xfixes-announce" rev="footnote" title="Jump back to footnote 23 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.mail-archive.com/xpert@xfree86.org/msg11266.html"&gt;http://www.mail-archive.com/xpert@xfree86.org/msg11266.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:xfixes-announce" rev="footnote" title="Jump back to footnote 24 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:xfixes-disabled"&gt;
-&lt;p&gt;http://www.mail-archive.com/xpert@xfree86.org/msg11290.html&amp;#160;&lt;a class="footnote-backref" href="#fnref:xfixes-disabled" rev="footnote" title="Jump back to footnote 24 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.mail-archive.com/xpert@xfree86.org/msg11290.html"&gt;http://www.mail-archive.com/xpert@xfree86.org/msg11290.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:xfixes-disabled" rev="footnote" title="Jump back to footnote 25 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:kp-is-out"&gt;
-&lt;p&gt;http://www.xfree86.org/pipermail/forum/2003-March/001997.html&amp;#160;&lt;a class="footnote-backref" href="#fnref:kp-is-out" rev="footnote" title="Jump back to footnote 25 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.xfree86.org/pipermail/forum/2003-March/001997.html"&gt;http://www.xfree86.org/pipermail/forum/2003-March/001997.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:kp-is-out" rev="footnote" title="Jump back to footnote 26 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:call-for-open"&gt;
-&lt;p&gt;http://www.xfree86.org/pipermail/forum/2003-March/002165.html&amp;#160;&lt;a class="footnote-backref" href="#fnref:call-for-open" rev="footnote" title="Jump back to footnote 26 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.xfree86.org/pipermail/forum/2003-March/002165.html"&gt;http://www.xfree86.org/pipermail/forum/2003-March/002165.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:call-for-open" rev="footnote" title="Jump back to footnote 27 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:kp-no-cvs"&gt;
-&lt;p&gt;http://www.xfree86.org/pipermail/forum/2003-March/002105.html&amp;#160;&lt;a class="footnote-backref" href="#fnref:kp-no-cvs" rev="footnote" title="Jump back to footnote 27 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.xfree86.org/pipermail/forum/2003-March/002105.html"&gt;http://www.xfree86.org/pipermail/forum/2003-March/002105.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:kp-no-cvs" rev="footnote" title="Jump back to footnote 28 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:kp-xfixes-rumor"&gt;
-&lt;p&gt;http://www.xfree86.org/pipermail/forum/2003-March/002121.html&amp;#160;&lt;a class="footnote-backref" href="#fnref:kp-xfixes-rumor" rev="footnote" title="Jump back to footnote 28 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.xfree86.org/pipermail/forum/2003-March/002121.html"&gt;http://www.xfree86.org/pipermail/forum/2003-March/002121.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:kp-xfixes-rumor" rev="footnote" title="Jump back to footnote 29 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:private-cced"&gt;
-&lt;p&gt;(http://www.xfree86.org/pipermail/forum/2003-April/)&amp;#160;&lt;a class="footnote-backref" href="#fnref:private-cced" rev="footnote" title="Jump back to footnote 29 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.xfree86.org/pipermail/forum/2003-April/003139.html"&gt;http://www.xfree86.org/pipermail/forum/2003-April/003139.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:private-cced" rev="footnote" title="Jump back to footnote 30 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:dw-have-cause"&gt;
-&lt;p&gt;http://www.xfree86.org/pipermail/forum/2003-March/002461.html&amp;#160;&lt;a class="footnote-backref" href="#fnref:dw-have-cause" rev="footnote" title="Jump back to footnote 30 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.xfree86.org/pipermail/forum/2003-March/002461.html"&gt;http://www.xfree86.org/pipermail/forum/2003-March/002461.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:dw-have-cause" rev="footnote" title="Jump back to footnote 31 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:kp-release-emails"&gt;
-&lt;p&gt;http://www.xfree86.org/pipermail/forum/2003-March/002525.html&amp;#160;&lt;a class="footnote-backref" href="#fnref:kp-release-emails" rev="footnote" title="Jump back to footnote 31 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.xfree86.org/pipermail/forum/2003-March/002525.html"&gt;http://www.xfree86.org/pipermail/forum/2003-March/002525.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:kp-release-emails" rev="footnote" title="Jump back to footnote 32 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:dw-well-try"&gt;
-&lt;p&gt;http://www.xfree86.org/pipermail/forum/2003-March/002545.html&amp;#160;&lt;a class="footnote-backref" href="#fnref:dw-well-try" rev="footnote" title="Jump back to footnote 32 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.xfree86.org/pipermail/forum/2003-March/002545.html"&gt;http://www.xfree86.org/pipermail/forum/2003-March/002545.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:dw-well-try" rev="footnote" title="Jump back to footnote 33 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:hourihane1"&gt;
-&lt;p&gt;http://www.xfree86.org/pipermail/forum/2003-March/002168.html&amp;#160;&lt;a class="footnote-backref" href="#fnref:hourihane1" rev="footnote" title="Jump back to footnote 33 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.xfree86.org/pipermail/forum/2003-March/002168.html"&gt;http://www.xfree86.org/pipermail/forum/2003-March/002168.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:hourihane1" rev="footnote" title="Jump back to footnote 34 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:tungsten-boss"&gt;
-&lt;p&gt;http://xfree86.org/pipermail/forum/2003-March/002040.html&amp;#160;&lt;a class="footnote-backref" href="#fnref:tungsten-boss" rev="footnote" title="Jump back to footnote 34 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://xfree86.org/pipermail/forum/2003-March/002040.html"&gt;http://xfree86.org/pipermail/forum/2003-March/002040.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:tungsten-boss" rev="footnote" title="Jump back to footnote 35 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:dawes-tungsten"&gt;
-&lt;p&gt;http://www.xfree86.org/pipermail/forum/2003-April/003357.html&amp;#160;&lt;a class="footnote-backref" href="#fnref:dawes-tungsten" rev="footnote" title="Jump back to footnote 35 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.xfree86.org/pipermail/forum/2003-April/003357.html"&gt;http://www.xfree86.org/pipermail/forum/2003-April/003357.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:dawes-tungsten" rev="footnote" title="Jump back to footnote 36 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:dx-cheap"&gt;
-&lt;p&gt;http://xfree86.org/pipermail/forum/2003-March/002124.html&amp;#160;&lt;a class="footnote-backref" href="#fnref:dx-cheap" rev="footnote" title="Jump back to footnote 36 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://xfree86.org/pipermail/forum/2003-March/002124.html"&gt;http://xfree86.org/pipermail/forum/2003-March/002124.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:dx-cheap" rev="footnote" title="Jump back to footnote 37 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:dawes-old-guys"&gt;
-&lt;p&gt;http://xfree86.org/pipermail/forum/2003-March/002208.html&amp;#160;&lt;a class="footnote-backref" href="#fnref:dawes-old-guys" rev="footnote" title="Jump back to footnote 37 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://xfree86.org/pipermail/forum/2003-March/002208.html"&gt;http://xfree86.org/pipermail/forum/2003-March/002208.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:dawes-old-guys" rev="footnote" title="Jump back to footnote 38 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:murphey-phoey"&gt;
-&lt;p&gt;http://xfree86.org/pipermail/forum/2003-March/002286.html&amp;#160;&lt;a class="footnote-backref" href="#fnref:murphey-phoey" rev="footnote" title="Jump back to footnote 38 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://xfree86.org/pipermail/forum/2003-March/002286.html"&gt;http://xfree86.org/pipermail/forum/2003-March/002286.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:murphey-phoey" rev="footnote" title="Jump back to footnote 39 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:cox-change"&gt;
-&lt;p&gt;http://www.xfree86.org/pipermail/forum/2003-March/002077.html&amp;#160;&lt;a class="footnote-backref" href="#fnref:cox-change" rev="footnote" title="Jump back to footnote 39 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.xfree86.org/pipermail/forum/2003-March/002077.html"&gt;http://www.xfree86.org/pipermail/forum/2003-March/002077.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:cox-change" rev="footnote" title="Jump back to footnote 40 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:teleconference-1"&gt;
-&lt;p&gt;http://web.archive.org/web/20030607004252/http://fontconfig.org/~keithp/teleconference/minutes-2003-03-27.txt&amp;#160;&lt;a class="footnote-backref" href="#fnref:teleconference-1" rev="footnote" title="Jump back to footnote 40 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://web.archive.org/web/20030607004252/http://fontconfig.org/~keithp/teleconference/minutes-2003-03-27.txt"&gt;http://web.archive.org/web/20030607004252/http://fontconfig.org/~keithp/teleconference/minutes-2003-03-27.txt&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:teleconference-1" rev="footnote" title="Jump back to footnote 41 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:teleconference-2"&gt;
-&lt;p&gt;http://web.archive.org/web/20030815144605/http://fontconfig.org/~keithp/teleconference/minutes-2003-04-03.txt&amp;#160;&lt;a class="footnote-backref" href="#fnref:teleconference-2" rev="footnote" title="Jump back to footnote 41 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://web.archive.org/web/20030815144605/http://fontconfig.org/~keithp/teleconference/minutes-2003-04-03.txt"&gt;http://web.archive.org/web/20030815144605/http://fontconfig.org/~keithp/teleconference/minutes-2003-04-03.txt&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:teleconference-2" rev="footnote" title="Jump back to footnote 42 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:teleconference-3"&gt;
-&lt;p&gt;http://web.archive.org/web/20030420065828/http://fontconfig.org/~keithp/teleconference/telecon-2003-04-10.txt&amp;#160;&lt;a class="footnote-backref" href="#fnref:teleconference-3" rev="footnote" title="Jump back to footnote 42 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://web.archive.org/web/20030420065828/http://fontconfig.org/~keithp/teleconference/telecon-2003-04-10.txt"&gt;http://web.archive.org/web/20030420065828/http://fontconfig.org/~keithp/teleconference/telecon-2003-04-10.txt&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:teleconference-3" rev="footnote" title="Jump back to footnote 43 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:osnews-x-marks"&gt;
-&lt;p&gt;http://www.osnews.com/story/6157/X_Marks_the_Spot_Looking_back_at_X11_Developments_of_Past_Year/page2/&amp;#160;&lt;a class="footnote-backref" href="#fnref:osnews-x-marks" rev="footnote" title="Jump back to footnote 43 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.osnews.com/story/6157/X_Marks_the_Spot_Looking_back_at_X11_Developments_of_Past_Year/page2/"&gt;http://www.osnews.com/story/6157/X_Marks_the_Spot_Looking_back_at_X11_Developments_of_Past_Year/page2/&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:osnews-x-marks" rev="footnote" title="Jump back to footnote 44 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:cygwin-no-more"&gt;
-&lt;p&gt;http://cygwin.com/ml/cygwin-xfree/2003-10/msg00328.html&amp;#160;&lt;a class="footnote-backref" href="#fnref:cygwin-no-more" rev="footnote" title="Jump back to footnote 44 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://cygwin.com/ml/cygwin-xfree/2003-10/msg00328.html"&gt;http://cygwin.com/ml/cygwin-xfree/2003-10/msg00328.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:cygwin-no-more" rev="footnote" title="Jump back to footnote 45 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:egbert-sigh"&gt;
-&lt;p&gt;http://cygwin.com/ml/cygwin-xfree/2003-10/msg00360.html&amp;#160;&lt;a class="footnote-backref" href="#fnref:egbert-sigh" rev="footnote" title="Jump back to footnote 45 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://cygwin.com/ml/cygwin-xfree/2003-10/msg00360.html"&gt;http://cygwin.com/ml/cygwin-xfree/2003-10/msg00360.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:egbert-sigh" rev="footnote" title="Jump back to footnote 46 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:core-disbands"&gt;
-&lt;p&gt;http://www.mail-archive.com/devel%40xfree86.org/msg04639.html&amp;#160;&lt;a class="footnote-backref" href="#fnref:core-disbands" rev="footnote" title="Jump back to footnote 46 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.mail-archive.com/devel%40xfree86.org/msg04639.html"&gt;http://www.mail-archive.com/devel%40xfree86.org/msg04639.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:core-disbands" rev="footnote" title="Jump back to footnote 47 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:disband-confused"&gt;
-&lt;p&gt;http://www.mail-archive.com/devel@xfree86.org/msg04658.html&amp;#160;&lt;a class="footnote-backref" href="#fnref:disband-confused" rev="footnote" title="Jump back to footnote 47 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.mail-archive.com/devel@xfree86.org/msg04658.html"&gt;http://www.mail-archive.com/devel@xfree86.org/msg04658.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:disband-confused" rev="footnote" title="Jump back to footnote 48 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:core-gone"&gt;
-&lt;p&gt;http://www.mail-archive.com/devel@xfree86.org/msg04888.html&amp;#160;&lt;a class="footnote-backref" href="#fnref:core-gone" rev="footnote" title="Jump back to footnote 48 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.mail-archive.com/devel@xfree86.org/msg04888.html"&gt;http://www.mail-archive.com/devel@xfree86.org/msg04888.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:core-gone" rev="footnote" title="Jump back to footnote 49 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id="fn:xorg-foundation"&gt;
+&lt;p&gt;&lt;a href="https://web.archive.org/web/20040616015847/http://www.x.org/XOrg_Foundation_22Jan04.pdf"&gt;https://web.archive.org/web/20040616015847/http://www.x.org/XOrg_Foundation_22Jan04.pdf&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:xorg-foundation" rev="footnote" title="Jump back to footnote 50 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id="fn:xorg-interim-bod"&gt;
+&lt;p&gt;&lt;a href="https://web.archive.org/web/20040418234209/http://www.x.org/XOrg_Foundation_Board.html"&gt;https://web.archive.org/web/20040418234209/http://www.x.org/XOrg_Foundation_Board.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:xorg-interim-bod" rev="footnote" title="Jump back to footnote 51 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:gpl-2"&gt;
-&lt;p&gt;http://www.gnu.org/licenses/old-licenses/gpl-2.0.html&amp;#160;&lt;a class="footnote-backref" href="#fnref:gpl-2" rev="footnote" title="Jump back to footnote 49 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.gnu.org/licenses/old-licenses/gpl-2.0.html"&gt;http://www.gnu.org/licenses/old-licenses/gpl-2.0.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:gpl-2" rev="footnote" title="Jump back to footnote 52 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:license-announce"&gt;
-&lt;p&gt;http://www.xfree86.org/pipermail/forum/2004-January/001892.html&amp;#160;&lt;a class="footnote-backref" href="#fnref:license-announce" rev="footnote" title="Jump back to footnote 50 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.xfree86.org/pipermail/forum/2004-January/001892.html"&gt;http://www.xfree86.org/pipermail/forum/2004-January/001892.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:license-announce" rev="footnote" title="Jump back to footnote 53 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:gpl-should-change"&gt;
-&lt;p&gt;http://www.xfree86.org/pipermail/forum/2004-January/003907.html&amp;#160;&lt;a class="footnote-backref" href="#fnref:gpl-should-change" rev="footnote" title="Jump back to footnote 51 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.xfree86.org/pipermail/forum/2004-January/003907.html"&gt;http://www.xfree86.org/pipermail/forum/2004-January/003907.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:gpl-should-change" rev="footnote" title="Jump back to footnote 54 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id="fn:license-no-support"&gt;
+&lt;p&gt;&lt;a href="http://www.xfree86.org/pipermail/forum/2004-February/004035.html"&gt;http://www.xfree86.org/pipermail/forum/2004-February/004035.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:license-no-support" rev="footnote" title="Jump back to footnote 55 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id="fn:dawes-hung-out"&gt;
+&lt;p&gt;&lt;a href="http://www.xfree86.org/pipermail/forum/2004-February/004039.html"&gt;http://www.xfree86.org/pipermail/forum/2004-February/004039.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:dawes-hung-out" rev="footnote" title="Jump back to footnote 56 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id="fn:xorg-release"&gt;
+&lt;p&gt;&lt;a href="http://lwn.net/Articles/79302"&gt;http://lwn.net/Articles/79302&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:xorg-release" rev="footnote" title="Jump back to footnote 57 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:gettys-on-change"&gt;
-&lt;p&gt;http://www.xfree86.org/pipermail/forum/2004-February/003945.html&amp;#160;&lt;a class="footnote-backref" href="#fnref:gettys-on-change" rev="footnote" title="Jump back to footnote 52 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.xfree86.org/pipermail/forum/2004-February/003945.html"&gt;http://www.xfree86.org/pipermail/forum/2004-February/003945.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:gettys-on-change" rev="footnote" title="Jump back to footnote 58 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:stallman-on-license"&gt;
-&lt;p&gt;http://www.xfree86.org/pipermail/forum/2004-February/003974.html&amp;#160;&lt;a class="footnote-backref" href="#fnref:stallman-on-license" rev="footnote" title="Jump back to footnote 53 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.xfree86.org/pipermail/forum/2004-February/003974.html"&gt;http://www.xfree86.org/pipermail/forum/2004-February/003974.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:stallman-on-license" rev="footnote" title="Jump back to footnote 59 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:dawes-no-gpl"&gt;
-&lt;p&gt;http://www.xfree86.org/pipermail/forum/2004-February/004021.html&amp;#160;&lt;a class="footnote-backref" href="#fnref:dawes-no-gpl" rev="footnote" title="Jump back to footnote 54 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.xfree86.org/pipermail/forum/2004-February/004021.html"&gt;http://www.xfree86.org/pipermail/forum/2004-February/004021.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:dawes-no-gpl" rev="footnote" title="Jump back to footnote 60 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:xfree86-and-gpl"&gt;
-&lt;p&gt;http://web.archive.org/web/20040531203819/http://www.xfree86.org/distro-support.html&amp;#160;&lt;a class="footnote-backref" href="#fnref:xfree86-and-gpl" rev="footnote" title="Jump back to footnote 55 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.dwheeler.com/essays/gpl-compatible.html#xfree86"&gt;http://www.dwheeler.com/essays/gpl-compatible.html#xfree86&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:xfree86-and-gpl" rev="footnote" title="Jump back to footnote 61 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id="fn:xfree-distributions"&gt;
+&lt;p&gt;&lt;a href="http://web.archive.org/web/20040531203819/http://www.xfree86.org/distro-support.html"&gt;http://web.archive.org/web/20040531203819/http://www.xfree86.org/distro-support.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:xfree-distributions" rev="footnote" title="Jump back to footnote 62 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;</summary><category term="Management"></category><category term="open source"></category><category term="free software"></category><category term="core"></category><category term="XFree86"></category><category term="Xorg"></category></entry><entry><title>The core melts down</title><link href="http://asterisk.dynevor.org/melting-core.html" rel="alternate"></link><updated>2013-06-25T14:00:00-07:00</updated><author><name>Matthew Brett</name></author><id>tag:asterisk.dynevor.org,2013-06-25:melting-core.html</id><summary type="html">&lt;p&gt;My friend &lt;a href="http://pirsquared.org"&gt;Paul Ivanov&lt;/a&gt; kindly pointed me to this
