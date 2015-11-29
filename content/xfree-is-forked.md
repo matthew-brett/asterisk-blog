@@ -112,7 +112,8 @@ XFree86 to become the de-facto reference implementation.  The Open Group
 reverted to the old license in September 1998, and formed a new consortium for
 X stewardship called X.Org in 1999 ([^wp-x-history][^xorg-consortium]). X.Org
 (the consortium) went on to supervise the releases of the X reference
-implementation.  XFree86 joined X.Org as an honorary member in the same year.
+implementation.  XFree86 joined the X.Org consortium as an honorary member in
+the same year.
 
 [^xorg-consortium]: <http://web.archive.org/web/20030402160332/http://www.x.org/XOrg_background.html>
 
@@ -485,6 +486,36 @@ the core team explained it as a way of avoiding potential complaint:
 [^disband-confused]: <http://www.mail-archive.com/devel@xfree86.org/msg04658.html>
 [^core-gone]: <http://www.mail-archive.com/devel@xfree86.org/msg04888.html>
 
+## Start of the X.org foundation
+
+In Januay 2004, many of those involved in the discussion formed a new company
+called the X.Org foundation (as distinct from the previous X.Org consortium).
+A presentation to the Linux World Expo ([^xorg-foundation]) gave the mission
+statement as:
+
+> To promote a proactive and participatory community for Open Source X Window
+> System and desktop development
+
+The same presentation records that a development tree had been established.
+
+The interim board of directors ([^xorg-interim-bod]) was composed of
+representatives from industry and free software organizations:
+
+- Stuart Anderson, Free Standards Group
+- Egbert Eich - SuSe
+- Mattais Ettrich - KDE
+- Jim Gettys - Hewlett Packard
+- Georg Greve - FSF Europe
+- Stuart Kreitman - SUN Microsystems
+- Kevin Martin - Red Hat
+- Jim McQuillan - Linux Terminal Server Project
+- Leon Shiman - Shiman Associates
+- Jeremy White - Code Weavers
+
+[^xorg-foundation]:
+<https://web.archive.org/web/20040616015847/http://www.x.org/XOrg_Foundation_22Jan04.pdf>
+[^xorg-interim-bod]: <https://web.archive.org/web/20040418234209/http://www.x.org/XOrg_Foundation_Board.html>
+
 ## License change and collapse of XFree86
 
 At the end of January 2004, David Dawes announced a change to the base XFree86
@@ -551,6 +582,33 @@ unmoving position on the license:
 > asbestos undies, but boy do they itch :-) ([^dawes-hung-out])
 
 [^dawes-hung-out]: <http://www.xfree86.org/pipermail/forum/2004-February/004039.html>
+
+## X.org releases fork of X
+
+In April 2004, the new X.Org foundation released their own fork of X
+Windows ([^xorg-release]):
+
+> The new X.Org release, called X Window System Version 11 Release 6.7
+> (X11R6.7), builds on the work of the X.Org X11R6.6 and XFree86TM Project
+> Inc. V4.4RC2 releases to combine many of the latest developments from a
+> large number of the participants and companies working with the X Window
+> community ...
+
+The announcement quotes Jim Gettys:
+
+> This release marks the return to community development of the X Window
+> System under governance open to all contributors for the first time since
+> the founding of the X Consortium in 1988.
+
+Among other endorsements in that announcment, Branden Robinson of Debian
+writes:
+
+> We're also delighted that the X.Org Foundation is dedicated to retaining the
+> licensing model that has made the X Window System an enduring success.
+
+[^xorg-release]: <http://lwn.net/Articles/79302>
+
+## The decline and fall of XFree86
 
 The license change appears to have been the last straw in forcing adoption of
 X.org instead of XFree86 ([^xfree86-and-gpl]).  In a page dated from May 2004,
