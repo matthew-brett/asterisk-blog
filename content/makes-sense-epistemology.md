@@ -39,7 +39,7 @@ accepting an argument is that the argument feels right or makes sense.
 
 It seems to me that teachers are often in the situation where they cannot or
 do not hope to teach the students *why* something is true, but only give them
-a feeling - for why something might be true.  When we do this, we encourage
+a *feeling* for why something *might* be true.  When we do this, we encourage
 makes-sense epistemology.
 
 Does it matter that we often function on this intuitive makes-sense level?
