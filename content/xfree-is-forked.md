@@ -12,7 +12,7 @@ Forks are experiments in open-source management ([^oss-why-fork]).
 
 [^oss-why-fork]: <http://www.dwheeler.com/oss_fs_why.html#forking>
 
-Management in open-source can mysterious. In our technical world, we would
+Management in open-source can be mysterious. In our technical world, we would
 rather believe that anything important must be technical, and management seems
 soft and poorly defined. We want to believe that all you need is good code,
 and that management is for corporate types, whom we despise.
