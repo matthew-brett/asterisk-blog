@@ -94,7 +94,7 @@ David Dawes ([^president-dawes]). Dawes continued as president at least until
 [^xfree-inc-minutes]: <http://web.archive.org/web/20030101005232/http://www.xfree86.org/legal/org_minutes.html>
 [^core-board-1994]: <http://ftp.x.org/R5contrib/XFree86-2.1.Announce>
 [^president-dawes]: <http://www.informatica.co.cr/linux-desktops/research/1994/1116.html>
-[^current-bod]: <http://www.xfree86.org/legal/bod.html>
+[^current-bod]: <https://web.archive.org/web/20140910005646/http://www.xfree86.org/legal/bod.html>
 
 In 1997, the X-consortium handed over X stewardship to a vendor group called
 "The Open Group". In April 1998, the Open Group changed the X license to
@@ -179,8 +179,8 @@ project ([^kp-issue]). Others had similar complaints
 
 [^mh-blog]: <http://web.archive.org/web/20030304041751/http://advogato.org/person/mharris/diary.html?start=5>
 [^mh-blog-fu]: <http://web.archive.org/web/20030304041751/http://advogato.org/person/mharris/diary.html?start=6>
-[^kp-issue]: <http://wwwd.xfree86.org/pipermail/forum/2003-March/002018.html>
-[^forum-communication]: <http://xfree86.org/pipermail/forum/2003-March/000476.html>
+[^kp-issue]: <https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002018.html>
+[^forum-communication]: <https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/000476.html>
 [^debian-xfree86-pain]: <http://lists.debian.org/debian-x/2003/11/msg00285.html>
 
 Packard felt that he had been gradually excluded from XFree86 management:
@@ -212,10 +212,10 @@ Dawes refers to a rumor that Packard did this in order to cause a crisis
 ([^kp-xfixes-rumor]).  There does not appear to be any public record of this
 decision at the time.
 
-[^kp-is-out]: <http://www.xfree86.org/pipermail/forum/2003-March/001997.html>
-[^call-for-open]: <http://www.xfree86.org/pipermail/forum/2003-March/002165.html>
-[^kp-no-cvs]: <http://www.xfree86.org/pipermail/forum/2003-March/002105.html>
-[^kp-xfixes-rumor]: <http://www.xfree86.org/pipermail/forum/2003-March/002121.html>
+[^kp-is-out]: <https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/001997.html>
+[^call-for-open]: <https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002165.html>
+[^kp-no-cvs]: <https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002105.html>
+[^kp-xfixes-rumor]: <https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002121.html>
 
 ## The forking fighting
 
@@ -241,10 +241,10 @@ emails soon after ([^dw-well-try]).  I could find no evidence that this
 happened. It's possible that the email enclosed in ([^private-cced]) is an
 example of the discussion leading to Packard's expulsion.
 
-[^private-cced]: <http://www.xfree86.org/pipermail/forum/2003-April/003139.html>
-[^dw-have-cause]: <http://www.xfree86.org/pipermail/forum/2003-March/002461.html>
-[^kp-release-emails]: <http://www.xfree86.org/pipermail/forum/2003-March/002525.html>
-[^dw-well-try]: <http://www.xfree86.org/pipermail/forum/2003-March/002545.html>
+[^dw-have-cause]: <https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002461.html>
+[^kp-release-emails]: <https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002525.html>
+[^dw-well-try]: <https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002545.html>
+[^private-cced]: <https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-April/003139.html>
 
 Packard didn't reply directly to the thread expelling him from the core, but
 instead posted an appeal for open governance of XFree86 ([^call-for-open]).  He
@@ -286,7 +286,7 @@ difficulty of the codebase, and emphasized the previous work of David Dawes:
 > Dawes. David has worked tirelessly in his own time to bring XFree86 where it
 > is today. And I applaud him for that devotion. ([^hourihane1])
 
-[^hourihane1]: <http://www.xfree86.org/pipermail/forum/2003-March/002168.html>
+[^hourihane1]: <https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002168.html>
 
 David Dawes' employer, the CEO of Tungsten graphics ([^dawes-tungsten]) saw
 problems in the organization of XFree86:
@@ -311,8 +311,8 @@ He asked for greater democracy in governing the project:
 > of XFree86, no matter what percentage of interested parties agree.
 > ([^tungsten-boss]).
 
-[^tungsten-boss]: <http://xfree86.org/pipermail/forum/2003-March/002040.html>
-[^dawes-tungsten]: <http://www.xfree86.org/pipermail/forum/2003-April/003357.html>
+[^tungsten-boss]: <https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002040.html>
+[^dawes-tungsten]: <https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-April/003357.html>
 
 In reply, David Wexelblat denied there were organizational problems, blaming
 Packard:
@@ -339,7 +339,7 @@ and didn't see a need for fully open governance:
 > - There is no reason for Core Team matters to be public. This is the
 >   leadership forum, not a public forum. ([^dx-cheap])
 
-[^dx-cheap]: <http://xfree86.org/pipermail/forum/2003-March/002124.html>
+[^dx-cheap]: <https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002124.html>
 
 David Dawes saw his opponents as trying to take over the hard work of others:
 
@@ -350,7 +350,7 @@ David Dawes saw his opponents as trying to take over the hard work of others:
 > lead now? "Thanks for keeping it alive guys, but we'll take it from here,"
 > is the attitude. ([^dawes-old-guys])
 
-[^dawes-old-guys]: <http://xfree86.org/pipermail/forum/2003-March/002208.html>
+[^dawes-old-guys]: <https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002208.html>
 
 Rich Murphey could not see the point of governance discussions:
 
@@ -377,7 +377,7 @@ Developers are leaders and should not be accountable to any 'community':
 > will of the community and imposing formal policies on everyone.
 > I can imagine how many developers that will attract ([^murphey-phoey])
 
-[^murphey-phoey]: <http://xfree86.org/pipermail/forum/2003-March/002286.html>
+[^murphey-phoey]: <https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002286.html>
 
 [Alan Cox](http://en.wikipedia.org/wiki/Alan_Cox) thought the problem was one
 of resistance to change:
@@ -399,7 +399,7 @@ He insisted that change was essential to the project:
 > it works the community wins, if it fails you get both to smirk, and to take
 > the good bits and the lessons it learned.  ([^cox-change])
 
-[^cox-change]: <http://www.xfree86.org/pipermail/forum/2003-March/002077.html>
+[^cox-change]: <https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002077.html>
 
 Packard and other interested developers held a series of teleconferences in
 late March / early April to discuss what to do next
@@ -488,10 +488,10 @@ the core team explained it as a way of avoiding potential complaint:
 
 ## Start of the X.org foundation
 
-In Januay 2004, many of those involved in the discussion formed a new company
+In January 2004, many of those involved in the discussion formed a new company
 called the X.Org foundation (as distinct from the previous X.Org consortium).
-A presentation to the Linux World Expo ([^xorg-foundation]) gave the mission
-statement as:
+A presentation to the Linux World Expo on 22nd January ([^xorg-foundation])
+gave the mission statement as:
 
 > To promote a proactive and participatory community for Open Source X Window
 > System and desktop development
@@ -518,11 +518,12 @@ representatives from industry and free software organizations:
 
 ## License change and collapse of XFree86
 
-At the end of January 2004, David Dawes announced a change to the base XFree86
+On 29th January 2004, David Dawes announced a change to the base XFree86
 license ([^license-announce]).
 
-The [new license](http://www.xfree86.org/legal/licenses.html) added a
-non-standard clause that required any derived work to include a
+The [new
+license](https://web.archive.org/web/20140910005646/http://www.xfree86.org/legal/licenses.html)
+added a non-standard clause that required any derived work to include a
 specified acknowledgment of XFree86 in the documentation or "in the software
 itself":
 
@@ -552,13 +553,13 @@ ought to change instead:
 > Open Source licences rather than trying to force all Open Source licences to
 > be a subset of the GPL? ([^gpl-should-change])
 
-[^license-announce]: <http://www.xfree86.org/pipermail/forum/2004-January/001892.html>
-[^gpl-should-change]: <http://www.xfree86.org/pipermail/forum/2004-January/003907.html>
+[^license-announce]: <https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2004-January/001892.html>
+[^gpl-should-change]: <https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2004-January/003907.html>
 
 The long email threads that followed were mostly against the license change
 - e.g. ([^gettys-on-change], [^license-no-support]).
 
-[^license-no-support]: <http://www.xfree86.org/pipermail/forum/2004-February/004035.html>
+[^license-no-support]: <https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2004-February/004035.html>
 
 Richard Stallman joined the discussion to see if he could help restore GPL
 compatibility ([^stallman-on-license]) but Dawes was not ready to compromise:
@@ -581,7 +582,7 @@ unmoving position on the license:
 > the heat on things like this comes with the job.  And I have very thick
 > asbestos undies, but boy do they itch :-) ([^dawes-hung-out])
 
-[^dawes-hung-out]: <http://www.xfree86.org/pipermail/forum/2004-February/004039.html>
+[^dawes-hung-out]: <https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2004-February/004039.html>
 
 ## X.org releases fork of X
 
@@ -620,9 +621,9 @@ The page at ([^xfree86-and-gpl]) gives a vivid summary of the almost complete
 collapse of XFree86 at this point, with all significant developer and packager
 interest switching to X.org.
 
-[^gettys-on-change]: <http://www.xfree86.org/pipermail/forum/2004-February/003945.html>
-[^stallman-on-license]: <http://www.xfree86.org/pipermail/forum/2004-February/003974.html>
-[^dawes-no-gpl]: <http://www.xfree86.org/pipermail/forum/2004-February/004021.html>
+[^gettys-on-change]: <https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2004-February/003945.html>
+[^stallman-on-license]: <https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2004-February/003974.html>
+[^dawes-no-gpl]: <https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2004-February/004021.html>
 [^xfree86-and-gpl]: <http://www.dwheeler.com/essays/gpl-compatible.html#xfree86>
 [^xfree-distributions]: <http://web.archive.org/web/20040531203819/http://www.xfree86.org/distro-support.html>
 
