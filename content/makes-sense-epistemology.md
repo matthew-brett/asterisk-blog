@@ -13,7 +13,7 @@ I suppose that every teacher wonders whether the students are really
 understanding.
 
 One effect of doing a lot of teaching, has been that I have found that I
-didn't understand some things that I thought I did understand.  A particular
+did not understand some things that I thought I did understand.  A particular
 example is Principal Components Analysis (PCA).  I think I do understand it
 now, but I did not before.  I have taught something about PCA in the past, and
 I think I was saying things that were true, but I didn't know why they were
@@ -21,7 +21,7 @@ true.
 
 What had happened was that I had heard other people that I trust say these
 things about PCA.  I heard the same thing a few times from a few different
-people, and I added those things to the store of things I "knew".
+people, and I added what they said to the store of things I "knew".
 
 In my case, I think I was using what Perkins, Allen and
 Hafner call "makes-sense epistemology" ([^perkins-allen-hafner]).  Someone
@@ -39,11 +39,11 @@ accepting an argument is that the argument feels right or makes sense.
 
 It seems to me that teachers are often in the situation where they cannot or
 do not hope to teach the students *why* something is true, but only give them
-a hint - an intuitive feeling - for why something is true.  When we do this,
-we encourage makes-sense epistemology.
+a feeling - for why something might be true.  When we do this, we encourage
+makes-sense epistemology.
 
 Does it matter that we often function on this intuitive makes-sense level?
-Not if we think that almost all of what we are told is true.  But, as Richard
+Not if we think that most of what we are told is true.  But, as Richard
 Feynman put it: "Science is the belief in the ignorance of experts."
 ([^ignorance]).
 
@@ -57,4 +57,3 @@ Science?"](http://www.fotuva.org/feynman/what_is_science.html), presented at
 the fifteenth annual meeting of the National Science Teachers Association, in
 New York City (1966), published in The Physics Teacher, volume 7, issue 6
 (1969), p. 313-320
-
