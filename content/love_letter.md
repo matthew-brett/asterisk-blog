@@ -43,30 +43,28 @@ scope of public comment. The fact that the computer did what we wanted is the
 equivalent of the mathematical proof, and the code that made that happen is
 equivalent to the working notes for the proof.
 
-To see a student think that way is surprising to someone who has spent time
-developing software, because we know that we make many mistakes, and that, to
-reduce the number of mistakes, we need to lay out out our reasoning in code,
-for others to check.
+That way of thinking is surprising to someone who has spent time developing
+software, because we know that we make many mistakes, and that, to reduce the
+number of mistakes, we need to lay out out our reasoning in code, for others
+to check.
 
 Maybe the difference between the developer and the student, is that the
-developer knows that their code has to produce the right answer in a range of
+developer knows that their code has to give the right answer in a range of
 circumstances, over a fairly long period of time, and on different types of
-computers.  To defend ourselves, we ask ourselves and our peers, "is this code
-correct?".  To ask this question, we have to write code that others can follow
-and criticize. The student has usually been set the task of producing a single
-correct answer from the computer, or a correct answer in a limited known range of
-circumstances.  They can throw away the code afterwards.  So they ask
-themselves the question "does this code give the correct answer in the
-situations for which I will be graded".  The quality of the code is irrelevant
-to that answer.
+computers.  To defend ourselves, we ask "is this code correct?".  If we want
+a good answer to this question, we have to write code that others can follow
+and criticize. The student usually has a different task, which is to get the
+computer to give a small number of required outputs.  Their question is "does
+this code give the required outputs in the situations for which I will be
+graded".  For that question, code quality is irrelevant.
 
-That is a damn shame, because in due course, that student may go on to do
-research.  Their work will almost certainly involve some kind of formal or
-informal coding.  They have learned that the point of coding is to get the
-desired result.  They write terrible, poorly organized code, that is full of
-errors and that is hard to read and dangerous to re-use.  The code produces
-some answer, but it is very likely to be wrong, because, as every experienced
-coder knows, [coders make errors all the
+That is a damn shame, because in due course, the student may go on to do
+research.  Their work will very likely involve some kind of coding.  They have
+learned that the point of coding is to get the desired result.  They write
+terrible, poorly organized code, that is full of errors, hard to read, and
+dangerous to re-use.  After some editing, the code produces a plausible
+answer, but it is likely to be wrong, because, as every experienced coder
+knows, [coders make errors all the
 time](http://blog.nipy.org/ubiquity-of-error.html).  The researcher can only
-know the answer is wrong by knowing that the code is wrong, but that is
-something that they have no instinct to investigate.
+know the answer is wrong if they know the code is wrong, but that is something
+that they have no instinct to investigate.
