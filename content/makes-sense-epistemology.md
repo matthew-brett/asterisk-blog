@@ -1,7 +1,7 @@
 Title: Makes-sense epistemology
 Date: 2016-01-15 14:00
-Tags: Thinking, Teaching, Epistemology, Reasoning
-Category: organizations
+Tags: Thinking, Teaching, Epistemology
+Category: teaching
 Slug: makes-sense
 Author: Matthew Brett
 Summary: Something that looks like understanding

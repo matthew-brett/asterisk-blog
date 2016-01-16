@@ -1,7 +1,7 @@
 Title: Why do researchers write sloppy code?
 Date: 2016-01-15 14:00
 Tags: Thinking, Teaching, Coding
-Category: Teaching
+Category: teaching
 Slug: love-letter
 Author: Matthew Brett
 Summary: A love letter to the computer
