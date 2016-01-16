@@ -1,10 +1,10 @@
-Title: Why do students write sloppy code?
+Title: Why do researchers write sloppy code?
 Date: 2016-01-15 14:00
 Tags: Thinking, Teaching, Coding
 Category: Teaching
 Slug: love-letter
 Author: Matthew Brett
-Summary: A love letter from me to the computer
+Summary: A love letter to the computer
 
 A friend of mine teaches a subject that involves scientific programming.  He
 has several times told me that he is surprised at some of the work that
@@ -69,4 +69,4 @@ some answer, but it is very likely to be wrong, because, as every experienced
 coder knows, [coders make errors all the
 time](http://blog.nipy.org/ubiquity-of-error.html).  The researcher can only
 know the answer is wrong by knowing that the code is wrong, but that is
-something that they never learned to check.
+something that they have no instinct to investigate.
