@@ -45,15 +45,15 @@ equivalent to the working notes for the proof.
 
 That way of thinking is surprising to someone who has spent time developing
 software, because we know that we make many mistakes, and that, to reduce the
-number of mistakes, we need to lay out out our reasoning in code, for others
-to check.
+number of mistakes, we need to lay out our reasoning in code, for others to
+check.
 
-Maybe the difference between the developer and the student, is that the
-developer knows that their code has to give the right answer in a range of
+One difference between the developer and the student is that the developer
+knows that their code has to give the right answer in a range of
 circumstances, over a fairly long period of time, and on different types of
-computers.  To defend ourselves, we ask "is this code correct?".  If we want
-a good answer to this question, we have to write code that others can follow
-and criticize. The student usually has a different task, which is to get the
+computers.  To defend ourselves, we ask "is this code correct?".  If we want a
+good answer to this question, we have to write code that others can follow and
+criticize. The student usually has a different task, which is to get the
 computer to give a small number of required outputs.  Their question is "does
 this code give the required outputs in the situations for which I will be
 graded".  For that question, code quality is irrelevant.
