@@ -1,0 +1,128 @@
+Title: How should we teach students to use computers?
+Date: 2016-08-19 12:00
+Tags: Teaching, Coding
+Category: teaching
+Slug: how-should-we-teach-computing
+Author: Matthew Brett
+Summary: Teaching students for the long term
+
+The software carpentry movement has the aim of teaching scientists how to use
+computers well.
+
+It is important to teach this so we can produce work of high quality.  It is
+more likely that our work will be transparent enough for someone else to use
+it, and reproduce it.
+
+Once we agree that it is useful to teach this, we still have to decide what we
+are going to do about the following problem:
+
+## Difficult, tiring and confusing
+
+Maintaining scientific software on your computer is a **difficult, tiring and
+confusing** task.  It is a task that needs a combination of commitment and
+skill in solving problems where the solution may be hard to find and
+understand, and there is a great deal of conflicting advice.
+
+## Two different approaches to teaching
+
+### Approach 1: try to keep students away from the problem
+
+Here, you design your course setup and course materials so that you avoid
+confusion or ambiguity in installing or maintaining the software.
+
+For example, you might make all the students use Jupyter notebooks hosted on a
+central server, so they don't use their own computers at all, except as a
+client via their web-browser.
+
+You might use [Wakari](https://wakari.io) to do the same kind of thing.
+
+Less comprehensively, you might insist or suggest that everyone use the same
+Python distribution and packages, which will usually be Anaconda, so at least
+everyone has roughly the same setup on their computer.  These packages are
+usually easy to very easy to install and use, but don't protect you from later
+confusion and pain for not-default packages.
+
+The advantage of this approach is that you get to spend your time teaching the
+stuff you are interested in, instead of struggling with the complexity of
+individual user installs.
+
+The disadvantage is that, as soon as the student leaves the class and starts
+on the road to maturity, they will hit the problems that you have shielded
+them from.  No matter what you told them in the class, they will conclude that
+this work is much harder than you claimed, or that they are deficient and
+should give up.
+
+### Approach 2: drop students in it and help them out again
+
+The other approach is to treat the problem of installation and maintenance as
+one that the students will have to learn to face.   They need to live in this
+world of confusion and ambiguity, and learn the skills to survive and
+flourish.
+
+There are two obvious difficulties with this approach.
+
+The first is that you will have to spend class time struggling with
+installation and maintenance problems, that might well be - difficult, tiring
+and confusing.  The time that you give to this, you must take from other
+instruction.
+
+The second is that is hard to teach students these skills.  It is even hard to
+explain what those skills are.
+
+## What's the best way?
+
+When we decide what to do, we have to agree on a goal.  For example, your goal
+might be to teach "data science" [^data-science-defined].  The students should
+leave the class with a better understanding of issues in data science.  If
+that is your entire goal, then you may not worry that the students will soon
+stop using the tools that you have taught them.  No-one will blame you for
+those priorities.
+
+[^data-science-defined]: I have heard it said, that data science can
+reasonably be defined as "doing statistics on a Mac".
+
+On the other hand, your goal might be more broad.  You might want to make the
+students better at data science in the long term - long after the students
+have left your class.  In that case, you will worry about students being
+unable to continue using the tools after the end of the class.
+
+I am personally more interested in the broader goal.  That is, I would like to
+teach in way that makes it most likely that students will become mature users
+of the tools they learn in class.  I believe that forces me towards approach
+\2.  That is, I really do need to teach the students how to deal with the
+difficult, tiring and confusing problem of maintaining their software.
+
+How should we deal with the issues of lost class time, and teaching the
+unteachable skill of learning within confusion?   I believe the only way to do
+this is to teach by example.  That is, we have to give the students something
+similar to standard installation advice - the kind of advice that we would
+give our own graduate students getting started.  Then we have to sit down with
+the students who run into problems, and suffer with them for a while.  We show
+them how we try and solve the problem, we do our diagnostics, we check
+StackOverflow, we look at the command help and man pages, and we work it out,
+with them.   Yes, this is very hard to do with large classes or MOOCs.  With
+smaller classes, or with a reasonable number of teaching assistants, I believe
+this is practical.
+
+The advantage of doing this, is that we show our students what real scientific
+computing looks like.  It isn't streamlined, smooth or easy, it is hard
+confusing and complex.  We give our students our best if we teach them to be
+comfortable and optimistic on this, our current frontier.
+
+## Don't agree? - we should test
+
+I've asserted that approach 2 will cause more students to develop into mature
+users of scientific computing.
+
+Maybe that isn't true.  Maybe, if we use approach 1 to the fullest extent,
+this will get students so excited about the possibilities of the tools, that
+this will impel them to overcome all later obstacles.
+
+I think that won't happen, but I'm a scientist, I could be wrong, and that's
+an empirical question.
+
+What we should do is have a randomized controlled trial.  Allocate half the
+students to approach 1, and half to approach 2.   Design an assessment of
+their computing maturity and assess the students at 1 and 2 years after the
+course.  I predict that students taught with approach 2 will be doing better
+on average.  You might predict the opposite.  Let's get data.
