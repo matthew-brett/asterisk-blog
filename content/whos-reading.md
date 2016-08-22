@@ -244,15 +244,15 @@ a fishing village on the shores of Lake Galilee.
 > on which the town was built, in order to throw him off the cliff. But he
 > walked right through the crowd and went on his way.
 
-They lay out the possible "layers" of text - "Layer I contains materials that
-go back to the historical Jesus in the late 20s. [...] Layer II contains
-materials either adopted from that earlier layer or else created by or within
-the ongoing tradition. [...]".  Layer III has three "sub-layers" - a, b and c,
-with a) being the Q Gospel and Mark, b) "most probably dependent on these two
-preceding gospels, contains Matthew and Luke, from the 80s.  The third level
-[sub-level c], quite possibly dependent on Mark Matthew and Luke, is the
-gospel of John.  That canonical process is, by the way, our most secure
-evidence for layering as a gospel phenomenon" (p. 74).
+The books explains the possible "layers" of gospel text - "Layer I contains
+materials that go back to the historical Jesus in the late 20s. [...] Layer II
+contains materials either adopted from that earlier layer or else created by
+or within the ongoing tradition. [...]".  Layer III has three "sub-layers"
+with the first being the Q Gospel and Mark; the second "most probably
+dependent on these two preceding gospels, contains Matthew and Luke, from the
+80s.  The third [sub-] level, quite possibly dependent on Mark, Matthew and
+Luke, is the gospel of John.  That canonical process is, by the way, our most
+secure evidence for layering as a gospel phenomenon" (p. 74).
 
 Then the authors argue that Luke made up the whole story from beginning to
 end:
