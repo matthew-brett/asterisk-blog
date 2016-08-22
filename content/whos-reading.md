@@ -192,10 +192,10 @@ his readers seriously, surely he should give some evidence for that.
 The authors of EJ are a Biblical scholar (Crossman) and a New Testament
 archaeologist (Reed).
 
-> The purpose of this book is to integrate the archeology of the ground and
-> the exegesis of gospel by giving each its full explanatory power and by
-> refusing to privilege one over the other [...] If an ancient site is a
-> series of superimposed dwellings, an ancient gospel is a similar series of
+> The purpose of this book is to integrate the archeology of ground and the
+> exegesis of gospel by giving each its full explanatory power and by refusing
+> to privilege one over the other [...] If an ancient site is a series of
+> superimposed dwellings, an ancient gospel is a similar series of
 > superimposed overwritings.  In both cases, therefore, multiple layering is
 > the absolutely fundamental challenge to be faced.
 >
