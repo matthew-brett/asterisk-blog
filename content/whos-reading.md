@@ -276,12 +276,15 @@ For the synagogue, Luke does not claim a large formal building, and the
 authors have already agreed that some kind of synagogue meeting was likely.
 
 The synagogue meeting requires readings from the law and the prophets.  Alan
-Millard ("Reading and writing in the time of Jesus", 2000) estimates the cost
-of a papyrus scroll as a few days wages of a daily laborer.
+Millard ([^r-and-r-tj]) estimates that a long scroll of Isaiah would have cost
+around a week of a casual laborer's wages.
+
+[^r-and-r-tj]: Alan Millard, "Reading and Writing in the Time of Jesus" Vol.
+69. NYU Press, 2000, p 165.
 
 The calculation of 3% literacy among Jews in first-century Palestine is based
-on extremely flimsy evidence.  You can read the main evidence that Crossan
-cites in more detail elsewhere at [this web copy of the article](
+on very flimsy evidence.  You can read the main evidence that Crossan cites in
+more detail elsewhere at [this web copy of the article](
 https://faculty.biu.ac.il/~barilm/illitera.html).  Even if that were not so,
 the 3% figure isn't very useful in estimating how likely it was that Jesus
 could read.
@@ -322,7 +325,8 @@ could not read; the nearby slopes don't seem quite dangerous enough for us to
 believe the Nazarenes could really have believed that they could kill Jesus by
 throwing him down".  But what they actually wrote goes a long way past that.
 
-That brings me back to the question that I found myself asking for all these
+That brings me back to the question that I found myself asking for all three
+of 
 three books - who are the authors writing for?  Who is the polemic addressed
 to?  Crossan and Reed give a some part of an answer in the text I've already
 quoted:
