@@ -12,7 +12,7 @@ FTP_HOST=localhost
 FTP_USER=anonymous
 FTP_TARGET_DIR=/
 
-SSH_HOST=dynevor.org
+SSH_HOST=dynevor
 SSH_PORT=22
 SSH_USER=dynevoro
 SSH_TARGET_DIR=./public_html/asterisk

@@ -122,7 +122,7 @@ does he gain?  Who is he writing for?
 At this point I got cross. I didn't think that I was going to gain much
 myself, and I went on to the slightly later book by Charlesworth.
 
-## Jesus within Judaisn
+## Jesus within Judaism
 
 This book was easier for me to read, but I was often uncomfortable.  It's a
 little difficult to characterize why, but there were some obvious triggers.
@@ -302,7 +302,7 @@ post](http://www.patheos.com/blogs/bibleandculture/2011/11/02/reading-and-writin
 for a summary of the evidence that Jesus had a detailed knowledge of the
 scriptures.
 
-Last "no nearby cliff".  If you, like me, were entirely ignorant of the
+Last: "no nearby cliff".  If you, like me, were entirely ignorant of the
 geography of Nazareth, you might presume from the authors' strong feelings on
 this matter that Nazareth is pretty flat.  If so, the [Israeli tourist board
 disagrees with
@@ -316,16 +316,16 @@ Nazareth has, as Luke says, some significant slopes, including the site
 traditionally associated with the end of Luke's story, called [Mount
 Precipice](http://www.nazarethinfo.org/en/attractions/attractions/mount-precipice).
 
-So, Crossan and Reed could reasonably have said something like: there is some
+So, Crossan and Reed could reasonably have said something like: "there is some
 chance that there was no scroll to read from; there is some chance that Jesus
-could not read; the significant nearby slopes don't seem quite dangerous
-enough for us to believe the Nazarenes could really have believed that they
-could kill Jesus by throwing him down.  But what they actually wrote goes a
-long way past that.
+could not read; the nearby slopes don't seem quite dangerous enough for us to
+believe the Nazarenes could really have believed that they could kill Jesus by
+throwing him down".  But what they actually wrote goes a long way past that.
 
-That brings me back to the question implicit in the file-name of this blog
-post - who are the authors writing for?  Who is the polemic addressed to?
-They give a large part of the answer in the text:
+That brings me back to the question that I found myself asking for all these
+three books - who are the authors writing for?  Who is the polemic addressed
+to?  Crossan and Reed give a some part of an answer in the text I've already
+quoted:
 
 > That conclusion is worth the trouble, not only for the historical accuracy,
 > but also for the honor and dignity of a tiny Jewish hamlet in a small
@@ -333,5 +333,5 @@ They give a large part of the answer in the text:
 
 So, if you were previously tempted to condemn these people without good cause,
 shame on you, and this book is what you need.  But, if that was not your sin,
-and you wanted a careful analysis of the evidence, you'd have to work a lot
-harder than just reading this book.
+and you wanted a careful analysis of the evidence, you'd have to a lot of your
+own research to evaluate the arguments in this book.
