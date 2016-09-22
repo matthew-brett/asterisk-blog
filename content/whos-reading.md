@@ -90,18 +90,23 @@ patience for the "purifying" interpretation of his fellow scholars and the
 authors of the Gospel passages: "Just what would be left of the service if the
 supposedly corrupting externalism of sacrifices, and the trade necessary to
 them, were purged?  Here as often we see the failure to think concretely and a
-preference for vague religious abstractions" (p.63).  The silly idea of
-purification is a modern one: "New Testament scholars who write about Jesus'
-concern for the purity of the temple seem to have in mind a familiar
-Protestant idea: 'Pure' worship consists in the Word, and all external rites
-should be purged" (p. 67-8).  Saunders' own interpretation of the event is
-that "Jesus' action is to be regarded as a symbolic demonstration [...] it
-symbolized destruction". (p. 69, 70).  "We should suppose that Jesus *knew
-what he was doing*: like others, he regarded the sacrifices as commanded by
-God, he knew that they required a certain amount of trade, and he knew that
-making a gesture toward disrupting the trade represented an attack on the
-divinely ordained sacrifices" (p. 70). (all italics in quotes are in the
-original).
+preference for vague religious abstractions" (p.63).  This relates to the
+strange sentence in the introduction to Saunders' book.  If Jesus was also
+thinking in terms of vague religious abstractions, and Saunders rejects these
+as foolish, then is he is going to find it hard to understand why Jesus was
+acting as he did.
+
+Meanwhile, Saunders continues to address the silly idea of purification.  "New
+Testament scholars who write about Jesus' concern for the purity of the temple
+seem to have in mind a familiar Protestant idea: 'Pure' worship consists in
+the Word, and all external rites should be purged" (p. 67-8).  Saunders' own
+interpretation of the event is that "Jesus' action is to be regarded as a
+symbolic demonstration [...] it symbolized destruction". (p. 69, 70).  "We
+should suppose that Jesus *knew what he was doing*: like others, he regarded
+the sacrifices as commanded by God, he knew that they required a certain
+amount of trade, and he knew that making a gesture toward disrupting the trade
+represented an attack on the divinely ordained sacrifices" (p. 70). (all
+italics in quotes are in the original).
 
 There are some obvious objections.  First is that the traditional
 interpretation appears in the passage itself - "But you have made it 'a den of
@@ -305,10 +310,9 @@ post](http://www.patheos.com/blogs/bibleandculture/2011/11/02/reading-and-writin
 for a summary of the evidence that Jesus had a detailed knowledge of the
 scriptures.
 
-Last: "no nearby cliff".  If you, like me, were entirely ignorant of the
-geography of Nazareth, you might presume from the authors' strong feelings on
-this matter that Nazareth is pretty flat.  If so, the [Israeli tourist board
-disagrees with
+If you, like me, were entirely ignorant of the geography of Nazareth, you
+might presume from "no nearby cliff" that Nazareth is pretty flat.  If so, the
+[Israeli tourist board disagrees with
 you](http://www.goisrael.com/Tourism_Eng/Tourist%20Information/Discover%20Israel/Cities/Pages/Nazareth.aspx):
 
 > Nazareth, in the lower Galilee, is located in the heart of a valley
@@ -322,20 +326,20 @@ Precipice](http://www.nazarethinfo.org/en/attractions/attractions/mount-precipic
 So, Crossan and Reed could reasonably have said something like: "there is some
 chance that there was no scroll to read from; there is some chance that Jesus
 could not read; the nearby slopes don't seem quite dangerous enough for us to
-believe the Nazarenes could really have believed that they could kill Jesus by
-throwing him down".  But what they actually wrote goes a long way past that.
+believe the Nazarenes could really have hoped to kill Jesus by throwing him
+down".  But what they actually wrote goes a long way past that.
 
 That brings me back to the question that I found myself asking for all three
-of 
-three books - who are the authors writing for?  Who is the polemic addressed
-to?  Crossan and Reed give a some part of an answer in the text I've already
-quoted:
+of three books - who are the authors writing for?  Who is the polemic
+addressed to?  Crossan and Reed give a some part of an answer in the text I've
+already quoted:
 
 > That conclusion is worth the trouble, not only for the historical accuracy,
 > but also for the honor and dignity of a tiny Jewish hamlet in a small
 > country long, long ago.
 
-So, if you were previously tempted to condemn these people without good cause,
-shame on you, and this book is what you need.  But, if that was not your sin,
-and you wanted a careful analysis of the evidence, you'd have to a lot of your
-own research to evaluate the arguments in this book.
+So, if you are the type of person who would uncritically condemn the Jews of
+the first century, shame on you, and this book may give you pause for thought.
+But, if that is not your sin, and you wanted a careful analysis of the
+evidence, you will have to do a lot of your own research to evaluate the
+arguments in this book.
