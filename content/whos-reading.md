@@ -149,9 +149,10 @@ correct, is - out of balance.
 >
 > JwJ pp 47-48.
 
-What Charlesworth does not mention, is that this prayer is written as from the
-mouth of one of the most wretched of all the kings of Judah, condemned in [2
-Kings 21:1-17](http://www.mechon-mamre.org/p/pt/pt09b21.htm): "Moreover
+What Charlesworth does not mention, is that the [Prayer of
+Manesseh](https://en.wikipedia.org/wiki/Prayer_of_Manasseh) is written as from
+the mouth of one of the most wretched of all the kings of Judah, condemned in
+[2 Kings 21:1-17](http://www.mechon-mamre.org/p/pt/pt09b21.htm): "Moreover
 Manasseh shed innocent blood very much, till he had filled Jerusalem from one
 end to another; beside his sin wherewith he made Judah to sin, in doing that
 which was evil in the sight of the LORD."  [2 Chronicles
@@ -172,8 +173,8 @@ Later in the same section we have:
 >
 > JwJ, p 50.
 
-The [Prayer of Manesseh](https://en.wikipedia.org/wiki/Prayer_of_Manasseh) is
-not particularly obscure; it reached the [King James Bible as part of the
+The Prayer of Manesseh is not particularly obscure; it reached the [King James
+Bible as part of the
 Apocrypha](http://www.kingjamesbibleonline.org/Prayer-of-Manasseh-Chapter-1);
 Martin Luther included it in his 74-book translation of the Bible.  It's also
 pretty short.  I don't know about you, but I can't see any reference to the
@@ -268,3 +269,69 @@ end:
 > Jesus did not grow up in a village of killers.
 >
 > EJ p. 73
+
+Is the strength of this conclusion justified?
+
+For the synagogue, Luke does not claim a large formal building, and the
+authors have already agreed that some kind of synagogue meeting was likely.
+
+The synagogue meeting requires readings from the law and the prophets.  Alan
+Millard ("Reading and writing in the time of Jesus", 2000) estimates the cost
+of a papyrus scroll as a few days wages of a daily laborer.
+
+The calculation of 3% literacy among Jews in first-century Palestine is based
+on extremely flimsy evidence.  You can read the main evidence that Crossan
+cites in more detail elsewhere at [this web copy of the article](
+https://faculty.biu.ac.il/~barilm/illitera.html).  Even if that were not so,
+the 3% figure isn't very useful in estimating how likely it was that Jesus
+could read.
+
+If I selected a 30 year old man from the USA at random, and asked you to guess
+whether he had a degree in philosophy, you'd guess no.  You'd guess no because
+you would find that [40 percent of working age Americans have a
+degree](http://strongernation.luminafoundation.org/report/2016), and [0.5% of
+US degrees are philosophy
+degrees](http://www.humanitiesindicators.org/content/indicatorDoc.aspx?d=56&hl=philosophy&m=0).
+If I selected a working-age American male at random, he has about a 2 in 1000
+chance of having a philosophy degree.  Now imagine I tell you that the person
+I have selected is a well-known teacher of philosophy.  You are now interested
+in the proportion of successful teachers of philosophy with a degree in
+philosophy.  You might guess this proportion was somewhere over 50%, so about
+250 times higher than your original estimate.   See [this blog
+post](http://www.patheos.com/blogs/bibleandculture/2011/11/02/reading-and-writing-in-herodian-israel-was-jesus-an-illiterate-peasant-part-one)
+for a summary of the evidence that Jesus had a detailed knowledge of the
+scriptures.
+
+Last "no nearby cliff".  If you, like me, were entirely ignorant of the
+geography of Nazareth, you might presume from the authors' strong feelings on
+this matter that Nazareth is pretty flat.  If so, the [Israeli tourist board
+disagrees with
+you](http://www.goisrael.com/Tourism_Eng/Tourist%20Information/Discover%20Israel/Cities/Pages/Nazareth.aspx):
+
+> Nazareth, in the lower Galilee, is located in the heart of a valley
+> surrounded by mountains.
+
+You can check it out on Google earth and Google maps to get an idea.  In fact,
+Nazareth has, as Luke says, some significant slopes, including the site
+traditionally associated with the end of Luke's story, called [Mount
+Precipice](http://www.nazarethinfo.org/en/attractions/attractions/mount-precipice).
+
+So, Crossan and Reed could reasonably have said something like: there is some
+chance that there was no scroll to read from; there is some chance that Jesus
+could not read; the significant nearby slopes don't seem quite dangerous
+enough for us to believe the Nazarenes could really have believed that they
+could kill Jesus by throwing him down.  But what they actually wrote goes a
+long way past that.
+
+That brings me back to the question implicit in the file-name of this blog
+post - who are the authors writing for?  Who is the polemic addressed to?
+They give a large part of the answer in the text:
+
+> That conclusion is worth the trouble, not only for the historical accuracy,
+> but also for the honor and dignity of a tiny Jewish hamlet in a small
+> country long, long ago.
+
+So, if you were previously tempted to condemn these people without good cause,
+shame on you, and this book is what you need.  But, if that was not your sin,
+and you wanted a careful analysis of the evidence, you'd have to work a lot
+harder than just reading this book.
