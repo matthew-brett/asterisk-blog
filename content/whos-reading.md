@@ -280,9 +280,21 @@ Is the strength of this conclusion justified?
 For the synagogue, Luke does not claim a large formal building, and the
 authors have already agreed that some kind of synagogue meeting was likely.
 
-The synagogue meeting requires readings from the law and the prophets.  Alan
-Millard ([^r-and-r-tj]) estimates that a long scroll of Isaiah would have cost
-around a week of a casual laborer's wages.
+A first century synagogue meeting almost certainly involved readings from the
+law and the prophets ([^philo-hypo][^saunders-practice][^levine-synagogue]).
+Alan Millard ([^r-and-r-tj]) estimates that a long scroll of Isaiah would have
+cost around a week of a casual laborer's wages.
+
+[^philo-hypo]: Philo
+["Hypothetica"](http://www.earlychristianwritings.com/yonge/book37.html) 7.13.
+
+[^saunders-practice]: E.P. Saunders, "Judaism: Practice and Belief, 63 BCE-66
+CE" 2016, p 338.
+
+[^levine-synagogue]: Lee I. Levine "The Nature and Origin of the Palestinian
+Synagogue Reconsidered" Journal of Biblical Literature, Vol. 115 1996, p 432:
+"For Jewish authors, the unique feature of synagogue worship was [...] the
+public recitation and expounding of Holy Scriptures."
 
 [^r-and-r-tj]: Alan Millard, "Reading and Writing in the Time of Jesus" Vol.
 69. NYU Press, 2000, p 165.
@@ -300,19 +312,20 @@ you would find that [40 percent of working age Americans have a
 degree](http://strongernation.luminafoundation.org/report/2016), and [0.5% of
 US degrees are philosophy
 degrees](http://www.humanitiesindicators.org/content/indicatorDoc.aspx?d=56&hl=philosophy&m=0).
-If I selected a working-age American male at random, he has about a 2 in 1000
-chance of having a philosophy degree.  Now imagine I tell you that the person
-I have selected is a well-known teacher of philosophy.  You are now interested
-in the proportion of successful teachers of philosophy with a degree in
-philosophy.  You might guess this proportion was somewhere over 50%, so about
-250 times higher than your original estimate.   See [this blog
+That gives my randomly selected man a 2 in 1000 chance of having a philosophy
+degree.  Now imagine I tell you that the person I have selected is a
+well-known teacher of philosophy.  You are now interested in the proportion of
+successful teachers of philosophy with a degree in philosophy.  You might
+guess this proportion was somewhere over 50%, so about 250 times higher than
+your original estimate.   See [this blog
 post](http://www.patheos.com/blogs/bibleandculture/2011/11/02/reading-and-writing-in-herodian-israel-was-jesus-an-illiterate-peasant-part-one)
 for a summary of the evidence that Jesus had a detailed knowledge of the
 scriptures.
 
-If you, like me, were entirely ignorant of the geography of Nazareth, you
-might presume from "no nearby cliff" that Nazareth is pretty flat.  If so, the
-[Israeli tourist board disagrees with
+Next: "no nearby cliff". If you, like me, were ignorant of the geography of
+Nazareth, and read the authors' dismissal of the "nearby cliff", you might
+presume that Nazareth is pretty flat.  If so, the [Israeli tourist board
+disagrees with
 you](http://www.goisrael.com/Tourism_Eng/Tourist%20Information/Discover%20Israel/Cities/Pages/Nazareth.aspx):
 
 > Nazareth, in the lower Galilee, is located in the heart of a valley
