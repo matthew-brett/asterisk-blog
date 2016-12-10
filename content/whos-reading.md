@@ -1,5 +1,5 @@
 Title: Who is reading?
-Date: 2013-04-22 00:50
+Date: 2016-08-22 00:50
 Tags: History, Bible criticism, Academia
 Category: bible criticism
 Slug: whos-reading
@@ -113,7 +113,7 @@ interpretation appears in the passage itself - "But you have made it 'a den of
 robbers'".  Saunders rejects that passage as a later interpolation.  Even if
 it is, presumably that was the dominant interpretation in the first few
 centuries, so it doesn't seem likely that this interpretation was absurd to
-its audience, as it seems to be for Saunders.
+its audience, as it is for Saunders.
 
 Another objection is the one Saunders gives on p. 70: "Professor Moule has
 proposed to me that overturning one or more tables is not a self-evident
