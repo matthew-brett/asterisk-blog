@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Asterisk</title><link href="http://asterisk.dynevor.org/" rel="alternate"></link><link href="http://asterisk.dynevor.org/feeds/organizations.atom.xml" rel="self"></link><id>http://asterisk.dynevor.org/</id><updated>2013-06-25T16:00:00-07:00</updated><entry><title>The XFree / X.Org fork and open source governance</title><link href="http://asterisk.dynevor.org/xfree-forked.html" rel="alternate"></link><updated>2013-06-25T16:00:00-07:00</updated><author><name>Matthew Brett</name></author><id>tag:asterisk.dynevor.org,2013-06-25:xfree-forked.html</id><summary type="html">&lt;h2&gt;Why a history of the X.org fork?&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Asterisk</title><link href="http://asterisk.dynevor.org/" rel="alternate"></link><link href="http://asterisk.dynevor.org/feeds/organizations.atom.xml" rel="self"></link><id>http://asterisk.dynevor.org/</id><updated>2013-06-25T16:00:00-07:00</updated><entry><title>The XFree / X.Org fork and open source governance</title><link href="http://asterisk.dynevor.org/xfree-forked.html" rel="alternate"></link><published>2013-06-25T16:00:00-07:00</published><author><name>Matthew Brett</name></author><id>tag:asterisk.dynevor.org,2013-06-25:xfree-forked.html</id><summary type="html">&lt;h2&gt;Why a history of the X.org fork?&lt;/h2&gt;
 &lt;p&gt;Forks are experiments in open-source management (&lt;sup id="fnref:oss-why-fork"&gt;&lt;a class="footnote-ref" href="#fn:oss-why-fork" rel="footnote"&gt;1&lt;/a&gt;&lt;/sup&gt;).&lt;/p&gt;
-&lt;p&gt;Management in open-source can mysterious. In our technical world, we would
+&lt;p&gt;Management in open-source can be mysterious. In our technical world, we would
 rather believe that anything important must be technical, and management seems
 soft and poorly defined. We want to believe that all you need is good code,
 and that management is for corporate types, whom we despise.&lt;/p&gt;
@@ -157,11 +157,11 @@ a consequence, Keith Packard is no longer a member of the XFree86 Core Team.&lt;
 &lt;/blockquote&gt;
 &lt;p&gt;The board claimed to have email evidence of Packard's intentions, but that
 they were unable to release this evidence because the emails were private and
-Packard had asked for them not to be released (&lt;sup id="fnref:dw-have-cause"&gt;&lt;a class="footnote-ref" href="#fn:dw-have-cause" rel="footnote"&gt;31&lt;/a&gt;&lt;/sup&gt;). Packard
-responded with permission to release the mails (&lt;sup id="fnref:kp-release-emails"&gt;&lt;a class="footnote-ref" href="#fn:kp-release-emails" rel="footnote"&gt;32&lt;/a&gt;&lt;/sup&gt;) and David
+Packard had asked for them not to be released (&lt;sup id="fnref:dw-have-cause"&gt;&lt;a class="footnote-ref" href="#fn:dw-have-cause" rel="footnote"&gt;30&lt;/a&gt;&lt;/sup&gt;). Packard
+responded with permission to release the mails (&lt;sup id="fnref:kp-release-emails"&gt;&lt;a class="footnote-ref" href="#fn:kp-release-emails" rel="footnote"&gt;31&lt;/a&gt;&lt;/sup&gt;) and David
 Wexelblat, for the board, said that they would release some version of the
-emails soon after (&lt;sup id="fnref:dw-well-try"&gt;&lt;a class="footnote-ref" href="#fn:dw-well-try" rel="footnote"&gt;33&lt;/a&gt;&lt;/sup&gt;).  I could find no evidence that this
-happened. It's possible that the email enclosed in (&lt;sup id="fnref:private-cced"&gt;&lt;a class="footnote-ref" href="#fn:private-cced" rel="footnote"&gt;30&lt;/a&gt;&lt;/sup&gt;) is an
+emails soon after (&lt;sup id="fnref:dw-well-try"&gt;&lt;a class="footnote-ref" href="#fn:dw-well-try" rel="footnote"&gt;32&lt;/a&gt;&lt;/sup&gt;).  I could find no evidence that this
+happened. It's possible that the email enclosed in (&lt;sup id="fnref:private-cced"&gt;&lt;a class="footnote-ref" href="#fn:private-cced" rel="footnote"&gt;33&lt;/a&gt;&lt;/sup&gt;) is an
 example of the discussion leading to Packard's expulsion.&lt;/p&gt;
 &lt;p&gt;Packard didn't reply directly to the thread expelling him from the core, but
 instead posted an appeal for open governance of XFree86 (&lt;sup id="fnref:call-for-open"&gt;&lt;a class="footnote-ref" href="#fn:call-for-open" rel="footnote"&gt;27&lt;/a&gt;&lt;/sup&gt;).  He
@@ -366,10 +366,10 @@ directors] repeatedly explaining that it wasn't.  Now it's gone, so people
 will have to find something else to complain about. (&lt;sup id="fnref:core-gone"&gt;&lt;a class="footnote-ref" href="#fn:core-gone" rel="footnote"&gt;49&lt;/a&gt;&lt;/sup&gt;)&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2&gt;Start of the X.org foundation&lt;/h2&gt;
-&lt;p&gt;In Januay 2004, many of those involved in the discussion formed a new company
+&lt;p&gt;In January 2004, many of those involved in the discussion formed a new company
 called the X.Org foundation (as distinct from the previous X.Org consortium).
-A presentation to the Linux World Expo (&lt;sup id="fnref:xorg-foundation"&gt;&lt;a class="footnote-ref" href="#fn:xorg-foundation" rel="footnote"&gt;50&lt;/a&gt;&lt;/sup&gt;) gave the mission
-statement as:&lt;/p&gt;
+A presentation to the Linux World Expo on 22nd January (&lt;sup id="fnref:xorg-foundation"&gt;&lt;a class="footnote-ref" href="#fn:xorg-foundation" rel="footnote"&gt;50&lt;/a&gt;&lt;/sup&gt;)
+gave the mission statement as:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;To promote a proactive and participatory community for Open Source X Window
 System and desktop development&lt;/p&gt;
@@ -390,10 +390,11 @@ representatives from industry and free software organizations:&lt;/p&gt;
 &lt;li&gt;Jeremy White - Code Weavers&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;License change and collapse of XFree86&lt;/h2&gt;
-&lt;p&gt;At the end of January 2004, David Dawes announced a change to the base XFree86
+&lt;p&gt;On 29th January 2004, David Dawes announced a change to the base XFree86
 license (&lt;sup id="fnref:license-announce"&gt;&lt;a class="footnote-ref" href="#fn:license-announce" rel="footnote"&gt;53&lt;/a&gt;&lt;/sup&gt;).&lt;/p&gt;
-&lt;p&gt;The &lt;a href="http://www.xfree86.org/legal/licenses.html"&gt;new license&lt;/a&gt; added a
-non-standard clause that required any derived work to include a
+&lt;p&gt;The &lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/legal/licenses.html"&gt;new
+license&lt;/a&gt;
+added a non-standard clause that required any derived work to include a
 specified acknowledgment of XFree86 in the documentation or "in the software
 itself":&lt;/p&gt;
 &lt;blockquote&gt;
@@ -501,7 +502,7 @@ interest switching to X.org.&lt;/p&gt;
 &lt;p&gt;&lt;a href="http://www.informatica.co.cr/linux-desktops/research/1994/1116.html"&gt;http://www.informatica.co.cr/linux-desktops/research/1994/1116.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:president-dawes" rev="footnote" title="Jump back to footnote 8 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:current-bod"&gt;
-&lt;p&gt;&lt;a href="http://www.xfree86.org/legal/bod.html"&gt;http://www.xfree86.org/legal/bod.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:current-bod" rev="footnote" title="Jump back to footnote 9 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/legal/bod.html"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/legal/bod.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:current-bod" rev="footnote" title="Jump back to footnote 9 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:xorg-consortium"&gt;
 &lt;p&gt;&lt;a href="http://web.archive.org/web/20030402160332/http://www.x.org/XOrg_background.html"&gt;http://web.archive.org/web/20030402160332/http://www.x.org/XOrg_background.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:xorg-consortium" rev="footnote" title="Jump back to footnote 10 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
@@ -537,10 +538,10 @@ interest switching to X.org.&lt;/p&gt;
 &lt;p&gt;&lt;a href="http://web.archive.org/web/20030304041751/http://advogato.org/person/mharris/diary.html?start=6"&gt;http://web.archive.org/web/20030304041751/http://advogato.org/person/mharris/diary.html?start=6&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:mh-blog-fu" rev="footnote" title="Jump back to footnote 20 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:kp-issue"&gt;
-&lt;p&gt;&lt;a href="http://wwwd.xfree86.org/pipermail/forum/2003-March/002018.html"&gt;http://wwwd.xfree86.org/pipermail/forum/2003-March/002018.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:kp-issue" rev="footnote" title="Jump back to footnote 21 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002018.html"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002018.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:kp-issue" rev="footnote" title="Jump back to footnote 21 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:forum-communication"&gt;
-&lt;p&gt;&lt;a href="http://xfree86.org/pipermail/forum/2003-March/000476.html"&gt;http://xfree86.org/pipermail/forum/2003-March/000476.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:forum-communication" rev="footnote" title="Jump back to footnote 22 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/000476.html"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/000476.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:forum-communication" rev="footnote" title="Jump back to footnote 22 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:debian-xfree86-pain"&gt;
 &lt;p&gt;&lt;a href="http://lists.debian.org/debian-x/2003/11/msg00285.html"&gt;http://lists.debian.org/debian-x/2003/11/msg00285.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:debian-xfree86-pain" rev="footnote" title="Jump back to footnote 23 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
@@ -552,49 +553,49 @@ interest switching to X.org.&lt;/p&gt;
 &lt;p&gt;&lt;a href="http://www.mail-archive.com/xpert@xfree86.org/msg11290.html"&gt;http://www.mail-archive.com/xpert@xfree86.org/msg11290.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:xfixes-disabled" rev="footnote" title="Jump back to footnote 25 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:kp-is-out"&gt;
-&lt;p&gt;&lt;a href="http://www.xfree86.org/pipermail/forum/2003-March/001997.html"&gt;http://www.xfree86.org/pipermail/forum/2003-March/001997.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:kp-is-out" rev="footnote" title="Jump back to footnote 26 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/001997.html"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/001997.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:kp-is-out" rev="footnote" title="Jump back to footnote 26 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:call-for-open"&gt;
-&lt;p&gt;&lt;a href="http://www.xfree86.org/pipermail/forum/2003-March/002165.html"&gt;http://www.xfree86.org/pipermail/forum/2003-March/002165.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:call-for-open" rev="footnote" title="Jump back to footnote 27 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002165.html"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002165.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:call-for-open" rev="footnote" title="Jump back to footnote 27 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:kp-no-cvs"&gt;
-&lt;p&gt;&lt;a href="http://www.xfree86.org/pipermail/forum/2003-March/002105.html"&gt;http://www.xfree86.org/pipermail/forum/2003-March/002105.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:kp-no-cvs" rev="footnote" title="Jump back to footnote 28 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002105.html"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002105.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:kp-no-cvs" rev="footnote" title="Jump back to footnote 28 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:kp-xfixes-rumor"&gt;
-&lt;p&gt;&lt;a href="http://www.xfree86.org/pipermail/forum/2003-March/002121.html"&gt;http://www.xfree86.org/pipermail/forum/2003-March/002121.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:kp-xfixes-rumor" rev="footnote" title="Jump back to footnote 29 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id="fn:private-cced"&gt;
-&lt;p&gt;&lt;a href="http://www.xfree86.org/pipermail/forum/2003-April/003139.html"&gt;http://www.xfree86.org/pipermail/forum/2003-April/003139.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:private-cced" rev="footnote" title="Jump back to footnote 30 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002121.html"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002121.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:kp-xfixes-rumor" rev="footnote" title="Jump back to footnote 29 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:dw-have-cause"&gt;
-&lt;p&gt;&lt;a href="http://www.xfree86.org/pipermail/forum/2003-March/002461.html"&gt;http://www.xfree86.org/pipermail/forum/2003-March/002461.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:dw-have-cause" rev="footnote" title="Jump back to footnote 31 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002461.html"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002461.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:dw-have-cause" rev="footnote" title="Jump back to footnote 30 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:kp-release-emails"&gt;
-&lt;p&gt;&lt;a href="http://www.xfree86.org/pipermail/forum/2003-March/002525.html"&gt;http://www.xfree86.org/pipermail/forum/2003-March/002525.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:kp-release-emails" rev="footnote" title="Jump back to footnote 32 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002525.html"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002525.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:kp-release-emails" rev="footnote" title="Jump back to footnote 31 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:dw-well-try"&gt;
-&lt;p&gt;&lt;a href="http://www.xfree86.org/pipermail/forum/2003-March/002545.html"&gt;http://www.xfree86.org/pipermail/forum/2003-March/002545.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:dw-well-try" rev="footnote" title="Jump back to footnote 33 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002545.html"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002545.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:dw-well-try" rev="footnote" title="Jump back to footnote 32 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id="fn:private-cced"&gt;
+&lt;p&gt;&lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-April/003139.html"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-April/003139.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:private-cced" rev="footnote" title="Jump back to footnote 33 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:hourihane1"&gt;
-&lt;p&gt;&lt;a href="http://www.xfree86.org/pipermail/forum/2003-March/002168.html"&gt;http://www.xfree86.org/pipermail/forum/2003-March/002168.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:hourihane1" rev="footnote" title="Jump back to footnote 34 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002168.html"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002168.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:hourihane1" rev="footnote" title="Jump back to footnote 34 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:tungsten-boss"&gt;
-&lt;p&gt;&lt;a href="http://xfree86.org/pipermail/forum/2003-March/002040.html"&gt;http://xfree86.org/pipermail/forum/2003-March/002040.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:tungsten-boss" rev="footnote" title="Jump back to footnote 35 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002040.html"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002040.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:tungsten-boss" rev="footnote" title="Jump back to footnote 35 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:dawes-tungsten"&gt;
-&lt;p&gt;&lt;a href="http://www.xfree86.org/pipermail/forum/2003-April/003357.html"&gt;http://www.xfree86.org/pipermail/forum/2003-April/003357.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:dawes-tungsten" rev="footnote" title="Jump back to footnote 36 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-April/003357.html"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-April/003357.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:dawes-tungsten" rev="footnote" title="Jump back to footnote 36 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:dx-cheap"&gt;
-&lt;p&gt;&lt;a href="http://xfree86.org/pipermail/forum/2003-March/002124.html"&gt;http://xfree86.org/pipermail/forum/2003-March/002124.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:dx-cheap" rev="footnote" title="Jump back to footnote 37 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002124.html"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002124.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:dx-cheap" rev="footnote" title="Jump back to footnote 37 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:dawes-old-guys"&gt;
-&lt;p&gt;&lt;a href="http://xfree86.org/pipermail/forum/2003-March/002208.html"&gt;http://xfree86.org/pipermail/forum/2003-March/002208.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:dawes-old-guys" rev="footnote" title="Jump back to footnote 38 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002208.html"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002208.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:dawes-old-guys" rev="footnote" title="Jump back to footnote 38 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:murphey-phoey"&gt;
-&lt;p&gt;&lt;a href="http://xfree86.org/pipermail/forum/2003-March/002286.html"&gt;http://xfree86.org/pipermail/forum/2003-March/002286.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:murphey-phoey" rev="footnote" title="Jump back to footnote 39 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002286.html"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002286.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:murphey-phoey" rev="footnote" title="Jump back to footnote 39 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:cox-change"&gt;
-&lt;p&gt;&lt;a href="http://www.xfree86.org/pipermail/forum/2003-March/002077.html"&gt;http://www.xfree86.org/pipermail/forum/2003-March/002077.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:cox-change" rev="footnote" title="Jump back to footnote 40 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002077.html"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002077.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:cox-change" rev="footnote" title="Jump back to footnote 40 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:teleconference-1"&gt;
 &lt;p&gt;&lt;a href="http://web.archive.org/web/20030607004252/http://fontconfig.org/~keithp/teleconference/minutes-2003-03-27.txt"&gt;http://web.archive.org/web/20030607004252/http://fontconfig.org/~keithp/teleconference/minutes-2003-03-27.txt&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:teleconference-1" rev="footnote" title="Jump back to footnote 41 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
@@ -633,28 +634,28 @@ interest switching to X.org.&lt;/p&gt;
 &lt;p&gt;&lt;a href="http://www.gnu.org/licenses/old-licenses/gpl-2.0.html"&gt;http://www.gnu.org/licenses/old-licenses/gpl-2.0.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:gpl-2" rev="footnote" title="Jump back to footnote 52 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:license-announce"&gt;
-&lt;p&gt;&lt;a href="http://www.xfree86.org/pipermail/forum/2004-January/001892.html"&gt;http://www.xfree86.org/pipermail/forum/2004-January/001892.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:license-announce" rev="footnote" title="Jump back to footnote 53 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2004-January/001892.html"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2004-January/001892.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:license-announce" rev="footnote" title="Jump back to footnote 53 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:gpl-should-change"&gt;
-&lt;p&gt;&lt;a href="http://www.xfree86.org/pipermail/forum/2004-January/003907.html"&gt;http://www.xfree86.org/pipermail/forum/2004-January/003907.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:gpl-should-change" rev="footnote" title="Jump back to footnote 54 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2004-January/003907.html"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2004-January/003907.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:gpl-should-change" rev="footnote" title="Jump back to footnote 54 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:license-no-support"&gt;
-&lt;p&gt;&lt;a href="http://www.xfree86.org/pipermail/forum/2004-February/004035.html"&gt;http://www.xfree86.org/pipermail/forum/2004-February/004035.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:license-no-support" rev="footnote" title="Jump back to footnote 55 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2004-February/004035.html"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2004-February/004035.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:license-no-support" rev="footnote" title="Jump back to footnote 55 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:dawes-hung-out"&gt;
-&lt;p&gt;&lt;a href="http://www.xfree86.org/pipermail/forum/2004-February/004039.html"&gt;http://www.xfree86.org/pipermail/forum/2004-February/004039.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:dawes-hung-out" rev="footnote" title="Jump back to footnote 56 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2004-February/004039.html"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2004-February/004039.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:dawes-hung-out" rev="footnote" title="Jump back to footnote 56 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:xorg-release"&gt;
 &lt;p&gt;&lt;a href="http://lwn.net/Articles/79302"&gt;http://lwn.net/Articles/79302&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:xorg-release" rev="footnote" title="Jump back to footnote 57 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:gettys-on-change"&gt;
-&lt;p&gt;&lt;a href="http://www.xfree86.org/pipermail/forum/2004-February/003945.html"&gt;http://www.xfree86.org/pipermail/forum/2004-February/003945.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:gettys-on-change" rev="footnote" title="Jump back to footnote 58 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2004-February/003945.html"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2004-February/003945.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:gettys-on-change" rev="footnote" title="Jump back to footnote 58 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:stallman-on-license"&gt;
-&lt;p&gt;&lt;a href="http://www.xfree86.org/pipermail/forum/2004-February/003974.html"&gt;http://www.xfree86.org/pipermail/forum/2004-February/003974.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:stallman-on-license" rev="footnote" title="Jump back to footnote 59 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2004-February/003974.html"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2004-February/003974.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:stallman-on-license" rev="footnote" title="Jump back to footnote 59 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:dawes-no-gpl"&gt;
-&lt;p&gt;&lt;a href="http://www.xfree86.org/pipermail/forum/2004-February/004021.html"&gt;http://www.xfree86.org/pipermail/forum/2004-February/004021.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:dawes-no-gpl" rev="footnote" title="Jump back to footnote 60 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2004-February/004021.html"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2004-February/004021.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:dawes-no-gpl" rev="footnote" title="Jump back to footnote 60 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:xfree86-and-gpl"&gt;
 &lt;p&gt;&lt;a href="http://www.dwheeler.com/essays/gpl-compatible.html#xfree86"&gt;http://www.dwheeler.com/essays/gpl-compatible.html#xfree86&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:xfree86-and-gpl" rev="footnote" title="Jump back to footnote 61 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
@@ -663,7 +664,7 @@ interest switching to X.org.&lt;/p&gt;
 &lt;p&gt;&lt;a href="http://web.archive.org/web/20040531203819/http://www.xfree86.org/distro-support.html"&gt;http://web.archive.org/web/20040531203819/http://www.xfree86.org/distro-support.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:xfree-distributions" rev="footnote" title="Jump back to footnote 62 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/div&gt;</summary><category term="Management"></category><category term="open source"></category><category term="free software"></category><category term="core"></category><category term="XFree86"></category><category term="Xorg"></category></entry><entry><title>The core melts down</title><link href="http://asterisk.dynevor.org/melting-core.html" rel="alternate"></link><updated>2013-06-25T14:00:00-07:00</updated><author><name>Matthew Brett</name></author><id>tag:asterisk.dynevor.org,2013-06-25:melting-core.html</id><summary type="html">&lt;p&gt;My friend &lt;a href="http://pirsquared.org"&gt;Paul Ivanov&lt;/a&gt; kindly pointed me to this
+&lt;/div&gt;</summary><category term="Management"></category><category term="open source"></category><category term="free software"></category><category term="core"></category><category term="XFree86"></category><category term="Xorg"></category></entry><entry><title>The core melts down</title><link href="http://asterisk.dynevor.org/melting-core.html" rel="alternate"></link><published>2013-06-25T14:00:00-07:00</published><author><name>Matthew Brett</name></author><id>tag:asterisk.dynevor.org,2013-06-25:melting-core.html</id><summary type="html">&lt;p&gt;My friend &lt;a href="http://pirsquared.org"&gt;Paul Ivanov&lt;/a&gt; kindly pointed me to this
 &lt;a href="http://julipedia.meroh.net/2013/06/self-interview-after-leaving-netbsd.html"&gt;Self-interview after leaving the NetBSD
 board&lt;/a&gt; by Julio Merino.&lt;/p&gt;
 &lt;p&gt;This lead me to an earlier &lt;a href="http://mail-index.netbsd.org/netbsd-users/2006/08/30/0016.html"&gt;NetBSD resignation
@@ -722,7 +723,7 @@ project to solutions.  They are going to maintain the status quo, and
 nothing else.  If the project is to rise from its charred stump, this
 "management" must be disbanded and replaced wholesale.  Anything less is a
 non-solution.&lt;/p&gt;
-&lt;/blockquote&gt;</summary><category term="Management"></category><category term="open source"></category><category term="free software"></category><category term="core"></category><category term="BSD"></category><category term="NetBSD"></category></entry><entry><title>Disapproval of heart</title><link href="http://asterisk.dynevor.org/disapproval-of-heart.html" rel="alternate"></link><updated>2013-04-22T00:50:00-07:00</updated><author><name>Matthew Brett</name></author><id>tag:asterisk.dynevor.org,2013-04-22:disapproval-of-heart.html</id><summary type="html">&lt;blockquote&gt;
+&lt;/blockquote&gt;</summary><category term="Management"></category><category term="open source"></category><category term="free software"></category><category term="core"></category><category term="BSD"></category><category term="NetBSD"></category></entry><entry><title>Disapproval of heart</title><link href="http://asterisk.dynevor.org/disapproval-of-heart.html" rel="alternate"></link><published>2013-04-22T00:50:00-07:00</published><author><name>Matthew Brett</name></author><id>tag:asterisk.dynevor.org,2013-04-22:disapproval-of-heart.html</id><summary type="html">&lt;blockquote&gt;
 &lt;p&gt;Shortly before this, the minister of agriculture Yan Yi had been put to
 death. Yan Yi had originally been a village head in Ji'nan.  Because of his
 honesty and integrity, he was gradually promoted in office until he became
@@ -743,7 +744,7 @@ good graces of the emperor.&lt;/p&gt;
 &lt;p&gt;-- &lt;cite&gt;Sima Qian, Records of the Grand Historian; Han Dynasty II (revised
 edition). pp 75-76 Translated by Burton Watson.  Columbia University Press
 1993 &lt;/cite&gt;&lt;/p&gt;
-&lt;/blockquote&gt;</summary><category term="History"></category><category term="China"></category></entry><entry><title>A bad time</title><link href="http://asterisk.dynevor.org/a-bad-time.html" rel="alternate"></link><updated>2013-04-21T16:30:00-07:00</updated><author><name>Matthew Brett</name></author><id>tag:asterisk.dynevor.org,2013-04-21:a-bad-time.html</id><summary type="html">&lt;blockquote&gt;
+&lt;/blockquote&gt;</summary><category term="History"></category><category term="China"></category></entry><entry><title>A bad time</title><link href="http://asterisk.dynevor.org/a-bad-time.html" rel="alternate"></link><published>2013-04-21T16:30:00-07:00</published><author><name>Matthew Brett</name></author><id>tag:asterisk.dynevor.org,2013-04-21:a-bad-time.html</id><summary type="html">&lt;blockquote&gt;
 &lt;p&gt;From the time of these men on, the empire was torn by the strife of the
 warring kingdoms. Men honoured deceit and power and scoffed at benevolence
 and righteousness; they put wealth and possession first and courtesy and

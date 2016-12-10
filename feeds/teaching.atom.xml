@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Asterisk</title><link href="http://asterisk.dynevor.org/" rel="alternate"></link><link href="http://asterisk.dynevor.org/feeds/teaching.atom.xml" rel="self"></link><id>http://asterisk.dynevor.org/</id><updated>2016-12-09T12:00:00-08:00</updated><entry><title>Teaching easy, teaching simple</title><link href="http://asterisk.dynevor.org/teaching-simple.html" rel="alternate"></link><published>2016-12-09T12:00:00-08:00</published><author><name>Matthew Brett</name></author><id>tag:asterisk.dynevor.org,2016-12-09:teaching-simple.html</id><summary type="html">&lt;h2&gt;Easy and simple&lt;/h2&gt;
+&lt;p&gt;I am going to use the definitions of "simple" and "easy" from &lt;a href="http://www.infoq.com/presentations/Simple-Made-Easy"&gt;this
+talk&lt;/a&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Simple comes from Latin &lt;em&gt;simplex&lt;/em&gt; - one fold.  Simple is the opposite of
+  &lt;em&gt;complex&lt;/em&gt;, which comes from the Latin for "twisted together".&lt;/li&gt;
+&lt;li&gt;Easy comes from old French &lt;em&gt;aiser&lt;/em&gt; which in turn comes from the Latin
+  &lt;em&gt;adjacens&lt;/em&gt; "lying close by" (&lt;sup id="fnref:oxford-dictionary"&gt;&lt;a class="footnote-ref" href="#fn:oxford-dictionary" rel="footnote"&gt;1&lt;/a&gt;&lt;/sup&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;"Easy" is what you are familiar with. "Easy" is not far from something you
+already know.&lt;/p&gt;
+&lt;p&gt;"Simple" is when you have succeeded in breaking the problem into separate
+component ideas.&lt;/p&gt;
+&lt;h2&gt;Easy tools, simple tools&lt;/h2&gt;
+&lt;p&gt;I use a general-purpose text editor for as many tasks as I can.  For the last
+six years I have used Vim and Gvim; before that, I used Emacs.  Like many
+powerful text editors, Vim and Emacs can be configured for editing many
+different types of text files, including code in different languages.   For
+example, I am using Vim to edit this text in Markdown format; Vim does
+Markdown syntax highlighting.&lt;/p&gt;
+&lt;p&gt;I had been using Emacs in this way for a long time before I read this advice
+in the classic book "The Pragmatic Programmer" by Andrew Hunt and David Thomas
+(2000):&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Use a Single Editor Well&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The editor should be an extension of your hand; make sure your editor is
+configurable, extensible, and programmable.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;When I have a task that needs thought, I often sketch the code or text on a
+piece of paper, then fill out the sketch in Vim.  For example, I wrote the
+first draft of this post in an art notebook with large pages, and now I am
+typing it up and editing in Vim.&lt;/p&gt;
+&lt;p&gt;I use Vim to read and write:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;code in Python, C and MATLAB;&lt;/li&gt;
+&lt;li&gt;papers or reference letters using LaTeX;&lt;/li&gt;
+&lt;li&gt;tutorials in Restructured Text;&lt;/li&gt;
+&lt;li&gt;presentations in Markdown / LaTeX;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;To execute code I use the terminal command line, or the IPython Python
+interpreter, which is also a terminal application.  I use command-line tools
+like &lt;code&gt;make&lt;/code&gt; to build my papers and presentations.  In the days when I used
+MATLAB daily, I preferred to start it in &lt;code&gt;-nodesktop&lt;/code&gt; mode, to disable most of
+the graphical user interface.&lt;/p&gt;
+&lt;p&gt;Very occasionally I use a specialized tool for a short task that does not need
+much thought.   For example I sometimes use LibreOffice or OSX Pages to write
+short letters, Keynote for a presentation with many graphics, or the Jupyter
+notebook when I am experimenting with plots in Python, or when I am writing a
+demonstration of code I already understand.&lt;/p&gt;
+&lt;p&gt;As soon as the task needs some thought, I switch into my text editor. I do
+this to relieve myself of the burden of using the richer and more complicated
+interfaces of the other tools.  I am very familiar with my text editor, so I
+no longer have to think how to do things like editing text.  With Vim, in
+particular, I find that the cursor seems to follow my eyes; I have little or
+no conscious sensation of what my hands are typing as they enter the commands
+to move the cursor.&lt;/p&gt;
+&lt;p&gt;I am sure I am not alone in finding it hard to think clearly.  If you give me
+an interface that makes it easy to play with code in a sloppy and unstructured
+way, I will.  Sometimes doing that is useful, but most of the time, giving in
+to the temptation to play with code is disastrous for my clarity of thought.&lt;/p&gt;
+&lt;p&gt;I think more clearly in Vim because I have used Vim enough that my hands and
+my motor cortex can do the mechanical work of editing, leaving the rest of my
+brain free for thinking (&lt;sup id="fnref:two-paths"&gt;&lt;a class="footnote-ref" href="#fn:two-paths" rel="footnote"&gt;2&lt;/a&gt;&lt;/sup&gt;).  I do not have to interrupt my
+concentration by moving my hands to the mouse or trackpad, because I can do
+everything I need with the keyboard commands.  Using my text editor is simple,
+because the task of editing is not entangled with the task of thinking.&lt;/p&gt;
+&lt;h2&gt;Easy and simple in teaching&lt;/h2&gt;
+&lt;p&gt;When we teach scientists to write and use code, new students are unlikely to
+know a general-purpose text editor well, and may never have used a terminal
+application.  It does not seem practical for them to learn to use an editor
+and the terminal as well as the other new things we teach.  For that reason,
+many courses give students an easy interactive environment such as the MATLAB
+workspace, R Studio or the Jupyter Notebook.  The idea is that it makes it
+easier for the students to concentrate on code rather than learning how to use
+the tools.  In my experience, the students often continue using the easy tools
+from the class, and do not go on to learn the simple tools that experts use.&lt;/p&gt;
+&lt;p&gt;Some teachers do not believe that their students should be using the same
+tools as the experts.  The argument is that scientists use and write code in a
+different way from programmers, so they do not need the tools that a
+programmer would choose.  If that argument were correct, that would be happy
+for teachers, because the simple tools are hard to teach.&lt;/p&gt;
+&lt;p&gt;I chose my tools to help me think clearly.  Does a scientist using code need
+less clarity of thought than a programmer?  Your answer to this will probably
+depend on your model of scientific practice.  If you think that a scientist
+should spend most of their time exploring code and data in an informal way,
+you might conclude that "easy" is acceptable, even desirable.  My own
+experience of using tools like the Jupyter Notebook is that I cannot afford to
+work in this way without exposing myself to great risk from ubiquitous error
+and self-deception (&lt;sup id="fnref:ubiquitous-error"&gt;&lt;a class="footnote-ref" href="#fn:ubiquitous-error" rel="footnote"&gt;3&lt;/a&gt;&lt;/sup&gt;).  If your experience of science is
+like mine, you will probably prefer "simple".
+]&lt;/p&gt;
+&lt;p&gt;You might accept that scientists do need to learn the simple tools at some
+point, but the constraints of your course do not allow you to spend time on
+teaching tools.  Teaching the simple tools, would take too long.  In that case
+you have to consider the potential for damage to the students' practice over
+the long term.  If a student sees their teachers using easy tools, and
+encouraging them to do the same, they are less likely to commit themselves to
+the hard work necessary to learn the simple tools.  To quote a friend and
+colleague: "It would be terrible if we make a generation of copy-paste
+scientists".&lt;/p&gt;
+&lt;p&gt;As I have taught more, I have put more effort into introducing students to the
+simple tools right at the beginning of my course.  I want to teach students
+tools that I would use myself.  We use the terminal to run bash and git
+commands, the IPython console for exploring small code fragments, and a
+full-featured text editor for editing code and documents.  In my &lt;a href="https://bic-berkeley.github.io/psych-214-fall-2016"&gt;most recent
+course&lt;/a&gt; we used the Atom
+text editor. Sometimes I do use the Jupyter Notebook for my own work, bit I am
+careful not to use it in class, because it is so addictive, and therefore
+dangerous for an inexperienced user of code.&lt;/p&gt;
+&lt;h2&gt;Teach simple, not easy&lt;/h2&gt;
+&lt;p&gt;Teaching always involves some degree of instruction that is implicit.  The
+students take our working practice as a model of expertise.  This model can be
+more more persuasive than anything else we teach.  We should use implicit and
+explicit learning to teach effective practice.  Sound working practice is
+the foundation on which we build; it is worth the cost in curriculum time to
+s]how the benefit of simple, and the risks of easy.&lt;/p&gt;
+&lt;div class="footnote"&gt;
+&lt;hr /&gt;
+&lt;ol&gt;
+&lt;li id="fn:oxford-dictionary"&gt;
+&lt;p&gt;Oxford dictionary of Word origins edited by Julia
+Cresswell.&amp;#160;&lt;a class="footnote-backref" href="#fnref:oxford-dictionary" rev="footnote" title="Jump back to footnote 1 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id="fn:two-paths"&gt;
+&lt;p&gt;there is good neuroscientific evidence for this simple
+distinction between habitual tasks and tasks that require conscious effort.
+If you try and do two tasks that require conscious effort, they interfere with
+one another so you cannot do both tasks well.  If you do an habitual task at
+the same time as a task that requires conscious effort, the tasks interfere
+much less.&amp;#160;&lt;a class="footnote-backref" href="#fnref:two-paths" rev="footnote" title="Jump back to footnote 2 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id="fn:ubiquitous-error"&gt;
+&lt;p&gt;"The scientific method's central motivation is the
+ubiquity of error - the awareness that mistakes and self-delusion can creep in
+absolutely anywhere and that the scientist's effort is primarily expended in
+recognizing and rooting out error" David L. Donoho &lt;em&gt;et al&lt;/em&gt; (2009)
+"Reproducible research in computational harmonic analysis" Computing in
+Science &amp;amp; Engineering 11 p8-18.&amp;#160;&lt;a class="footnote-backref" href="#fnref:ubiquitous-error" rev="footnote" title="Jump back to footnote 3 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</summary><category term="Thinking"></category><category term="Teaching"></category><category term="Coding"></category></entry><entry><title>How should we teach students to use computers?</title><link href="http://asterisk.dynevor.org/how-should-we-teach-computing.html" rel="alternate"></link><published>2016-08-19T12:00:00-07:00</published><author><name>Matthew Brett</name></author><id>tag:asterisk.dynevor.org,2016-08-19:how-should-we-teach-computing.html</id><summary type="html">&lt;p&gt;The software carpentry movement has the aim of teaching scientists how to use
+computers well.&lt;/p&gt;
+&lt;p&gt;It is important to teach this so we can produce work of high quality.  It is
+more likely that our work will be transparent enough for someone else to use
+it, and reproduce it.&lt;/p&gt;
+&lt;p&gt;Once we agree that it is useful to teach this, we still have to decide what we
+are going to do about the following problem:&lt;/p&gt;
+&lt;h2&gt;Difficult, tiring and confusing&lt;/h2&gt;
+&lt;p&gt;Maintaining scientific software on your computer is a &lt;strong&gt;difficult, tiring and
+confusing&lt;/strong&gt; task.  It is a task that needs a combination of commitment and
+skill in solving problems where the solution may be hard to find and
+understand, and there is a great deal of conflicting advice.&lt;/p&gt;
+&lt;h2&gt;Two different approaches to teaching&lt;/h2&gt;
+&lt;h3&gt;Approach 1: try to keep students away from the problem&lt;/h3&gt;
+&lt;p&gt;Here, you design your course setup and course materials so that you avoid
+confusion or ambiguity in installing or maintaining the software.&lt;/p&gt;
+&lt;p&gt;For example, you might make all the students use Jupyter notebooks hosted on a
+central server, so they don't use their own computers at all, except as a
+client via their web-browser.&lt;/p&gt;
+&lt;p&gt;You might use &lt;a href="https://wakari.io"&gt;Wakari&lt;/a&gt; to do the same kind of thing.&lt;/p&gt;
+&lt;p&gt;Less comprehensively, you might insist or suggest that everyone use the same
+Python distribution and packages, which will usually be Anaconda, so at least
+everyone has roughly the same setup on their computer.  These packages are
+usually easy to very easy to install and use, but don't protect you from later
+confusion and pain for not-default packages.&lt;/p&gt;
+&lt;p&gt;The advantage of this approach is that you get to spend your time teaching the
+stuff you are interested in, instead of struggling with the complexity of
+individual user installs.&lt;/p&gt;
+&lt;p&gt;The disadvantage is that, as soon as the student leaves the class and starts
+on the road to maturity, they will hit the problems that you have shielded
+them from.  No matter what you told them in the class, they will conclude that
+this work is much harder than you claimed, or that they are deficient and
+should give up.&lt;/p&gt;
+&lt;h3&gt;Approach 2: drop students in it and help them out again&lt;/h3&gt;
+&lt;p&gt;The other approach is to treat the problem of installation and maintenance as
+one that the students will have to learn to face.   They need to live in this
+world of confusion and ambiguity, and learn the skills to survive and
+flourish.&lt;/p&gt;
+&lt;p&gt;There are two obvious difficulties with this approach.&lt;/p&gt;
+&lt;p&gt;The first is that you will have to spend class time struggling with
+installation and maintenance problems, that might well be - difficult, tiring
+and confusing.  The time that you give to this, you must take from other
+instruction.&lt;/p&gt;
+&lt;p&gt;The second is that is hard to teach students these skills.  It is even hard to
+explain what those skills are.&lt;/p&gt;
+&lt;h2&gt;What's the best way?&lt;/h2&gt;
+&lt;p&gt;When we decide what to do, we have to agree on a goal.  For example, your goal
+might be to teach "data science" &lt;sup id="fnref:data-science-defined"&gt;&lt;a class="footnote-ref" href="#fn:data-science-defined" rel="footnote"&gt;1&lt;/a&gt;&lt;/sup&gt;.  The students should
+leave the class with a better understanding of issues in data science.  If
+that is your entire goal, then you may not worry that the students will soon
+stop using the tools that you have taught them.  No-one will blame you for
+those priorities.&lt;/p&gt;
+&lt;p&gt;On the other hand, your goal might be more broad.  You might want to make the
+students better at data science in the long term - long after the students
+have left your class.  In that case, you will worry about students being
+unable to continue using the tools after the end of the class.&lt;/p&gt;
+&lt;p&gt;I am personally more interested in the broader goal.  That is, I would like to
+teach in way that makes it most likely that students will become mature users
+of the tools they learn in class.  I believe that forces me towards approach
+\2.  That is, I really do need to teach the students how to deal with the
+difficult, tiring and confusing problem of maintaining their software.&lt;/p&gt;
+&lt;p&gt;How should we deal with the issues of lost class time, and teaching the
+unteachable skill of learning within confusion?   I believe the only way to do
+this is to teach by example.  That is, we have to give the students something
+similar to standard installation advice - the kind of advice that we would
+give our own graduate students getting started.  Then we have to sit down with
+the students who run into problems, and suffer with them for a while.  We show
+them how we try and solve the problem, we do our diagnostics, we check
+StackOverflow, we look at the command help and man pages, and we work it out,
+with them.   Yes, this is very hard to do with large classes or MOOCs.  With
+smaller classes, or with a reasonable number of teaching assistants, I believe
+this is practical.&lt;/p&gt;
+&lt;p&gt;The advantage of doing this, is that we show our students what real scientific
+computing looks like.  It isn't streamlined, smooth or easy, it is hard
+confusing and complex.  We give our students our best if we teach them to be
+comfortable and optimistic on this, our current frontier.&lt;/p&gt;
+&lt;h2&gt;Don't agree? - we should test&lt;/h2&gt;
+&lt;p&gt;I've asserted that approach 2 will cause more students to develop into mature
+users of scientific computing.&lt;/p&gt;
+&lt;p&gt;Maybe that isn't true.  Maybe, if we use approach 1 to the fullest extent,
+this will get students so excited about the possibilities of the tools, that
+this will impel them to overcome all later obstacles.&lt;/p&gt;
+&lt;p&gt;I think that won't happen, but I'm a scientist, I could be wrong, and that's
+an empirical question.&lt;/p&gt;
+&lt;p&gt;What we should do is have a randomized controlled trial.  Allocate half the
+students to approach 1, and half to approach 2.   Design an assessment of
+their computing maturity and assess the students at 1 and 2 years after the
+course.  I predict that students taught with approach 2 will be doing better
+on average.  You might predict the opposite.  Let's get data.&lt;/p&gt;
+&lt;div class="footnote"&gt;
+&lt;hr /&gt;
+&lt;ol&gt;
+&lt;li id="fn:data-science-defined"&gt;
+&lt;p&gt;I have heard it said, that data science can
+reasonably be defined as "doing statistics on a Mac".&amp;#160;&lt;a class="footnote-backref" href="#fnref:data-science-defined" rev="footnote" title="Jump back to footnote 1 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</summary><category term="Teaching"></category><category term="Coding"></category></entry><entry><title>Why do researchers write sloppy code?</title><link href="http://asterisk.dynevor.org/love-letter.html" rel="alternate"></link><published>2016-01-15T14:00:00-08:00</published><author><name>Matthew Brett</name></author><id>tag:asterisk.dynevor.org,2016-01-15:love-letter.html</id><summary type="html">&lt;p&gt;A friend of mine teaches a subject that involves scientific programming.  He
+has several times told me that he is surprised at some of the work that
+students turn in.  He tells me that it is often messy and badly written.
+Despite his clear instructions, the code often does not run as written and may
+have very obvious syntax errors, commented out lines for debugging and other
+work-in-progress cruft.  He wonders why the students turn in such bad code,
+when they would be much more careful turning in a mathematical proof.&lt;/p&gt;
+&lt;p&gt;This reminds me of a quote that I read a long time since, and have just found
+again in the famous "Code Complete" (&lt;sup id="fnref:code-complete"&gt;&lt;a class="footnote-ref" href="#fn:code-complete" rel="footnote"&gt;1&lt;/a&gt;&lt;/sup&gt;).&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;In the early years of programming, a program was regarded as the private
+property of the programmer. One would no more think of reading a colleague's
+program unbidden than of picking up a love letter and reading it. This is
+essentially what a program was, a love letter from the programmer to the
+hardware, full of the intimate details known only to partners in an affair.
+Consequently, programs became larded with the pet names and verbal shorthand
+so popular with lovers who live in the blissful abstraction that assumes
+that theirs is the only existence in the universe. Such programs are
+unintelligible to those outside the partnership.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;(Attributed to Michael Marcotty).&lt;/p&gt;
+&lt;p&gt;Students producing proofs in math have had a lot of practice in making the
+proof easy to follow.  They know that the proof is for the teacher or grader,
+and they write the proof for them.&lt;/p&gt;
+&lt;p&gt;Students do not have the same feeling about code.  For them, code is a private
+conversation between them and the computer.  If the computer does what we
+want, at least once, then the conversation that led to up that is outside the
+scope of public comment. The fact that the computer did what we wanted is the
+equivalent of the mathematical proof, and the code that made that happen is
+equivalent to the working notes for the proof.&lt;/p&gt;
+&lt;p&gt;That way of thinking is surprising to someone who has spent time developing
+software, because we know that we make many mistakes, and that, to reduce the
+number of mistakes, we need to lay out our reasoning in code, for others to
+check.&lt;/p&gt;
+&lt;p&gt;One difference between the developer and the student is that the developer
+knows that their code has to give the right answer in a range of
+circumstances, over a fairly long period of time, and on different types of
+computers.  To defend ourselves, we ask "is this code correct?".  If we want a
+good answer to this question, we have to write code that others can follow and
+criticize. The student usually has a different task, which is to get the
+computer to give a small number of required outputs.  Their question is "does
+this code give the required outputs in the situations for which I will be
+graded".  For that question, code quality is irrelevant.&lt;/p&gt;
+&lt;p&gt;That is a damn shame, because in due course, the student may go on to do
+research.  Their work will very likely involve some kind of coding.  They have
+learned that the point of coding is to get the desired result.  They write
+terrible, poorly organized code, that is full of errors, hard to read, and
+dangerous to re-use.  After some editing, the code produces a plausible
+answer, but it is likely to be wrong, because, as every experienced coder
+knows, &lt;a href="http://blog.nipy.org/ubiquity-of-error.html"&gt;coders make errors all the
+time&lt;/a&gt;.  The researcher can only
+know the answer is wrong if they know the code is wrong, but that is something
+that they have no instinct to investigate.&lt;/p&gt;
+&lt;div class="footnote"&gt;
+&lt;hr /&gt;
+&lt;ol&gt;
+&lt;li id="fn:code-complete"&gt;
+&lt;p&gt;Steve McConnell "Code Complete, second edition" (2004) p842.
+Microsoft Press.&amp;#160;&lt;a class="footnote-backref" href="#fnref:code-complete" rev="footnote" title="Jump back to footnote 1 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</summary><category term="Thinking"></category><category term="Teaching"></category><category term="Coding"></category></entry><entry><title>Makes-sense epistemology</title><link href="http://asterisk.dynevor.org/makes-sense.html" rel="alternate"></link><published>2016-01-15T14:00:00-08:00</published><author><name>Matthew Brett</name></author><id>tag:asterisk.dynevor.org,2016-01-15:makes-sense.html</id><summary type="html">&lt;p&gt;I've spend the last two years doing a reasonable amount of teaching.&lt;/p&gt;
+&lt;p&gt;I suppose that every teacher wonders whether the students are really
+"understanding" what we teach.  This begs the question of what we mean by
+understanding.&lt;/p&gt;
+&lt;p&gt;One effect of doing a lot of teaching, has been that I have found that I
+did not understand some things that I thought I did understand.  A particular
+example is Principal Components Analysis (PCA).  I think I do understand it
+now, but I did not before.  I have taught something about PCA in the past, and
+I think I was saying things that were true, but I didn't know why they were
+true.&lt;/p&gt;
+&lt;p&gt;What had happened was that I had heard other people that I trust say these
+things about PCA.  I heard the same thing a few times from a few different
+people, and I added what they said to the store of things I "knew".&lt;/p&gt;
+&lt;p&gt;In my case, I think I was using what Perkins, Allen and
+Hafner call "makes-sense epistemology" (&lt;sup id="fnref:perkins-allen-hafner"&gt;&lt;a class="footnote-ref" href="#fn:perkins-allen-hafner" rel="footnote"&gt;1&lt;/a&gt;&lt;/sup&gt;).  Someone
+using makes-sense epistemology is not reasoning or criticizing what they have
+heard. They are not asking "could that be wrong?".  Their criterion for
+accepting an argument is that the argument feels right or makes sense.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Naive reasoners might be said to have a "makes-sense epistemology."  Of
+course this does not mean that they have an explicit philosophy about what
+grounds are necessary for belief.  But it does mean something in terms of
+the manifested behavior:  such reasoners act as though the test of truth is
+that a proposition makes intuitive sense, sounds right, rings true.  They
+see no need to criticize accounts that do make sense - the intuitive feel of
+fit suffices.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;It seems to me that teachers are often in the situation where they cannot or
+do not hope to teach the students &lt;em&gt;why&lt;/em&gt; something is true, but only give them
+a &lt;em&gt;feeling&lt;/em&gt; for why something &lt;em&gt;might&lt;/em&gt; be true.  When we do this, we encourage
+makes-sense epistemology.&lt;/p&gt;
+&lt;p&gt;Does it matter that we often function on this intuitive makes-sense level?
+Not if we think that most of what we are told is true.  But, as Richard
+Feynman put it: "Science is the belief in the ignorance of experts."
+(&lt;sup id="fnref:ignorance"&gt;&lt;a class="footnote-ref" href="#fn:ignorance" rel="footnote"&gt;2&lt;/a&gt;&lt;/sup&gt;).&lt;/p&gt;
+&lt;div class="footnote"&gt;
+&lt;hr /&gt;
+&lt;ol&gt;
+&lt;li id="fn:perkins-allen-hafner"&gt;
+&lt;p&gt;Perkins, David N., Richard Allen, and James Hafner.
+"Difficulties in everyday reasoning." Thinking: The expanding frontier (1983):
+177-189. See: &lt;a href="https://books.google.com/books?id=QAFiGGJdoY8C&amp;amp;lpg=PP1&amp;amp;dq=editions%3ASA6JOdbqOxMC&amp;amp;pg=PA177#v=onepage&amp;amp;q&amp;amp;f=false"&gt;preview in Google
+books&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:perkins-allen-hafner" rev="footnote" title="Jump back to footnote 1 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id="fn:ignorance"&gt;
+&lt;p&gt;Address &lt;a href="http://www.fotuva.org/feynman/what_is_science.html"&gt;"What is
+Science?"&lt;/a&gt;, presented at
+the fifteenth annual meeting of the National Science Teachers Association, in
+New York City (1966), published in The Physics Teacher, volume 7, issue 6
+(1969), p. 313-320&amp;#160;&lt;a class="footnote-backref" href="#fnref:ignorance" rev="footnote" title="Jump back to footnote 2 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</summary><category term="Thinking"></category><category term="Teaching"></category><category term="Epistemology"></category></entry></feed>

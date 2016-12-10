@@ -1,7 +1,683 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Asterisk</title><link>http://asterisk.dynevor.org/</link><description></description><atom:link href="http://asterisk.dynevor.org/feeds/matthew-brett.rss.xml" rel="self"></atom:link><lastBuildDate>Tue, 25 Jun 2013 16:00:00 -0700</lastBuildDate><item><title>The XFree / X.Org fork and open source governance</title><link>http://asterisk.dynevor.org/xfree-forked.html</link><description>&lt;h2&gt;Why a history of the X.org fork?&lt;/h2&gt;
+<rss version="2.0"><channel><title>Asterisk</title><link>http://asterisk.dynevor.org/</link><description></description><lastBuildDate>Fri, 09 Dec 2016 12:00:00 -0800</lastBuildDate><item><title>Teaching easy, teaching simple</title><link>http://asterisk.dynevor.org/teaching-simple.html</link><description>&lt;h2&gt;Easy and simple&lt;/h2&gt;
+&lt;p&gt;I am going to use the definitions of "simple" and "easy" from &lt;a href="http://www.infoq.com/presentations/Simple-Made-Easy"&gt;this
+talk&lt;/a&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Simple comes from Latin &lt;em&gt;simplex&lt;/em&gt; - one fold.  Simple is the opposite of
+  &lt;em&gt;complex&lt;/em&gt;, which comes from the Latin for "twisted together".&lt;/li&gt;
+&lt;li&gt;Easy comes from old French &lt;em&gt;aiser&lt;/em&gt; which in turn comes from the Latin
+  &lt;em&gt;adjacens&lt;/em&gt; "lying close by" (&lt;sup id="fnref:oxford-dictionary"&gt;&lt;a class="footnote-ref" href="#fn:oxford-dictionary" rel="footnote"&gt;1&lt;/a&gt;&lt;/sup&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;"Easy" is what you are familiar with. "Easy" is not far from something you
+already know.&lt;/p&gt;
+&lt;p&gt;"Simple" is when you have succeeded in breaking the problem into separate
+component ideas.&lt;/p&gt;
+&lt;h2&gt;Easy tools, simple tools&lt;/h2&gt;
+&lt;p&gt;I use a general-purpose text editor for as many tasks as I can.  For the last
+six years I have used Vim and Gvim; before that, I used Emacs.  Like many
+powerful text editors, Vim and Emacs can be configured for editing many
+different types of text files, including code in different languages.   For
+example, I am using Vim to edit this text in Markdown format; Vim does
+Markdown syntax highlighting.&lt;/p&gt;
+&lt;p&gt;I had been using Emacs in this way for a long time before I read this advice
+in the classic book "The Pragmatic Programmer" by Andrew Hunt and David Thomas
+(2000):&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Use a Single Editor Well&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The editor should be an extension of your hand; make sure your editor is
+configurable, extensible, and programmable.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;When I have a task that needs thought, I often sketch the code or text on a
+piece of paper, then fill out the sketch in Vim.  For example, I wrote the
+first draft of this post in an art notebook with large pages, and now I am
+typing it up and editing in Vim.&lt;/p&gt;
+&lt;p&gt;I use Vim to read and write:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;code in Python, C and MATLAB;&lt;/li&gt;
+&lt;li&gt;papers or reference letters using LaTeX;&lt;/li&gt;
+&lt;li&gt;tutorials in Restructured Text;&lt;/li&gt;
+&lt;li&gt;presentations in Markdown / LaTeX;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;To execute code I use the terminal command line, or the IPython Python
+interpreter, which is also a terminal application.  I use command-line tools
+like &lt;code&gt;make&lt;/code&gt; to build my papers and presentations.  In the days when I used
+MATLAB daily, I preferred to start it in &lt;code&gt;-nodesktop&lt;/code&gt; mode, to disable most of
+the graphical user interface.&lt;/p&gt;
+&lt;p&gt;Very occasionally I use a specialized tool for a short task that does not need
+much thought.   For example I sometimes use LibreOffice or OSX Pages to write
+short letters, Keynote for a presentation with many graphics, or the Jupyter
+notebook when I am experimenting with plots in Python, or when I am writing a
+demonstration of code I already understand.&lt;/p&gt;
+&lt;p&gt;As soon as the task needs some thought, I switch into my text editor. I do
+this to relieve myself of the burden of using the richer and more complicated
+interfaces of the other tools.  I am very familiar with my text editor, so I
+no longer have to think how to do things like editing text.  With Vim, in
+particular, I find that the cursor seems to follow my eyes; I have little or
+no conscious sensation of what my hands are typing as they enter the commands
+to move the cursor.&lt;/p&gt;
+&lt;p&gt;I am sure I am not alone in finding it hard to think clearly.  If you give me
+an interface that makes it easy to play with code in a sloppy and unstructured
+way, I will.  Sometimes doing that is useful, but most of the time, giving in
+to the temptation to play with code is disastrous for my clarity of thought.&lt;/p&gt;
+&lt;p&gt;I think more clearly in Vim because I have used Vim enough that my hands and
+my motor cortex can do the mechanical work of editing, leaving the rest of my
+brain free for thinking (&lt;sup id="fnref:two-paths"&gt;&lt;a class="footnote-ref" href="#fn:two-paths" rel="footnote"&gt;2&lt;/a&gt;&lt;/sup&gt;).  I do not have to interrupt my
+concentration by moving my hands to the mouse or trackpad, because I can do
+everything I need with the keyboard commands.  Using my text editor is simple,
+because the task of editing is not entangled with the task of thinking.&lt;/p&gt;
+&lt;h2&gt;Easy and simple in teaching&lt;/h2&gt;
+&lt;p&gt;When we teach scientists to write and use code, new students are unlikely to
+know a general-purpose text editor well, and may never have used a terminal
+application.  It does not seem practical for them to learn to use an editor
+and the terminal as well as the other new things we teach.  For that reason,
+many courses give students an easy interactive environment such as the MATLAB
+workspace, R Studio or the Jupyter Notebook.  The idea is that it makes it
+easier for the students to concentrate on code rather than learning how to use
+the tools.  In my experience, the students often continue using the easy tools
+from the class, and do not go on to learn the simple tools that experts use.&lt;/p&gt;
+&lt;p&gt;Some teachers do not believe that their students should be using the same
+tools as the experts.  The argument is that scientists use and write code in a
+different way from programmers, so they do not need the tools that a
+programmer would choose.  If that argument were correct, that would be happy
+for teachers, because the simple tools are hard to teach.&lt;/p&gt;
+&lt;p&gt;I chose my tools to help me think clearly.  Does a scientist using code need
+less clarity of thought than a programmer?  Your answer to this will probably
+depend on your model of scientific practice.  If you think that a scientist
+should spend most of their time exploring code and data in an informal way,
+you might conclude that "easy" is acceptable, even desirable.  My own
+experience of using tools like the Jupyter Notebook is that I cannot afford to
+work in this way without exposing myself to great risk from ubiquitous error
+and self-deception (&lt;sup id="fnref:ubiquitous-error"&gt;&lt;a class="footnote-ref" href="#fn:ubiquitous-error" rel="footnote"&gt;3&lt;/a&gt;&lt;/sup&gt;).  If your experience of science is
+like mine, you will probably prefer "simple".
+]&lt;/p&gt;
+&lt;p&gt;You might accept that scientists do need to learn the simple tools at some
+point, but the constraints of your course do not allow you to spend time on
+teaching tools.  Teaching the simple tools, would take too long.  In that case
+you have to consider the potential for damage to the students' practice over
+the long term.  If a student sees their teachers using easy tools, and
+encouraging them to do the same, they are less likely to commit themselves to
+the hard work necessary to learn the simple tools.  To quote a friend and
+colleague: "It would be terrible if we make a generation of copy-paste
+scientists".&lt;/p&gt;
+&lt;p&gt;As I have taught more, I have put more effort into introducing students to the
+simple tools right at the beginning of my course.  I want to teach students
+tools that I would use myself.  We use the terminal to run bash and git
+commands, the IPython console for exploring small code fragments, and a
+full-featured text editor for editing code and documents.  In my &lt;a href="https://bic-berkeley.github.io/psych-214-fall-2016"&gt;most recent
+course&lt;/a&gt; we used the Atom
+text editor. Sometimes I do use the Jupyter Notebook for my own work, bit I am
+careful not to use it in class, because it is so addictive, and therefore
+dangerous for an inexperienced user of code.&lt;/p&gt;
+&lt;h2&gt;Teach simple, not easy&lt;/h2&gt;
+&lt;p&gt;Teaching always involves some degree of instruction that is implicit.  The
+students take our working practice as a model of expertise.  This model can be
+more more persuasive than anything else we teach.  We should use implicit and
+explicit learning to teach effective practice.  Sound working practice is
+the foundation on which we build; it is worth the cost in curriculum time to
+s]how the benefit of simple, and the risks of easy.&lt;/p&gt;
+&lt;div class="footnote"&gt;
+&lt;hr /&gt;
+&lt;ol&gt;
+&lt;li id="fn:oxford-dictionary"&gt;
+&lt;p&gt;Oxford dictionary of Word origins edited by Julia
+Cresswell.&amp;#160;&lt;a class="footnote-backref" href="#fnref:oxford-dictionary" rev="footnote" title="Jump back to footnote 1 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id="fn:two-paths"&gt;
+&lt;p&gt;there is good neuroscientific evidence for this simple
+distinction between habitual tasks and tasks that require conscious effort.
+If you try and do two tasks that require conscious effort, they interfere with
+one another so you cannot do both tasks well.  If you do an habitual task at
+the same time as a task that requires conscious effort, the tasks interfere
+much less.&amp;#160;&lt;a class="footnote-backref" href="#fnref:two-paths" rev="footnote" title="Jump back to footnote 2 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id="fn:ubiquitous-error"&gt;
+&lt;p&gt;"The scientific method's central motivation is the
+ubiquity of error - the awareness that mistakes and self-delusion can creep in
+absolutely anywhere and that the scientist's effort is primarily expended in
+recognizing and rooting out error" David L. Donoho &lt;em&gt;et al&lt;/em&gt; (2009)
+"Reproducible research in computational harmonic analysis" Computing in
+Science &amp;amp; Engineering 11 p8-18.&amp;#160;&lt;a class="footnote-backref" href="#fnref:ubiquitous-error" rev="footnote" title="Jump back to footnote 3 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Matthew Brett</dc:creator><pubDate>Fri, 09 Dec 2016 12:00:00 -0800</pubDate><guid isPermaLink="false">tag:asterisk.dynevor.org,2016-12-09:teaching-simple.html</guid><category>Thinking</category><category>Teaching</category><category>Coding</category></item><item><title>Who is reading?</title><link>http://asterisk.dynevor.org/whos-reading.html</link><description>&lt;p&gt;A few years ago I read the last book written by &lt;a href="https://en.wikipedia.org/wiki/John_Robinson_(bishop_of_Woolwich)"&gt;John A. T.
+Robinson&lt;/a&gt;:
+"The priority of John" (1985).&lt;/p&gt;
+&lt;p&gt;It is an interesting book, and encouraging.  Robinson reflects on the details
+of the stories and the timeline in John, and argues that the sources must be
+close to the events; as close or closer than the sources of the synoptic
+gospels.&lt;/p&gt;
+&lt;p&gt;Stirred, I started to read some other books with the same theme.  The books I
+am going to write about here are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;"Jesus and Judaism" (1985) by E. P. Saunders, ISBN 0-8006-2061-5 (JaJ);&lt;/li&gt;
+&lt;li&gt;"Jesus within Judaism" (1988) by James H. Charlesworth, ISBN 0-385-23610-7 (JwJ);&lt;/li&gt;
+&lt;li&gt;"Excavating Jesus" (2001) (revised and updated) by John Dominic Crossan and
+  Jonathan L. Reed, ISBN 0-06-061634-2 (EJ).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;When I was reading Robinson's book, I felt that I was listening to a
+thoughtful man, well-read in the history and criticism of the Gospels, but
+thinking beside and around that tradition.  Robinson seemed serious in his
+desire to know what had happened, and how to think about it, from the
+documents we have.&lt;/p&gt;
+&lt;p&gt;Maybe this was also what it was like to talk with Robinson. In the preface of
+JaJ, E. P. Saunders writes : "My dearest memories of 1982 are the evenings
+spent in his [Robinson's] rooms discussing my work and his. [...] Here I can
+only say that my life and work were greatly enhanced by him".&lt;/p&gt;
+&lt;p&gt;I was hoping to have the same pleasure from reading JaJ, JwJ and EJ, but these
+books were hard to read. I gave up on Saunders' book about a quarter of the
+way through, for reasons I'll describe.  I read all of Charlesworth's book,
+but felt rather miserable and tired when I finished it.  I'm still reading
+"Excavating Jesus" but I often find myself skipping passages and snorting like
+a buffalo.&lt;/p&gt;
+&lt;p&gt;The reason these books are hard to read, is that they appear to be addressed
+to a sensibility I do not share.  I wanted to hear the evidence, and consider
+it carefully.  But these books evoke too much of their authors' worlds to be
+comfortable.  As with many bad books, I started to feel embarrassed to be
+looking at something public that should be private.&lt;/p&gt;
+&lt;h2&gt;Jesus and Judaism (JaJ)&lt;/h2&gt;
+&lt;p&gt;From the introduction, page 2:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;To speak personally for a moment, I am interested in the debate about the
+significance of the historical Jesus for theology in the way one is
+interested in something that he once found fascinating.  The present work is
+written without that question in mind, however, and those who wish an essay
+on that topic may put this book down and proceed further along the shelf.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Why did Saunder's write that?   It was odd enough that Charlesworth quotes
+this section in a footnote, introducing the quote with "Note how he maligns
+theology" (footnote 8, page 28).  Why the slap-down for those who "wish an
+essay on that topic"?  The passage seems too personal, too irritable.  It
+makes one worry.&lt;/p&gt;
+&lt;p&gt;Then the book develops its argument, which starts with the famous incident
+where Jesus drives the money-changers out of the temple:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;On reaching Jerusalem, Jesus entered the temple courts and began driving out
+those who were buying and selling there. He overturned the tables of the
+money changers and the benches of those selling doves, and would not allow
+anyone to carry merchandise through the temple courts.  And as he taught
+them, he said, "Is it not written: 'My house will be called a house of
+prayer for all nations'? But you have made it 'a den of robbers.'"&lt;/p&gt;
+&lt;p&gt;-- &lt;cite&gt;Mark 11: 15-17, New International Version (NIV)&lt;/cite&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;John's description of the same event ends with:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;His disciples remembered that it is written: "Zeal for your house will
+consume me." (John 2:17 NIV).&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The traditional interpretation of that passage, if you can call it an
+interpretation, is that Jesus was purifying the temple from unclean commerce.
+Saunder's doesn't believe that, because "the principal function of any temple
+is to serve as a place of sacrifice, and [...] sacrifices &lt;em&gt;require&lt;/em&gt; the supply
+of suitable animals" (p. 63). "The business arrangements around the temple
+were &lt;em&gt;necessary&lt;/em&gt; if the commandments were to be obeyed" (p. 65). He has little
+patience for the "purifying" interpretation of his fellow scholars and the
+authors of the Gospel passages: "Just what would be left of the service if the
+supposedly corrupting externalism of sacrifices, and the trade necessary to
+them, were purged?  Here as often we see the failure to think concretely and a
+preference for vague religious abstractions" (p.63).  This relates to the
+strange sentence in the introduction to Saunders' book.  If Jesus was also
+thinking in terms of vague religious abstractions, and Saunders rejects these
+as foolish, then is he is going to find it hard to understand why Jesus was
+acting as he did.&lt;/p&gt;
+&lt;p&gt;Meanwhile, Saunders continues to address the silly idea of purification.  "New
+Testament scholars who write about Jesus' concern for the purity of the temple
+seem to have in mind a familiar Protestant idea: 'Pure' worship consists in
+the Word, and all external rites should be purged" (p. 67-8).  Saunders' own
+interpretation of the event is that "Jesus' action is to be regarded as a
+symbolic demonstration [...] it symbolized destruction". (p. 69, 70).  "We
+should suppose that Jesus &lt;em&gt;knew what he was doing&lt;/em&gt;: like others, he regarded
+the sacrifices as commanded by God, he knew that they required a certain
+amount of trade, and he knew that making a gesture toward disrupting the trade
+represented an attack on the divinely ordained sacrifices" (p. 70). (all
+italics in quotes are in the original).&lt;/p&gt;
+&lt;p&gt;There are some obvious objections.  First is that the traditional
+interpretation appears in the passage itself - "But you have made it 'a den of
+robbers'".  Saunders rejects that passage as a later interpolation.  Even if
+it is, presumably that was the dominant interpretation in the first few
+centuries, so it doesn't seem likely that this interpretation was absurd to
+its audience, as it is for Saunders.&lt;/p&gt;
+&lt;p&gt;Another objection is the one Saunders gives on p. 70: "Professor Moule has
+proposed to me that overturning one or more tables is not a self-evident
+symbol of destruction [...] Would breaking something not have been a better
+symbol?.  Perhaps so".&lt;/p&gt;
+&lt;p&gt;Saunders is making a case.  It's not a convincing case, and he's making it too
+strongly.  He dismisses his opponents on the way.  Why does he do this?  What
+does he gain?  Who is he writing for?&lt;/p&gt;
+&lt;p&gt;At this point I got cross. I didn't think that I was going to gain much
+myself, and I went on to the slightly later book by Charlesworth.&lt;/p&gt;
+&lt;h2&gt;Jesus within Judaism&lt;/h2&gt;
+&lt;p&gt;This book was easier for me to read, but I was often uncomfortable.  It's a
+little difficult to characterize why, but there were some obvious triggers.
+The major one was a degree of pandering.  It takes the form of setting the
+record straight, of putting weight on the opposite side of a balance, but that
+means that the argument in the book, independent of the error it is trying to
+correct, is - out of balance.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Centuries before the medieval craftsmen, the prayers of Jews were
+denigrated. [...] The vision was distorted. It is time to acknowledge these
+failures. [...]. A virtually unparalleled confession of unworthiness and of
+sinfulness is found in the Prayer of Manesseh. Two verses should be quoted:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;And now behold I am bending the knees of my heart before you;
+And I am beseeching your kindness;
+I have sinned O Lord, I have sinned;
+But I certainly know my sins.
+(Vss 11-12 from the Syr.)
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;The author of this work must not be dismissed as a miserable wretch, or a
+Jew who has committed sins.  He was conscious of his infirmities, and he
+confessed the weaknesses that any introspective person sees daily. The
+author was a devout Jew and a near contemporary of Jesus.&lt;/p&gt;
+&lt;p&gt;JwJ pp 47-48.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;What Charlesworth does not mention, is that the &lt;a href="https://en.wikipedia.org/wiki/Prayer_of_Manasseh"&gt;Prayer of
+Manesseh&lt;/a&gt; is written as from
+the mouth of one of the most wretched of all the kings of Judah, condemned in
+&lt;a href="http://www.mechon-mamre.org/p/pt/pt09b21.htm"&gt;2 Kings 21:1-17&lt;/a&gt;: "Moreover
+Manasseh shed innocent blood very much, till he had filled Jerusalem from one
+end to another; beside his sin wherewith he made Judah to sin, in doing that
+which was evil in the sight of the LORD."  &lt;a href="http://www.mechon-mamre.org/p/pt/pt25b33.htm#12"&gt;2 Chronicles
+33:12-13&lt;/a&gt; describes his
+abject repentance: "And when he was in distress, he besought the LORD his God,
+and humbled himself greatly before the God of his fathers.  And he prayed unto
+Him; and He was entreated of him, and heard his supplication, and brought him
+back to Jerusalem into his kingdom."&lt;/p&gt;
+&lt;p&gt;Later in the same section we have:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[Jesus] probably taught his disciples a special prayer, which is
+recognizable in the Lord's Prayer, said regularly by Christians today.
+Jesus' prayer is strikingly similar to Jewish prayers, especially the
+Qaddish, and his appeal to God to 'forgive our debts as we also forgive our
+debtors' is not a 'Christian' invention, but a Jewish tradition reflected,
+for example, in the Prayer of Manasseh.&lt;/p&gt;
+&lt;p&gt;JwJ, p 50.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The Prayer of Manesseh is not particularly obscure; it reached the &lt;a href="http://www.kingjamesbibleonline.org/Prayer-of-Manasseh-Chapter-1"&gt;King James
+Bible as part of the
+Apocrypha&lt;/a&gt;;
+Martin Luther included it in his 74-book translation of the Bible.  It's also
+pretty short.  I don't know about you, but I can't see any reference to the
+need to forgive my debtors in that prayer.  There are certainly similar
+phrases between the Lord's Prayer and the &lt;a href="https://en.wikipedia.org/wiki/Kaddish"&gt;Mourning
+Kaddish&lt;/a&gt;, ("May He establish His
+kingdom", "from the Father who is in heaven (and earth)"), but nothing that I
+can see about forgiving our debtors.&lt;/p&gt;
+&lt;p&gt;I don't find it hard to believe that forgiving those who sin against me was a
+common feature of 1st century Jewish prayer, but, if Charlesworth is taking
+his readers seriously, surely he should give some evidence for that.&lt;/p&gt;
+&lt;h2&gt;Excavating Jesus&lt;/h2&gt;
+&lt;p&gt;The authors of EJ are a Biblical scholar (Crossman) and a New Testament
+archaeologist (Reed).&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The purpose of this book is to integrate the archeology of ground and the
+exegesis of gospel by giving each its full explanatory power and by refusing
+to privilege one over the other [...] If an ancient site is a series of
+superimposed dwellings, an ancient gospel is a similar series of
+superimposed overwritings.  In both cases, therefore, multiple layering is
+the absolutely fundamental challenge to be faced.&lt;/p&gt;
+&lt;p&gt;EJ pp xvii-xix.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;There are a few problems.  The first is that the book is rather overwritten,
+and the metaphor of physical and textual layers quickly becomes tiring.  There
+is some pandering.  The authors seem to trust their own judgment a great
+further than the information allows.&lt;/p&gt;
+&lt;p&gt;Chapter 2 is called "Layers upon layers upon layers".  It starts off with a
+summary of the archeology of the town of Nazareth.  Nazareth at the time of
+Jesus appears to have been a peasant village of a few hundred people.  Formal
+synagogue buildings were rare in the region in the first century &lt;sup id="fnref:magdala"&gt;&lt;a class="footnote-ref" href="#fn:magdala" rel="footnote"&gt;1&lt;/a&gt;&lt;/sup&gt;,
+although "In places like Nazareth there were no doubt synagogues in the sense
+of village gatherings and assemblies". "Best specific work on ancient literacy
+in the Jewish homeland concludes about a 3 percent literacy rate".  With this
+background, the two writers consider the story in Luke 4:16-30:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;He went to Nazareth, where he had been brought up, and on the Sabbath day he
+went into the synagogue, as was his custom. He stood up to read, and the
+scroll of the prophet Isaiah was handed to him.  Unrolling it, he found the
+place where it is written: “The Spirit of the Lord is on me, because he has
+anointed me to proclaim good news to the poor.  He has sent me to proclaim
+freedom for the prisoners and recovery of sight for the blind, to set the
+oppressed free, to proclaim the year of the Lord's favor.” Then he rolled up
+the scroll, gave it back to the attendant and sat down. The eyes of everyone
+in the synagogue were fastened on him. He began by saying to them, “Today
+this scripture is fulfilled in your hearing.” All spoke well of him and were
+amazed at the gracious words that came from his lips. "Isn't this Joseph's
+son?" they asked.  Jesus said to them, “Surely you will quote this proverb
+to me: ‘Physician, heal yourself!’ And you will tell me, ‘Do here in your
+hometown what we have heard that you did in Capernaum.’” “Truly I tell you,”
+he continued, “no prophet is accepted in his hometown. I assure you that
+there were many widows in Israel in Elijah's time, when the sky was shut for
+three and a half years and there was a severe famine throughout the land.
+Yet Elijah was not sent to any of them, but to a widow in Zarephath in the
+region of Sidon. And there were many in Israel with leprosy in the time of
+Elisha the prophet, yet not one of them was cleansed — only Naaman the
+Syrian.” All the people in the synagogue were furious when they heard this.
+They got up, drove him out of the town, and took him to the brow of the hill
+on which the town was built, in order to throw him off the cliff. But he
+walked right through the crowd and went on his way.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The books explains the possible "layers" of gospel text - "Layer I contains
+materials that go back to the historical Jesus in the late 20s. [...] Layer II
+contains materials either adopted from that earlier layer or else created by
+or within the ongoing tradition. [...]".  Layer III has three "sub-layers"
+with the first being the Q Gospel and Mark; the second "most probably
+dependent on these two preceding gospels, contains Matthew and Luke, from the
+80s.  The third [sub-] level, quite possibly dependent on Mark, Matthew and
+Luke, is the gospel of John.  That canonical process is, by the way, our most
+secure evidence for layering as a gospel phenomenon" (p. 74).&lt;/p&gt;
+&lt;p&gt;Then the authors argue that Luke made up the whole story from beginning to
+end:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;With Luke 4:16-30 above, the conclusion was not just that early
+first-century Nazareth had no synagogue building, no scrolls of Law and
+Prophets, no literate and learned peasants, no nearby cliff, but also, and
+more important, no murderous inhabitants.  Jesus' home villagers had never
+attempted to kill him.  The story came, not from the original level of
+Stratum I, but from the Lukan level of stratum IIIb.  That conclusion is
+worth the trouble, not only for the historical accuracy, but also for the
+honor and dignity of a tiny Jewish hamlet in a small country long, long ago.
+Jesus did not grow up in a village of killers.&lt;/p&gt;
+&lt;p&gt;EJ p. 73&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Is the strength of this conclusion justified?&lt;/p&gt;
+&lt;p&gt;For the synagogue, Luke does not claim a large formal building, and the
+authors have already agreed that some kind of synagogue meeting was likely.&lt;/p&gt;
+&lt;p&gt;A first century synagogue meeting almost certainly involved readings from the
+law and the prophets (&lt;sup id="fnref:philo-hypo"&gt;&lt;a class="footnote-ref" href="#fn:philo-hypo" rel="footnote"&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;sup id="fnref:saunders-practice"&gt;&lt;a class="footnote-ref" href="#fn:saunders-practice" rel="footnote"&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;sup id="fnref:levine-synagogue"&gt;&lt;a class="footnote-ref" href="#fn:levine-synagogue" rel="footnote"&gt;4&lt;/a&gt;&lt;/sup&gt;).
+Alan Millard (&lt;sup id="fnref:r-and-r-tj"&gt;&lt;a class="footnote-ref" href="#fn:r-and-r-tj" rel="footnote"&gt;5&lt;/a&gt;&lt;/sup&gt;) estimates that a long scroll of Isaiah would have
+cost around a week of a casual laborer's wages.&lt;/p&gt;
+&lt;p&gt;The calculation of 3% literacy among Jews in first-century Palestine is based
+on very flimsy evidence.  You can read the main evidence that Crossan cites in
+more detail elsewhere at &lt;a href="https://faculty.biu.ac.il/~barilm/illitera.html"&gt;this web copy of the article&lt;/a&gt;.  Even if that were not so,
+the 3% figure isn't very useful in estimating how likely it was that Jesus
+could read.&lt;/p&gt;
+&lt;p&gt;If I selected a 30 year old man from the USA at random, and asked you to guess
+whether he had a degree in philosophy, you'd guess no.  You'd guess no because
+you would find that &lt;a href="http://strongernation.luminafoundation.org/report/2016"&gt;40 percent of working age Americans have a
+degree&lt;/a&gt;, and &lt;a href="http://www.humanitiesindicators.org/content/indicatorDoc.aspx?d=56&amp;amp;hl=philosophy&amp;amp;m=0"&gt;0.5% of
+US degrees are philosophy
+degrees&lt;/a&gt;.
+That gives my randomly selected man a 2 in 1000 chance of having a philosophy
+degree.  Now imagine I tell you that the person I have selected is a
+well-known teacher of philosophy.  You are now interested in the proportion of
+successful teachers of philosophy with a degree in philosophy.  You might
+guess this proportion was somewhere over 50%, so about 250 times higher than
+your original estimate.   See &lt;a href="http://www.patheos.com/blogs/bibleandculture/2011/11/02/reading-and-writing-in-herodian-israel-was-jesus-an-illiterate-peasant-part-one"&gt;this blog
+post&lt;/a&gt;
+for a summary of the evidence that Jesus had a detailed knowledge of the
+scriptures.&lt;/p&gt;
+&lt;p&gt;Next: "no nearby cliff". If you, like me, were ignorant of the geography of
+Nazareth, and read the authors' dismissal of the "nearby cliff", you might
+presume that Nazareth is pretty flat.  If so, the &lt;a href="http://www.goisrael.com/Tourism_Eng/Tourist%20Information/Discover%20Israel/Cities/Pages/Nazareth.aspx"&gt;Israeli tourist board
+disagrees with
+you&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Nazareth, in the lower Galilee, is located in the heart of a valley
+surrounded by mountains.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;You can check it out on Google earth and Google maps to get an idea.  In fact,
+Nazareth has, as Luke says, some significant slopes, including the site
+traditionally associated with the end of Luke's story, called &lt;a href="http://www.nazarethinfo.org/en/attractions/attractions/mount-precipice"&gt;Mount
+Precipice&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;So, Crossan and Reed could reasonably have said something like: "there is some
+chance that there was no scroll to read from; there is some chance that Jesus
+could not read; the nearby slopes don't seem quite dangerous enough for us to
+believe the Nazarenes could really have hoped to kill Jesus by throwing him
+down".  But what they actually wrote goes a long way past that.&lt;/p&gt;
+&lt;p&gt;That brings me back to the question that I found myself asking for all three
+of three books - who are the authors writing for?  Who is the polemic
+addressed to?  Crossan and Reed give a some part of an answer in the text I've
+already quoted:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;That conclusion is worth the trouble, not only for the historical accuracy,
+but also for the honor and dignity of a tiny Jewish hamlet in a small
+country long, long ago.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;So, if you are the type of person who would uncritically condemn the Jews of
+the first century, shame on you, and this book may give you pause for thought.
+But, if that is not your sin, and you wanted a careful analysis of the
+evidence, you will have to do a lot of your own research to evaluate the
+arguments in this book.&lt;/p&gt;
+&lt;div class="footnote"&gt;
+&lt;hr /&gt;
+&lt;ol&gt;
+&lt;li id="fn:magdala"&gt;
+&lt;p&gt;In 2013, &lt;a href="http://www.pri.org/stories/2013-01-04/israeli-archeologists-discover-jesus-synagogue"&gt;archaeologists found a first century synagogue in
+Magdala&lt;/a&gt;,
+a fishing village on the shores of Lake Galilee.&amp;#160;&lt;a class="footnote-backref" href="#fnref:magdala" rev="footnote" title="Jump back to footnote 1 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id="fn:philo-hypo"&gt;
+&lt;p&gt;Philo
+&lt;a href="http://www.earlychristianwritings.com/yonge/book37.html"&gt;"Hypothetica"&lt;/a&gt; 7.13.&amp;#160;&lt;a class="footnote-backref" href="#fnref:philo-hypo" rev="footnote" title="Jump back to footnote 2 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id="fn:saunders-practice"&gt;
+&lt;p&gt;E.P. Saunders, "Judaism: Practice and Belief, 63 BCE-66
+CE" 2016, p 338.&amp;#160;&lt;a class="footnote-backref" href="#fnref:saunders-practice" rev="footnote" title="Jump back to footnote 3 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id="fn:levine-synagogue"&gt;
+&lt;p&gt;Lee I. Levine "The Nature and Origin of the Palestinian
+Synagogue Reconsidered" Journal of Biblical Literature, Vol. 115 1996, p 432:
+"For Jewish authors, the unique feature of synagogue worship was [...] the
+public recitation and expounding of Holy Scriptures."&amp;#160;&lt;a class="footnote-backref" href="#fnref:levine-synagogue" rev="footnote" title="Jump back to footnote 4 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id="fn:r-and-r-tj"&gt;
+&lt;p&gt;Alan Millard, "Reading and Writing in the Time of Jesus" Vol.
+69. NYU Press, 2000, p 165.&amp;#160;&lt;a class="footnote-backref" href="#fnref:r-and-r-tj" rev="footnote" title="Jump back to footnote 5 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Matthew Brett</dc:creator><pubDate>Mon, 22 Aug 2016 00:50:00 -0700</pubDate><guid isPermaLink="false">tag:asterisk.dynevor.org,2016-08-22:whos-reading.html</guid><category>History</category><category>Bible criticism</category><category>Academia</category></item><item><title>How should we teach students to use computers?</title><link>http://asterisk.dynevor.org/how-should-we-teach-computing.html</link><description>&lt;p&gt;The software carpentry movement has the aim of teaching scientists how to use
+computers well.&lt;/p&gt;
+&lt;p&gt;It is important to teach this so we can produce work of high quality.  It is
+more likely that our work will be transparent enough for someone else to use
+it, and reproduce it.&lt;/p&gt;
+&lt;p&gt;Once we agree that it is useful to teach this, we still have to decide what we
+are going to do about the following problem:&lt;/p&gt;
+&lt;h2&gt;Difficult, tiring and confusing&lt;/h2&gt;
+&lt;p&gt;Maintaining scientific software on your computer is a &lt;strong&gt;difficult, tiring and
+confusing&lt;/strong&gt; task.  It is a task that needs a combination of commitment and
+skill in solving problems where the solution may be hard to find and
+understand, and there is a great deal of conflicting advice.&lt;/p&gt;
+&lt;h2&gt;Two different approaches to teaching&lt;/h2&gt;
+&lt;h3&gt;Approach 1: try to keep students away from the problem&lt;/h3&gt;
+&lt;p&gt;Here, you design your course setup and course materials so that you avoid
+confusion or ambiguity in installing or maintaining the software.&lt;/p&gt;
+&lt;p&gt;For example, you might make all the students use Jupyter notebooks hosted on a
+central server, so they don't use their own computers at all, except as a
+client via their web-browser.&lt;/p&gt;
+&lt;p&gt;You might use &lt;a href="https://wakari.io"&gt;Wakari&lt;/a&gt; to do the same kind of thing.&lt;/p&gt;
+&lt;p&gt;Less comprehensively, you might insist or suggest that everyone use the same
+Python distribution and packages, which will usually be Anaconda, so at least
+everyone has roughly the same setup on their computer.  These packages are
+usually easy to very easy to install and use, but don't protect you from later
+confusion and pain for not-default packages.&lt;/p&gt;
+&lt;p&gt;The advantage of this approach is that you get to spend your time teaching the
+stuff you are interested in, instead of struggling with the complexity of
+individual user installs.&lt;/p&gt;
+&lt;p&gt;The disadvantage is that, as soon as the student leaves the class and starts
+on the road to maturity, they will hit the problems that you have shielded
+them from.  No matter what you told them in the class, they will conclude that
+this work is much harder than you claimed, or that they are deficient and
+should give up.&lt;/p&gt;
+&lt;h3&gt;Approach 2: drop students in it and help them out again&lt;/h3&gt;
+&lt;p&gt;The other approach is to treat the problem of installation and maintenance as
+one that the students will have to learn to face.   They need to live in this
+world of confusion and ambiguity, and learn the skills to survive and
+flourish.&lt;/p&gt;
+&lt;p&gt;There are two obvious difficulties with this approach.&lt;/p&gt;
+&lt;p&gt;The first is that you will have to spend class time struggling with
+installation and maintenance problems, that might well be - difficult, tiring
+and confusing.  The time that you give to this, you must take from other
+instruction.&lt;/p&gt;
+&lt;p&gt;The second is that is hard to teach students these skills.  It is even hard to
+explain what those skills are.&lt;/p&gt;
+&lt;h2&gt;What's the best way?&lt;/h2&gt;
+&lt;p&gt;When we decide what to do, we have to agree on a goal.  For example, your goal
+might be to teach "data science" &lt;sup id="fnref:data-science-defined"&gt;&lt;a class="footnote-ref" href="#fn:data-science-defined" rel="footnote"&gt;1&lt;/a&gt;&lt;/sup&gt;.  The students should
+leave the class with a better understanding of issues in data science.  If
+that is your entire goal, then you may not worry that the students will soon
+stop using the tools that you have taught them.  No-one will blame you for
+those priorities.&lt;/p&gt;
+&lt;p&gt;On the other hand, your goal might be more broad.  You might want to make the
+students better at data science in the long term - long after the students
+have left your class.  In that case, you will worry about students being
+unable to continue using the tools after the end of the class.&lt;/p&gt;
+&lt;p&gt;I am personally more interested in the broader goal.  That is, I would like to
+teach in way that makes it most likely that students will become mature users
+of the tools they learn in class.  I believe that forces me towards approach
+\2.  That is, I really do need to teach the students how to deal with the
+difficult, tiring and confusing problem of maintaining their software.&lt;/p&gt;
+&lt;p&gt;How should we deal with the issues of lost class time, and teaching the
+unteachable skill of learning within confusion?   I believe the only way to do
+this is to teach by example.  That is, we have to give the students something
+similar to standard installation advice - the kind of advice that we would
+give our own graduate students getting started.  Then we have to sit down with
+the students who run into problems, and suffer with them for a while.  We show
+them how we try and solve the problem, we do our diagnostics, we check
+StackOverflow, we look at the command help and man pages, and we work it out,
+with them.   Yes, this is very hard to do with large classes or MOOCs.  With
+smaller classes, or with a reasonable number of teaching assistants, I believe
+this is practical.&lt;/p&gt;
+&lt;p&gt;The advantage of doing this, is that we show our students what real scientific
+computing looks like.  It isn't streamlined, smooth or easy, it is hard
+confusing and complex.  We give our students our best if we teach them to be
+comfortable and optimistic on this, our current frontier.&lt;/p&gt;
+&lt;h2&gt;Don't agree? - we should test&lt;/h2&gt;
+&lt;p&gt;I've asserted that approach 2 will cause more students to develop into mature
+users of scientific computing.&lt;/p&gt;
+&lt;p&gt;Maybe that isn't true.  Maybe, if we use approach 1 to the fullest extent,
+this will get students so excited about the possibilities of the tools, that
+this will impel them to overcome all later obstacles.&lt;/p&gt;
+&lt;p&gt;I think that won't happen, but I'm a scientist, I could be wrong, and that's
+an empirical question.&lt;/p&gt;
+&lt;p&gt;What we should do is have a randomized controlled trial.  Allocate half the
+students to approach 1, and half to approach 2.   Design an assessment of
+their computing maturity and assess the students at 1 and 2 years after the
+course.  I predict that students taught with approach 2 will be doing better
+on average.  You might predict the opposite.  Let's get data.&lt;/p&gt;
+&lt;div class="footnote"&gt;
+&lt;hr /&gt;
+&lt;ol&gt;
+&lt;li id="fn:data-science-defined"&gt;
+&lt;p&gt;I have heard it said, that data science can
+reasonably be defined as "doing statistics on a Mac".&amp;#160;&lt;a class="footnote-backref" href="#fnref:data-science-defined" rev="footnote" title="Jump back to footnote 1 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Matthew Brett</dc:creator><pubDate>Fri, 19 Aug 2016 12:00:00 -0700</pubDate><guid isPermaLink="false">tag:asterisk.dynevor.org,2016-08-19:how-should-we-teach-computing.html</guid><category>Teaching</category><category>Coding</category></item><item><title>Why do researchers write sloppy code?</title><link>http://asterisk.dynevor.org/love-letter.html</link><description>&lt;p&gt;A friend of mine teaches a subject that involves scientific programming.  He
+has several times told me that he is surprised at some of the work that
+students turn in.  He tells me that it is often messy and badly written.
+Despite his clear instructions, the code often does not run as written and may
+have very obvious syntax errors, commented out lines for debugging and other
+work-in-progress cruft.  He wonders why the students turn in such bad code,
+when they would be much more careful turning in a mathematical proof.&lt;/p&gt;
+&lt;p&gt;This reminds me of a quote that I read a long time since, and have just found
+again in the famous "Code Complete" (&lt;sup id="fnref:code-complete"&gt;&lt;a class="footnote-ref" href="#fn:code-complete" rel="footnote"&gt;1&lt;/a&gt;&lt;/sup&gt;).&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;In the early years of programming, a program was regarded as the private
+property of the programmer. One would no more think of reading a colleague's
+program unbidden than of picking up a love letter and reading it. This is
+essentially what a program was, a love letter from the programmer to the
+hardware, full of the intimate details known only to partners in an affair.
+Consequently, programs became larded with the pet names and verbal shorthand
+so popular with lovers who live in the blissful abstraction that assumes
+that theirs is the only existence in the universe. Such programs are
+unintelligible to those outside the partnership.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;(Attributed to Michael Marcotty).&lt;/p&gt;
+&lt;p&gt;Students producing proofs in math have had a lot of practice in making the
+proof easy to follow.  They know that the proof is for the teacher or grader,
+and they write the proof for them.&lt;/p&gt;
+&lt;p&gt;Students do not have the same feeling about code.  For them, code is a private
+conversation between them and the computer.  If the computer does what we
+want, at least once, then the conversation that led to up that is outside the
+scope of public comment. The fact that the computer did what we wanted is the
+equivalent of the mathematical proof, and the code that made that happen is
+equivalent to the working notes for the proof.&lt;/p&gt;
+&lt;p&gt;That way of thinking is surprising to someone who has spent time developing
+software, because we know that we make many mistakes, and that, to reduce the
+number of mistakes, we need to lay out our reasoning in code, for others to
+check.&lt;/p&gt;
+&lt;p&gt;One difference between the developer and the student is that the developer
+knows that their code has to give the right answer in a range of
+circumstances, over a fairly long period of time, and on different types of
+computers.  To defend ourselves, we ask "is this code correct?".  If we want a
+good answer to this question, we have to write code that others can follow and
+criticize. The student usually has a different task, which is to get the
+computer to give a small number of required outputs.  Their question is "does
+this code give the required outputs in the situations for which I will be
+graded".  For that question, code quality is irrelevant.&lt;/p&gt;
+&lt;p&gt;That is a damn shame, because in due course, the student may go on to do
+research.  Their work will very likely involve some kind of coding.  They have
+learned that the point of coding is to get the desired result.  They write
+terrible, poorly organized code, that is full of errors, hard to read, and
+dangerous to re-use.  After some editing, the code produces a plausible
+answer, but it is likely to be wrong, because, as every experienced coder
+knows, &lt;a href="http://blog.nipy.org/ubiquity-of-error.html"&gt;coders make errors all the
+time&lt;/a&gt;.  The researcher can only
+know the answer is wrong if they know the code is wrong, but that is something
+that they have no instinct to investigate.&lt;/p&gt;
+&lt;div class="footnote"&gt;
+&lt;hr /&gt;
+&lt;ol&gt;
+&lt;li id="fn:code-complete"&gt;
+&lt;p&gt;Steve McConnell "Code Complete, second edition" (2004) p842.
+Microsoft Press.&amp;#160;&lt;a class="footnote-backref" href="#fnref:code-complete" rev="footnote" title="Jump back to footnote 1 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Matthew Brett</dc:creator><pubDate>Fri, 15 Jan 2016 14:00:00 -0800</pubDate><guid isPermaLink="false">tag:asterisk.dynevor.org,2016-01-15:love-letter.html</guid><category>Thinking</category><category>Teaching</category><category>Coding</category></item><item><title>Makes-sense epistemology</title><link>http://asterisk.dynevor.org/makes-sense.html</link><description>&lt;p&gt;I've spend the last two years doing a reasonable amount of teaching.&lt;/p&gt;
+&lt;p&gt;I suppose that every teacher wonders whether the students are really
+"understanding" what we teach.  This begs the question of what we mean by
+understanding.&lt;/p&gt;
+&lt;p&gt;One effect of doing a lot of teaching, has been that I have found that I
+did not understand some things that I thought I did understand.  A particular
+example is Principal Components Analysis (PCA).  I think I do understand it
+now, but I did not before.  I have taught something about PCA in the past, and
+I think I was saying things that were true, but I didn't know why they were
+true.&lt;/p&gt;
+&lt;p&gt;What had happened was that I had heard other people that I trust say these
+things about PCA.  I heard the same thing a few times from a few different
+people, and I added what they said to the store of things I "knew".&lt;/p&gt;
+&lt;p&gt;In my case, I think I was using what Perkins, Allen and
+Hafner call "makes-sense epistemology" (&lt;sup id="fnref:perkins-allen-hafner"&gt;&lt;a class="footnote-ref" href="#fn:perkins-allen-hafner" rel="footnote"&gt;1&lt;/a&gt;&lt;/sup&gt;).  Someone
+using makes-sense epistemology is not reasoning or criticizing what they have
+heard. They are not asking "could that be wrong?".  Their criterion for
+accepting an argument is that the argument feels right or makes sense.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Naive reasoners might be said to have a "makes-sense epistemology."  Of
+course this does not mean that they have an explicit philosophy about what
+grounds are necessary for belief.  But it does mean something in terms of
+the manifested behavior:  such reasoners act as though the test of truth is
+that a proposition makes intuitive sense, sounds right, rings true.  They
+see no need to criticize accounts that do make sense - the intuitive feel of
+fit suffices.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;It seems to me that teachers are often in the situation where they cannot or
+do not hope to teach the students &lt;em&gt;why&lt;/em&gt; something is true, but only give them
+a &lt;em&gt;feeling&lt;/em&gt; for why something &lt;em&gt;might&lt;/em&gt; be true.  When we do this, we encourage
+makes-sense epistemology.&lt;/p&gt;
+&lt;p&gt;Does it matter that we often function on this intuitive makes-sense level?
+Not if we think that most of what we are told is true.  But, as Richard
+Feynman put it: "Science is the belief in the ignorance of experts."
+(&lt;sup id="fnref:ignorance"&gt;&lt;a class="footnote-ref" href="#fn:ignorance" rel="footnote"&gt;2&lt;/a&gt;&lt;/sup&gt;).&lt;/p&gt;
+&lt;div class="footnote"&gt;
+&lt;hr /&gt;
+&lt;ol&gt;
+&lt;li id="fn:perkins-allen-hafner"&gt;
+&lt;p&gt;Perkins, David N., Richard Allen, and James Hafner.
+"Difficulties in everyday reasoning." Thinking: The expanding frontier (1983):
+177-189. See: &lt;a href="https://books.google.com/books?id=QAFiGGJdoY8C&amp;amp;lpg=PP1&amp;amp;dq=editions%3ASA6JOdbqOxMC&amp;amp;pg=PA177#v=onepage&amp;amp;q&amp;amp;f=false"&gt;preview in Google
+books&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:perkins-allen-hafner" rev="footnote" title="Jump back to footnote 1 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id="fn:ignorance"&gt;
+&lt;p&gt;Address &lt;a href="http://www.fotuva.org/feynman/what_is_science.html"&gt;"What is
+Science?"&lt;/a&gt;, presented at
+the fifteenth annual meeting of the National Science Teachers Association, in
+New York City (1966), published in The Physics Teacher, volume 7, issue 6
+(1969), p. 313-320&amp;#160;&lt;a class="footnote-backref" href="#fnref:ignorance" rev="footnote" title="Jump back to footnote 2 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Matthew Brett</dc:creator><pubDate>Fri, 15 Jan 2016 14:00:00 -0800</pubDate><guid isPermaLink="false">tag:asterisk.dynevor.org,2016-01-15:makes-sense.html</guid><category>Thinking</category><category>Teaching</category><category>Epistemology</category></item><item><title>The XFree / X.Org fork and open source governance</title><link>http://asterisk.dynevor.org/xfree-forked.html</link><description>&lt;h2&gt;Why a history of the X.org fork?&lt;/h2&gt;
 &lt;p&gt;Forks are experiments in open-source management (&lt;sup id="fnref:oss-why-fork"&gt;&lt;a class="footnote-ref" href="#fn:oss-why-fork" rel="footnote"&gt;1&lt;/a&gt;&lt;/sup&gt;).&lt;/p&gt;
-&lt;p&gt;Management in open-source can mysterious. In our technical world, we would
+&lt;p&gt;Management in open-source can be mysterious. In our technical world, we would
 rather believe that anything important must be technical, and management seems
 soft and poorly defined. We want to believe that all you need is good code,
 and that management is for corporate types, whom we despise.&lt;/p&gt;
@@ -157,11 +833,11 @@ a consequence, Keith Packard is no longer a member of the XFree86 Core Team.&lt;
 &lt;/blockquote&gt;
 &lt;p&gt;The board claimed to have email evidence of Packard's intentions, but that
 they were unable to release this evidence because the emails were private and
-Packard had asked for them not to be released (&lt;sup id="fnref:dw-have-cause"&gt;&lt;a class="footnote-ref" href="#fn:dw-have-cause" rel="footnote"&gt;31&lt;/a&gt;&lt;/sup&gt;). Packard
-responded with permission to release the mails (&lt;sup id="fnref:kp-release-emails"&gt;&lt;a class="footnote-ref" href="#fn:kp-release-emails" rel="footnote"&gt;32&lt;/a&gt;&lt;/sup&gt;) and David
+Packard had asked for them not to be released (&lt;sup id="fnref:dw-have-cause"&gt;&lt;a class="footnote-ref" href="#fn:dw-have-cause" rel="footnote"&gt;30&lt;/a&gt;&lt;/sup&gt;). Packard
+responded with permission to release the mails (&lt;sup id="fnref:kp-release-emails"&gt;&lt;a class="footnote-ref" href="#fn:kp-release-emails" rel="footnote"&gt;31&lt;/a&gt;&lt;/sup&gt;) and David
 Wexelblat, for the board, said that they would release some version of the
-emails soon after (&lt;sup id="fnref:dw-well-try"&gt;&lt;a class="footnote-ref" href="#fn:dw-well-try" rel="footnote"&gt;33&lt;/a&gt;&lt;/sup&gt;).  I could find no evidence that this
-happened. It's possible that the email enclosed in (&lt;sup id="fnref:private-cced"&gt;&lt;a class="footnote-ref" href="#fn:private-cced" rel="footnote"&gt;30&lt;/a&gt;&lt;/sup&gt;) is an
+emails soon after (&lt;sup id="fnref:dw-well-try"&gt;&lt;a class="footnote-ref" href="#fn:dw-well-try" rel="footnote"&gt;32&lt;/a&gt;&lt;/sup&gt;).  I could find no evidence that this
+happened. It's possible that the email enclosed in (&lt;sup id="fnref:private-cced"&gt;&lt;a class="footnote-ref" href="#fn:private-cced" rel="footnote"&gt;33&lt;/a&gt;&lt;/sup&gt;) is an
 example of the discussion leading to Packard's expulsion.&lt;/p&gt;
 &lt;p&gt;Packard didn't reply directly to the thread expelling him from the core, but
 instead posted an appeal for open governance of XFree86 (&lt;sup id="fnref:call-for-open"&gt;&lt;a class="footnote-ref" href="#fn:call-for-open" rel="footnote"&gt;27&lt;/a&gt;&lt;/sup&gt;).  He
@@ -366,10 +1042,10 @@ directors] repeatedly explaining that it wasn't.  Now it's gone, so people
 will have to find something else to complain about. (&lt;sup id="fnref:core-gone"&gt;&lt;a class="footnote-ref" href="#fn:core-gone" rel="footnote"&gt;49&lt;/a&gt;&lt;/sup&gt;)&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2&gt;Start of the X.org foundation&lt;/h2&gt;
-&lt;p&gt;In Januay 2004, many of those involved in the discussion formed a new company
+&lt;p&gt;In January 2004, many of those involved in the discussion formed a new company
 called the X.Org foundation (as distinct from the previous X.Org consortium).
-A presentation to the Linux World Expo (&lt;sup id="fnref:xorg-foundation"&gt;&lt;a class="footnote-ref" href="#fn:xorg-foundation" rel="footnote"&gt;50&lt;/a&gt;&lt;/sup&gt;) gave the mission
-statement as:&lt;/p&gt;
+A presentation to the Linux World Expo on 22nd January (&lt;sup id="fnref:xorg-foundation"&gt;&lt;a class="footnote-ref" href="#fn:xorg-foundation" rel="footnote"&gt;50&lt;/a&gt;&lt;/sup&gt;)
+gave the mission statement as:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;To promote a proactive and participatory community for Open Source X Window
 System and desktop development&lt;/p&gt;
@@ -390,10 +1066,11 @@ representatives from industry and free software organizations:&lt;/p&gt;
 &lt;li&gt;Jeremy White - Code Weavers&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;License change and collapse of XFree86&lt;/h2&gt;
-&lt;p&gt;At the end of January 2004, David Dawes announced a change to the base XFree86
+&lt;p&gt;On 29th January 2004, David Dawes announced a change to the base XFree86
 license (&lt;sup id="fnref:license-announce"&gt;&lt;a class="footnote-ref" href="#fn:license-announce" rel="footnote"&gt;53&lt;/a&gt;&lt;/sup&gt;).&lt;/p&gt;
-&lt;p&gt;The &lt;a href="http://www.xfree86.org/legal/licenses.html"&gt;new license&lt;/a&gt; added a
-non-standard clause that required any derived work to include a
+&lt;p&gt;The &lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/legal/licenses.html"&gt;new
+license&lt;/a&gt;
+added a non-standard clause that required any derived work to include a
 specified acknowledgment of XFree86 in the documentation or "in the software
 itself":&lt;/p&gt;
 &lt;blockquote&gt;
@@ -501,7 +1178,7 @@ interest switching to X.org.&lt;/p&gt;
 &lt;p&gt;&lt;a href="http://www.informatica.co.cr/linux-desktops/research/1994/1116.html"&gt;http://www.informatica.co.cr/linux-desktops/research/1994/1116.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:president-dawes" rev="footnote" title="Jump back to footnote 8 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:current-bod"&gt;
-&lt;p&gt;&lt;a href="http://www.xfree86.org/legal/bod.html"&gt;http://www.xfree86.org/legal/bod.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:current-bod" rev="footnote" title="Jump back to footnote 9 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/legal/bod.html"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/legal/bod.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:current-bod" rev="footnote" title="Jump back to footnote 9 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:xorg-consortium"&gt;
 &lt;p&gt;&lt;a href="http://web.archive.org/web/20030402160332/http://www.x.org/XOrg_background.html"&gt;http://web.archive.org/web/20030402160332/http://www.x.org/XOrg_background.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:xorg-consortium" rev="footnote" title="Jump back to footnote 10 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
@@ -537,10 +1214,10 @@ interest switching to X.org.&lt;/p&gt;
 &lt;p&gt;&lt;a href="http://web.archive.org/web/20030304041751/http://advogato.org/person/mharris/diary.html?start=6"&gt;http://web.archive.org/web/20030304041751/http://advogato.org/person/mharris/diary.html?start=6&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:mh-blog-fu" rev="footnote" title="Jump back to footnote 20 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:kp-issue"&gt;
-&lt;p&gt;&lt;a href="http://wwwd.xfree86.org/pipermail/forum/2003-March/002018.html"&gt;http://wwwd.xfree86.org/pipermail/forum/2003-March/002018.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:kp-issue" rev="footnote" title="Jump back to footnote 21 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002018.html"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002018.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:kp-issue" rev="footnote" title="Jump back to footnote 21 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:forum-communication"&gt;
-&lt;p&gt;&lt;a href="http://xfree86.org/pipermail/forum/2003-March/000476.html"&gt;http://xfree86.org/pipermail/forum/2003-March/000476.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:forum-communication" rev="footnote" title="Jump back to footnote 22 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/000476.html"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/000476.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:forum-communication" rev="footnote" title="Jump back to footnote 22 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:debian-xfree86-pain"&gt;
 &lt;p&gt;&lt;a href="http://lists.debian.org/debian-x/2003/11/msg00285.html"&gt;http://lists.debian.org/debian-x/2003/11/msg00285.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:debian-xfree86-pain" rev="footnote" title="Jump back to footnote 23 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
@@ -552,49 +1229,49 @@ interest switching to X.org.&lt;/p&gt;
 &lt;p&gt;&lt;a href="http://www.mail-archive.com/xpert@xfree86.org/msg11290.html"&gt;http://www.mail-archive.com/xpert@xfree86.org/msg11290.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:xfixes-disabled" rev="footnote" title="Jump back to footnote 25 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:kp-is-out"&gt;
-&lt;p&gt;&lt;a href="http://www.xfree86.org/pipermail/forum/2003-March/001997.html"&gt;http://www.xfree86.org/pipermail/forum/2003-March/001997.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:kp-is-out" rev="footnote" title="Jump back to footnote 26 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/001997.html"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/001997.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:kp-is-out" rev="footnote" title="Jump back to footnote 26 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:call-for-open"&gt;
-&lt;p&gt;&lt;a href="http://www.xfree86.org/pipermail/forum/2003-March/002165.html"&gt;http://www.xfree86.org/pipermail/forum/2003-March/002165.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:call-for-open" rev="footnote" title="Jump back to footnote 27 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002165.html"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002165.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:call-for-open" rev="footnote" title="Jump back to footnote 27 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:kp-no-cvs"&gt;
-&lt;p&gt;&lt;a href="http://www.xfree86.org/pipermail/forum/2003-March/002105.html"&gt;http://www.xfree86.org/pipermail/forum/2003-March/002105.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:kp-no-cvs" rev="footnote" title="Jump back to footnote 28 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002105.html"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002105.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:kp-no-cvs" rev="footnote" title="Jump back to footnote 28 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:kp-xfixes-rumor"&gt;
-&lt;p&gt;&lt;a href="http://www.xfree86.org/pipermail/forum/2003-March/002121.html"&gt;http://www.xfree86.org/pipermail/forum/2003-March/002121.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:kp-xfixes-rumor" rev="footnote" title="Jump back to footnote 29 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id="fn:private-cced"&gt;
-&lt;p&gt;&lt;a href="http://www.xfree86.org/pipermail/forum/2003-April/003139.html"&gt;http://www.xfree86.org/pipermail/forum/2003-April/003139.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:private-cced" rev="footnote" title="Jump back to footnote 30 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002121.html"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002121.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:kp-xfixes-rumor" rev="footnote" title="Jump back to footnote 29 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:dw-have-cause"&gt;
-&lt;p&gt;&lt;a href="http://www.xfree86.org/pipermail/forum/2003-March/002461.html"&gt;http://www.xfree86.org/pipermail/forum/2003-March/002461.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:dw-have-cause" rev="footnote" title="Jump back to footnote 31 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002461.html"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002461.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:dw-have-cause" rev="footnote" title="Jump back to footnote 30 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:kp-release-emails"&gt;
-&lt;p&gt;&lt;a href="http://www.xfree86.org/pipermail/forum/2003-March/002525.html"&gt;http://www.xfree86.org/pipermail/forum/2003-March/002525.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:kp-release-emails" rev="footnote" title="Jump back to footnote 32 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002525.html"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002525.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:kp-release-emails" rev="footnote" title="Jump back to footnote 31 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:dw-well-try"&gt;
-&lt;p&gt;&lt;a href="http://www.xfree86.org/pipermail/forum/2003-March/002545.html"&gt;http://www.xfree86.org/pipermail/forum/2003-March/002545.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:dw-well-try" rev="footnote" title="Jump back to footnote 33 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002545.html"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002545.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:dw-well-try" rev="footnote" title="Jump back to footnote 32 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id="fn:private-cced"&gt;
+&lt;p&gt;&lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-April/003139.html"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-April/003139.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:private-cced" rev="footnote" title="Jump back to footnote 33 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:hourihane1"&gt;
-&lt;p&gt;&lt;a href="http://www.xfree86.org/pipermail/forum/2003-March/002168.html"&gt;http://www.xfree86.org/pipermail/forum/2003-March/002168.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:hourihane1" rev="footnote" title="Jump back to footnote 34 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002168.html"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002168.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:hourihane1" rev="footnote" title="Jump back to footnote 34 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:tungsten-boss"&gt;
-&lt;p&gt;&lt;a href="http://xfree86.org/pipermail/forum/2003-March/002040.html"&gt;http://xfree86.org/pipermail/forum/2003-March/002040.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:tungsten-boss" rev="footnote" title="Jump back to footnote 35 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002040.html"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002040.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:tungsten-boss" rev="footnote" title="Jump back to footnote 35 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:dawes-tungsten"&gt;
-&lt;p&gt;&lt;a href="http://www.xfree86.org/pipermail/forum/2003-April/003357.html"&gt;http://www.xfree86.org/pipermail/forum/2003-April/003357.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:dawes-tungsten" rev="footnote" title="Jump back to footnote 36 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-April/003357.html"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-April/003357.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:dawes-tungsten" rev="footnote" title="Jump back to footnote 36 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:dx-cheap"&gt;
-&lt;p&gt;&lt;a href="http://xfree86.org/pipermail/forum/2003-March/002124.html"&gt;http://xfree86.org/pipermail/forum/2003-March/002124.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:dx-cheap" rev="footnote" title="Jump back to footnote 37 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002124.html"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002124.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:dx-cheap" rev="footnote" title="Jump back to footnote 37 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:dawes-old-guys"&gt;
-&lt;p&gt;&lt;a href="http://xfree86.org/pipermail/forum/2003-March/002208.html"&gt;http://xfree86.org/pipermail/forum/2003-March/002208.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:dawes-old-guys" rev="footnote" title="Jump back to footnote 38 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002208.html"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002208.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:dawes-old-guys" rev="footnote" title="Jump back to footnote 38 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:murphey-phoey"&gt;
-&lt;p&gt;&lt;a href="http://xfree86.org/pipermail/forum/2003-March/002286.html"&gt;http://xfree86.org/pipermail/forum/2003-March/002286.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:murphey-phoey" rev="footnote" title="Jump back to footnote 39 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002286.html"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002286.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:murphey-phoey" rev="footnote" title="Jump back to footnote 39 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:cox-change"&gt;
-&lt;p&gt;&lt;a href="http://www.xfree86.org/pipermail/forum/2003-March/002077.html"&gt;http://www.xfree86.org/pipermail/forum/2003-March/002077.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:cox-change" rev="footnote" title="Jump back to footnote 40 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002077.html"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002077.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:cox-change" rev="footnote" title="Jump back to footnote 40 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:teleconference-1"&gt;
 &lt;p&gt;&lt;a href="http://web.archive.org/web/20030607004252/http://fontconfig.org/~keithp/teleconference/minutes-2003-03-27.txt"&gt;http://web.archive.org/web/20030607004252/http://fontconfig.org/~keithp/teleconference/minutes-2003-03-27.txt&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:teleconference-1" rev="footnote" title="Jump back to footnote 41 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
@@ -633,28 +1310,28 @@ interest switching to X.org.&lt;/p&gt;
 &lt;p&gt;&lt;a href="http://www.gnu.org/licenses/old-licenses/gpl-2.0.html"&gt;http://www.gnu.org/licenses/old-licenses/gpl-2.0.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:gpl-2" rev="footnote" title="Jump back to footnote 52 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:license-announce"&gt;
-&lt;p&gt;&lt;a href="http://www.xfree86.org/pipermail/forum/2004-January/001892.html"&gt;http://www.xfree86.org/pipermail/forum/2004-January/001892.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:license-announce" rev="footnote" title="Jump back to footnote 53 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2004-January/001892.html"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2004-January/001892.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:license-announce" rev="footnote" title="Jump back to footnote 53 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:gpl-should-change"&gt;
-&lt;p&gt;&lt;a href="http://www.xfree86.org/pipermail/forum/2004-January/003907.html"&gt;http://www.xfree86.org/pipermail/forum/2004-January/003907.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:gpl-should-change" rev="footnote" title="Jump back to footnote 54 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2004-January/003907.html"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2004-January/003907.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:gpl-should-change" rev="footnote" title="Jump back to footnote 54 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:license-no-support"&gt;
-&lt;p&gt;&lt;a href="http://www.xfree86.org/pipermail/forum/2004-February/004035.html"&gt;http://www.xfree86.org/pipermail/forum/2004-February/004035.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:license-no-support" rev="footnote" title="Jump back to footnote 55 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2004-February/004035.html"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2004-February/004035.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:license-no-support" rev="footnote" title="Jump back to footnote 55 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:dawes-hung-out"&gt;
-&lt;p&gt;&lt;a href="http://www.xfree86.org/pipermail/forum/2004-February/004039.html"&gt;http://www.xfree86.org/pipermail/forum/2004-February/004039.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:dawes-hung-out" rev="footnote" title="Jump back to footnote 56 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2004-February/004039.html"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2004-February/004039.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:dawes-hung-out" rev="footnote" title="Jump back to footnote 56 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:xorg-release"&gt;
 &lt;p&gt;&lt;a href="http://lwn.net/Articles/79302"&gt;http://lwn.net/Articles/79302&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:xorg-release" rev="footnote" title="Jump back to footnote 57 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:gettys-on-change"&gt;
-&lt;p&gt;&lt;a href="http://www.xfree86.org/pipermail/forum/2004-February/003945.html"&gt;http://www.xfree86.org/pipermail/forum/2004-February/003945.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:gettys-on-change" rev="footnote" title="Jump back to footnote 58 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2004-February/003945.html"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2004-February/003945.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:gettys-on-change" rev="footnote" title="Jump back to footnote 58 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:stallman-on-license"&gt;
-&lt;p&gt;&lt;a href="http://www.xfree86.org/pipermail/forum/2004-February/003974.html"&gt;http://www.xfree86.org/pipermail/forum/2004-February/003974.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:stallman-on-license" rev="footnote" title="Jump back to footnote 59 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2004-February/003974.html"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2004-February/003974.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:stallman-on-license" rev="footnote" title="Jump back to footnote 59 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:dawes-no-gpl"&gt;
-&lt;p&gt;&lt;a href="http://www.xfree86.org/pipermail/forum/2004-February/004021.html"&gt;http://www.xfree86.org/pipermail/forum/2004-February/004021.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:dawes-no-gpl" rev="footnote" title="Jump back to footnote 60 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2004-February/004021.html"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2004-February/004021.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:dawes-no-gpl" rev="footnote" title="Jump back to footnote 60 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id="fn:xfree86-and-gpl"&gt;
 &lt;p&gt;&lt;a href="http://www.dwheeler.com/essays/gpl-compatible.html#xfree86"&gt;http://www.dwheeler.com/essays/gpl-compatible.html#xfree86&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:xfree86-and-gpl" rev="footnote" title="Jump back to footnote 61 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
@@ -663,7 +1340,7 @@ interest switching to X.org.&lt;/p&gt;
 &lt;p&gt;&lt;a href="http://web.archive.org/web/20040531203819/http://www.xfree86.org/distro-support.html"&gt;http://web.archive.org/web/20040531203819/http://www.xfree86.org/distro-support.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:xfree-distributions" rev="footnote" title="Jump back to footnote 62 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Matthew Brett</dc:creator><pubDate>Tue, 25 Jun 2013 16:00:00 -0700</pubDate><guid>tag:asterisk.dynevor.org,2013-06-25:xfree-forked.html</guid><category>Management</category><category>open source</category><category>free software</category><category>core</category><category>XFree86</category><category>Xorg</category></item><item><title>The core melts down</title><link>http://asterisk.dynevor.org/melting-core.html</link><description>&lt;p&gt;My friend &lt;a href="http://pirsquared.org"&gt;Paul Ivanov&lt;/a&gt; kindly pointed me to this
+&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Matthew Brett</dc:creator><pubDate>Tue, 25 Jun 2013 16:00:00 -0700</pubDate><guid isPermaLink="false">tag:asterisk.dynevor.org,2013-06-25:xfree-forked.html</guid><category>Management</category><category>open source</category><category>free software</category><category>core</category><category>XFree86</category><category>Xorg</category></item><item><title>The core melts down</title><link>http://asterisk.dynevor.org/melting-core.html</link><description>&lt;p&gt;My friend &lt;a href="http://pirsquared.org"&gt;Paul Ivanov&lt;/a&gt; kindly pointed me to this
 &lt;a href="http://julipedia.meroh.net/2013/06/self-interview-after-leaving-netbsd.html"&gt;Self-interview after leaving the NetBSD
 board&lt;/a&gt; by Julio Merino.&lt;/p&gt;
 &lt;p&gt;This lead me to an earlier &lt;a href="http://mail-index.netbsd.org/netbsd-users/2006/08/30/0016.html"&gt;NetBSD resignation
@@ -722,7 +1399,7 @@ project to solutions.  They are going to maintain the status quo, and
 nothing else.  If the project is to rise from its charred stump, this
 "management" must be disbanded and replaced wholesale.  Anything less is a
 non-solution.&lt;/p&gt;
-&lt;/blockquote&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Matthew Brett</dc:creator><pubDate>Tue, 25 Jun 2013 14:00:00 -0700</pubDate><guid>tag:asterisk.dynevor.org,2013-06-25:melting-core.html</guid><category>Management</category><category>open source</category><category>free software</category><category>core</category><category>BSD</category><category>NetBSD</category></item><item><title>Disapproval of heart</title><link>http://asterisk.dynevor.org/disapproval-of-heart.html</link><description>&lt;blockquote&gt;
+&lt;/blockquote&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Matthew Brett</dc:creator><pubDate>Tue, 25 Jun 2013 14:00:00 -0700</pubDate><guid isPermaLink="false">tag:asterisk.dynevor.org,2013-06-25:melting-core.html</guid><category>Management</category><category>open source</category><category>free software</category><category>core</category><category>BSD</category><category>NetBSD</category></item><item><title>Disapproval of heart</title><link>http://asterisk.dynevor.org/disapproval-of-heart.html</link><description>&lt;blockquote&gt;
 &lt;p&gt;Shortly before this, the minister of agriculture Yan Yi had been put to
 death. Yan Yi had originally been a village head in Ji'nan.  Because of his
 honesty and integrity, he was gradually promoted in office until he became
@@ -743,7 +1420,7 @@ good graces of the emperor.&lt;/p&gt;
 &lt;p&gt;-- &lt;cite&gt;Sima Qian, Records of the Grand Historian; Han Dynasty II (revised
 edition). pp 75-76 Translated by Burton Watson.  Columbia University Press
 1993 &lt;/cite&gt;&lt;/p&gt;
-&lt;/blockquote&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Matthew Brett</dc:creator><pubDate>Mon, 22 Apr 2013 00:50:00 -0700</pubDate><guid>tag:asterisk.dynevor.org,2013-04-22:disapproval-of-heart.html</guid><category>History</category><category>China</category></item><item><title>A bad time</title><link>http://asterisk.dynevor.org/a-bad-time.html</link><description>&lt;blockquote&gt;
+&lt;/blockquote&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Matthew Brett</dc:creator><pubDate>Mon, 22 Apr 2013 00:50:00 -0700</pubDate><guid isPermaLink="false">tag:asterisk.dynevor.org,2013-04-22:disapproval-of-heart.html</guid><category>History</category><category>China</category></item><item><title>A bad time</title><link>http://asterisk.dynevor.org/a-bad-time.html</link><description>&lt;blockquote&gt;
 &lt;p&gt;From the time of these men on, the empire was torn by the strife of the
 warring kingdoms. Men honoured deceit and power and scoffed at benevolence
 and righteousness; they put wealth and possession first and courtesy and
@@ -751,4 +1428,4 @@ humility last.&lt;/p&gt;
 &lt;p&gt;-- &lt;cite&gt;Sima Qian, Records of the Grand Historian; Han Dynasty II (revised
 edition). p 84 Translated by Burton Watson.  Columbia University Press 1993
 &lt;/cite&gt;&lt;/p&gt;
-&lt;/blockquote&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Matthew Brett</dc:creator><pubDate>Sun, 21 Apr 2013 16:30:00 -0700</pubDate><guid>tag:asterisk.dynevor.org,2013-04-21:a-bad-time.html</guid><category>History</category><category>China</category></item></channel></rss>
+&lt;/blockquote&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Matthew Brett</dc:creator><pubDate>Sun, 21 Apr 2013 16:30:00 -0700</pubDate><guid isPermaLink="false">tag:asterisk.dynevor.org,2013-04-21:a-bad-time.html</guid><category>History</category><category>China</category></item></channel></rss>
