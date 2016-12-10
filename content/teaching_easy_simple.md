@@ -121,7 +121,7 @@ experience of using tools like the Jupyter Notebook is that I cannot afford to
 work in this way without exposing myself to great risk from ubiquitous error
 and self-deception ([^ubiquitous-error]).  If your experience of science is
 like mine, you will probably prefer "simple".
-]
+
 [^ubiquitous-error]: "The scientific method's central motivation is the
 ubiquity of error - the awareness that mistakes and self-delusion can creep in
 absolutely anywhere and that the scientist's effort is primarily expended in
