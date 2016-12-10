@@ -156,4 +156,4 @@ students take our working practice as a model of expertise.  This model can be
 more more persuasive than anything else we teach.  We should use implicit and
 explicit learning to teach effective practice.  Sound working practice is
 the foundation on which we build; it is worth the cost in curriculum time to
-s]how the benefit of simple, and the risks of easy.
+show the benefit of simple, and the risks of easy.
