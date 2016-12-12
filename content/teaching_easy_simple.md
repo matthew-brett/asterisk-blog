@@ -145,9 +145,9 @@ tools that I would use myself.  We use the terminal to run bash and git
 commands, the IPython console for exploring small code fragments, and a
 full-featured text editor for editing code and documents.  In my [most recent
 course](https://bic-berkeley.github.io/psych-214-fall-2016) we used the Atom
-text editor. Sometimes I do use the Jupyter Notebook for my own work, bit I am
+text editor. Sometimes I do use the Jupyter Notebook for my own work, but I am
 careful not to use it in class, because it is so addictive, and therefore
-dangerous for an inexperienced user of code.
+dangerous for someone new to coding.
 
 ## Teach simple, not easy
 
