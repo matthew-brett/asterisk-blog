@@ -153,10 +153,18 @@ For an Imaging Course, students should be able to:
 
 Matlab isn't a good choice for the first two tasks.
 
-# Convenience
+# Convenience, access, transfer
 
-* [Anaconda Python Installer](https://anaconda.org);
-* Python has no license manager.
+Matlab has a fairly convenient installer, but there are similar installers for
+Python - such as the [Anaconda Python Installer](https://anaconda.org).
+
+Unlike Matlab, Python and all its standard packages are available for free, so
+a student can install a full copy on any machine they want, and they can take
+their installation to their next lab or next job without worrying about Matlab
+license fees.
+
+Using Python makes it easier to collaborate with researchers in universities
+that cannot afford or will not pay for Matlab licenses.
 
 # Culture
 
