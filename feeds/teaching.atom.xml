@@ -1,12 +1,102 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Asterisk</title><link href="http://asterisk.dynevor.org/" rel="alternate"></link><link href="http://asterisk.dynevor.org/feeds/teaching.atom.xml" rel="self"></link><id>http://asterisk.dynevor.org/</id><updated>2016-12-09T12:00:00-08:00</updated><entry><title>Teaching easy, teaching simple</title><link href="http://asterisk.dynevor.org/teaching-simple.html" rel="alternate"></link><published>2016-12-09T12:00:00-08:00</published><author><name>Matthew Brett</name></author><id>tag:asterisk.dynevor.org,2016-12-09:teaching-simple.html</id><summary type="html">&lt;h2&gt;Easy and simple&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Asterisk - teaching</title><link href="http://asterisk.dynevor.org/" rel="alternate"></link><link href="http://asterisk.dynevor.org/feeds/teaching.atom.xml" rel="self"></link><id>http://asterisk.dynevor.org/</id><updated>2017-11-08T12:00:00-08:00</updated><entry><title>Python and Matlab</title><link href="http://asterisk.dynevor.org/python-matlab.html" rel="alternate"></link><published>2017-11-08T12:00:00-08:00</published><updated>2017-11-08T12:00:00-08:00</updated><author><name>Matthew Brett</name></author><id>tag:asterisk.dynevor.org,2017-11-08:/python-matlab.html</id><summary type="html">&lt;p&gt;Comparing Python and Matlab for Psychology teaching&lt;/p&gt;</summary><content type="html">&lt;h1&gt;How easy are they to learn?&lt;/h1&gt;
+&lt;p&gt;Python is a standard language for first programming courses in:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Of the &lt;a href="https://ocw.mit.edu/courses/intro-programming/#general"&gt;MIT courses on general
+  programming&lt;/a&gt; four
+  are in Python and one is in Java.&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://plus.google.com/u/0/+MatthewBrett/posts/HAsy7HWMyc5"&gt;Result from survey of computing
+  languages&lt;/a&gt;.
+  Sadly the &lt;a href="http://hammerprinciple.com/therighttool"&gt;source
+  site&lt;/a&gt; had gone down at the time I
+  wrote this, but the [Archive.org copy](
+  (https://web.archive.org/web/20170204183750/hammerprinciple.com/therighttool)
+  has pages summarizing
+  &lt;a href="https://web.archive.org/web/20170205052954/http://www.hammerprinciple.com:80/therighttool/items/python"&gt;Python&lt;/a&gt;
+  and
+  &lt;a href="https://web.archive.org/web/20170205074106/http://www.hammerprinciple.com:80/therighttool/items/matlab"&gt;Matlab&lt;/a&gt;.
+  Abstracting from my earlier summary: the survey responses suggest that
+  Matlab is a niche language, and is harder to learn than Python.  Matlab code
+  is less elegant, less readable, harder to maintain and harder to re-use.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In particular, Matlab rates much higher than Python on the question "This
+  language is unusually bad for beginners", "This language has an annoying
+  syntax" and "Writing code in this language is a lot of work".&lt;/p&gt;
+&lt;h1&gt;Number of users&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://pypl.github.io/PYPL.html"&gt;Popularity of Programming Languages&lt;/a&gt;: "The
+  PYPL PopularitY of Programming Language Index is created by analyzing how
+  often language tutorials are searched on Google.".  October 2017 - Python
+  second at 17.6% (after Java); Matlab 11th on 2.2%.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.tiobe.com/tiobe-index"&gt;TIOBE index&lt;/a&gt;: "The ratings are based on
+  the number of skilled engineers world-wide, courses and third party vendors.
+  Popular search engines such as Google, Bing, Yahoo!, Wikipedia, Amazon,
+  YouTube and Baidu are used to calculate the ratings.".  Python 5th (after
+  Java, C, C++, C#) at 3.9%.  Matlab 13th at 1.9%.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;Trends&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://stackoverflow.blog/2017/09/06/incredible-growth-python"&gt;The Incredible Growth of
+  Python&lt;/a&gt;:
+  analysis of StackOverflow search trends in high-income nations.  Python was
+  the most visited tag of any language in June 2017, at around 10%, and has
+  had 27% growth from 2016 to 2017, with a linear trend since 2012.  In
+  contrast, Matlab was at 0.4% and had about an 18% drop from 2016 to 2017.
+  Much of the growth of Python is in "data science" searches.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;Range&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Data analysis: Python &amp;gt;&amp;gt; Matlab.  Matlab is not a serious contender in data
+  science - see &lt;a href="https://datascience.stackexchange.com/tags"&gt;StackOverflow data science search
+  tags&lt;/a&gt;.  Machine-learning is the
+  top tag with 2173 questions, Python is second with 945 and Matlab is 52nd
+  with 60 questions.&lt;/li&gt;
+&lt;li&gt;Statistics: Python ~= Matlab.  Both have deficiencies.  Python has the major
+  machine learning toolbox.&lt;/li&gt;
+&lt;li&gt;Real-time programming: Python == Matlab ?
+  (&lt;a href="http://www.psychopy.org/"&gt;Psychopy&lt;/a&gt; ==
+  &lt;a href="http://psychtoolbox.org/"&gt;Psychtoolbox&lt;/a&gt; - they both claim roughly around
+  12K active users: &lt;a href="http://www.psychopy.org/usage.php"&gt;Psychopy users&lt;/a&gt;,
+  &lt;a href="https://en.wikipedia.org/wiki/Psychtoolbox_for_MATLAB"&gt;Psychtoolbox Wikipedia
+  page&lt;/a&gt;);&lt;/li&gt;
+&lt;li&gt;Shell scripting: Python &amp;gt;&amp;gt; Matlab;&lt;/li&gt;
+&lt;li&gt;Tutorial and demo development: Python &amp;gt; Matlab (Jupyter Notebook);&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For an Imaging Course, students should be able to:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;write simple command line scripts for handling files and directories;&lt;/li&gt;
+&lt;li&gt;script their analyses in FSL and other packages;&lt;/li&gt;
+&lt;li&gt;present stimuli for experiments;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Matlab isn't a good choice for the first two tasks.&lt;/p&gt;
+&lt;h1&gt;Convenience&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://anaconda.org"&gt;Anaconda Python Installer&lt;/a&gt;;&lt;/li&gt;
+&lt;li&gt;Python has no license manager.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;Culture&lt;/h1&gt;
+&lt;p&gt;Python is open-source.  This may be the reason for the following features of
+its community:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;strong culture of testing and quality;&lt;/li&gt;
+&lt;li&gt;well-developed packaging;&lt;/li&gt;
+&lt;li&gt;tradition of users becoming contributors.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;Employability&lt;/h1&gt;
+&lt;p&gt;Python programming is a desirable skill in industry; &lt;a href="https://stackoverflow.com/jobs?sort=i&amp;amp;q=Python"&gt;Stackoverflow Jobs:
+Python&lt;/a&gt; currently gives 721
+hits, &lt;a href="https://stackoverflow.com/jobs?sort=i&amp;amp;q=Matlab"&gt;Stackoverflow Jobs:
+Matlab&lt;/a&gt; gives 36.&lt;/p&gt;</content><category term="Programming"></category><category term="education"></category><category term="open source"></category><category term="free software"></category><category term="Matlab"></category><category term="Python"></category></entry><entry><title>Teaching easy, teaching simple</title><link href="http://asterisk.dynevor.org/teaching-simple.html" rel="alternate"></link><published>2016-12-09T12:00:00-08:00</published><updated>2016-12-09T12:00:00-08:00</updated><author><name>Matthew Brett</name></author><id>tag:asterisk.dynevor.org,2016-12-09:/teaching-simple.html</id><summary type="html">&lt;p&gt;We should teach for the long term using simple tools&lt;/p&gt;</summary><content type="html">&lt;h2&gt;Easy and simple&lt;/h2&gt;
 &lt;p&gt;I am going to use the definitions of "simple" and "easy" from &lt;a href="http://www.infoq.com/presentations/Simple-Made-Easy"&gt;this
 talk&lt;/a&gt;.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Simple comes from Latin &lt;em&gt;simplex&lt;/em&gt; - one fold.  Simple is the opposite of
   &lt;em&gt;complex&lt;/em&gt;, which comes from the Latin for "twisted together".&lt;/li&gt;
 &lt;li&gt;Easy comes from old French &lt;em&gt;aiser&lt;/em&gt; which in turn comes from the Latin
-  &lt;em&gt;adjacens&lt;/em&gt; "lying close by" (&lt;sup id="fnref:oxford-dictionary"&gt;&lt;a class="footnote-ref" href="#fn:oxford-dictionary" rel="footnote"&gt;1&lt;/a&gt;&lt;/sup&gt;)&lt;/li&gt;
+  &lt;em&gt;adjacens&lt;/em&gt; "lying close by" (&lt;sup id="fnref-oxford-dictionary"&gt;&lt;a class="footnote-ref" href="#fn-oxford-dictionary"&gt;1&lt;/a&gt;&lt;/sup&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;"Easy" is what you are familiar with. "Easy" is not far from something you
 already know.&lt;/p&gt;
@@ -61,7 +151,7 @@ way, I will.  Sometimes doing that is useful, but most of the time, giving in
 to the temptation to play with code is disastrous for my clarity of thought.&lt;/p&gt;
 &lt;p&gt;I think more clearly in Vim because I have used Vim enough that my hands and
 my motor cortex can do the mechanical work of editing, leaving the rest of my
-brain free for thinking (&lt;sup id="fnref:two-paths"&gt;&lt;a class="footnote-ref" href="#fn:two-paths" rel="footnote"&gt;2&lt;/a&gt;&lt;/sup&gt;).  I do not have to interrupt my
+brain free for thinking (&lt;sup id="fnref-two-paths"&gt;&lt;a class="footnote-ref" href="#fn-two-paths"&gt;2&lt;/a&gt;&lt;/sup&gt;).  I do not have to interrupt my
 concentration by moving my hands to the mouse or trackpad, because I can do
 everything I need with the keyboard commands.  Using my text editor is simple,
 because the task of editing is not entangled with the task of thinking.&lt;/p&gt;
@@ -87,9 +177,8 @@ should spend most of their time exploring code and data in an informal way,
 you might conclude that "easy" is acceptable, even desirable.  My own
 experience of using tools like the Jupyter Notebook is that I cannot afford to
 work in this way without exposing myself to great risk from ubiquitous error
-and self-deception (&lt;sup id="fnref:ubiquitous-error"&gt;&lt;a class="footnote-ref" href="#fn:ubiquitous-error" rel="footnote"&gt;3&lt;/a&gt;&lt;/sup&gt;).  If your experience of science is
-like mine, you will probably prefer "simple".
-]&lt;/p&gt;
+and self-deception (&lt;sup id="fnref-ubiquitous-error"&gt;&lt;a class="footnote-ref" href="#fn-ubiquitous-error"&gt;3&lt;/a&gt;&lt;/sup&gt;).  If your experience of science is
+like mine, you will probably prefer "simple".&lt;/p&gt;
 &lt;p&gt;You might accept that scientists do need to learn the simple tools at some
 point, but the constraints of your course do not allow you to spend time on
 teaching tools.  Teaching the simple tools, would take too long.  In that case
@@ -105,41 +194,41 @@ tools that I would use myself.  We use the terminal to run bash and git
 commands, the IPython console for exploring small code fragments, and a
 full-featured text editor for editing code and documents.  In my &lt;a href="https://bic-berkeley.github.io/psych-214-fall-2016"&gt;most recent
 course&lt;/a&gt; we used the Atom
-text editor. Sometimes I do use the Jupyter Notebook for my own work, bit I am
+text editor. Sometimes I do use the Jupyter Notebook for my own work, but I am
 careful not to use it in class, because it is so addictive, and therefore
-dangerous for an inexperienced user of code.&lt;/p&gt;
+dangerous for someone new to coding.&lt;/p&gt;
 &lt;h2&gt;Teach simple, not easy&lt;/h2&gt;
 &lt;p&gt;Teaching always involves some degree of instruction that is implicit.  The
 students take our working practice as a model of expertise.  This model can be
 more more persuasive than anything else we teach.  We should use implicit and
 explicit learning to teach effective practice.  Sound working practice is
 the foundation on which we build; it is worth the cost in curriculum time to
-s]how the benefit of simple, and the risks of easy.&lt;/p&gt;
+show the benefit of simple, and the risks of easy.&lt;/p&gt;
 &lt;div class="footnote"&gt;
-&lt;hr /&gt;
+&lt;hr&gt;
 &lt;ol&gt;
-&lt;li id="fn:oxford-dictionary"&gt;
+&lt;li id="fn-oxford-dictionary"&gt;
 &lt;p&gt;Oxford dictionary of Word origins edited by Julia
-Cresswell.&amp;#160;&lt;a class="footnote-backref" href="#fnref:oxford-dictionary" rev="footnote" title="Jump back to footnote 1 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+Cresswell.&amp;#160;&lt;a class="footnote-backref" href="#fnref-oxford-dictionary" title="Jump back to footnote 1 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id="fn:two-paths"&gt;
+&lt;li id="fn-two-paths"&gt;
 &lt;p&gt;there is good neuroscientific evidence for this simple
 distinction between habitual tasks and tasks that require conscious effort.
 If you try and do two tasks that require conscious effort, they interfere with
 one another so you cannot do both tasks well.  If you do an habitual task at
 the same time as a task that requires conscious effort, the tasks interfere
-much less.&amp;#160;&lt;a class="footnote-backref" href="#fnref:two-paths" rev="footnote" title="Jump back to footnote 2 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+much less.&amp;#160;&lt;a class="footnote-backref" href="#fnref-two-paths" title="Jump back to footnote 2 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id="fn:ubiquitous-error"&gt;
+&lt;li id="fn-ubiquitous-error"&gt;
 &lt;p&gt;"The scientific method's central motivation is the
 ubiquity of error - the awareness that mistakes and self-delusion can creep in
 absolutely anywhere and that the scientist's effort is primarily expended in
 recognizing and rooting out error" David L. Donoho &lt;em&gt;et al&lt;/em&gt; (2009)
 "Reproducible research in computational harmonic analysis" Computing in
-Science &amp;amp; Engineering 11 p8-18.&amp;#160;&lt;a class="footnote-backref" href="#fnref:ubiquitous-error" rev="footnote" title="Jump back to footnote 3 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+Science &amp;amp; Engineering 11 p8-18.&amp;#160;&lt;a class="footnote-backref" href="#fnref-ubiquitous-error" title="Jump back to footnote 3 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/div&gt;</summary><category term="Thinking"></category><category term="Teaching"></category><category term="Coding"></category></entry><entry><title>How should we teach students to use computers?</title><link href="http://asterisk.dynevor.org/how-should-we-teach-computing.html" rel="alternate"></link><published>2016-08-19T12:00:00-07:00</published><author><name>Matthew Brett</name></author><id>tag:asterisk.dynevor.org,2016-08-19:how-should-we-teach-computing.html</id><summary type="html">&lt;p&gt;The software carpentry movement has the aim of teaching scientists how to use
+&lt;/div&gt;</content><category term="Thinking"></category><category term="Teaching"></category><category term="Coding"></category></entry><entry><title>How should we teach students to use computers?</title><link href="http://asterisk.dynevor.org/how-should-we-teach-computing.html" rel="alternate"></link><published>2016-08-19T12:00:00-07:00</published><updated>2016-08-19T12:00:00-07:00</updated><author><name>Matthew Brett</name></author><id>tag:asterisk.dynevor.org,2016-08-19:/how-should-we-teach-computing.html</id><summary type="html">&lt;p&gt;Teaching students for the long term&lt;/p&gt;</summary><content type="html">&lt;p&gt;The software carpentry movement has the aim of teaching scientists how to use
 computers well.&lt;/p&gt;
 &lt;p&gt;It is important to teach this so we can produce work of high quality.  It is
 more likely that our work will be transparent enough for someone else to use
@@ -186,7 +275,7 @@ instruction.&lt;/p&gt;
 explain what those skills are.&lt;/p&gt;
 &lt;h2&gt;What's the best way?&lt;/h2&gt;
 &lt;p&gt;When we decide what to do, we have to agree on a goal.  For example, your goal
-might be to teach "data science" &lt;sup id="fnref:data-science-defined"&gt;&lt;a class="footnote-ref" href="#fn:data-science-defined" rel="footnote"&gt;1&lt;/a&gt;&lt;/sup&gt;.  The students should
+might be to teach "data science" &lt;sup id="fnref-data-science-defined"&gt;&lt;a class="footnote-ref" href="#fn-data-science-defined"&gt;1&lt;/a&gt;&lt;/sup&gt;.  The students should
 leave the class with a better understanding of issues in data science.  If
 that is your entire goal, then you may not worry that the students will soon
 stop using the tools that you have taught them.  No-one will blame you for
@@ -229,14 +318,14 @@ their computing maturity and assess the students at 1 and 2 years after the
 course.  I predict that students taught with approach 2 will be doing better
 on average.  You might predict the opposite.  Let's get data.&lt;/p&gt;
 &lt;div class="footnote"&gt;
-&lt;hr /&gt;
+&lt;hr&gt;
 &lt;ol&gt;
-&lt;li id="fn:data-science-defined"&gt;
+&lt;li id="fn-data-science-defined"&gt;
 &lt;p&gt;I have heard it said, that data science can
-reasonably be defined as "doing statistics on a Mac".&amp;#160;&lt;a class="footnote-backref" href="#fnref:data-science-defined" rev="footnote" title="Jump back to footnote 1 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+reasonably be defined as "doing statistics on a Mac".&amp;#160;&lt;a class="footnote-backref" href="#fnref-data-science-defined" title="Jump back to footnote 1 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/div&gt;</summary><category term="Teaching"></category><category term="Coding"></category></entry><entry><title>Why do researchers write sloppy code?</title><link href="http://asterisk.dynevor.org/love-letter.html" rel="alternate"></link><published>2016-01-15T14:00:00-08:00</published><author><name>Matthew Brett</name></author><id>tag:asterisk.dynevor.org,2016-01-15:love-letter.html</id><summary type="html">&lt;p&gt;A friend of mine teaches a subject that involves scientific programming.  He
+&lt;/div&gt;</content><category term="Teaching"></category><category term="Coding"></category></entry><entry><title>Why do researchers write sloppy code?</title><link href="http://asterisk.dynevor.org/love-letter.html" rel="alternate"></link><published>2016-01-15T14:00:00-08:00</published><updated>2016-01-15T14:00:00-08:00</updated><author><name>Matthew Brett</name></author><id>tag:asterisk.dynevor.org,2016-01-15:/love-letter.html</id><summary type="html">&lt;p&gt;A love letter to the computer&lt;/p&gt;</summary><content type="html">&lt;p&gt;A friend of mine teaches a subject that involves scientific programming.  He
 has several times told me that he is surprised at some of the work that
 students turn in.  He tells me that it is often messy and badly written.
 Despite his clear instructions, the code often does not run as written and may
@@ -244,7 +333,7 @@ have very obvious syntax errors, commented out lines for debugging and other
 work-in-progress cruft.  He wonders why the students turn in such bad code,
 when they would be much more careful turning in a mathematical proof.&lt;/p&gt;
 &lt;p&gt;This reminds me of a quote that I read a long time since, and have just found
-again in the famous "Code Complete" (&lt;sup id="fnref:code-complete"&gt;&lt;a class="footnote-ref" href="#fn:code-complete" rel="footnote"&gt;1&lt;/a&gt;&lt;/sup&gt;).&lt;/p&gt;
+again in the famous "Code Complete" (&lt;sup id="fnref-code-complete"&gt;&lt;a class="footnote-ref" href="#fn-code-complete"&gt;1&lt;/a&gt;&lt;/sup&gt;).&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;In the early years of programming, a program was regarded as the private
 property of the programmer. One would no more think of reading a colleague's
@@ -290,14 +379,14 @@ time&lt;/a&gt;.  The researcher can only
 know the answer is wrong if they know the code is wrong, but that is something
 that they have no instinct to investigate.&lt;/p&gt;
 &lt;div class="footnote"&gt;
-&lt;hr /&gt;
+&lt;hr&gt;
 &lt;ol&gt;
-&lt;li id="fn:code-complete"&gt;
+&lt;li id="fn-code-complete"&gt;
 &lt;p&gt;Steve McConnell "Code Complete, second edition" (2004) p842.
-Microsoft Press.&amp;#160;&lt;a class="footnote-backref" href="#fnref:code-complete" rev="footnote" title="Jump back to footnote 1 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+Microsoft Press.&amp;#160;&lt;a class="footnote-backref" href="#fnref-code-complete" title="Jump back to footnote 1 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/div&gt;</summary><category term="Thinking"></category><category term="Teaching"></category><category term="Coding"></category></entry><entry><title>Makes-sense epistemology</title><link href="http://asterisk.dynevor.org/makes-sense.html" rel="alternate"></link><published>2016-01-15T14:00:00-08:00</published><author><name>Matthew Brett</name></author><id>tag:asterisk.dynevor.org,2016-01-15:makes-sense.html</id><summary type="html">&lt;p&gt;I've spend the last two years doing a reasonable amount of teaching.&lt;/p&gt;
+&lt;/div&gt;</content><category term="Thinking"></category><category term="Teaching"></category><category term="Coding"></category></entry><entry><title>Makes-sense epistemology</title><link href="http://asterisk.dynevor.org/makes-sense.html" rel="alternate"></link><published>2016-01-15T14:00:00-08:00</published><updated>2016-01-15T14:00:00-08:00</updated><author><name>Matthew Brett</name></author><id>tag:asterisk.dynevor.org,2016-01-15:/makes-sense.html</id><summary type="html">&lt;p&gt;Something that looks like understanding&lt;/p&gt;</summary><content type="html">&lt;p&gt;I've spend the last two years doing a reasonable amount of teaching.&lt;/p&gt;
 &lt;p&gt;I suppose that every teacher wonders whether the students are really
 "understanding" what we teach.  This begs the question of what we mean by
 understanding.&lt;/p&gt;
@@ -311,7 +400,7 @@ true.&lt;/p&gt;
 things about PCA.  I heard the same thing a few times from a few different
 people, and I added what they said to the store of things I "knew".&lt;/p&gt;
 &lt;p&gt;In my case, I think I was using what Perkins, Allen and
-Hafner call "makes-sense epistemology" (&lt;sup id="fnref:perkins-allen-hafner"&gt;&lt;a class="footnote-ref" href="#fn:perkins-allen-hafner" rel="footnote"&gt;1&lt;/a&gt;&lt;/sup&gt;).  Someone
+Hafner call "makes-sense epistemology" (&lt;sup id="fnref-perkins-allen-hafner"&gt;&lt;a class="footnote-ref" href="#fn-perkins-allen-hafner"&gt;1&lt;/a&gt;&lt;/sup&gt;).  Someone
 using makes-sense epistemology is not reasoning or criticizing what they have
 heard. They are not asking "could that be wrong?".  Their criterion for
 accepting an argument is that the argument feels right or makes sense.&lt;/p&gt;
@@ -331,22 +420,22 @@ makes-sense epistemology.&lt;/p&gt;
 &lt;p&gt;Does it matter that we often function on this intuitive makes-sense level?
 Not if we think that most of what we are told is true.  But, as Richard
 Feynman put it: "Science is the belief in the ignorance of experts."
-(&lt;sup id="fnref:ignorance"&gt;&lt;a class="footnote-ref" href="#fn:ignorance" rel="footnote"&gt;2&lt;/a&gt;&lt;/sup&gt;).&lt;/p&gt;
+(&lt;sup id="fnref-ignorance"&gt;&lt;a class="footnote-ref" href="#fn-ignorance"&gt;2&lt;/a&gt;&lt;/sup&gt;).&lt;/p&gt;
 &lt;div class="footnote"&gt;
-&lt;hr /&gt;
+&lt;hr&gt;
 &lt;ol&gt;
-&lt;li id="fn:perkins-allen-hafner"&gt;
+&lt;li id="fn-perkins-allen-hafner"&gt;
 &lt;p&gt;Perkins, David N., Richard Allen, and James Hafner.
 "Difficulties in everyday reasoning." Thinking: The expanding frontier (1983):
 177-189. See: &lt;a href="https://books.google.com/books?id=QAFiGGJdoY8C&amp;amp;lpg=PP1&amp;amp;dq=editions%3ASA6JOdbqOxMC&amp;amp;pg=PA177#v=onepage&amp;amp;q&amp;amp;f=false"&gt;preview in Google
-books&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:perkins-allen-hafner" rev="footnote" title="Jump back to footnote 1 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+books&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref-perkins-allen-hafner" title="Jump back to footnote 1 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id="fn:ignorance"&gt;
+&lt;li id="fn-ignorance"&gt;
 &lt;p&gt;Address &lt;a href="http://www.fotuva.org/feynman/what_is_science.html"&gt;"What is
 Science?"&lt;/a&gt;, presented at
 the fifteenth annual meeting of the National Science Teachers Association, in
 New York City (1966), published in The Physics Teacher, volume 7, issue 6
-(1969), p. 313-320&amp;#160;&lt;a class="footnote-backref" href="#fnref:ignorance" rev="footnote" title="Jump back to footnote 2 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+(1969), p. 313-320&amp;#160;&lt;a class="footnote-backref" href="#fnref-ignorance" title="Jump back to footnote 2 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/div&gt;</summary><category term="Thinking"></category><category term="Teaching"></category><category term="Epistemology"></category></entry></feed>
+&lt;/div&gt;</content><category term="Thinking"></category><category term="Teaching"></category><category term="Epistemology"></category></entry></feed>
