@@ -1,7 +1,7 @@
 Title: Who is reading?
 Date: 2016-08-22 00:50
 Tags: History, Bible criticism, Academia
-Category: bible criticism
+Category: NT criticism
 Slug: whos-reading
 Author: Matthew Brett
 Summary: Bad smells from New Testament studies

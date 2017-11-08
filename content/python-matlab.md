@@ -8,43 +8,102 @@ Summary: Comparing Python and Matlab for Psychology teaching
 
 # How easy are they to learn?
 
-Python is a standard language for first programming courses:
+Python is a standard language for courses designed as an introduction to
+computer programming.
 
-* Of the [MIT courses on general
+Here is a quick survey of some major US Universities:
+
+* Of the [MIT OpenCourseWare courses on general
   programming](https://ocw.mit.edu/courses/intro-programming/#general) four
   are in Python and one is in Java.
+* MIT Electrical Engineering and Computer Science courses are [6.0001:
+  Introduction to Computer Science and Programming in
+  Python](https://www.eecs.mit.edu/academics-admissions/academic-information/subject-updates-ft-2014/60001)
+  and [6.0002 Introduction to Computational Thinking and Data
+  Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016),
+  both in Python.
 * Berkeley runs a large [cross-discipline undergraduate program on data
   science](http://data8.org) using Python.  There is a matching [Cognitive
   Science connector course]( http://data8.org/cognitive-science-connector);
-* [Harvard Introduction to Computer Science
+* [Stanford CS101: Introduction to Computing
+  Principles](http://web.stanford.edu/class/cs101) uses a variant of
+  JavaScript.
+* [Harvard and Yale Introduction to Computer Science
   CS50](https://docs.cs50.net/2017/fall/syllabus/cs50.html) "Languages include
   C, Python, SQL, and JavaScript plus CSS and HTML".
+* [Washington University Introduction to Programming
+  I](https://courses.cs.washington.edu/courses/cse142) uses Java.
+* [Caltech Introduction to Computer
+  Programming](http://cms.caltech.edu/academics/course_desc#cs) uses Python.
 
-Other languages for introductions to programming include Java, C, Scheme and
-Scratch.  Apart from C, which has a niche use for system programming and
-speed optimization, none of these languages are widely used as in Psychology,
-or scientific programming more generally.
+For introductory programming courses run by Computer Science departments in
+the UK Russell group:
 
-I don't know of any general introduction to programming that uses Matlab - see
-survey results below.
+[Birmingham:
+Java](https://www.birmingham.ac.uk/undergraduate/courses/computer-science/computer-science.aspx);
+[Bristol: C, Haskell,
+Java](http://www.bristol.ac.uk/unit-programme-catalogue/RouteStructure.jsa?byCohort=N&ayrCode=18%2F19&programmeCode=4COSC006U);
+[Cambridge:
+Java](https://www.undergraduate.study.cam.ac.uk/courses/computer-science);
+[Cardiff:
+Python](https://www.cardiff.ac.uk/study/undergraduate/courses/2018/computer-science-bsc);
+[Durham:
+Java](https://www.dur.ac.uk/faculty.handbook/module_description/?year=2017&module_code=COMP1011);
+[Edinburgh:
+Haskell](http://www.drps.ed.ac.uk/17-18/dpt/cxinfr08013.htm)[Exeter:
+Python](https://www.exeter.ac.uk/undergraduate/degrees/computerscience/comsci/#Programme-structure);
+[Glasgow:
+Python](https://www.gla.ac.uk/undergraduate/degrees/computingscience)[Imperial:
+Haskell](http://www.imperial.ac.uk/computing/current-students/courses/120_1/)[Kings:
+Java](https://www.kcl.ac.uk/nms/depts/informatics/study/current/handbook/Progs/Modules/4CCS1PPA.aspx);
+[Leeds:
+C](http://lib5.leeds.ac.uk/rlists/broker/?bbModuleId=201718_32439_COMP1711&bbListId=_5264080_1);
+[Liverpool: Java](http://readinglists.liverpool.ac.uk/modules/comp101.html);
+[LSE: No course](http://www.lse.ac.uk/study-at-lse/Undergraduate);
+[Manchester:
+Java](http://www.manchester.ac.uk/study/undergraduate/courses/2018/00560/bsc-computer-science/course-details/#course-profile);
+[Newcastle:
+Java](https://eu01.alma.exlibrisgroup.com/leganto/readinglist/searchlists/3360129130002411);
+[Nottingham: C, Java,
+Haskell](http://readinglists.nottingham.ac.uk/lists/874C6774-DEBE-E92D-E806-41E591A49A30.html)[Oxford:
+Haskell](http://www.cs.ox.ac.uk/admissions/undergraduate/courses/computer_science_core_1.html#Functional_Programming),
+[Oxford:
+Scala](https://www.cs.ox.ac.uk/teaching/courses/2017-2018/imperativeprogramming1/index.html);
+[Queen Mary:
+Java](http://www.eecs.qmul.ac.uk/undergraduates/programme/view/38); [Queen's
+Belfast: Java](https://github.com/thomaspickup/qub-yr1-java); [Sheffield:
+Java](https://www.sheffield.ac.uk/prospectus/courseDetails.do?id=G4022018);
+[Southampton:
+Java](https://www.southampton.ac.uk/courses/modules/comp1202.page#_ga=2.46435175.1162187456.1510165927-1517032892.1510165927);
+[UCL: C,
+Haskell](http://readinglists.ucl.ac.uk/lists/15F03E6E-6D5F-7073-B7C6-BBF5C86E83C5.html);
+[Warwick:
+Java](https://www2.warwick.ac.uk/fac/sci/dcs/teaching/modules/cs118/); [York:
+Python](https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/COM00007C/2017-18).
 
-* [Result from survey of computing
-  languages](https://plus.google.com/u/0/+MatthewBrett/posts/HAsy7HWMyc5).
-  Sadly the [source
-  site](http://hammerprinciple.com/therighttool) had gone down at the time I
-  wrote this, but the [Archive.org
-  copy](https://web.archive.org/web/20170204183750/hammerprinciple.com/therighttool)
-  has pages summarizing
-  [Python](https://web.archive.org/web/20170205052954/http://www.hammerprinciple.com:80/therighttool/items/python)
-  and
-  [Matlab](https://web.archive.org/web/20170205074106/http://www.hammerprinciple.com:80/therighttool/items/matlab).
-  Abstracting from my earlier summary: the survey responses suggest that
-  Matlab is a niche language, and is harder to learn than Python.  Matlab code
-  is less elegant, less readable, harder to maintain and harder to re-use.
+From the information above, languages other than Python in introductory
+courses include Java, Haskell, C, Scala, Scheme and Scratch.  Apart from C,
+which has a niche use for system programming and speed optimization, none of
+these languages are widely used as in Psychology, or scientific programming
+more generally.
 
-  In particular, Matlab rates much higher than Python on the question "This
-  language is unusually bad for beginners", "This language has an annoying
-  syntax" and "Writing code in this language is a lot of work".
+I don't know of any general introduction to programming that uses Matlab. One
+reason may be the opinions shown in this [survey of computing
+languages](https://plus.google.com/u/0/+MatthewBrett/posts/HAsy7HWMyc5).
+Sadly the [source site](http://hammerprinciple.com/therighttool) had gone down
+at the time I wrote this, but the [Archive.org
+copy](https://web.archive.org/web/20170204183750/hammerprinciple.com/therighttool)
+has pages summarizing
+[Python](https://web.archive.org/web/20170205052954/http://www.hammerprinciple.com:80/therighttool/items/python)
+and
+[Matlab](https://web.archive.org/web/20170205074106/http://www.hammerprinciple.com:80/therighttool/items/matlab).
+Abstracting from my earlier summary: the survey responses suggest that Matlab
+is a niche language, and is harder to learn than Python.  Matlab code is less
+elegant, less readable, harder to maintain and harder to re-use.
+
+In particular, Matlab rates much higher than Python on the question "This
+language is unusually bad for beginners", "This language has an annoying
+syntax" and "Writing code in this language is a lot of work".
 
 # Number of users
 
