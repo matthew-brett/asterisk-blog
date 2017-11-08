@@ -8,19 +8,32 @@ Summary: Comparing Python and Matlab for Psychology teaching
 
 # How easy are they to learn?
 
-Python is a standard language for first programming courses in:
+Python is a standard language for first programming courses:
 
 * Of the [MIT courses on general
   programming](https://ocw.mit.edu/courses/intro-programming/#general) four
   are in Python and one is in Java.
-* 
+* Berkeley runs a large [cross-discipline undergraduate program on data
+  science](http://data8.org) using Python.  There is a matching [Cognitive
+  Science connector course]( http://data8.org/cognitive-science-connector);
+* [Harvard Introduction to Computer Science
+  CS50](https://docs.cs50.net/2017/fall/syllabus/cs50.html) "Languages include
+  C, Python, SQL, and JavaScript plus CSS and HTML".
+
+Other languages for introductions to programming include Java, C, Scheme and
+Scratch.  Apart from C, which has a niche use for system programming and
+speed optimization, none of these languages are widely used as in Psychology,
+or scientific programming more generally.
+
+I don't know of any general introduction to programming that uses Matlab - see
+survey results below.
 
 * [Result from survey of computing
   languages](https://plus.google.com/u/0/+MatthewBrett/posts/HAsy7HWMyc5).
   Sadly the [source
   site](http://hammerprinciple.com/therighttool) had gone down at the time I
-  wrote this, but the [Archive.org copy](
-  (https://web.archive.org/web/20170204183750/hammerprinciple.com/therighttool)
+  wrote this, but the [Archive.org
+  copy](https://web.archive.org/web/20170204183750/hammerprinciple.com/therighttool)
   has pages summarizing
   [Python](https://web.archive.org/web/20170205052954/http://www.hammerprinciple.com:80/therighttool/items/python)
   and
