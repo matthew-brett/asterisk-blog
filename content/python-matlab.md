@@ -1,4 +1,4 @@
-Title: Python and Matlab
+Title: Comparing Python and Matlab for teaching in science
 Date: 2017-11-08 12:00
 Tags: Programming, education, open source, free software, Matlab, Python
 Category: teaching
@@ -21,10 +21,20 @@ Here is a quick survey of some major US Universities:
   Python](https://www.eecs.mit.edu/academics-admissions/academic-information/subject-updates-ft-2014/60001)
   and [6.0002 Introduction to Computational Thinking and Data
   Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016),
-  both in Python.
+  both in Python. MIT [switched to Python from
+  Scheme](https://www.wisdomandwonder.com/link/2110/why-mit-switched-from-scheme-to-python).
+  [Scheme](https://groups.csail.mit.edu/mac/projects/scheme) is a variant of
+  the [Lisp programming
+  language](https://en.wikipedia.org/wiki/Lisp_(programming_language)).
 * Berkeley runs a large [cross-discipline undergraduate program on data
   science](http://data8.org) using Python.  There is a matching [Cognitive
-  Science connector course]( http://data8.org/cognitive-science-connector);
+  Science connector course]( http://data8.org/cognitive-science-connector).
+  Their computer science [introduction to computer programming course -
+  61A](http://www-inst.eecs.berkeley.edu/~cs61a/sp12/) uses Python.  Like MIT,
+  Berkeley [switched to Python from
+  Scheme](https://people.eecs.berkeley.edu/~bh/61a.html).  Another [more basic
+  course - CS10](http://cs10.org/fa17) uses a variant of
+  [Scratch](https://scratch.mit.edu), a visual programming language.
 * [Stanford CS101: Introduction to Computing
   Principles](http://web.stanford.edu/class/cs101) uses a variant of
   JavaScript.
@@ -37,8 +47,8 @@ Here is a quick survey of some major US Universities:
   Programming](http://cms.caltech.edu/academics/course_desc#cs) uses Python.
 
 Of the introductory programming courses run by Computer Science departments in
-the UK Russell group, 12 teach Java as a first language, 4 teach C, 3 teach
-Haskell and 3 teach Python [^russell-teaches].
+the UK Russell group, 12 teach Java as a first language, 4 teach Python, 4
+teach C and 3 teach Haskell [^russell-teaches].
 
 [^russell-teaches]: [Birmingham: Java](https://www.birmingham.ac.uk/undergraduate/courses/computer-science/computer-science.aspx);
     [Bristol: C, Haskell,
@@ -49,12 +59,14 @@ Haskell and 3 teach Python [^russell-teaches].
     Python](https://www.cardiff.ac.uk/study/undergraduate/courses/2018/computer-science-bsc);
     [Durham:
     Java](https://www.dur.ac.uk/faculty.handbook/module_description/?year=2017&module_code=COMP1011);
-    [Edinburgh:
-    Haskell](http://www.drps.ed.ac.uk/17-18/dpt/cxinfr08013.htm)[Exeter:
+    [Edinburgh: Haskell](http://www.drps.ed.ac.uk/17-18/dpt/cxinfr08013.htm);
+    [Exeter:
     Python](https://www.exeter.ac.uk/undergraduate/degrees/computerscience/comsci/#Programme-structure);
     [Glasgow:
-    Python](https://www.gla.ac.uk/undergraduate/degrees/computingscience)[Imperial:
-    Haskell](http://www.imperial.ac.uk/computing/current-students/courses/120_1/)[Kings:
+    Python](https://www.gla.ac.uk/undergraduate/degrees/computingscience);
+    [Imperial:
+    Haskell](http://www.imperial.ac.uk/computing/current-students/courses/120_1/);
+    [Kings:
     Java](https://www.kcl.ac.uk/nms/depts/informatics/study/current/handbook/Progs/Modules/4CCS1PPA.aspx);
     [Leeds:
     C](http://lib5.leeds.ac.uk/rlists/broker/?bbModuleId=201718_32439_COMP1711&bbListId=_5264080_1);
@@ -65,7 +77,8 @@ Haskell and 3 teach Python [^russell-teaches].
     [Newcastle:
     Java](https://eu01.alma.exlibrisgroup.com/leganto/readinglist/searchlists/3360129130002411);
     [Nottingham: C, Java,
-    Haskell](http://readinglists.nottingham.ac.uk/lists/874C6774-DEBE-E92D-E806-41E591A49A30.html)[Oxford:
+    Haskell](http://readinglists.nottingham.ac.uk/lists/874C6774-DEBE-E92D-E806-41E591A49A30.html);
+    [Oxford:
     Haskell](http://www.cs.ox.ac.uk/admissions/undergraduate/courses/computer_science_core_1.html#Functional_Programming),
     [Oxford:
     Scala](https://www.cs.ox.ac.uk/teaching/courses/2017-2018/imperativeprogramming1/index.html);
@@ -108,6 +121,12 @@ In particular, Matlab rates much higher than Python on the question "This
 language is unusually bad for beginners", "This language has an annoying
 syntax" and "Writing code in this language is a lot of work".
 
+Computer science departments often choose the language for the lessons it can
+teach about how programming languages work, rather than their general use for
+doing real work.  The fact that institutions like Berkeley and MIT are
+switching to Python from other languages suggests that Python has enough range
+to cover both domains (see below).
+
 # Number of users
 
 * [Popularity of Programming Languages](http://pypl.github.io/PYPL.html): "The
@@ -133,10 +152,10 @@ syntax" and "Writing code in this language is a lot of work".
 # Range
 
 * Data analysis: Python >> Matlab.  Matlab is not a serious contender in data
-  science - see [StackOverflow data science search
-  tags](https://datascience.stackexchange.com/tags).  Machine-learning is the
-  top tag with 2173 questions, Python is second with 945 and Matlab is 52nd
-  with 60 questions.
+  science. The [StackOverflow data science search
+  tag statistics](https://datascience.stackexchange.com/tags) show
+  machine-learning as the top tag with 2173 questions, Python is second with
+  945 and Matlab is 52nd with 60 questions.
 * Statistics: Python ~= Matlab.  Both have deficiencies.  Python has the major
   machine learning toolbox.
 * Real-time programming: Python == Matlab ?
