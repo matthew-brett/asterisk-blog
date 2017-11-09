@@ -122,10 +122,10 @@ language is unusually bad for beginners", "This language has an annoying
 syntax" and "Writing code in this language is a lot of work".
 
 Computer science departments often choose the language for the lessons it can
-teach about how programming languages work, rather than their general use for
-doing real work.  The fact that institutions like Berkeley and MIT are
-switching to Python from other languages suggests that Python has enough range
-to cover both domains (see below).
+teach about programming languages, rather than their general use for doing
+real work.  The fact that institutions like Berkeley and MIT are switching to
+Python from other languages suggests that Python has enough range to cover
+both domains (see below).
 
 # Number of users
 
