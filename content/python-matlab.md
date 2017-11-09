@@ -99,8 +99,8 @@ teach C and 3 teach Haskell [^russell-teaches].
 Common languages other than Python in introductory programming courses are
 Java, C, and Haskell.  Neither Java nor Haskell are widely used in psychology
 or scientific programming.  C has a niche use for system programming and speed
-optimization, but it is a bad choice for the kind high-level programming that
-most scientists use for their work.
+optimization, but it is a bad choice for the kind of high-level programming
+that most scientists use for their work.
 
 I don't know of any university where their main introduction to programming
 course uses Matlab. One reason may be the opinions shown in this [survey of
