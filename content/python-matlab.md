@@ -36,59 +36,62 @@ Here is a quick survey of some major US Universities:
 * [Caltech Introduction to Computer
   Programming](http://cms.caltech.edu/academics/course_desc#cs) uses Python.
 
-For introductory programming courses run by Computer Science departments in
-the UK Russell group:
+Of the introductory programming courses run by Computer Science departments in
+the UK Russell group, 12 teach Java as a first language, 4 teach C, 3 teach
+Haskell and 3 teach Python [^russell-teaches].
 
-[Birmingham:
-Java](https://www.birmingham.ac.uk/undergraduate/courses/computer-science/computer-science.aspx);
-[Bristol: C, Haskell,
-Java](http://www.bristol.ac.uk/unit-programme-catalogue/RouteStructure.jsa?byCohort=N&ayrCode=18%2F19&programmeCode=4COSC006U);
-[Cambridge:
-Java](https://www.undergraduate.study.cam.ac.uk/courses/computer-science);
-[Cardiff:
-Python](https://www.cardiff.ac.uk/study/undergraduate/courses/2018/computer-science-bsc);
-[Durham:
-Java](https://www.dur.ac.uk/faculty.handbook/module_description/?year=2017&module_code=COMP1011);
-[Edinburgh:
-Haskell](http://www.drps.ed.ac.uk/17-18/dpt/cxinfr08013.htm)[Exeter:
-Python](https://www.exeter.ac.uk/undergraduate/degrees/computerscience/comsci/#Programme-structure);
-[Glasgow:
-Python](https://www.gla.ac.uk/undergraduate/degrees/computingscience)[Imperial:
-Haskell](http://www.imperial.ac.uk/computing/current-students/courses/120_1/)[Kings:
-Java](https://www.kcl.ac.uk/nms/depts/informatics/study/current/handbook/Progs/Modules/4CCS1PPA.aspx);
-[Leeds:
-C](http://lib5.leeds.ac.uk/rlists/broker/?bbModuleId=201718_32439_COMP1711&bbListId=_5264080_1);
-[Liverpool: Java](http://readinglists.liverpool.ac.uk/modules/comp101.html);
-[LSE: No course](http://www.lse.ac.uk/study-at-lse/Undergraduate);
-[Manchester:
-Java](http://www.manchester.ac.uk/study/undergraduate/courses/2018/00560/bsc-computer-science/course-details/#course-profile);
-[Newcastle:
-Java](https://eu01.alma.exlibrisgroup.com/leganto/readinglist/searchlists/3360129130002411);
-[Nottingham: C, Java,
-Haskell](http://readinglists.nottingham.ac.uk/lists/874C6774-DEBE-E92D-E806-41E591A49A30.html)[Oxford:
-Haskell](http://www.cs.ox.ac.uk/admissions/undergraduate/courses/computer_science_core_1.html#Functional_Programming),
-[Oxford:
-Scala](https://www.cs.ox.ac.uk/teaching/courses/2017-2018/imperativeprogramming1/index.html);
-[Queen Mary:
-Java](http://www.eecs.qmul.ac.uk/undergraduates/programme/view/38); [Queen's
-Belfast: Java](https://github.com/thomaspickup/qub-yr1-java); [Sheffield:
-Java](https://www.sheffield.ac.uk/prospectus/courseDetails.do?id=G4022018);
-[Southampton:
-Java](https://www.southampton.ac.uk/courses/modules/comp1202.page#_ga=2.46435175.1162187456.1510165927-1517032892.1510165927);
-[UCL: C,
-Haskell](http://readinglists.ucl.ac.uk/lists/15F03E6E-6D5F-7073-B7C6-BBF5C86E83C5.html);
-[Warwick:
-Java](https://www2.warwick.ac.uk/fac/sci/dcs/teaching/modules/cs118/); [York:
-Python](https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/COM00007C/2017-18).
+[^russell-teaches]: [Birmingham: Java](https://www.birmingham.ac.uk/undergraduate/courses/computer-science/computer-science.aspx);
+    [Bristol: C, Haskell,
+    Java](http://www.bristol.ac.uk/unit-programme-catalogue/RouteStructure.jsa?byCohort=N&ayrCode=18%2F19&programmeCode=4COSC006U);
+    [Cambridge:
+    Java](https://www.undergraduate.study.cam.ac.uk/courses/computer-science);
+    [Cardiff:
+    Python](https://www.cardiff.ac.uk/study/undergraduate/courses/2018/computer-science-bsc);
+    [Durham:
+    Java](https://www.dur.ac.uk/faculty.handbook/module_description/?year=2017&module_code=COMP1011);
+    [Edinburgh:
+    Haskell](http://www.drps.ed.ac.uk/17-18/dpt/cxinfr08013.htm)[Exeter:
+    Python](https://www.exeter.ac.uk/undergraduate/degrees/computerscience/comsci/#Programme-structure);
+    [Glasgow:
+    Python](https://www.gla.ac.uk/undergraduate/degrees/computingscience)[Imperial:
+    Haskell](http://www.imperial.ac.uk/computing/current-students/courses/120_1/)[Kings:
+    Java](https://www.kcl.ac.uk/nms/depts/informatics/study/current/handbook/Progs/Modules/4CCS1PPA.aspx);
+    [Leeds:
+    C](http://lib5.leeds.ac.uk/rlists/broker/?bbModuleId=201718_32439_COMP1711&bbListId=_5264080_1);
+    [Liverpool:
+    Java](http://readinglists.liverpool.ac.uk/modules/comp101.html); [LSE: No
+    course](http://www.lse.ac.uk/study-at-lse/Undergraduate); [Manchester:
+    Java](http://www.manchester.ac.uk/study/undergraduate/courses/2018/00560/bsc-computer-science/course-details/#course-profile);
+    [Newcastle:
+    Java](https://eu01.alma.exlibrisgroup.com/leganto/readinglist/searchlists/3360129130002411);
+    [Nottingham: C, Java,
+    Haskell](http://readinglists.nottingham.ac.uk/lists/874C6774-DEBE-E92D-E806-41E591A49A30.html)[Oxford:
+    Haskell](http://www.cs.ox.ac.uk/admissions/undergraduate/courses/computer_science_core_1.html#Functional_Programming),
+    [Oxford:
+    Scala](https://www.cs.ox.ac.uk/teaching/courses/2017-2018/imperativeprogramming1/index.html);
+    [Queen Mary:
+    Java](http://www.eecs.qmul.ac.uk/undergraduates/programme/view/38);
+    [Queen's Belfast: Java](https://github.com/thomaspickup/qub-yr1-java);
+    [Sheffield:
+    Java](https://www.sheffield.ac.uk/prospectus/courseDetails.do?id=G4022018);
+    [Southampton:
+    Java](https://www.southampton.ac.uk/courses/modules/comp1202.page#_ga=2.46435175.1162187456.1510165927-1517032892.1510165927);
+    [UCL: C,
+    Haskell](http://readinglists.ucl.ac.uk/lists/15F03E6E-6D5F-7073-B7C6-BBF5C86E83C5.html);
+    [Warwick:
+    Java](https://www2.warwick.ac.uk/fac/sci/dcs/teaching/modules/cs118/);
+    [York:
+    Python](https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/COM00007C/2017-18).
 
-From the information above, languages other than Python in introductory
-courses include Java, Haskell, C, Scala, Scheme and Scratch.  Apart from C,
-which has a niche use for system programming and speed optimization, none of
-these languages are widely used as in Psychology, or scientific programming
-more generally.
+Common languages other than Python in introductory programming courses are
+Java, C, and Haskell.  Neither Java nor Haskell are widely used in psychology
+or scientific programming.  C has a niche use for system programming and speed
+optimization, but it is a bad choice for the kind high-level programming that
+most scientists use for their work.
 
-I don't know of any general introduction to programming that uses Matlab. One
-reason may be the opinions shown in this [survey of computing
+I don't know of any university where their main introduction to programming
+course uses Matlab. One reason may be the opinions shown in this [survey of
+computing
 languages](https://plus.google.com/u/0/+MatthewBrett/posts/HAsy7HWMyc5).
 Sadly the [source site](http://hammerprinciple.com/therighttool) had gone down
 at the time I wrote this, but the [Archive.org
@@ -145,13 +148,13 @@ syntax" and "Writing code in this language is a lot of work".
 * Shell scripting: Python >> Matlab;
 * Tutorial and demo development: Python > Matlab (Jupyter Notebook);
 
-For an Imaging Course, students should be able to:
+For example, for a course on brain imaging, students should be able to:
 
 1. write simple command line scripts for handling files and directories;
 2. script their analyses in FSL and other packages;
 3. present stimuli for experiments;
 
-Matlab isn't a good choice for the first two tasks.
+Matlab is not a good choice for the first two tasks.
 
 # Convenience, access, transfer
 
@@ -181,3 +184,27 @@ Python programming is a desirable skill in industry; [Stackoverflow Jobs:
 Python](https://stackoverflow.com/jobs?sort=i&q=Python) currently gives 721
 hits, [Stackoverflow Jobs:
 Matlab](https://stackoverflow.com/jobs?sort=i&q=Matlab) gives 36.
+
+# Moving from Matlab to Python
+
+See [this excellent white
+paper](https://www.enthought.com/wp-content/uploads/Enthought-MATLAB-to-Python-White-Paper.pdf).
+
+Most scientific users of Python install the following Python packages:
+
+* [Numpy](https://en.wikipedia.org/wiki/NumPy) (array manipulation);
+* [Scipy](https://en.wikipedia.org/wiki/SciPy) (scientific toolbox, including
+  sparse arrays, optimization).
+* [Matplotlib](https://en.wikipedia.org/wiki/Matplotlib) (2D and some basic 3D
+  plotting);
+* [IPython](https://en.wikipedia.org/wiki/IPython) / [Jupyter
+  Notebook](https://jupyter.org) (interactive console and web application).
+
+For example, the [Anaconda installer](https://anaconda.org) installs Python,
+these packages, and many more.
+
+These packages together give you a rough equivalent to a standard Matlab
+installation with some toolboxes installed.
+
+There is no direct Python equivalent of the Simulink application - see
+[Simulink alternatives](http://www.walkingrandomly.com/?p=4379).
