@@ -6,10 +6,12 @@ Slug: joys-of-craft
 Author: Matthew Brett
 Summary: The Joys of the Craft
 
-Below, I have copied a section from the book "The Mythical Man Month", by Fred
-Brooks.  This is one of the most famous books on programming, for good reason:
-it is thoughtful, interesting and well-written.  The section is on "The Joys
-of the Craft":
+Below, I have copied a section from the book [The Mythical Man
+Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month), by [Fred
+Brooks](https://en.wikipedia.org/wiki/Fred_Brooks).  The Mythical Man Month is
+one of the most famous books on programming, for good reason: it is
+thoughtful, interesting and well-written.  This section is on "The Joys of the
+Craft":
 
 > Why is programming fun? What delights may its practitioner expect as his
 > reward?
