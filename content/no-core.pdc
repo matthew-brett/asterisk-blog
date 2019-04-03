@@ -1,3 +1,4 @@
+---
 Title: The core melts down
 Date: 2013-06-25 14:00
 Tags: Management, open source, free software, core, BSD, NetBSD
@@ -5,6 +6,7 @@ Category: organizations
 Slug: melting-core
 Author: Matthew Brett
 Summary: NetBSD developers on death by leadership vacuum
+---
 
 My friend [Paul Ivanov](http://pirsquared.org) kindly pointed me to this
 [Self-interview after leaving the NetBSD

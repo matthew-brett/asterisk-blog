@@ -1,0 +1,13 @@
+---
+Title: Title of the post
+Date: 2013-06-25 14:00
+Tags: Management, open source, free software, core, BSD, NetBSD
+Category: organizations
+Slug: a-summary
+Author: Matthew Brett
+Summary: A summary
+---
+
+Example footnote ([^a-footnote]).
+
+[^a-footnote]: <http://asterisk.dynevor.org>
