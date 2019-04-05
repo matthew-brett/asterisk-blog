@@ -48,5 +48,5 @@ These are the corresponding percentage scores. If the language does not appear i
 |--------|-------|---------|--------|
 | Python | 68%   | <44%    | 25%    |
 | R      | 49%   | 51%     | 6%     |
-| Matlab | <42%  | 77%     | >3%    |
-| Julia  | 53%   | 47%     | >3%    |
+| Matlab | <42%  | 77%     | <3%    |
+| Julia  | 53%   | 47%     | <3%    |
