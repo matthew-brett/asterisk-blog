@@ -1,0 +1,43 @@
+---
+Title: What do you get if you don't teach stats properly?
+Date: 2019-04-05 16:58:08
+Tags: Programming, education
+Slug: improper-teaching
+Category: teaching
+Author: Matthew Brett
+bibliography: ../data-science-bib/data_science.bib
+---
+
+A colleague, Scott White, pointed me to this article in the Guardian: [What do you get if you don't teach stats properly? Farage and Trump](https://www.theguardian.com/education/2019/apr/03/what-do-you-get-if-you-dont-teach-stats-properly-farage-and-trump).
+
+The author, Robert de Vries, is a lecturer in Quantitative Sociology.
+
+He argues that we are not teaching our students to think carefully about the meaning of numbers:
+
+> But we’ve been trying to [teach the fundamentals of statistical analysis]
+> for decades and it just hasn’t worked. Instead we have run course after
+> course that students hate. We’ve turned out generations of graduates who can
+> remember sitting in labs pressing buttons in statistical software programmes
+> like SPSS, but never really learned how to connect statistics to important
+> issues in the real world.
+
+I believe that our fundamental problem is that we do not expect our students to
+really understand what we teach.  We leave them with a [makes sense
+epistemology]({filename}makes-sense-epistemology.pdc); they see that we don't
+expect them to understand, so they must accept what we say.  When they think
+about statistics they have a sense of helplessness and passivity.  They think
+"I guess so" or "I'll take your word for it".  They must think that way; that
+is how we taught them.
+
+Statisticians have also been worrying about these ways of teaching. [George
+Cobb](https://www.mtholyoke.edu/people/george-cobb) argues that there is no
+practical way to teach the curriculum as currently taught, and expect the
+students to understand it at anything but a very superficial level
+[@cobb2007introductory; @cobb2015mere].  We have to change our focus from the
+older mathematical tests, such as t-tests and correlation, to tests based on
+resampling, such as permutation tests.  These tests use ideas that are much
+simpler to understand, so the student can reasonably hope to get a deep
+understanding of fundamental ideas such as sampling distributions and
+statistical inference.
+
+
