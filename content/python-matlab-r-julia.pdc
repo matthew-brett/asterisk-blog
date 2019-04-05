@@ -1,0 +1,52 @@
+---
+Title: Python, Matlab, R and Julia
+Tags: Programming, education, open source, free software, Matlab, Python, R, Julia
+Slug: python-matlab-r-julia
+Category: teaching
+Author: Matthew Brett
+Date: 2019-04-05 14:26:06
+---
+
+The [Stackoverflow Developer Survey](https://insights.stackoverflow.com/survey/2018) has a section on programming languages called [Most loved, dreaded and wanted](https://insights.stackoverflow.com/survey/2018/#most-loved-dreaded-and-wanted).
+
+I've written about the contrast between Python and Matlab for teaching in [Python, Matlab, teaching]({filename}python-matlab.pdc), but I am also interested in R and Julia.
+
+See the detail below.  In summary:
+
+* Many developers like Python, few dislike it, and it is the language
+  developers are most interested to learn.
+* R and Julia appear to be similar, in that about half its current developers
+  like it, but a roughly equivalent proportion dislike it.  More developers
+  want to learn R than Julia, which is not surprising; R has [many more
+  users](https://www.tiobe.com/tiobe-index).
+* Not many developers like Matlab, a large majority of developers using it,
+  dislike it, and very few developers want to learn it.
+
+Here are the definitions for each category:
+
+* Loved: % of developers who are developing with the language or technology
+  and have expressed interest in continuing to develop with it.
+* Dreaded: % of developers who are developing with the language or technology
+  but have not expressed interest in continuing to do so.
+* Wanted: % of developers who are not developing with the language or
+  technology but have expressed interest in developing with it.
+
+The table shows the positions of each language in the descending ordered list
+for each category.  There are 25 languages in each list. If the language does
+not appear in the list, I've put ">25" as the position.
+
+|        | Loved | Dreaded | Wanted |
+|--------|-------|---------|--------|
+| Python | 3     | >25     | 1      |
+| R      | 19    | 20      | 14     |
+| Matlab | >25   | 6       | >25    |
+| Julia  | 17    | 22      | >25    |
+
+These are the corresponding percentage scores. If the language does not appear in the corresponding list, I put "< X%", where X is the percent score for the last position in the corresponding list.  I rounded percents to the nearest integer.
+
+|        | Loved | Dreaded | Wanted |
+|--------|-------|---------|--------|
+| Python | 68%   | <44%    | 25%    |
+| R      | 49%   | 51%     | 6%     |
+| Matlab | <42%  | 77%     | >3%    |
+| Julia  | 53%   | 47%     | >3%    |
