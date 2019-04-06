@@ -5,7 +5,7 @@ Tags: Programming, education
 Slug: improper-teaching
 Category: teaching
 Author: Matthew Brett
-bibliography: ../data-science-bib/data_science.bib
+bibliography: data-science-bib/data_science.bib
 ---
 
 A colleague, Scott White, pointed me to this article in the Guardian: [What do you get if you don't teach stats properly? Farage and Trump](https://www.theguardian.com/education/2019/apr/03/what-do-you-get-if-you-dont-teach-stats-properly-farage-and-trump).
