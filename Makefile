@@ -87,7 +87,7 @@ rsync_upload: publish
 
 newpost:
 ifdef NAME
-	./scripts/newpost.sh "${NAME}"
+	pt-newpost -e "${NAME}"
 else
 	@echo 'Variable NAME is not defined.'
 	@echo 'Do make newpost NAME='"'"'Post Name'"'"
