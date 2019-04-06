@@ -1,0 +1,28 @@
+---
+Title: "Fast forward tracking branch to latest remote commit"
+Date: 2012-12-31 11:59
+Slug: fast-forward-tracking-branch
+Author: Matthew Brett
+Category: Google+ posts
+---
+
+Fast forward tracking branch to latest remote commit\
+\
+I often find myself doing:\
+    \
+        git fetch \--all\
+   \
+Then maybe at some later time, maybe without network:\
+    \
+        git co main-master\
+        git merge upstream-rw/master\
+    \
+The command \`git-tff\` below, allows me to shorten the last bit and
+make it less error prone, and general for any branch / remote tracking
+branch pair, as in:\
+    \
+        git co main-master\
+        git tff
+
+
+The Google+ URL for this post was `https://plus.google.com/+MatthewBrett/posts/WVhKFj2Yqdn`

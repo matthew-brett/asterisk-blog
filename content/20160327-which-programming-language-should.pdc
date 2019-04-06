@@ -1,0 +1,26 @@
+---
+Title: "Which programming language should we use for scientific computing"
+Date: 2016-03-27 23:13
+Slug: which-programming-language-should
+Author: Matthew Brett
+Category: Google+ posts
+---
+
+Which programming language should we use for scientific computing?\
+\
+Here are some results from a large survey of opinion on the features of
+different languages:\
+\
+<http://hammerprinciple.com/therighttool/items/python/r>\
+\
+<http://hammerprinciple.com/therighttool/items/python/matlab>\
+\
+According to the survey responses, R and MATLAB are niche languages,
+that are harder to learn than Python. R and MATLAB code is less elegant,
+less readable, harder to maintain and harder to re-use.\
+\
+In particular, R and MATLAB rate much higher than Python on the question
+\"This language is unusually bad for beginners\".\
+
+
+The Google+ URL for this post was `https://plus.google.com/+MatthewBrett/posts/HAsy7HWMyc5`

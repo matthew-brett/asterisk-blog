@@ -1,0 +1,40 @@
+---
+Title: "Industry as the origin of \"data science"
+Date: 2017-05-17 14:21
+Slug: industry-as-the-origin
+Author: Matthew Brett
+Category: Google+ posts
+---
+
+Industry as the origin of \"data science\".\
+\
+Leo Breiman was a statistician who was interested in algorithmic models.
+He invented, among other things, the random forest method. Breiman did
+his first degree in Physics, a PhD in mathematics, and then worked for
+seven years as an academic probabilist. He resigned his academic
+position and worked for a further 13 years as a freelance consultant in
+data analysis, before returning to academia as a statistician in UC
+Berkeley. In his 2001 paper \"Statistical Modeling: The Two Cultures\",
+he describes what he learned from his time working as a consultant:\
+
+> As I left consulting to go back to the university, these were the
+> perceptions I had about working with data to find answers to problems:\
+> \
+> (a) Focus on finding a good solution - that\'s what consultants get paid
+> for.\
+> (b) Live with the data before you plunge into modeling.\
+> (c) Search for a model that gives a good solution, either algorithmic or
+> data.\
+> (d) Predictive accuracy on test sets is the criterion for how good the
+> model is.\
+> (e) Computers are an indispensable partner.\
+
+Leo Breiman (2001) \"Statistical Modeling: The two cultures\"
+Statistical Science 16(3), 199--231.\
+\
+It seems to me this is a manifesto for what is currently being called
+\"data science\". I wonder whether this is one case where industry has
+injected urgency and rigor into the process of analysis.
+
+
+The Google+ URL for this post was `https://plus.google.com/+MatthewBrett/posts/K9LxmTc66b5`

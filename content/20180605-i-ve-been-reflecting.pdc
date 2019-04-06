@@ -1,0 +1,47 @@
+---
+Title: "I've been reflecting from time to time on the mystery of Hadley Wickham's \"Readings in Applied Data Science\" at Stanford"
+Date: 2018-06-05 11:30
+Slug: i-ve-been-reflecting
+Author: Matthew Brett
+Category: Google+ posts
+---
+
+I\'ve been reflecting from time to time on the mystery of Hadley
+Wickham\'s \"Readings in Applied Data Science\" at Stanford:\
+<https://github.com/hadley/stats337>\
+\
+The mystery is the only not-optional reading for the first week on
+\"What the \*&!% is data science?\". It\'s a very short blog post with
+title \"Data scientists mostly do arithmetic and that\'s a good thing\":
+<https://m.signalvnoise.com/data-scientists-mostly-just-do-arithmetic-and-that-s-a-good-thing-c6371885f7f6>
+. Why this short throwaway thing as the main reading, rather than, say,
+one of the optional readings like Donoho\'s big and thoughtful \"50
+Years of Data Analysis\"
+(<https://courses.csail.mit.edu/18.337/2015/docs/50YearsDataScience.pdf>).\
+\
+I think I understand it now. The question that the blog post raises is a
+deep one. If many data scientists are doing arithmetic, what the \*&!%
+are courses on data science going to teach?\
+\
+At the same time, I finally read \"Data scientist: the sexist job of the
+21st century\"
+(<https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century>).\
+\
+The impression that I came away with, is that data scientists, in
+industry, are \"data hackers\", the data equivalent of the hacker
+movement in computing. They improvise, they invent, they build, they
+share.\
+\
+Why did that happen now? Back to Hadley Wickham. It is because we have
+the tools now - particularly R and Python. It was technically possible
+to do this before, but it was too difficult and consuming of time and
+technical effort. The analyst was buried in technical problems, making
+to harder for them to think, and taking away mind space for working on
+new problems. These languagues have developed to the stage where they
+have made these problems vastly easier to solve and to explain. The
+result is an explosive growth in the range of tasks that data analysts
+can work on. Data scientists are the people who found these tools, and
+saw how they could apply them. Now let\'s work out what we should teach.
+
+
+The Google+ URL for this post was `https://plus.google.com/+MatthewBrett/posts/gZAtY9bMAUR`

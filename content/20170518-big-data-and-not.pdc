@@ -1,0 +1,30 @@
+---
+Title: "Big data and (not) knowledge"
+Date: 2017-05-18 08:08
+Slug: big-data-and-not
+Author: Matthew Brett
+Category: Google+ posts
+---
+
+Big data and (not) knowledge\
+\
+\"In any discussion of massive data and inference, it is essential to be
+aware that it is quite possible to turn data into something resembling
+knowledge when actually it is not. Moreover, it can be quite difficult
+to know that this has happened.\"\
+\
+2013 National Academies report \"Frontiers in Massive Data Analysis\".
+The National Academies Press, Washington, D.C.\
+\
+I believe this understates the problem. It is not only especially easy
+to misinterpret huge analyses, it is especially tempting. \"Garbage in,
+gospel out\" is the phenomenon in which the data and the analysis have
+become so complicated, that it is no longer possible to reason about the
+output. In order not to look foolish or confused, the consumer of the
+output has two options. One is to spend a very long time working through
+the data and fundamentals of the analysis in order to work out whether
+there could have been a false assumption or incorrect analysis step. The
+other is to assume that the conclusions are correct.
+
+
+The Google+ URL for this post was `https://plus.google.com/+MatthewBrett/posts/ixPBsjTUwwC`

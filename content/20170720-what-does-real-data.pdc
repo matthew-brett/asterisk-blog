@@ -1,0 +1,32 @@
+---
+Title: "What does real data analysis look like?"
+Date: 2017-07-20 13:40
+Slug: what-does-real-data
+Author: Matthew Brett
+Category: Google+ posts
+---
+
+What does real data analysis look like? Hilary Mason and Chris Wiggins
+set out these stages, as the OSEMN model (\"which rhymes with
+possum\"):\
+\
+\* Obtain;\
+\* Scrub;\
+\* Explore;\
+\* Models;\
+\* iNterpret.\
+\
+<http://www.dataists.com/2010/09/a-taxonomy-of-data-science/>\
+\
+In a 2013 talk, Mason notes that these stages may seem obvious now, but
+that no-one had previously thought to write them down:
+<https://www.youtube.com/watch?v=fZuDwiM1XBQ>\
+\
+My feeling is that standard statistics courses for scientists talk a lot
+about models and interpretation, but very little about the other stages.
+Even for the Models phase, we don\'t teach much about selecting or
+designing models.\
+\
+
+
+The Google+ URL for this post was `https://plus.google.com/+MatthewBrett/posts/WV8SvKd9fuD`

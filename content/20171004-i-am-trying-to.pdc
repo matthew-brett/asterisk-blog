@@ -1,0 +1,39 @@
+---
+Title: "I am trying to work out how to teach statistics to undergraduates in life-science disciplines such as Biology and Psychology."
+Date: 2017-10-04 19:26
+Slug: i-am-trying-to
+Author: Matthew Brett
+Category: Google+ posts
+---
+
+I am trying to work out how to teach statistics to undergraduates in
+life-science disciplines such as Biology and Psychology. I decided to
+use simple Python programming to show how resampling works, and
+therefore, how to do simple statistical tests. Here is my first shot at
+a pilot course: <https://matthew-brett.github.io/les-pilot>\
+\
+Now I am looking for other people trying to do similar things. Kendrick
+Kay runs a graduate course in University of Minnesota that teaches both
+Matlab and statistics:\
+\
+<http://www.cmrr.umn.edu/~kendrick/statsmatlab/>\
+\
+Quoting from the course front page:\
+
+> We will focus on nonparametric and computational approaches to
+> statistical problems, as opposed to classical statistical approaches
+> involving parametric assumptions and analytic solutions. This course is
+> intended for graduate students or postdocs who would like to gain a
+> better understanding of statistical principles and/or learn how to
+> program in MATLAB.\
+
+I believe Kendrick started teaching this course in Stanford:\
+\
+<https://web.archive.org/web/20150117031540/http://white.stanford.edu/~knk/Psych216A/>\
+\
+then at Washington University in St Louis:\
+\
+<https://web.archive.org/web/20150316010548/http://artsci.wustl.edu:80/~kkay/psych5007/>
+
+
+The Google+ URL for this post was `https://plus.google.com/+MatthewBrett/posts/gbDXMSLwx2B`

@@ -1,0 +1,33 @@
+---
+Title: "Lambda calculus, a vignette"
+Date: 2019-02-09 21:58
+Slug: lambda-calculus-a-vignette
+Author: Matthew Brett
+Category: Google+ posts
+---
+
+Lambda calculus, a vignette:\
+\
+Not lambda calculus:\
+\
+\"\"\"\"\
+In \[1\]: x2y3 = lambda x, y: x \*\* 2 + y \*\* 3\
+\
+In \[2\]: x2y3(10, 4)\
+Out\[2\]: 164\
+\"\"\"\"\
+\
+Lambda calculus version of same:\
+
+> In \[8\]: Lx2y3 = lambda x : lambda y : x \*\* 2 + y \*\* 3\
+> \
+> In \[9\]: Lx2y3(10)(4)\
+> Out\[9\]: 164\
+
+Notice the two arguments of \"x2y3\" get curried in \"Lx2y3\", so that
+we first call a function with the single argument \"x\" to return a
+function that we then call with the single argument \"y\", that uses the
+\"x\" argument, in a closure, to calculate the result.
+
+
+The Google+ URL for this post was `https://plus.google.com/+MatthewBrett/posts/bkrotHgafTH`

@@ -1,0 +1,28 @@
+---
+Title: "Results for standard neuroimaging analysis pipelines differ somewhat when run on two very similar Redhat-based Intel Linux clusters."
+Date: 2015-06-08 21:26
+Slug: results-for-standard-neuroimaging
+Author: Matthew Brett
+Category: Google+ posts
+---
+
+<http://journal.frontiersin.org/article/10.3389/fninf.2015.00012/abstract>\
+\
+Results for standard neuroimaging analysis pipelines differ somewhat
+when run on two very similar Redhat-based Intel Linux clusters.  The
+conclusion was that these differences were due in part to differences in
+single precision (32-bit) floating point.\
+\
+The authors say: \"A first step to correct these reproducibility issues
+would be to use more precise representations of floating-point numbers
+\... \"\
+\
+Another conclusion might be that the results are inherently numerical
+unstable if they really rely on minutiae of floating point
+implementation.\
+\
+The differences would surely have been greater comparing really
+different operating systems like Windows and OSX.
+
+
+The Google+ URL for this post was `https://plus.google.com/+MatthewBrett/posts/49XrQyjpH8Q`

@@ -1,0 +1,38 @@
+---
+Title: "To be a mature data analyst, you must also be a programmer"
+Date: 2017-05-17 10:51
+Slug: to-be-a-mature
+Author: Matthew Brett
+Category: Google+ posts
+---
+
+To be a mature data analyst, you must also be a programmer:\
+
+> One additional general point needs emphasis: in modern computing, there
+> should not be a sharp distinction between users and programmers. Most
+> programming with statistical systems is done by users, and should be. As
+> soon as the system doesn't do quite what the user wants, the choice is
+> to give up or to become a programmer, by modifying what the system
+> currently does.\
+> Such user/programmers then naturally go through stages of involvement.
+> In the first stage, the user needs to get that initial programming
+> request across to the system, quickly and easily. Later, the user needs
+> the ability to refine that first request gradually, to come closer to
+> what was really wanted. Good software for computing with data should
+> support all such stages smoothly.\
+
+From \"Computing with Data: Concepts and Challenges\" (1998) by John
+Chambers -
+<http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.419.1750>\
+\
+Later in the same paper:\
+
+> It may seem obvious, perhaps even trivial, to assert then that
+> languages, and in particular good languages, are the heart of successful
+> computing with data. I believe the statement to be true, but it is not
+> easy to defend explicitly, and much activity in computing with data (or
+> equally in other kinds of computing) goes on as if it were not true.\
+> \"\"\"
+
+
+The Google+ URL for this post was `https://plus.google.com/+MatthewBrett/posts/WXumUL1dp7x`
