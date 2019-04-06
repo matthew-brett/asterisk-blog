@@ -10,28 +10,26 @@ Kent Beck is interesting on the change in culture from the old days,
 where programmers wrote code and the quality assessment people tested
 it, to the current practice, where the programmer takes responsibility
 for the quality of their own code:\
-\
-\"\"\"\"\
-The only piece of Facebook swag that I have in my office is a big poster
-that says \"Nothing at Facebook is someone else\'s problem\", and the
-remarkable thing about Facebook as an engineering organization is the
-degree to which 7000 people all actually agree on that, and I have never
-seen an organization this big, take this much responsibility. Getting
-rid of QA, and Facebook until very recently had no QA at all beyond
-programmers, in the traditional sense, now we have some people working
-on the mobile apps, but it\'s very, programmers take responsibility, and
-it works OK. It\'s a question of compared to what. If you said, well if
-you had a really healthy relationship, if as a programmer you still took
-responsibility, but somebody else was helping you be even higher
-quality, wouldn\'t that be better, sure, if that\'s what you are going
-to compare it to, then absolutely, but, the transition, back in the dark
-ages, wasn\'t from a healthy relationship, it was from this very
-dysfunctional, aresponsibile attitude, throw it over the wall, long long
-cycles, vague feedback. Going from that, to programmers accepting
-responsibility for the quality of their work, that was a huge step
-forward.\
-\"\"\"\"\
-\
+
+> The only piece of Facebook swag that I have in my office is a big poster
+> that says \"Nothing at Facebook is someone else\'s problem\", and the
+> remarkable thing about Facebook as an engineering organization is the
+> degree to which 7000 people all actually agree on that, and I have never
+> seen an organization this big, take this much responsibility. Getting
+> rid of QA, and Facebook until very recently had no QA at all beyond
+> programmers, in the traditional sense, now we have some people working
+> on the mobile apps, but it\'s very, programmers take responsibility, and
+> it works OK. It\'s a question of compared to what. If you said, well if
+> you had a really healthy relationship, if as a programmer you still took
+> responsibility, but somebody else was helping you be even higher
+> quality, wouldn\'t that be better, sure, if that\'s what you are going
+> to compare it to, then absolutely, but, the transition, back in the dark
+> ages, wasn\'t from a healthy relationship, it was from this very
+> dysfunctional, aresponsibile attitude, throw it over the wall, long long
+> cycles, vague feedback. Going from that, to programmers accepting
+> responsibility for the quality of their work, that was a huge step
+> forward.\
+
 <https://youtu.be/YNw4baDz6WA?t=1022>
 
 
