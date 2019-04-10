@@ -1,0 +1,41 @@
+---
+Title: Python, and R, 2019
+Tags: Programming, education, open source, free software, Matlab, Python, R, Julia
+Slug: python-r-2019
+Category: teaching
+Author: Matthew Brett
+Date: 2019-04-10 14:10:06
+---
+
+The results just came out from the [2019 Stackoverflow Developer Survey](https://insights.stackoverflow.com/survey/2019).
+
+I have just summarized some results of the 2018 survey in [Python, Matlab, R, Julia]({filename}python-matlab-r-julia.pdc).  Here are the equivalent results for the 2019 survey.  See the previous post for definitions, and other background.
+
+In summary:
+
+* "Python, the fastest-growing major programming language, has risen in the
+  ranks of programming languages in our survey yet again, edging out Java this
+  year and standing as the second most loved language (behind Rust)."
+* "Python is the most wanted language for the third year in a row, meaning
+  that developers who do not yet use it say they want to learn it."
+
+Oddly, neither Matlab nor Julia features on any list I could see.  From the
+introduction, the survey is putting some effort into being more "welcoming,
+inclusive, and diverse"; maybe the change in results corresponds to a change in
+the sample.  I'll have a look at the full database, when they release it.
+
+The table shows the positions of each language in the descending ordered list
+for each category.  There are 25 languages in each list. If the language does
+not appear in the list, I've put ">25" as the position.
+
+|        | Loved | Dreaded | Wanted |
+|--------|-------|---------|--------|
+| Python | 2     | >25     | 1      |
+| R      | 20    | 8       | 15     |
+
+These are the corresponding percentage scores. If the language does not appear in the corresponding list, I put "< X%", where X is the percent score for the last position in the corresponding list.  I rounded percents to the nearest integer.
+
+|        | Loved | Dreaded | Wanted |
+|--------|-------|---------|--------|
+| Python | 74%   | <44%    | 26%    |
+| R      | 52%   | 48%     | 5%     |
