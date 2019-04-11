@@ -114,7 +114,7 @@ def by_window_binner(ax1, ax2, commits, start, stop, step, window_name):
 
     gb = commits.groupby(pd.cut(commits['time'], edges))
     unq_by_bin = gb.agg(lambda x: len(set(x)))
-    
+
     stats_plotter(ax1, left_edges, unq_by_bin, 'time', 'commits per {}'.format(window_name))
     stats_plotter(ax2, left_edges, unq_by_bin, 'name', 'committers per {}'.format(window_name))
 
@@ -128,9 +128,8 @@ fig.autofmt_xdate()
 ```
 
 These plots suggest that Julia development has been burning along at a fairly
-constant rate, until 2018, where the plots suggests that development rate has
-fallen, apart from a burst around the time of the August 2018 first stable
-release.
+constant rate, until 2018, when the development rate falls, apart from a burst
+around the time of the August 2018 first stable release.
 
 ## Percentage of all Github pull requests
 
@@ -156,13 +155,13 @@ julia_prs.plot('Date', 'Julia')
 plt.title("Julia PRs as percentage of all Github PRS");
 ```
 
+The PR numbers look rather like the commit plot for the Julia language repository, suggesting that activity dropped off in 2018, compared to 2017.
+
 Here are the values for Python, R and Julia in the first quarter of 2019:
 
 ```{python echo=FALSE}
 julia_prs.iloc[0:1, :5]
 ```
-
-The PR numbers look rather like the commit plot for the Julia language repository, suggesting that activity dropped off in 2018, compared to 2017.
 
 ## TIOBE language index
 

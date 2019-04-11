@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Matthew Brett'
 SITENAME = 'Asterisk'
-SITEURL = ''
+SITEURL = 'http://localhost:8000'
 
 PATH = 'content'
 
@@ -19,6 +19,12 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
+FEED_DOMAIN = SITEURL
+FEED_ALL_ATOM = 'feeds/all.atom.xml'
+CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
+FEED_ALL_ATOM = 'feeds/all.atom.xml'
+CATEGORY_FEED_ATOM = 'feeds/{slug}.atom.xml'
+
 # Blogroll
 LINKS =  (
     ('Personal pages', 'http://matthew.dynevor.org'),
@@ -26,10 +32,15 @@ LINKS =  (
      'https://www.birmingham.ac.uk/staff/profiles/psychology/brett-matthew.aspx'),
     ('Nipy', 'http://nipy.org/'),
     ('GitHub', 'https://github.com/matthew-brett'),
+    ('atom', '{SITEURL}/feeds/all.atom.xml'),
 )
 
 # Social widget
-SOCIAL = (())
+SOCIAL = (
+    ('github', 'https://github.com/silverhook'),
+    ('rss', '{SITEURL}/feeds/all.atom.xml'),
+)
+SOCIAL_PROFILE_LABEL = 'Stalkables'
 
 DEFAULT_PAGINATION = 10
 
@@ -121,3 +132,5 @@ SITE_LICENSE = """These pages licensed with the <a rel="license"
 
 # sitemap config
 SITEMAP = dict(format='xml')
+
+LIQUID_CONFIGS = (('SITEURL', SITEURL, "The site URL"),)
