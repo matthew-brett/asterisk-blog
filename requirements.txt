@@ -1,1 +1,4 @@
 pelican
+beautifulsoup4
+markdown
+cssmin
