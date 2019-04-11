@@ -80,6 +80,8 @@ EDIT_CMD = ['gvim', '--remote-silent']
 # Ipynb
 MARKUP = ['md', 'ipynb']
 IGNORE_FILES = ['.ipynb_checkpoints']
+IPYNB_NB_SAVE_AS = '{slug}.ipynb'
+# IPYNB_EXPORT_TEMPLATE = 'nbextensions'
 
 # for liquid tags
 CODE_DIR = 'downloads/code'

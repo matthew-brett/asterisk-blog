@@ -2,3 +2,9 @@ pelican
 beautifulsoup4
 markdown
 cssmin
+jupyter
+nbconvert
+jupyter_contrib_nbextensions
+# Now run:
+# jupyter contrib nbextension install --user
+# and enable 'Hide input' via the nbextensions_configurator GUI
