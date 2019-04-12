@@ -26,6 +26,7 @@ FEED_ALL_ATOM = 'feeds/all.atom.xml'
 CATEGORY_FEED_ATOM = 'feeds/{slug}.atom.xml'
 
 # Blogroll
+# Apparently lacking 
 LINKS =  (
     ('Personal pages', 'http://matthew.dynevor.org'),
     ('Work pages',
@@ -37,7 +38,7 @@ LINKS =  (
 
 # Social widget
 SOCIAL = (
-    ('github', 'https://github.com/silverhook'),
+    ('github', 'https://github.com/matthew-brett'),
     ('rss', '/feeds/all.atom.xml'),
 )
 SOCIAL_PROFILE_LABEL = 'Stalkables'
