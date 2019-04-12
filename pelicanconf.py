@@ -32,13 +32,13 @@ LINKS =  (
      'https://www.birmingham.ac.uk/staff/profiles/psychology/brett-matthew.aspx'),
     ('Nipy', 'http://nipy.org/'),
     ('GitHub', 'https://github.com/matthew-brett'),
-    ('atom', '{SITEURL}/feeds/all.atom.xml'),
+    ('atom', '/feeds/all.atom.xml'),
 )
 
 # Social widget
 SOCIAL = (
     ('github', 'https://github.com/silverhook'),
-    ('rss', '{SITEURL}/feeds/all.atom.xml'),
+    ('rss', '/feeds/all.atom.xml'),
 )
 SOCIAL_PROFILE_LABEL = 'Stalkables'
 
