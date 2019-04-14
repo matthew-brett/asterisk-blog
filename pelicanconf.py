@@ -120,11 +120,6 @@ MARKDOWN = {
 }
 DIRECT_TEMPLATES = (('index', 'tags', 'categories','archives', 'search', '404'))
 
-# License
-SITE_LICENSE = """These pages licensed with the <a rel="license"
-    href="http://creativecommons.org/licenses/by/4.0/">
-    Creative Commons Attribution 4.0 International License</a>."""
-
 # sitemap config
 SITEMAP = dict(format='xml')
 
