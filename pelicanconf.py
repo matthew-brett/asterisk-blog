@@ -33,7 +33,7 @@ LINKS =  (
 
 # Social widget
 SOCIAL = (
-    ('atom', '/feeds/all.atom.xml'),
+    ('rss', '/feeds/all.atom.xml'),
 )
 SOCIAL_PROFILE_LABEL = 'Atom feed'
 
