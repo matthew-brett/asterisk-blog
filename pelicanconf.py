@@ -19,14 +19,9 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-FEED_DOMAIN = SITEURL
-FEED_ALL_ATOM = 'feeds/all.atom.xml'
-CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
-FEED_ALL_ATOM = 'feeds/all.atom.xml'
-CATEGORY_FEED_ATOM = 'feeds/{slug}.atom.xml'
-
 # Blogroll
-# Apparently lacking 
+# The Elegant theme does not use the LINK variable.  I use the
+# about.md page for that information.
 LINKS =  (
     ('Personal pages', 'http://matthew.dynevor.org'),
     ('Work pages',
@@ -38,10 +33,9 @@ LINKS =  (
 
 # Social widget
 SOCIAL = (
-    ('github', 'https://github.com/matthew-brett'),
-    ('rss', '/feeds/all.atom.xml'),
+    ('atom', '/feeds/all.atom.xml'),
 )
-SOCIAL_PROFILE_LABEL = 'Stalkables'
+SOCIAL_PROFILE_LABEL = 'Atom feed'
 
 DEFAULT_PAGINATION = 10
 
