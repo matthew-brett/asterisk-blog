@@ -1,0 +1,21 @@
+---
+Title: Worse is better
+Date: 2019-04-15 11:35
+Slug: worse-is-better
+Author: Matthew Brett
+---
+
+A [blog post on Perl
+6](http://www.modernperlbooks.com/mt/2012/12/the-implementation-of-perl-5-versus-perl-6.html)
+led me to the description of [Worse is better
+philosophy](https://www.jwz.org/doc/worse-is-better.html).
+
+I get the impression this idea is relatively famous, but I had not come across it before.
+
+A summary might be, that successful systems often pass rough
+edges of the design to the user, in order to avoid complexity
+in implementation.  This makes it harder for the user, but this
+is "better" because the system is simple to implement, and
+therefore, is more likely to reach the user's computer in
+a state to do real work.  The "worse" system gets greater
+mind-share, and so it gets more attention and support.
