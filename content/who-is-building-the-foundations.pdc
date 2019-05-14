@@ -26,7 +26,7 @@ I made some effort to attribute library commits to authors, and then authors to 
 
 I then divided the number of commits by the population in the country, in millions, to give a measure of the extent to which a country is pulling its weight, relative to its resources.
 
-Here is the table that results:
+Here is the table of the top 10 countries, by number of commits, ordered by their commits / million in the population.
 
 | Country                  |   Commits |   Population (millions) |   Commits/million |
 |:-------------------------|----------:|------------------------:|------------------:|
