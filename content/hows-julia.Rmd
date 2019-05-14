@@ -258,7 +258,7 @@ Some data for these rankings come from [Stack Overflow
 data](https://insights.stackoverflow.com/trends).  Here is the percentage of
 Stack Overflow questions on Julia:
 
-![](images/so_julia.png)
+![SO Julia](images/so_julia.png)
 
 There is a spike in late 2018, perhaps corresponding to the first release.  This might also account for its two-position jump in the Redmonk table.
 
@@ -267,6 +267,6 @@ URL](https://insights.stackoverflow.com/trends?tags=julia-lang).
 
 Here are the results from the equivalent query for R and Python:
 
-![](images/so_r_python.png)
+![SO R Python](images/so_r_python.png)
 
 This is the matching [query URL](https://insights.stackoverflow.com/trends?tags=r%2Cpython)
