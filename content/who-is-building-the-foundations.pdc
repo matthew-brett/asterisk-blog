@@ -1,0 +1,90 @@
+---
+Title: Who is building the foundations?
+Date: 2019-05-14 16:14
+Slug: who-is-building-the-foundations
+Tags: Python, open-source, scientific Python, culture
+Category: teaching
+Author: Matthew Brett
+---
+
+I tried to estimate the extent to which different countries contribute to the foundations of scientific Python.
+
+I did this by analyzing commits for the set of libraries I considered to be the foundation of scientific Python:
+
+*   Numpy
+*   Scipy
+*   Matplotlib
+*   Scikit-learn
+*   Scikit-image
+*   Statsmodels
+*   Pandas
+*   h5py
+*   Cython
+*   Sympy
+
+I made some effort to attribute library commits to authors, and then authors to countries, to give commits per country, across all these libraries.
+
+I then divided the number of commits by the population in the country, in millions, to give a measure of the extent to which a country is pulling its weight, relative to its resources.
+
+Here is the table that results:
+
+| Country                  |   Commits |   Population (millions) |   Commits/million |
+|:-------------------------|----------:|------------------------:|------------------:|
+| Finland                  |      4607 |                     5.5 |             831.6 |
+| Canada                   |     12533 |                    37.0 |             339.2 |
+| Switzerland              |      2676 |                     8.5 |             313.3 |
+| United States of America |     80336 |                   326.8 |             245.8 |
+| France                   |     10755 |                    65.2 |             164.9 |
+| Germany                  |     13377 |                    82.3 |             162.6 |
+| United Kingdom           |      5523 |                    66.6 |              83.0 |
+| Japan                    |      3742 |                   127.2 |              29.4 |
+| Russian Federation       |      3572 |                   144.0 |              24.8 |
+| India                    |      5214 |                  1354.0 |               3.9 |
+
+## Method
+
+You will find the code to generate data in this post at <https://github.com/matthew-brett/github-places>.
+
+The analysis steps were:
+
+* Clone all library repositories as submodules of the `github-places` analysis
+  repository, above.
+* Use `git shortlog` to get names, number of commits and other details of
+  *significant contributors* to each repository.  I defined a significant
+  contributor (SC) as an author of 25 commits or more.  As you will see below, SC commits account for about 85% of all repository commits.
+* Use various heuristics to identify the Github user corresponding to each SC
+  (see `find_gh_users.py` in the analysis repository).  When the heuristics failed, I found the Github manually.  I had to do this for about 10% of SCs (see below).
+* Using the SC Github user profile, or other research, identify the country in
+  which the SC is currently based.  I looked for the current location because
+  this is the only information I have from their Github profiles.  I had to identify the user's country by doing web research for about 30% of SC Github users (see below).
+
+The results of these steps come from the output of `repo_analysis.py` in the analysis repository.
+
+## Repo analysis results
+
+I could not find the location for 0.01% of SCs, and
+therefore 0.25% of SC contributor commits.
+
+For 10.2% of SCs, I had to work out the corresponding
+Github user manually.
+
+I had to identify the locations of 34.8% of SC Github users
+manually by various searches.
+
+Percentage of total repository commits included in the analysis, by repository:
+
+*   numpy: 88.2
+*   scipy: 87.7
+*   matplotlib: 89.4
+*   scikit-learn: 85.1
+*   scikit-image: 89.3
+*   statsmodels: 94.4
+*   pandas: 81.0
+*   h5py: 83.1
+*   cython: 93.0
+*   sympy: 90.8
+
+## Commits by country analysis
+
+The table at the top of this post comes is the output from
+`commit_analysis.py` in the analysis repository.
