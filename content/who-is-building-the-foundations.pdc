@@ -50,16 +50,22 @@ You will find the code to generate data in this post at <https://github.com/matt
 
 The analysis steps were:
 
-* Clone all library repositories as submodules of the `github-places` analysis
-  repository, above.
-* Use `git shortlog` to get names, number of commits and other details of
-  *significant contributors* to each repository.  I defined a significant
-  contributor (SC) as an author of 25 commits or more.  As you will see below, SC commits account for about 85% of all repository commits.
-* Use various heuristics to identify the Github user corresponding to each SC
-  (see `find_gh_users.py` in the analysis repository).  When the heuristics failed, I found the Github manually.  I had to do this for about 10% of SCs (see below).
-* Using the SC Github user profile, or other research, identify the country in
-  which the SC is currently based.  I looked for the current location because
-  this is the only information I have from their Github profiles.  I had to identify the user's country by doing web research for about 30% of SC Github users (see below).
+* Clone all library repositories as submodules of the `github-places`
+  analysis repository, above.
+* Use `git shortlog` to get names, number of commits and other details
+  of *significant contributors* to each repository.  I defined
+  a significant contributor (SC) as an author of 25 commits or more.
+  As you will see below, SC commits account for about 85% of all
+  repository commits.
+* Use various heuristics to identify the Github user corresponding to
+  each SC (see `find_gh_users.py` in the analysis repository).  When
+  the heuristics failed, I found the Github user manually.  I had to
+  do this for about 10% of SCs (see below).
+* Using the SC Github user profile, or other research, identify the
+  country in which the SC is currently based.  I looked for the
+  current location because this is the only information I have from
+  their Github profiles.  I had to identify the user's country by
+  doing web research for about 35% of SC Github users (see below).
 
 The results of these steps come from the output of `repo_analysis.py` in the analysis repository.
 
