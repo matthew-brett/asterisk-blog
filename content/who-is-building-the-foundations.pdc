@@ -97,5 +97,5 @@ Overall percentage 88.5
 
 ## Commits by country analysis
 
-The table at the top of this post comes is the output from
+The table at the top of this post is the output from
 `commit_analysis.py` in the analysis repository.
