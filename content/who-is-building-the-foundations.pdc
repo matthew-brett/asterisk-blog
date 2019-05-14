@@ -9,7 +9,8 @@ Author: Matthew Brett
 
 I tried to estimate the extent to which different countries contribute to the foundations of scientific Python.
 
-I did this by analyzing commits for the set of libraries I considered to be the foundation of scientific Python:
+To do this I analyzed commits and [Github](https://github.com) data
+for the following set of libraries:
 
 *   Numpy
 *   Scipy
@@ -21,6 +22,8 @@ I did this by analyzing commits for the set of libraries I considered to be the 
 *   h5py
 *   Cython
 *   Sympy
+
+I chose these libraries because they are common building blocks for more specialized libraries and workflows.
 
 I made some effort to attribute library commits to authors, and then authors to countries, to give commits per country, across all these libraries.
 
