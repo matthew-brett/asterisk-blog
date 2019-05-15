@@ -1,12 +1,18 @@
 ---
 jupyter:
+  celltoolbar: Edit Metadata
   jupytext:
+    metadata_filter:
+      notebook:
+        additional: all
+        excluded:
+        - language_info
     split_at_heading: true
     text_representation:
       extension: .Rmd
       format_name: rmarkdown
       format_version: '1.0'
-      jupytext_version: 1.0.0-rc0
+      jupytext_version: 0.8.6
   kernelspec:
     display_name: Python 3
     language: python
@@ -41,6 +47,7 @@ This blog post records my attempts to address this question with data I had to h
 The source for this document is a Jupyter Notebook. You can get the original `hows-julia.ipynb` notebook from the [Github
 repository of this blog](https://github.com/matthew-brett/asterisk-blog).
 
+
 ## Summary
 
 I collected time-series data from the Julia language repository commits, proportion of Github PRs, and two language ranking sites.
@@ -48,6 +55,7 @@ I collected time-series data from the Julia language repository commits, proport
 The data are noisy, and it is difficult to draw firm conclusions.  If anything,
 they suggest that Julia's growth has slowed over the last year, relative to two
 obvious competitors: Python and R.
+
 
 ## Health of the Julia repository
 
@@ -144,6 +152,7 @@ These plots suggest that Julia development has been burning along at a fairly
 constant rate, until 2018, when the development rate falls, apart from a burst
 before the August 2018 release of version 1.0.
 
+
 ## Percentage of all Github pull requests
 
 If Julia is gaining traction, I would expect there to be more Julia code reaching open-source coding websites, such as Github.
@@ -160,7 +169,7 @@ I scraped [these data](../downloads/julia_gh_prs.csv) by hand from the Githut
 
 Here is a plot of these proportions for R and Julia.
 
-```{python echo=TRUE}
+```{python echo=FALSE}
 julia_prs = pd.read_csv('downloads/julia_gh_prs.csv')
 julia_prs['Month'] = (julia_prs['Quarter'] - 1) * 3 + 2
 datish = julia_prs.apply(
@@ -177,13 +186,13 @@ The PR numbers for Julia look rather like the commit plot for the Julia language
 
 Here are the values for Python, R and Julia for the last year:
 
-```{python echo=TRUE}
+```{python echo=FALSE}
 julia_prs.head(4)[['Python', 'R', 'Julia']]
 ```
 
 This is the matching plot of PR proportions for Python.  Note the values on the y axis.
 
-```{python}
+```{python echo=FALSE}
 julia_prs.plot(y='Python', use_index=True)
 plt.title("Python PRs as percentage of all Github PRs")
 plt.ylabel('Percentage of all Github PRs')
@@ -206,7 +215,7 @@ The data file with the index values is
 
 Some values were below the reporting threshold for the TIOBE index, in which case I gave Julia the index value for the lowest language that was reported.  This will be a slight overestimate of Julia's value.  I've marked these below-threshold values with orange dots.
 
-```{python echo=TRUE}
+```{python echo=FALSE}
 julia_tiobe = pd.read_csv('downloads/julia_tiobe.csv')
 julia_tiobe['pct'] = julia_tiobe['pct'].apply(lambda x : x.strip())
 julia_tiobe['pct_val'] = julia_tiobe['pct'].apply(
@@ -225,6 +234,7 @@ The plot looks a little like the Julia repository commit numbers; the popularity
 a peak in late 2017, but drops in 2018 to a fairly steady fairly low value, of
 around 0.2%.  For comparison, the April 2018 values for Python and R were
 \8.166% and 1.181%, respectively.
+
 
 ## Redmonk Programming Language Rankings / Stack Overflow
 

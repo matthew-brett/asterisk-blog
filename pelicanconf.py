@@ -2,6 +2,8 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
+import sys
+
 AUTHOR = 'Matthew Brett'
 SITENAME = 'Asterisk'
 SITEURL = 'http://localhost:8000'
@@ -124,3 +126,8 @@ DIRECT_TEMPLATES = (('index', 'tags', 'categories','archives', 'search', '404'))
 SITEMAP = dict(format='xml')
 
 LIQUID_CONFIGS = (('SITEURL', SITEURL, "The site URL"),)
+
+# Hide cells with hide_input tag
+sys.path.append('plugins')
+from hideinputs import HideInputs
+IPYNB_PREPROCESSORS = [HideInputs]
