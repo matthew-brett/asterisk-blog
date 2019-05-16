@@ -232,8 +232,7 @@ plt.ylim(0);
 
 The plot looks a little like the Julia repository commit numbers; the popularity index has
 a peak in late 2017, but drops in 2018 to a fairly steady fairly low value, of
-around 0.2%.  For comparison, the April 2018 values for Python and R were
-\8.166% and 1.181%, respectively.
+around 0.2%.  For comparison, the April 2018 values for Python and R were 8.166% and 1.181%, respectively.
 
 
 ## Redmonk Programming Language Rankings / Stack Overflow
