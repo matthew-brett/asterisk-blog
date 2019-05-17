@@ -13,22 +13,22 @@ foundations get built.
 
 Here I am interested the process by which developers start working on these foundation projects.
 
-I can think of three simple models:
+I can think of two simple models:
 
 1.  "Here, try this thing I built."  The developer has an idea
     for a library that they believe will be useful for people doing data analysis.  They build it, and then go to find users.
 1.  "I need this thing, so I'm going to build it."  The
     developer has some data they need to analyze, or other work they need to do, or do more efficiently.  They build the library to do that work.
-1.  "Let me fix that for you".  This is a variant of "Here, try
-    this thing I built.", where a developer has come across
-    a library built by an "I need this thing" developer / user,
-    sees that it is not well designed, and refactors it.
 
 For example, a entirely new language is likely to be in the
-"try this thing I built" category, because a working scientist
-or data analyst is unlikely to have the time or expertise to
-build a language.  I presume that domain-specific libraries,
-like Astropy, will usually come from the "I need this thing"
-group, where development gives more immediate benefit for work.
+"try this thing" category, because a working scientist or data
+analyst is unlikely to have the time or expertise to build
+a language.  I presume that domain-specific libraries, like
+Astropy, will usually come from the "I need this thing" group,
+where development gives more immediate benefit for work.
 
-It is interesting to make these distinctions, because the different models have different implications for funding and support.  If most of the useful development comes from the "Here, try this thing" model, then we should find and fund experts with good ideas.  If most comes from the "I need this thing" model, then we should be finding and funding working scientists and data analysts.
+These distinctions are important, because the models have different implications for funding and support.  If most of the useful development comes from the "Here, try this thing" model, then we should find and fund experts with good ideas.  If most comes from the "I need this thing" model, then we should be finding and funding working scientists and data analysts.
+
+This post is to collate some data on this distinction for the three most fundamental libraries in scientific Python: Numpy; Scipy and Matplotlib.
+
+I will start with a very brief history of each project; then I will look at the backgrounds of the early authors, and the authors who have made the greatest contribution to each library, by number of commits.  I have in mind the question above; did the original authors, and the main contributors, work from "try this thing" or "I need this thing"?
