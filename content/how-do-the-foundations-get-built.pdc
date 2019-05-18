@@ -27,7 +27,7 @@ I can think of two simple models:
 
 For example, a entirely new language is likely to be in the
 Expert Build category, because a working scientist or data
-analyst unlikely to have the time or expertise to build
+analyst is unlikely to have the time or expertise to build
 a language.  I presume that domain-specific libraries, like
 Astropy, will usually come from the "Consumer Build" group,
 where development gives more immediate benefit for work.
