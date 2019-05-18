@@ -11,18 +11,19 @@ foundations?]({filename}who-is-building-the-foundations.pdc).
 Despite the title, that last post was about *where* the
 foundations get built.
 
-Here I am interested the process by which developers start working on these
-foundation projects.
+Here I am interested the process by which developers start
+working on these foundation projects.
 
 I can think of two simple models:
 
-1.  Expert Build - or "Here, try this thing I built."  The developer has an
-    idea for a library that they believe will be useful for people doing data
-    analysis.  They build it, and then go to find users.
-1.  Consumer Build - or "I need this thing, so I'm going to
-    build it."  The developer has some data they need to
-    analyze, or other work they need to do, or do more
-    efficiently.  They build the library to do that work.
+1.  Expert Build - or "Here, try this thing I built."  The
+    developer has an idea for a library that they believe will be
+    useful for people doing data analysis.  They build it, and
+    then go to find users.
+1.  Consumer Build - or "I need this thing, so I'm going to build
+    it."  The developer has some data they need to analyze, or
+    other work they need to do, or do more efficiently.  They
+    build the library to do that work.
 
 For example, a entirely new language is likely to be in the
 Expert Build category, because a working scientist or data
@@ -31,36 +32,50 @@ a language.  I presume that domain-specific libraries, like
 Astropy, will usually come from the "Consumer Build" group,
 where development gives more immediate benefit for work.
 
-These distinctions are important, because the models have
-different implications for funding and support.  If the most
-fruitful development comes from the Expert Build model, then
-we can follow a traditional path by finding and funding experts
-with good ideas.  If the Consumer Build model has been more
-effective, we will need more imagination, because the consumer
-builders will be harder to find, before most of the work is
-done.
-
 This post is to collate some data on this distinction for the
 three most fundamental libraries in scientific Python: Numpy;
-Scipy and Matplotlib.
+Scipy and Matplotlib.  Numpy is the base layer that implements the array object
+in Python, and seems close to a language on the spectrum above.  Scipy is a collection of libraries that build on Numpy, and is therefore closer to the domain libraries.  Matplotlib is the standard 2D plotting library for Python.
 
-I have two sources of data.  The first are brief histories of
-each project, from the main authors. Was the project driven by
-a good idea, in search of work to do, or was it driven by work
-that needed doing?
+The distinction between Expert Build and Consumer Build is
+important, because the models have different implications for
+funding and support.  If the most fruitful development comes from
+Expert Build, then we can follow a traditional path by finding
+and funding experts with good ideas.  If Consumer Build has been
+more effective, we will need more imagination, because the
+consumer builders will be harder to find, before most of the work
+is done.
+
+I have two sources of data to look at the Expert / Consumer build distinction
+for Numpy, Scipy and Matplotlib.  The first are brief histories of each
+project, from the main authors. Was the project driven by a good idea, in
+search of work to do, or was it driven by work that needed doing?
 
 The second source of data is the educational background of the
 contributors. In the case of Expert Build, I expect
 contributors to have training in computer science in general,
 and software engineering in particular.
 
-## Histories
+## Abbreviations
 
-### Numpy
+These are abbreviations I will use for the tables below:
+
+---------    ----------
+Eng.         Engineering
+Sci.         Science
+Sys.         Systems
+EE           Electrical Enginneering
+EECS         Electrical Engineering and Computer Science
+CS           Computer Science
+C Sys. Eng.  Computer and Systems Engineering
+Comp. Biol.  Computational Biology
+---------    ----------
+
+## Numpy
 
 [Jim Hugunin](https://en.wikipedia.org/wiki/Jim_Hugunin) was a major author of 
 *Numeric*, the package that later became Numpy.  He summarizes the origins of 
-numeric in [the story of Jython](http://hugunin.net/story_of_jython.html):
+Numeric in [the story of Jython](http://hugunin.net/story_of_jython.html):
 
 > The story of Jython begins with the pain of finishing my master's thesis at
 > MIT. In that thesis I fabricated, measured, and analyzed
@@ -80,6 +95,66 @@ numeric in [the story of Jython](http://hugunin.net/story_of_jython.html):
 > community. The contributions of Jim Fulton, David Ascher, Paul DuBois,
 > Konrad Hinsen, and many others made that project much more successful than
 > it could ever have been as an isolated endeavor. ...
+
+These are the educational backgrounds of the founding fathers of Numpy that
+Hugunin names above:
+
+                    Batchelor's     Master's          PhD
+-----------------   --------------- ------------      ----
+Jim Hugunin [^jh]   EE              EECS
+Jim Fulton [^jf]    Civil Eng.      Sys. Eng.,
+                                    Software Sys.
+                                    Eng.
+David Ascher [^da]  Physics                           Cognitive Sci.
+Paul DuBois [^pd]   ?                                 Math
+Konrad Hinsen [^kh] ?                                 Physics
+-----------------   --------------- ------------      ----
+
+[^jh]: [Hugunin's LinkedIn page](https://github.com/rogual/neovim-dot-app)
+[^jf]: [Fulton's LinkedIn page](https://www.linkedin.com/in/jimfulton)
+[^da]: [Ascher's LinkedIn page](https://github.com/rogual/neovim-dot-app)
+[^pd]: [Dubois' web pages](http://pfdubois.com/bio.html)
+[^kh]: [Hinsen's Orchid page](https://orcid.org/0000-0003-0330-9428)
+
+Here are the educational backgrounds for the top 10 authors of Numpy, by number of commits, from Git commit `4b6b29afc`:
+
+                       Commits Batchelor's     Master's   PhD
+---------------------  ------- --------------- ---------  ----
+Charles Harris [^ch]   4169    Physics                    Math
+Travis Oliphant [^to]  2065    EECS            EECS       Biomedical Eng.
+David Cournapeau [^dc] 1525                    EE         CS
+Pearu Peterson [^pp]   1061                    Physics    Physics
+Eric Wieser [^ew]       935                    Eng.
+Pauli Virtanen [^pv]    762                    Physics    Physics
+Mark Wiebe [^mw]        759    CS / Math
+Julian Taylor [^jt]     745                    Physics
+Ralf Gommers [^rg]      619    Physics                    Physics
+Matti Picus [^mp]       516                               Agricultural Eng.
+---------------------  ------- --------------- ---------  ----
+
+[^ch]: [Harris interview](https://www.blog.pythonlibrary.org/2017/12/04/pydev-of-the-week-charles-r-harris)
+
+[^to]: [Oliphant's LinkedIn page](https://www.linkedin.com/in/teoliphant)
+
+[^dc]: [Cournapeau's Wikipedia page](https://en.wikipedia.org/wiki/David_Cournapeau)
+
+[^pp]: [Peterson's web page](http://cens.ioc.ee/~pearu) and [Peterson's LinkedIn page](https://www.linkedin.com/in/pearu-peterson-8877bb162)
+
+[^ew]: [Wieser's LinkedIn page](https://www.linkedin.com/in/eric-wieser-2085445b)
+
+[^pv]: [Virtanen's LinkedIn page](https://www.linkedin.com/in/pauli-virtanen-627139a)
+
+[^mw]: [Wiebe's LinkedIn
+page](https://www.linkedin.com/in/mark-wiebe-88738b2); it's not
+clear whether he has a post-graduate degree.  Batchelor majors
+listed in [UManitoba
+page](https://umanitoba.ca/faculties/science/about/1262.html)
+
+[^jt]: Reply to personal email.
+
+[^rg]: [Gommers' LinkedIn page](https://www.linkedin.com/in/ralf-gommers-97317b4/)
+
+[^mp]: From [Pincus' Youtube presentation](https://www.youtube.com/watch?v=fRTSUpzpTVg)
 
 ## Scipy
 
@@ -111,6 +186,31 @@ Oliphant](https://en.wikipedia.org/wiki/Travis_Oliphant):
 > modules with mine into one super package. Together with Pearu Peterson we
 > joined our efforts, and SciPy was born in 2001.
 
+We already know the educational background of Oliphant and Peterson from the Numpy table above. [Eric Jones](https://www.linkedin.com/in/ericjones2/) has a BSE in Mechanical Engineering and a PhD in Electrical Engineering.
+
+Here are the top 10 contributors to Scipy (as of `4d9467958`) by number of
+commits:
+
+                       Commits Batchelor's     Master's       PhD
+---------------------  ------- --------------- ---------      ----
+Pauli Virtanen [^pv]   2886                    Physics        Physics
+Ralf Gommers [^rg]     2478    Physics                        Physics
+Evgeni Burovski [^eb]  1077                    Physics, Math  Physics
+Travis Oliphant [^to]  977     EECS            EECS           Biomedical Eng.
+David Cournapeau [^to] 820                     EE             CS
+Warren Weckesser [^ww] 756                     CS Eng.        Math
+Alex Griffing [^ag]    604     Math                           Bioinformatics
+Pearu Peterson [^pp]   504                     Physics        Physics
+Nathan Bell [^nb]      375     CS, Math                       CS
+"Endolith" [^el]       362     Sci., EE
+---------------------  ------- --------------- ---------      ----
+
+[^eb]: CV via [Burovski's webpage](https://www.hse.ru/en/org/persons/190080844)
+[^ww]: [Archive of Weckesser's webpage](https://web.archive.org/web/20180510010523/http://www.warrenweckesser.net:80/menu_cv.html)
+[^ag]: See biography in [Griffing's 2012 thesis](https://repository.lib.ncsu.edu/bitstream/handle/1840.16/7496/etd.pdf)
+[^nb]: [Bell's LinkedIn page](https://www.linkedin.com/in/nathan-bell-65963915)
+[^el]: [Endolith's Codementor page](https://www.codementor.io/endolith); he has a BSEE degree.
+
 ## Matplotlib
 
 From [history of Matplotlib](https://matplotlib.org/users/history.html) by
@@ -129,3 +229,31 @@ From [history of Matplotlib](https://matplotlib.org/users/history.html) by
 >
 > Finding no package that suited me just right, I did what any self-respecting
 > Python programmer would do: rolled up my sleeves and dived in. ...
+
+John Hunter is also one of the top 10 contributors to Matplotlib by commits, as
+of commit `a58f1c613`.  Here is the full list:
+
+                               Commits Batchelor's     Master's      PhD
+---------------------          ------- --------------- ---------     ----
+Thomas Caswell [^tc]           4309    Physics, Math   Physics       Physics
+Michael Droettboom [^md]       3918    CS, Music       Music
+John Hunter [^jdh]             2145    Politics                      Neurobiology
+Eric Firing [^ef]              1810    Earth Sci.                    Oceanography
+Antony Lee [^al]               1680                    Eng.          Physics
+Jody Klymak [^jk]              1073    Math, Physics   Oceaongraphy  Oceanography
+David Stansby [^ds]            1066                    Natural Sci.
+Elliott Sales de Andrade [^es] 960     Eng.            Physics
+Jens Hedegaard Nielsen [^jn]   856     Physics         Physics       Physics
+Nelle Varoquaux [^nv]          806     CS              Math          Comp. Biol.
+---------------------          ------- --------------- ---------     ----
+
+[^tc]: [Caswell's LinkedIn page](https://www.linkedin.com/in/tcaswell)
+[^md]: [Droettboom's LinkedIn page](https://www.linkedin.com/in/mdboom)
+[^jdh]: Personal email in 2005
+[^ef]: [Firing's work web page](http://www.soest.hawaii.edu/oceanography/faculty/firing.html)
+[^al]: [Lee's ORCID page](https://orcid.org/0000-0003-2193-5369)
+[^jk]: [Klymak's work pages CV](http://valdez.seos.uvic.ca/~jklymak/pdfs/KlymakCv.pdf)
+[^ds]: [Stansby's ORCID page](https://orcid.org/0000-0002-1365-1908)
+[^es]: [Sales de Andrade's ORCID page](https://orcid.org/0000-0001-7310-8942)
+[^jn]: [Nielsen's LinkedIn page](https://www.linkedin.com/in/jens-hedegaard-nielsen-16328151)
+[^nv]: [Varoquaux' LinkedIn page](https://www.linkedin.com/in/nelle-varoquaux-63250a34) and [BIDS biosketch](https://bids.berkeley.edu/people/nelle-varoquaux).
