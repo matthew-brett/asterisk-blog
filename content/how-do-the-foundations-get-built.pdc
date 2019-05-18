@@ -11,24 +11,121 @@ foundations?]({filename}who-is-building-the-foundations.pdc).
 Despite the title, that last post was about *where* the
 foundations get built.
 
-Here I am interested the process by which developers start working on these foundation projects.
+Here I am interested the process by which developers start working on these
+foundation projects.
 
 I can think of two simple models:
 
-1.  "Here, try this thing I built."  The developer has an idea
-    for a library that they believe will be useful for people doing data analysis.  They build it, and then go to find users.
-1.  "I need this thing, so I'm going to build it."  The
-    developer has some data they need to analyze, or other work they need to do, or do more efficiently.  They build the library to do that work.
+1.  Expert Build - or "Here, try this thing I built."  The developer has an
+    idea for a library that they believe will be useful for people doing data
+    analysis.  They build it, and then go to find users.
+1.  Consumer Build - or "I need this thing, so I'm going to
+    build it."  The developer has some data they need to
+    analyze, or other work they need to do, or do more
+    efficiently.  They build the library to do that work.
 
 For example, a entirely new language is likely to be in the
-"try this thing" category, because a working scientist or data
-analyst is unlikely to have the time or expertise to build
+Expert Build category, because a working scientist or data
+analyst unlikely to have the time or expertise to build
 a language.  I presume that domain-specific libraries, like
-Astropy, will usually come from the "I need this thing" group,
+Astropy, will usually come from the "Consumer Build" group,
 where development gives more immediate benefit for work.
 
-These distinctions are important, because the models have different implications for funding and support.  If most of the useful development comes from the "Here, try this thing" model, then we should find and fund experts with good ideas.  If most comes from the "I need this thing" model, then we should be finding and funding working scientists and data analysts.
+These distinctions are important, because the models have
+different implications for funding and support.  If the most
+fruitful development comes from the Expert Build model, then
+we can follow a traditional path by finding and funding experts
+with good ideas.  If the Consumer Build model has been more
+effective, we will need more imagination, because the consumer
+builders will be harder to find, before most of the work is
+done.
 
-This post is to collate some data on this distinction for the three most fundamental libraries in scientific Python: Numpy; Scipy and Matplotlib.
+This post is to collate some data on this distinction for the
+three most fundamental libraries in scientific Python: Numpy;
+Scipy and Matplotlib.
 
-I will start with a very brief history of each project; then I will look at the backgrounds of the early authors, and the authors who have made the greatest contribution to each library, by number of commits.  I have in mind the question above; did the original authors, and the main contributors, work from "try this thing" or "I need this thing"?
+I have two sources of data.  The first are brief histories of
+each project, from the main authors. Was the project driven by
+a good idea, in search of work to do, or was it driven by work
+that needed doing?
+
+The second source of data is the educational background of the
+contributors. In the case of Expert Build, I expect
+contributors to have training in computer science in general,
+and software engineering in particular.
+
+## Histories
+
+### Numpy
+
+[Jim Hugunin](https://en.wikipedia.org/wiki/Jim_Hugunin) was a major author of 
+*Numeric*, the package that later became Numpy.  He summarizes the origins of 
+numeric in [the story of Jython](http://hugunin.net/story_of_jython.html):
+
+> The story of Jython begins with the pain of finishing my master's thesis at
+> MIT. In that thesis I fabricated, measured, and analyzed
+> superconductor-semiconductor junctions as a potential building block for a
+> quantum computer. For analyzing the measurements and comparing them with
+> theory (the Bogoliubov-deGennes equations) I used matlab extensively. Matlab
+> is a wonderful language for a wide range numerical analyses; however, it is
+> a terrible language in which to do anything else. In order to overcome its
+> shortcomings, I eventually cobbled together a hodge-podge of C, Python and
+> matlab code to produce my final results.
+>
+> I knew there had to be a better way of doing this. After finishing my
+> thesis, I started to work on an extension to Python to support numeric
+> analysis as naturally as matlab does, without sacrificing any of the power
+> of Python as a rich general-purpose programming language. This was the first
+> project where I discovered the power of a collaborative open source
+> community. The contributions of Jim Fulton, David Ascher, Paul DuBois,
+> Konrad Hinsen, and many others made that project much more successful than
+> it could ever have been as an isolated endeavor. ...
+
+## Scipy
+
+From the "Origins of Numpy" chapter in [Guide to
+Numpy](http://web.mit.edu/dvp/Public/numpybook.pdf) by [Travis
+Oliphant](https://en.wikipedia.org/wiki/Travis_Oliphant):
+
+> In 1998, as a graduate student studying biomedical imaging at the Mayo
+> Clinic in Rochester, MN, I came across Python and its numerical extension
+> (Numeric) while I was looking for ways to analyze large data sets for
+> Magnetic Resonance Imaging and Ultrasound using a high-level language. ...
+>
+> As I progressed with my thesis work, programming in Python was so enjoyable
+> that I felt inhibited when I worked with other programming frameworks. As a
+> result, when a task I needed to perform was not available in the core
+> language, or in the Numeric extension, I looked around and found C or
+> Fortran code that performed the needed task, wrapped it into Python (either
+> by hand or using SWIG), and used the new functionality in my programs.
+>
+> ...
+>
+> By operating in this need-it-make-it fashion I ended up with a substantial
+> library of extension modules that helped Python + Numeric become easier to
+> use in a scientific setting. ...
+>
+> When I finished my Ph.D. in 2001, Eric Jones (who had recently completed his
+> Ph.D. at Duke) contacted me because he had a collection of Python modules he
+> had developed as part of his thesis work as well. He wanted to combine his
+> modules with mine into one super package. Together with Pearu Peterson we
+> joined our efforts, and SciPy was born in 2001.
+
+## Matplotlib
+
+From [history of Matplotlib](https://matplotlib.org/users/history.html) by
+[John Hunter](https://en.wikipedia.org/wiki/John_D._Hunter):
+
+> For years, I used to use MATLAB exclusively for data analysis and
+> visualization. MATLAB excels at making nice looking plots easy. When I began
+> working with EEG data, I found that I needed to write applications to
+> interact with my data, and developed an EEG analysis application in MATLAB.
+> As the application grew in complexity, interacting with databases, http
+> servers, manipulating complex data structures, I began to strain against the
+> limitations of MATLAB as a programming language, and decided to start over
+> in Python. Python more than makes up for all of MATLAB's deficiencies as a
+> programming language, but I was having difficulty finding a 2D plotting
+> package ...
+>
+> Finding no package that suited me just right, I did what any self-respecting
+> Python programmer would do: rolled up my sleeves and dived in. ...
