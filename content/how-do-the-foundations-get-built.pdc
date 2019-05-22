@@ -46,15 +46,16 @@ more effective, we will need more imagination, because the
 consumer builders will be harder to find, before most of the work
 is done.
 
-I have two sources of data to look at the Expert / Consumer build distinction
-for Numpy, Scipy and Matplotlib.  The first are brief histories of each
-project, from the main authors. Was the project driven by a good idea, in
-search of work to do, or was it driven by work that needed doing?
+I have two sources of data to look at the Expert / Consumer build
+distinction for Numpy, Scipy and Matplotlib.  The first are brief
+early histories of each project, from the main authors. Was the
+project driven by a good idea, in search of work to do, or was it
+driven by work that needed doing?
 
 The second source of data is the educational background of the
-contributors. In the case of Expert Build, I expect
-contributors to have training in computer science in general,
-and software engineering in particular.
+contributors. In the case of Expert Build, I expect contributors
+to have training in computer science in general, and software
+engineering in particular.
 
 ## Abbreviations
 
@@ -96,8 +97,8 @@ Numeric in [the story of Jython](http://hugunin.net/story_of_jython.html):
 > Konrad Hinsen, and many others made that project much more successful than
 > it could ever have been as an isolated endeavor. ...
 
-These are the educational backgrounds of the founding fathers of Numpy that
-Hugunin names above:
+These are the educational backgrounds of the founding fathers of
+Numpy that Hugunin names above:
 
                     Batchelor's     Master's          PhD
 -----------------   --------------- ------------      ----
@@ -121,7 +122,7 @@ Here are the educational backgrounds for the top 10 authors of Numpy, by number 
                        Commits Batchelor's     Master's   PhD
 ---------------------  ------- --------------- ---------  ----
 Charles Harris [^ch]   4169    Physics                    Math
-Travis Oliphant [^to]  2065    EECS            EECS       Biomedical Eng.
+Travis Oliphant [^to]  2065    EECS, Math      EECS       Biomedical Eng.
 David Cournapeau [^dc] 1525                    EE         CS
 Pearu Peterson [^pp]   1061                    Physics    Physics
 Eric Wieser [^ew]       935                    Eng.
@@ -155,6 +156,26 @@ page](https://umanitoba.ca/faculties/science/about/1262.html)
 [^rg]: [Gommers' LinkedIn page](https://www.linkedin.com/in/ralf-gommers-97317b4/)
 
 [^mp]: From [Pincus' Youtube presentation](https://www.youtube.com/watch?v=fRTSUpzpTVg)
+
+From the table above, contributors with specific education in
+computer science are Travis Oliphant (batchelor's and master's
+degrees are in Electrical and Computer Engineering), David
+Cournapeau (PhD in Informatics), and Mark Wiebe (batchelor's in computer science and math.
+
+Oliphant's master's thesis was applied work on "New Methods for
+Scatterometry based Wind Estimation". [Cournapeau's
+thesis](http://hdl.handle.net/2433/126467) was also applied
+work on speech processing and machine learning.
+
+Speech and Audio Processing Laboratory
+
+Online unsupervised classification applied to voice activity detection
+
+Mark Wiebe 
+
+https://github.com/numpy/numpy/pull/297
+
+Removes 12K lines of code.
 
 ## Scipy
 
@@ -198,7 +219,7 @@ Ralf Gommers [^rg]     2478    Physics                        Physics
 Evgeni Burovski [^eb]  1077                    Physics, Math  Physics
 Travis Oliphant [^to]  977     EECS            EECS           Biomedical Eng.
 David Cournapeau [^to] 820                     EE             CS
-Warren Weckesser [^ww] 756                     CS Eng.        Math
+Warren Weckesser [^ww] 756                     C Sys. Eng.        Math
 Alex Griffing [^ag]    604     Math                           Bioinformatics
 Pearu Peterson [^pp]   504                     Physics        Physics
 Nathan Bell [^nb]      375     CS, Math                       CS

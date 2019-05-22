@@ -3,6 +3,7 @@
 from __future__ import unicode_literals
 
 import sys
+from os.path import join as pjoin
 
 AUTHOR = 'Matthew Brett'
 SITENAME = 'Asterisk'
@@ -131,3 +132,8 @@ LIQUID_CONFIGS = (('SITEURL', SITEURL, "The site URL"),)
 sys.path.append('plugins')
 from hideinputs import HideInputs
 IPYNB_PREPROCESSORS = [HideInputs]
+
+# Set pandoc markdown flavor
+sys.path.append(pjoin('plugins', 'pelican_pandoc_reader'))
+import pelican_pandoc_reader as pdr
+pdr.pandoc_fmt_map['pdc'] = 'markdown+footnotes'
