@@ -6,6 +6,5 @@ jupyter
 nbconvert
 jupyter_contrib_nbextensions
 webassets
-# Now run:
-# jupyter contrib nbextension install --user
-# and enable 'Hide input' via the nbextensions_configurator GUI
+# For pelican-pandoc-reader
+pypandoc
