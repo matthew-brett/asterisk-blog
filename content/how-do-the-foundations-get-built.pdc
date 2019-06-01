@@ -100,7 +100,7 @@ Numeric in [the story of Jython](http://hugunin.net/story_of_jython.html):
 These are the educational backgrounds of the founding fathers of
 Numpy that Hugunin names above:
 
-                    Batchelor's     Master's          PhD
+                    Bachelor's      Master's          PhD
 -----------------   --------------- ------------      ----
 Jim Hugunin [^jh]   EE              EECS
 Jim Fulton [^jf]    Civil Eng.      Sys. Eng.,
@@ -119,7 +119,7 @@ Konrad Hinsen [^kh] ?                                 Physics
 
 Here are the educational backgrounds for the top 10 authors of Numpy, by number of commits, from Git commit `4b6b29afc`:
 
-                       Commits Batchelor's     Master's   PhD
+                       Commits Bachelor's      Master's   PhD
 ---------------------  ------- --------------- ---------  ----
 Charles Harris [^ch]   4169    Physics                    Math
 Travis Oliphant [^to]  2065    EECS, Math      EECS       Biomedical Eng.
@@ -147,7 +147,7 @@ Matti Picus [^mp]       516                               Agricultural Eng.
 
 [^mw]: [Wiebe's LinkedIn
 page](https://www.linkedin.com/in/mark-wiebe-88738b2); it's not
-clear whether he has a post-graduate degree.  Batchelor majors
+clear whether he has a post-graduate degree.  Bachelor majors
 listed in [UManitoba
 page](https://umanitoba.ca/faculties/science/about/1262.html)
 
@@ -158,9 +158,9 @@ page](https://umanitoba.ca/faculties/science/about/1262.html)
 [^mp]: From [Pincus' Youtube presentation](https://www.youtube.com/watch?v=fRTSUpzpTVg)
 
 From the table above, contributors with specific education in
-computer science are Travis Oliphant (batchelor's and master's
+computer science are Travis Oliphant (bachelor's and master's
 degrees are in Electrical and Computer Engineering), David
-Cournapeau (PhD in Informatics), and Mark Wiebe (batchelor's in computer science and math.
+Cournapeau (PhD in Informatics), and Mark Wiebe (bachelor's in computer science and math.
 
 Oliphant's master's thesis was applied work on "New Methods for
 Scatterometry based Wind Estimation". [Cournapeau's
@@ -212,7 +212,7 @@ We already know the educational background of Oliphant and Peterson from the Num
 Here are the top 10 contributors to Scipy (as of `4d9467958`) by number of
 commits:
 
-                       Commits Batchelor's     Master's       PhD
+                       Commits Bachelor's      Master's       PhD
 ---------------------  ------- --------------- ---------      ----
 Pauli Virtanen [^pv]   2886                    Physics        Physics
 Ralf Gommers [^rg]     2478    Physics                        Physics
@@ -254,19 +254,19 @@ From [history of Matplotlib](https://matplotlib.org/users/history.html) by
 John Hunter is also one of the top 10 contributors to Matplotlib by commits, as
 of commit `a58f1c613`.  Here is the full list:
 
-                               Commits Batchelor's     Master's      PhD
----------------------          ------- --------------- ---------     ----
-Thomas Caswell [^tc]           4309    Physics, Math   Physics       Physics
-Michael Droettboom [^md]       3918    CS, Music       Music
-John Hunter [^jdh]             2145    Politics                      Neurobiology
-Eric Firing [^ef]              1810    Earth Sci.                    Oceanography
-Antony Lee [^al]               1680                    Eng.          Physics
-Jody Klymak [^jk]              1073    Math, Physics   Oceaongraphy  Oceanography
-David Stansby [^ds]            1066                    Natural Sci.
-Elliott Sales de Andrade [^es] 960     Eng.            Physics
-Jens Hedegaard Nielsen [^jn]   856     Physics         Physics       Physics
-Nelle Varoquaux [^nv]          806     CS              Math          Comp. Biol.
----------------------          ------- --------------- ---------     ----
+                               Commits Bachelor's     Master's      PhD
+---------------------          ------- -------------- ---------     ---
+Thomas Caswell [^tc]           4309    Physics, Math  Physics       Physics
+Michael Droettboom [^md]       3918    CS, Music      Music
+John Hunter [^jdh]             2145    Politics                     Neurobiology
+Eric Firing [^ef]              1810    Earth Sci.                   Oceanography
+Antony Lee [^al]               1680                   Eng.          Physics
+Jody Klymak [^jk]              1073    Math, Physics  Oceaongraphy  Oceanography
+David Stansby [^ds]            1066                   Natural Sci.
+Elliott Sales de Andrade [^es] 960     Eng.           Physics
+Jens Hedegaard Nielsen [^jn]   856     Physics        Physics       Physics
+Nelle Varoquaux [^nv]          806     CS             Math          Comp. Biol.
+---------------------          ------- -------------- ---------     ---
 
 [^tc]: [Caswell's LinkedIn page](https://www.linkedin.com/in/tcaswell)
 [^md]: [Droettboom's LinkedIn page](https://www.linkedin.com/in/mdboom)
