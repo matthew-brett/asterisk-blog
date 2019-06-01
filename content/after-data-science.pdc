@@ -1,11 +1,15 @@
 ---
-Title: After data science
+Title: The end of data science as we know it
 Date: 2019-05-30 17:41
 Slug: after-data-science
 Author: Matthew Brett
+Status: draft
 ---
 
-[Skipper Seabold](https://www.linkedin.com/in/skipper-seabold-91191774)
-is one of the main authors of the Python
+This post links to some evidence that data science is fairly well over the peak of the hype cycle.
+
+[Skipper
+Seabold](https://www.linkedin.com/in/skipper-seabold-91191774) is one
+of the main authors of the Python
 [Statmodels](http://conference.scipy.org/proceedings/scipy2010/pdfs/seabold.pdf)
 package.  He is now "Director of Data Science at Civis Analytics".
