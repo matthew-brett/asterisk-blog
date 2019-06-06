@@ -1,15 +1,117 @@
 ---
-Title: The end of data science as we know it
+Title: Where is data science on the hype cycle?
 Date: 2019-05-30 17:41
 Slug: after-data-science
 Author: Matthew Brett
-Status: draft
 ---
 
-This post links to some evidence that data science is fairly well over the peak of the hype cycle.
+This post links to some evidence that data science in industry may be over the peak of the
+[hype cycle](https://en.wikipedia.org/wiki/Hype_cycle).
 
-[Skipper
-Seabold](https://www.linkedin.com/in/skipper-seabold-91191774) is one
+Here is the hype cycle [^hc-attrib]:
+
+[^hc-attrib]: Graphic by Jeremykemp at English Wikipedia [CC BY-SA
+  3.0](https://creativecommons.org/licenses/by-sa/3.0).
+
+![](images/Gartner_Hype_Cycle.svg)
+
+We may be somewhere mid-way between the peak of inflated expectations and the trough of disillusionment.
+
+## Where is data science on the hype cycle? (Stefan Groschupf)
+
+[Stefan Groschupf](https://www.dataversity.net/contributors/stefan-groschupf)
+is a "big data veteran" who co-founded and ran Datameer, a company that sells a
+data analytics platform for industry.
+
+He has a Dataversity video blog post from June 2017 on [Where is Data Science
+in the Hype
+Cycle?](https://www.dataversity.net/where-is-data-science-hype-cycle).
+
+> I think we're over the peak.  It's very clear that a lot of companies
+> realized that this hype of bringing in data scientist teams and building huge
+> data scientist teams is not the solution for every problem. ...
+> We saw that everybody was very excited and data science solved every problem
+> including printing money and making the dishes...
+
+## The credibility crisis in data science (Skipper Seabold)
+
+[Skipper Seabold](https://www.linkedin.com/in/skipper-seabold-91191774) is one
 of the main authors of the Python
 [Statmodels](http://conference.scipy.org/proceedings/scipy2010/pdfs/seabold.pdf)
-package.  He is now "Director of Data Science at Civis Analytics".
+package.  He is now director of Data Science at a data science consultancy
+company called [Civis
+Analytics](https://en.wikipedia.org/wiki/Civis_Analytics).  He gave a talk at
+the 2018 PyData conference called [What's the Science in Data
+Science?](https://pydata.org/la2018/schedule/presentation/46), where his
+abstract starts:
+
+> We will:
+>
+> * Understand "the credibility revolution in economics" and draw parallels to
+>   the current and coming credibility crisis in data science
+
+He then did a [March 2019 interview for the DataCamp
+podcast](https://www.datacamp.com/community/podcast/credibility-crisis-in-data-science),
+about "The Credibility Crisis in Data Science".  His main point was that he was
+starting to hear that CEOs with data science teams were wondering what these
+teams were for:
+
+> One thing that I've heard just in working here at Civis is like you say from
+> a CEO of a very large company that every one would know, if I mentioned who
+> they were. I mean it's basically saying if I have all these data scientists,
+> I have hundreds of data scientists and I have no idea what the fuck they do
+> all day. ...
+>
+> I think decision makers don't know what data scientists are capable of. They
+> don't know how to communicate with them what the business needs are. And I
+> don't think data scientists necessarily know how to describe the value of
+> what they are doing in terms that the business can understand. Or also even
+> focus their efforts on things that will have an impact for the business,
+> like going out and understanding what it is that will actually make a
+> difference and then making sure you're doing that.
+
+## Avoiding the data science hype bubble (Josh Poduska)
+
+[Josh Poduska](https://www.linkedin.com/in/joshpoduska) is the chief data
+scientist at Domino Data Lab.  He has a master's in applied statistics from Cornell.
+
+He wrote a blog post on [Avoiding a Data Science Hype
+Bubble](https://blog.dominodatalab.com/avoiding-data-science-hype-bubble) in June 2018.
+
+It starts:
+
+> The noise around AI, data science, machine learning, and deep learning is
+> reaching a fever pitch. 
+
+He complains that the field has made little effort to define terms like “AI”,
+“machine learning”, or “data science”.
+
+> This has consequences. Two consequences include the creation of a hype-bubble
+> that leads to unrealistic expectations and an increasing inability to
+> communicate, especially with non-data science colleagues. ...
+>
+> The frequent overuse of “AI” when referring to any solution that makes any
+> kind of prediction has been a major cause of this hype. Because of frequent
+> overuse, people instinctively associate data science projects with near
+> perfect human-like autonomous solutions. Or, at a minimum, people perceive
+> that data science can easily solve their specific predictive need, without
+> any regard to whether their organizational data will support such a model.
+
+He offers some sober definitions of "AI", "machine learning" and "data
+science", and concludes:
+
+> I think we can all agree that there is too much hype in our industry today,
+> especially around AI. Each of us has seen how this hype limits real progress.
+> I argue that a lot of the hype is from misuse of the terms of data science.
+
+## What should we do?
+
+The last post of these three is interesting.  It is very surprising to me that
+a large proportion of people working in or around data science do not have a
+good definition for the term, and do not appear to be interested to find one.
+I think this must be for the same reasons that Josh Poduska discusses; "data
+science" and "AI" are selling well, for now, so there is little apparent cause
+to slow down, and consider whether we are heading in the right direction, and
+at the right speed.  I think he's right, that if we don't do some hard
+reflection, very soon, we are going to find ourselves landing on hard ground as
+we tumble from the bursting bubble.
