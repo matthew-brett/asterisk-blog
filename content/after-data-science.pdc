@@ -38,7 +38,7 @@ Cycle?](https://www.dataversity.net/where-is-data-science-hype-cycle).
 [Skipper Seabold](https://www.linkedin.com/in/skipper-seabold-91191774) is one
 of the main authors of the Python
 [Statmodels](http://conference.scipy.org/proceedings/scipy2010/pdfs/seabold.pdf)
-package.  He is now director of Data Science at a data science consultancy
+package.  He is now director of data science at a data science consultancy
 company called [Civis
 Analytics](https://en.wikipedia.org/wiki/Civis_Analytics).  He gave a talk at
 the 2018 PyData conference called [What's the Science in Data
@@ -69,6 +69,63 @@ teams were for:
 > focus their efforts on things that will have an impact for the business,
 > like going out and understanding what it is that will actually make a
 > difference and then making sure you're doing that.
+
+## No data science job titles by 2029 (Noah Gift)
+
+See this [Febuary 2019 Forbes
+article](https://www.forbes.com/sites/forbestechcouncil/2019/02/04/why-there-will-be-no-data-science-job-titles-by-2029).
+
+> The coming Trough of Disillusionment with data science job titles will be the
+> following:
+>
+>   * Many data science teams have not delivered results that can be measured
+>     in ROI by executives.
+>   * The excitement of AI and ML has temporary led people to ignore the basic
+>     question: What does a data scientist actually do?
+>   * For complex data engineering tasks, you need five data engineers for
+>     every one data scientist.
+>   * Automation is coming for many tasks data scientists perform, including
+>     machine learning. Every major cloud vendor has heavily invested in some
+>     type of AutoML initiative.
+
+I doubt that the last point is true, unless we reach the surprising point that
+it is no longer necessary to understand what the data means or how the analysis
+works.
+
+## Data science is different now (Vicki Boykis)
+
+Vicki Boykis is a [senior manager in data science and engineering at
+CapTech](https://www.linkedin.com/in/vickiboykis).
+
+She wrote a [Febrary 2019 blog
+post](https://veekaybee.github.io/2019/02/13/data-science-is-different) to
+record her worry that the job title "data scientist" had been oversold, with
+the result that there are not enough jobs for people who have trained to be
+a "data scientist".
+
+She complains about the hype around "data science":
+
+> Unfortunately, what has not changed is the mass media hype around the field
+> of data science, which has trumpeted data scientist as the ‘sexiest career of
+> the 21st century’ so many times, that there is now what I believe to be an
+> important problem that we as a community need to talk about. That problem is
+> an oversupply of junior data scientists hoping to enter the industry, and
+> mismatched expectations on what they can hope to find once they do get that
+> coveted title of “data scientist.”
+
+Boykis goes on to list evidence and argument that the market for people with
+the job title "data scientist" will shrink, and that there are too many people
+training to be a "data scientist".  She calls this a "data science supply
+bubble".
+
+> This is purely anecdotal evidence, so take it with a large grain of salt.
+> But, based on my own participation as a resume screener, mentor to data
+> scientists leaving boot camps, interviewer, interviewee, and from
+> conversations with friends and colleagues in similar positions, I’ve
+> developed an intuition that the number of candidates per any given data
+> science position, particularly at the entry level, has grown from 20 or so
+> per slot, to 100 or more. I was talking to a friend recently who had to go
+> through 500 resumes for a single opening.
 
 ## Avoiding the data science hype bubble (Josh Poduska)
 
