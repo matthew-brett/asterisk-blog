@@ -25,8 +25,6 @@ I can think of two simple models:
     other work they need to do, or do more efficiently.  They
     build the library to do that work.
 
-https://www.cs.umd.edu/~hollings/papers/ieee-sw-2008.pdf
-
 For example, a entirely new language is likely to be in the
 Expert Build category, because a working scientist or data
 analyst is unlikely to have the time or expertise to build
@@ -280,90 +278,3 @@ Nelle Varoquaux [^nv]          806     CS             Math          Comp. Biol.
 [^es]: [Sales de Andrade's ORCID page](https://orcid.org/0000-0001-7310-8942)
 [^jn]: [Nielsen's LinkedIn page](https://www.linkedin.com/in/jens-hedegaard-nielsen-16328151)
 [^nv]: [Varoquaux' LinkedIn page](https://www.linkedin.com/in/nelle-varoquaux-63250a34) and [BIDS biosketch](https://bids.berkeley.edu/people/nelle-varoquaux).
-
-## Pandas
-
-https://wesmckinney.com/pages/about.html
-
-"""
-I studied theoretical mathematics at MIT (graduating in late 2006) ...
-
-From August 2007 to July 2010, I worked on the front office quant
-research team at AQR Capital Management ... I started building pandas
-on April 6, 2008, as part of a skunkworks effort to reproduce some
-econometric research in Python.
-"""
-
-https://qz.com/1126615/the-story-of-the-most-important-tool-in-data-science/
-
-https://www.pythonpodcast.com/wes-mckinney-python-for-data-analysis-episode-203/
-
-https://www.pythonpodcast.com/episode-98-pandas-with-jeff-reback/
-
-https://www.linkedin.com/in/jeff-reback-3a20876/
-
-## IPython
-
-http://fperez.org/personal.html
-
-"""
-I was born in Medellín, Colombia [*], where I did my undergraduate studies in Physics at the Universidad de Antioquia. From there I moved to Boulder, Colorado, where I completed my PhD in particle physics, before spending a few years as a post-doc in Applied Mathematics. In 2008 I moved to the San Francisco Bay Area, where I now work at UC Berkeley, on research involving algorithms and tool development in neuroimaging.
-"""
-
-http://blog.fperez.org/2012/01/ipython-notebook-historical.html
-
-https://ipython.readthedocs.io/en/stable/about/history.html
-
-Brian Granger, refactor, June-September 2009.
-
-March 23 2010:
-
-https://mail.python.org/pipermail/ipython-dev/2010-March/004769.html
-
-August 8 2010:
-http://ipythonzmq.blogspot.com/
-
-Two-process model.
-
-October 2010 - HTML 'frontend'
-
-https://mail.python.org/pipermail/ipython-dev/2010-October/005704.html
-
-https://www.linkedin.com/in/james-gao-5b3aa1a5/
-
-18 December 2011
-
-Notebook released with IPython 0.12
-
-https://ipython.org/news.html
-
-Grant awarded in 2012
-
-https://ipython.org/_static/sloangrant/sloan-grant.html
-
-"""
-PIs Perez and Granger are both physicists whose research interests
-span a broad range of problems, from neuroscience and computational chemistry to atomic
-
-physics and quantum computing.
-"""
-
-
-"""
-While we were all trained as physicists without any software engineering education, in
-our interaction with the world of open source developers we have learned and adopted
-rigorous software engineering practices that we follow to ensure IPython remains a robust
-and high-quality project even as it grows.
-"""
-
-## Statsmodels
-
-https://www.linkedin.com/in/skipper-seabold-91191774/
-
-https://scipystats.blogspot.com/2009/08/scikitsstatsmodels-release-announcement.html
-
-https://scipystats.blogspot.com/2009/04/getting-started-with-gsoc-and-scipy.html
-
-https://conference.scipy.org/proceedings/scipy2010/pdfs/seabold.pdf
-
-https://www.linkedin.com/in/josef-perktold-josef-pktd-9a23b316/
