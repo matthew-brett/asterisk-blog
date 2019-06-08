@@ -1,0 +1,61 @@
+---
+Title: Software engineers and scientists
+Date: 2019-06-08 18:47
+Slug: software-engineers-and-scientists
+Author: Matthew Brett
+Status: draft
+---
+
+## Software enginners and scientists in the old days
+
+In the old days, there were scientists who had picked up coding at work, and
+they were amateurs.  Then there were software engineers, who had learned to
+write code in courses, or by apprenticeship in industry, and they were
+professionals.  This post is about paper from those days, where the
+professionals were finding it hard to help the amateurs.
+
+## It's really not like that any more
+
+I say the old days, because one of the effects of open-source in science has
+been that scientists are now learning software engineering techniques for
+reducing error and increasing quality.  I learned to do version control, unit
+testing, code review and continuous integration from the open-source community,
+and, in particular, from the scientific Python community.
+
+For example, here is a quote [from a grant application by the authors of
+IPython / Jupyter](https://ipython.org/_static/sloangrant/sloan-grant.html):
+
+> While we were all trained as physicists without any software engineering
+> education, in our interaction with the world of open source developers we
+> have learned and adopted rigorous software engineering practices that we
+> follow to ensure IPython remains a robust and high-quality project even as it
+> grows.
+
+## What was it like in the old days?
+
+We go back to the old days - before 2008. [@basili2008understanding] gives an
+interesting account of interaction between software engineers and scientists.
+In this case the scientists were using high-performance computing clusters,
+typically to simulate "physical phenomena such as earthquakes, global climate
+change or nuclear reactions".
+
+The authors are academic software engineers; the first two and last authors
+were working at the Fraunhofer Center for Experimental Software Enginneering.
+
+There is some discussion of this problem in the paper [Understanding the
+High-Performance Computing Community: A Software Engineer's
+Perspective](https://www.cs.umd.edu/~hollings/papers/ieee-sw-2008.pdf).  The
+paper describes the results of interaction between software engineers and
+scientists using large clusters to simulate "physical phenomena such as
+earthquakes, global climate change or nuclear reactions".  The message I took
+from the paper was that Software Experts often suggest solutions that
+Practitioners will not use, often with good reason:
+
+> We aim here to distill our experience about how software engineers how
+> software engineers can productively engage the HPC community.  Several SE
+> [Software Engineer] practices general considered good ideas in other
+> development environments are quite mismatched to the HSP community's needs.
+> For SE researchers, the keys to successful interactions include a health
+> sense of humility and the avoidance of assumptions that SE expertise applies
+> equally in all contexts.
+

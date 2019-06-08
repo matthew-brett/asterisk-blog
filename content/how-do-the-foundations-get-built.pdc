@@ -145,8 +145,15 @@ Numeric in [the story of Jython](http://hugunin.net/story_of_jython.html):
 > Konrad Hinsen, and many others made that project much more successful than
 > it could ever have been as an isolated endeavor. ...
 
-These are the educational backgrounds of the founding fathers of
-Numpy that Hugunin names above:
+[Elsewhere](https://legacy.python.org/workshops/1995-12/papers/hugunin.html)
+Hugunin notes that Numeric "is based on Jim Fulton's original implementation of
+a matrix object as a container class."  He links to the [then-current list of
+Python extension
+modules](https://web.archive.org/web/19970606192854/http://www.python.org/workshops/1995-05/extModulesNotes.html)
+that contains a description of Fultons "Fortran Matrix extension".
+
+These are the educational backgrounds of the Numpy founding fathers that
+Hugunin names above:
 
                     Bachelor's      Master's          PhD
 -----------------   --------------- ------------      ----
