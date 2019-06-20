@@ -87,8 +87,8 @@ practice, so it becomes natural for them to use it for all new problems.
 Science as currently practiced, and taught, uses what I would call an *artisan*
 working process, or at least, that is the polite name for it.  A less polite
 description might be *sloppy, informal and inefficient*.   Our current model is
-that of the skilled but largely self-taught craftsman, from before the
-industrial revolution.  The process is so specialized, variable and arcane,
+that of the skilled craftsman, from before the
+industrial revolution.  The craft is so specialized, variable and arcane,
 that the only way to learn is for the student to copy the techniques they see
 during their apprenticeship. In science, the apprenticeship is working as
 a graduate student or post-doc.   Scientists mostly work alone. The large
@@ -105,9 +105,10 @@ It makes collaboration very difficult.  It is easy to underestimate the
 tendency of computers to confuse and distract.
 
 Meanwhile, programmers in industry have found these same problems, and they
-learned quickly that they couldn't do efficient work without changing their
-process.   When they tried, the result was bad software, poor collaboration and
-inefficient production.  They lost money.
+learned quickly that they couldn't do efficient work
+that way.   When they tried, the result was bad
+software, poor collaboration and inefficient
+production.  They lost money.
 
 In response, programmers have been thinking very hard about how to work and
 collaborate efficiently.  They found they needed:
@@ -125,11 +126,12 @@ They also turn out to be revolutionary in improving the process of building
 data analyses in a team.  To those of us who have experienced these techniques
 for doing scientific projects, returning to the old email and track changes
 process feels like a return to the dark ages, as if we had been forced to use
-a typewriter instead of a word processor.  Compared to the old techniques, the
+a typewriter instead of a word processor.  The
 new techniques are much more effective in increasing clarity, reducing error
-and improving discussion.  I estimate they lead to something like a ten-fold
-increase in efficiency for projects involving more than one person, and
-a three-fold increase for someone working on their own.
+and improving discussion.  I estimate they give a
+ten-fold increase in efficiency for projects involving
+more than one person, and a three-fold increase for
+someone working on their own.
 
 Using these techniques is not advanced, it is where the students should start.
 We have taught these techniques to statistics and other undergraduates, in
@@ -153,7 +155,7 @@ give the students the best possible foundation for modern scientific work.
   learn basic programming, in Python.  They learn to get data from real data
   sources and explore it with plots and tables.  They learn what models are,
   what inference means, and how to make models and inferences with simulation
-  and permutation.  The learn the bootstrap for estimation, and they get an
+  and permutation.  They learn the bootstrap for estimation, and they get an
   introduction to regression, and basic machine learning.  They do
   a substantial open-ended project using these tools at the end.  They will
   learn in easy-start tools like the [Jupyter Notebook](https://jupyter.org).
@@ -168,7 +170,7 @@ give the students the best possible foundation for modern scientific work.
 * The deep foundation gives them deep skepticism.  They know what it is to
   understand something in depth, and they know the dangers of superficial
   understanding, and following recipes.  When they learn something new, they
-  learn it in depth, as they have learned in their courses.  The test their
+  learn it in depth, as they have learned in their courses.  They test their
   understanding, by building in code.
 * In the first or second year, they move on to techniques for collaboration.
   Instead of Jupyter Notebooks, they start using more efficient tools like text
@@ -183,16 +185,23 @@ give the students the best possible foundation for modern scientific work.
 * As the students gain experience, they gain independence.  They learn to start
   quickly, using standard tools.  They begin to contribute to open-source, to support their analysis, and for their education, in group work, and in coding.
 
-All this is a big departure from our current model of teaching, but I don't
-think any university will have a choice but to change, in the next few years.
-Firstly, these ways of learning and working are so much more efficient than the
-techniques we are using now.  Second, we are entering a new age, in which
-complex data analysis will have an increasing influence in our lives and our
-scientific understanding.  If we want to teach students to be effective and
-skeptical, we can't afford to use the old methods; we just don't have time to
-bolt computing and algorithms on top of our current courses.  We must start
-with computing and algorithms, to teach students to build and to understand.
-Then they will have the tools to engage with confidence and vigor with the
-beasts of the new age.
+All this is a big departure from our current model of
+teaching, but I don't think any university will have
+a choice but to change in the coming decade. These
+ways of learning and working are so much more
+efficient than the techniques we are using now, that
+students who do not learn them, will be at a great
+disadvantage.  But that is not the only issue; we need
+to prepare our students for a changing world. We are
+entering a new age, in which complex data analysis
+will have an increasing influence on our lives and our
+scientific understanding.  If we want to teach
+students to be effective and skeptical, we can't
+afford to use the old methods; we just don't have time
+to bolt computing and algorithms on top of our current
+courses.  We must start with computing and algorithms,
+to teach students to build and to understand. Then
+they will have the tools to engage with confidence and
+vigor with the beasts of the new age.
 
 ## References
