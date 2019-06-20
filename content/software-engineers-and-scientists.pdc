@@ -1,0 +1,47 @@
+---
+Title: Software engineers and scientists
+Date: 2019-06-08 18:47
+Slug: software-engineers-and-scientists
+Author: Matthew Brett
+Status: draft
+---
+
+## Software enginneers and scientists in the old days
+
+In the old days, there were scientists who had picked up coding at
+work, and they were amateurs.  Then there were software engineers, who
+had learned to write code in courses, or by apprenticeship in
+industry, and they were professionals.  If you wanted to know how to write code correctly, you needed to ask the professionals.
+
+## It's really not like that any more
+
+I say the old days, because one of the effects of open-source in
+science has been that scientists are now learning software engineering
+techniques for reducing error and increasing quality.  I learned to do
+version control, unit testing, code review and continuous integration
+from the open-source community, and, in particular, from the
+scientific Python community.
+
+For example, here is a quote [from a grant application by the authors
+of IPython
+/ Jupyter](https://ipython.org/_static/sloangrant/sloan-grant.html):
+
+> While we were all trained as physicists without any software
+> engineering education, in our interaction with the world of open
+> source developers we have learned and adopted rigorous software
+> engineering practices that we follow to ensure IPython remains
+> a robust and high-quality project even as it grows.
+
+That isn't an exaggeration; all the big projects in the scientific
+Python world use:
+
+* version control;
+* unit testing;
+* continuous integration for multiple Python versions and multiple
+  platforms;
+* code review for every change accepted into the main development
+  branch.
+
+  https://da-data.blogspot.com/2016/04/stealing-googles-coding-practices-for.html
+
+https://cacm.acm.org/magazines/2018/9/230596-an-academics-observations-from-a-sabbatical-at-google/abstract

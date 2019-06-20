@@ -14,48 +14,96 @@ foundations get built.
 Here I am interested the process by which developers start
 working on these foundation projects.
 
+## Software expert build or practitioner build?
+
 I can think of two simple models:
 
-1.  Expert Build - or "Here, try this thing I built."  The
+1.  Software expert build - or "Here, try this thing I built."  The
     developer has an idea for a library that they believe will be
     useful for people doing data analysis.  They build it, and
     then go to find users.
-1.  Consumer Build - or "I need this thing, so I'm going to build
+1.  Practitioner build - or "I need this thing, so I'm going to build
     it."  The developer has some data they need to analyze, or
     other work they need to do, or do more efficiently.  They
     build the library to do that work.
 
-For example, a entirely new language is likely to be in the
-Expert Build category, because a working scientist or data
-analyst is unlikely to have the time or expertise to build
-a language.  I presume that domain-specific libraries, like
-Astropy, will usually come from the "Consumer Build" group,
-where development gives more immediate benefit for work.
+For example, a entirely new language is likely to be in the Software Expert
+Build category, because a working scientist or data analyst is unlikely to have
+the time or expertise to build a language.  I presume that domain-specific
+libraries, like [Astropy](https://www.astropy.org), will usually come from the
+"Practitioner Build" group, where development gives more immediate benefit for
+work.
 
-This post is to collate some data on this distinction for the
-three most fundamental libraries in scientific Python: Numpy;
-Scipy and Matplotlib.  Numpy is the base layer that implements the array object
-in Python, and seems close to a language on the spectrum above.  Scipy is a collection of libraries that build on Numpy, and is therefore closer to the domain libraries.  Matplotlib is the standard 2D plotting library for Python.
+To put the distinction another way - what matters in open-source development:
+having a hard data analysis problem; or being expert in software development;
+or do we need both (to get started)?
 
-The distinction between Expert Build and Consumer Build is
-important, because the models have different implications for
-funding and support.  If the most fruitful development comes from
-Expert Build, then we can follow a traditional path by finding
-and funding experts with good ideas.  If Consumer Build has been
-more effective, we will need more imagination, because the
-consumer builders will be harder to find, before most of the work
-is done.
+## Some references that came to mind
 
-I have two sources of data to look at the Expert / Consumer build
-distinction for Numpy, Scipy and Matplotlib.  The first are brief
-early histories of each project, from the main authors. Was the
-project driven by a good idea, in search of work to do, or was it
-driven by work that needed doing?
+The "Practitioner Build" model follows Eric Raymond's first lesson from [The
+Cathedral and the
+Bazaar](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/ar01s02.html):
 
-The second source of data is the educational background of the
-contributors. In the case of Expert Build, I expect contributors
-to have training in computer science in general, and software
-engineering in particular.
+> 1. Every good work of software starts by scratching a developer's personal
+>    itch.
+
+Our question is - what happens if the person with the itch is not (yet) a
+developer.  Does that person need a developer to come and help?  Or do they
+teach themselves, and become a developer?
+
+There is some discussion of this problem in the paper [Understanding the
+High-Performance Computing Community: A Software Engineer's
+Perspective](https://www.cs.umd.edu/~hollings/papers/ieee-sw-2008.pdf).  The
+paper describes the results of interaction between software engineers and
+scientists using large clusters to simulate "physical phenomena such as
+earthquakes, global climate change or nuclear reactions".  The message I took
+from the paper was that Software Experts often suggest solutions that
+Practitioners will not use, often with good reason:
+
+> We aim here to distill our experience about how software engineers how
+> software engineers can productively engage the HPC community.  Several SE
+> [Software Engineer] practices general considered good ideas in other
+> development environments are quite mismatched to the HSP community's needs.
+> For SE researchers, the keys to successful interactions include a health
+> sense of humility and the avoidance of assumptions that SE expertise applies
+> equally in all contexts.
+
+## Why it matters
+
+The distinction between Software Expert Build and Practitioner Build is
+important, because the models have different implications for funding and
+support.  If the most fruitful development comes from Software Expert Build,
+then we can follow a traditional path by finding and funding experts with good
+ideas.  If Practitioner Build has been more effective, we will need more
+imagination, because the practitioner builders will be harder to find, before
+most of the work is done.
+
+## Relevant data from scientific Python libraries
+
+This post is to collate some data on the distinction between Software Expert
+Build and Practitioner Build, for the three most fundamental libraries in
+scientific Python: Numpy; Scipy and Matplotlib.  Numpy is the base layer that
+implements the array object in Python, and seems close to a language on the
+spectrum above.  Scipy is a collection of libraries that build on Numpy, and is
+therefore closer to the domain libraries.  Matplotlib is the standard 2D
+plotting library for Python.
+
+I have also done some more superficial analysis of another three important
+projects in the scientific Python world: IPython / Jupyter (interactive prompt
+/ Notebook interface); Pandas (base library for data science); and Statsmodels
+(statistical models).
+
+I have two sources of data to look at the Software Expert / Practitioner build
+distinction.  The first are brief early histories of each project, from the
+main authors. Was the project driven by a good idea, in search of work to do,
+or was it driven by work that needed doing?  I have histories for all the
+projects above.
+
+The second source of data is the educational background of the contributors. In
+the case of Software Expert Build, I expect contributors to have training in
+computer science in general, and algorithm design / software engineering in
+particular.  I have these data for Numpy, Scipy and Matplotlib.  I didn't have
+time to research the backgrounds of the developers for the other libraries.
 
 ## Abbreviations
 
@@ -97,10 +145,17 @@ Numeric in [the story of Jython](http://hugunin.net/story_of_jython.html):
 > Konrad Hinsen, and many others made that project much more successful than
 > it could ever have been as an isolated endeavor. ...
 
-These are the educational backgrounds of the founding fathers of
-Numpy that Hugunin names above:
+[Elsewhere](https://legacy.python.org/workshops/1995-12/papers/hugunin.html)
+Hugunin notes that Numeric "is based on Jim Fulton's original implementation of
+a matrix object as a container class."  He links to the [then-current list of
+Python extension
+modules](https://web.archive.org/web/19970606192854/http://www.python.org/workshops/1995-05/extModulesNotes.html)
+that contains a description of Fultons "Fortran Matrix extension".
 
-                    Batchelor's     Master's          PhD
+These are the educational backgrounds of the Numpy founding fathers that
+Hugunin names above:
+
+                    Bachelor's      Master's          PhD
 -----------------   --------------- ------------      ----
 Jim Hugunin [^jh]   EE              EECS
 Jim Fulton [^jf]    Civil Eng.      Sys. Eng.,
@@ -117,9 +172,22 @@ Konrad Hinsen [^kh] ?                                 Physics
 [^pd]: [Dubois' web pages](http://pfdubois.com/bio.html)
 [^kh]: [Hinsen's Orchid page](https://orcid.org/0000-0003-0330-9428)
 
-Here are the educational backgrounds for the top 10 authors of Numpy, by number of commits, from Git commit `4b6b29afc`:
+Although Huginin was studying Electrical Engineering and Computer Science when
+he was writing Numeric, his description above gives the impression of an
+engineer building a machine that happened to be a computer, where the analysis
+problems arose from the task.
 
-                       Commits Batchelor's     Master's   PhD
+Fulton [^jf] has a background in civil and systems engineering.  At the time
+Numeric was starting, he was working at the US Geological Survey.  He records
+his roles as "Data analysis, hydrologic modeling, and development and support
+of data analysis tools.", so this qualifies him as a practitioner.  He was also
+studying for an MS in software systems engineering, making him a rare case of a
+trained practitioner and formally trained software engineer.
+
+Here are the educational backgrounds for the top 10 authors of Numpy, by number
+of commits, from Git commit `4b6b29afc`:
+
+                       Commits Bachelor's      Master's   PhD
 ---------------------  ------- --------------- ---------  ----
 Charles Harris [^ch]   4169    Physics                    Math
 Travis Oliphant [^to]  2065    EECS, Math      EECS       Biomedical Eng.
@@ -147,7 +215,7 @@ Matti Picus [^mp]       516                               Agricultural Eng.
 
 [^mw]: [Wiebe's LinkedIn
 page](https://www.linkedin.com/in/mark-wiebe-88738b2); it's not
-clear whether he has a post-graduate degree.  Batchelor majors
+clear whether he has a post-graduate degree.  Bachelor majors
 listed in [UManitoba
 page](https://umanitoba.ca/faculties/science/about/1262.html)
 
@@ -157,25 +225,24 @@ page](https://umanitoba.ca/faculties/science/about/1262.html)
 
 [^mp]: From [Pincus' Youtube presentation](https://www.youtube.com/watch?v=fRTSUpzpTVg)
 
-From the table above, contributors with specific education in
-computer science are Travis Oliphant (batchelor's and master's
-degrees are in Electrical and Computer Engineering), David
-Cournapeau (PhD in Informatics), and Mark Wiebe (batchelor's in computer science and math.
+From the table above, contributors with specific education in computer science
+are Travis Oliphant (bachelor's and master's degrees are in Electrical and
+Computer Engineering), David Cournapeau (PhD in Informatics), and Mark Wiebe
+(bachelor's in computer science and math).
 
-Oliphant's master's thesis was applied work on "New Methods for
-Scatterometry based Wind Estimation". [Cournapeau's
-thesis](http://hdl.handle.net/2433/126467) was also applied
-work on speech processing and machine learning.
+Oliphant's master's thesis was applied work on "New Methods for Scatterometry
+based Wind Estimation". [Cournapeau's
+thesis](http://hdl.handle.net/2433/126467) was also applied work on speech
+processing and machine learning.  I think both are examples of practitioners
+who became developers in response to the needs of their analysis.
 
-Speech and Audio Processing Laboratory
-
-Online unsupervised classification applied to voice activity detection
-
-Mark Wiebe 
-
-https://github.com/numpy/numpy/pull/297
-
-Removes 12K lines of code.
+Mark Wiebe had a lot of experience in software engineering before he began to
+work on Numpy (see [^mw]).  His is an interesting case, in that he made 
+substantial contributions to Numpy, including the widely used `einsum`
+function, but he is also the only contributor that I can remember who had a
+[large amount of their code pulled out of the main Numpy
+repository](https://github.com/numpy/numpy/pull/297) because the community
+could not agree on the changes.
 
 ## Scipy
 
@@ -207,19 +274,21 @@ Oliphant](https://en.wikipedia.org/wiki/Travis_Oliphant):
 > modules with mine into one super package. Together with Pearu Peterson we
 > joined our efforts, and SciPy was born in 2001.
 
-We already know the educational background of Oliphant and Peterson from the Numpy table above. [Eric Jones](https://www.linkedin.com/in/ericjones2/) has a BSE in Mechanical Engineering and a PhD in Electrical Engineering.
+We already know the educational background of Oliphant and Peterson from the
+Numpy table above. [Eric Jones](https://www.linkedin.com/in/ericjones2/) has a
+BSE in Mechanical Engineering and a PhD in Electrical Engineering.
 
 Here are the top 10 contributors to Scipy (as of `4d9467958`) by number of
 commits:
 
-                       Commits Batchelor's     Master's       PhD
+                       Commits Bachelor's      Master's       PhD
 ---------------------  ------- --------------- ---------      ----
 Pauli Virtanen [^pv]   2886                    Physics        Physics
 Ralf Gommers [^rg]     2478    Physics                        Physics
 Evgeni Burovski [^eb]  1077                    Physics, Math  Physics
 Travis Oliphant [^to]  977     EECS            EECS           Biomedical Eng.
 David Cournapeau [^to] 820                     EE             CS
-Warren Weckesser [^ww] 756                     C Sys. Eng.        Math
+Warren Weckesser [^ww] 756     C Sys. Eng.     C Sys. Eng.    Math
 Alex Griffing [^ag]    604     Math                           Bioinformatics
 Pearu Peterson [^pp]   504                     Physics        Physics
 Nathan Bell [^nb]      375     CS, Math                       CS
@@ -231,6 +300,17 @@ Nathan Bell [^nb]      375     CS, Math                       CS
 [^ag]: See biography in [Griffing's 2012 thesis](https://repository.lib.ncsu.edu/bitstream/handle/1840.16/7496/etd.pdf)
 [^nb]: [Bell's LinkedIn page](https://www.linkedin.com/in/nathan-bell-65963915)
 [^el]: [Endolith's Codementor page](https://www.codementor.io/endolith); he has a BSEE degree.
+
+Scipy top contributors with computer science training are Oliphant, Cournapeau,
+Weckesser and Bell.  I have already discussed Oliphant and Cournapeau above; I
+think both are best described as practitioners who became developers.
+Weckesser has a Bachelor's and a Master's in Computer and System Engineering;
+his publication list [^ww] suggests he has a longstanding interest in
+numerical software. [Bell's Google Scholar
+page](https://scholar.google.co.uk/citations?user=BA-ae2MAAAAJ) shows he has
+many papers at the interface of software and numerical methods.  I think both
+Weckesser and Bell can reasonably be classified as Software Experts who are
+also Practitioners (of numerical methods).
 
 ## Matplotlib
 
@@ -254,19 +334,19 @@ From [history of Matplotlib](https://matplotlib.org/users/history.html) by
 John Hunter is also one of the top 10 contributors to Matplotlib by commits, as
 of commit `a58f1c613`.  Here is the full list:
 
-                               Commits Batchelor's     Master's      PhD
----------------------          ------- --------------- ---------     ----
-Thomas Caswell [^tc]           4309    Physics, Math   Physics       Physics
-Michael Droettboom [^md]       3918    CS, Music       Music
-John Hunter [^jdh]             2145    Politics                      Neurobiology
-Eric Firing [^ef]              1810    Earth Sci.                    Oceanography
-Antony Lee [^al]               1680                    Eng.          Physics
-Jody Klymak [^jk]              1073    Math, Physics   Oceaongraphy  Oceanography
-David Stansby [^ds]            1066                    Natural Sci.
-Elliott Sales de Andrade [^es] 960     Eng.            Physics
-Jens Hedegaard Nielsen [^jn]   856     Physics         Physics       Physics
-Nelle Varoquaux [^nv]          806     CS              Math          Comp. Biol.
----------------------          ------- --------------- ---------     ----
+                               Commits Bachelor's     Master's      PhD
+---------------------          ------- -------------- ---------     ---
+Thomas Caswell [^tc]           4309    Physics, Math  Physics       Physics
+Michael Droettboom [^md]       3918    CS, Music      Music
+John Hunter [^jdh]             2145    Politics                     Neurobiology
+Eric Firing [^ef]              1810    Earth Sci.                   Oceanography
+Antony Lee [^al]               1680                   Eng.          Physics
+Jody Klymak [^jk]              1073    Math, Physics  Oceaongraphy  Oceanography
+David Stansby [^ds]            1066                   Natural Sci.
+Elliott Sales de Andrade [^es] 960     Eng.           Physics
+Jens Hedegaard Nielsen [^jn]   856     Physics        Physics       Physics
+Nelle Varoquaux [^nv]          806     CS             Math          Comp. Biol.
+---------------------          ------- -------------- ---------     ---
 
 [^tc]: [Caswell's LinkedIn page](https://www.linkedin.com/in/tcaswell)
 [^md]: [Droettboom's LinkedIn page](https://www.linkedin.com/in/mdboom)
@@ -278,3 +358,170 @@ Nelle Varoquaux [^nv]          806     CS              Math          Comp. Biol.
 [^es]: [Sales de Andrade's ORCID page](https://orcid.org/0000-0001-7310-8942)
 [^jn]: [Nielsen's LinkedIn page](https://www.linkedin.com/in/jens-hedegaard-nielsen-16328151)
 [^nv]: [Varoquaux' LinkedIn page](https://www.linkedin.com/in/nelle-varoquaux-63250a34) and [BIDS biosketch](https://bids.berkeley.edu/people/nelle-varoquaux).
+
+Not many Matplotlib contributors have a computer science background.
+
+Droettboom [^md] has a double major in music and computer science, and a
+masters in music / computer music research.  It is difficult to tell if he had
+specific interest in software engineering or algorithms.
+
+Varoquaux [^nv] has a bachelor's in CS, but has since worked in math and
+science.
+
+## Pandas
+
+Pandas is the fundamental library for most data science tasks. 
+
+I have not analyzed the top contributors.  Here is a short early history.
+
+Wes McKinney created Pandas:
+
+> I studied theoretical mathematics at MIT (graduating in late 2006) ...
+>
+> From August 2007 to July 2010, I worked on the front office quant research
+> team at AQR Capital Management ... I started building pandas on April 6,
+> 2008, as part of a skunkworks effort to reproduce some econometric research
+> in Python. (from [McKinney's blog bio](https://wesmckinney.com/pages/about.html))
+
+He gives more detail in a
+[podcast](https://www.pythonpodcast.com/wes-mckinney-python-for-data-analysis-episode-203)
+
+> I have a mathematics background and I didn't do a lot of programming in the
+> past.  .... I really didn't start programming until much later in life
+> because I realized at some point that I needed to program in order to be useful.
+> In my first job in AQR capital management ... I was struck by how difficult it was
+> to go about very basic data analysis problems. ...  it felt that there was a
+> disconnect between ability of your mind and your brain to think about what
+> you want do with the data and the actual tools to do what you want. ... I got
+> really interested in building tools for myself to be more productive.
+
+## IPython / Jupyter
+
+[Fernando Pérez](http://fperez.org/personal.html) created IPython in 2001.
+IPython gradually developed into Jupyter, the widely used interactive notebook.
+
+From the website above, Fernando gives his biography as:
+
+> I was born in Medellín, Colombia, where I did my undergraduate studies in
+> Physics at the Universidad de Antioquia. From there I moved to Boulder,
+> Colorado, where I completed my PhD in particle physics, before spending a few
+> years as a post-doc in Applied Mathematics. In 2008 I moved to the San
+> Francisco Bay Area, where I now work at UC Berkeley, on research involving
+> algorithms and tool development in neuroimaging.
+
+He is now a professor of statistics at UC Berkeley.
+
+Fernando wrote a [history of IPython and the
+Notebook](http://blog.fperez.org/2012/01/ipython-notebook-historical.html).
+The quotes in this section are from that blog post, unless I list another
+source.
+
+> Let's go back to the beginning: when I started IPython in late 2001, I was a
+> graduate student in physics at CU Boulder. ...
+> ... the natural flow of scientific computing pretty much mandates a solid
+> interactive environment, so while other Python users and developers may like
+> having occasional access to interactive facilities, scientists more or less
+> demand them. ...
+> We continued slowly working on IPython, ... By that point Brian Granger and
+> Min Ragan-Kelley had come on board.
+
+[Ragan-Kelley](https://us.pycon.org/2017/speaker/profile/2091) has a "PhD in
+Applied Science & Technology, with an emphasis in computational plasma
+physics".  [Granger](https://www.linkedin.com/in/brian-granger-b9998662) has a
+bachelor's in Engineering Physics, and PhD in Physics. At the time he joined
+IPython, in [2004](https://ipython.org/_static/sloangrant/sloan-grant.html), he
+was an assistant professor in Physics.
+
+> This is where early 2010 found us ...  I read an article about [the messaging
+> library] ZeroMQ ...  It became clear that we had the right tools to build a
+> two-process implementation of IPython that could give us the 'real IPython'
+> but communicating with a different frontend, and this is precisely what we
+> wanted for cleaner parallel computing, multiprocess clients and a notebook.
+> ...
+> In October 2010 James Gao (a Berkeley neuroscience graduate student) wrote up
+> a quick prototype of a web notebook, demonstrating again that this design
+> really worked well and could be easily used by a completely different client.
+> ...
+> And finally, in the summer of 2011 Brian took James' prototype and built up a
+> fully working system.
+
+[A 2012 grant
+application](https://ipython.org/_static/sloangrant/sloan-grant.html) describes
+the process by which Pérez, Granger and Kelley trained themselves as
+developers:
+
+> While we were all trained as physicists without any software engineering
+> education, in our interaction with the world of open source developers we
+> have learned and adopted rigorous software engineering practices that we
+> follow to ensure IPython remains a robust and high-quality project even as it
+> grows.
+
+## Statsmodels
+
+These are notes for the early history of the Statmodels project.
+
+Skipper Seabold [^ss] started Statsmodels proper, as a [Google Summer of Code
+project](https://scipystats.blogspot.com/2009/04/getting-started-with-gsoc-and-scipy.html),
+in collaboration with Josef Perktold [^jp].
+
+[^ss]: [Seabold's LinkedIn page](https://www.linkedin.com/in/skipper-seabold-91191774)
+[^jp]: [Perktolds's LinkedIn page](https://www.linkedin.com/in/josef-perktold-josef-pktd-9a23b316)
+
+[Seabold was interviewed in a recent
+podcast](https://www.datacamp.com/community/blog/credibility-crisis-in-data-science):
+
+> My background, my major up until my last year of undergrad was poetry
+> writing. So I could not have been further from math and data science and
+> programming. I switched over to studying economics. Ended up going to grad
+> school for econ. Really liked econometrics, anyway, we got into our math econ
+> kind of boot camp and first math econ class and it was taught in Python. ...
+> It really helped solidify the stuff I was working on. I felt like I didn't
+> really understand it until I could code it. And once I could code it I was
+> like, " Oh sure I totally understand this and now can program and speak
+> confidently about it I guess."
+> ...
+> I jumped in, and the thing that was really helpful was there was a problem
+> out there that I needed to solve. I needed to be able to run an OLS
+> regression, get the results out of the regression in a way that was easily
+> understandable, build a user interface. I didn't know the first thing about
+> programming, but I had some good and patient mentors and kind of
+> co-developers along the way. I learned a ton from the open source community.
+> Just by kind of, honestly, failing in public, flailing in public, making
+> poor requests and having people take the time out of their day to spend
+> hours reading your code and suggest how to be a better programmer.
+
+From the [Statsmodels Scipy conference
+paper](https://conference.scipy.org/proceedings/scipy2010/pdfs/seabold.pdf) by
+Seabold and Perktold:
+
+> ... statsmodels was started by Jonathan Taylor, a statistician now at
+> Stanford, as part of SciPy under the name *models*.  Eventually, *models* was
+> removed from SciPy and became part of the NIPY neuroimaging project in order
+> to mature. Improving the models code was later accepted as a SciPy-focused
+> project for the Google Summer of Code 2009 and again in 2010.  It is
+> currently distributed as a SciKit, or add-on package for SciPy.  The current
+> main developers of statsmodels are trained as economists with a background in
+> econometrics.
+
+Taylor wrote the original code to implement analysis of brain imaging data.
+
+Perktold [^jp] is an economist.  He has a PhD in economics.
+
+## Conclusion
+
+In very brief summary, the histories of the various projects here are striking
+in the clarity with which they describe the process where practitioners start
+with an analysis problem, then building the solution.  I would say they give
+very strong evidence for the Practitioner Build model.
+
+The analysis of contributor backgrounds is a little more ambiguous.  There are
+some major contributors, particularly in Scipy, that do have a strong prior
+background in software engineering.  The large majority of top contributors,
+and project founders, did not have this background.  A background in physical
+sciences is common, but there are many contributors with a math background.
+
+Overall, these data give strong preference for the Practitioner Builder model.
+Unless something has changed, we have a difficult problem, in trying to support
+the practitioners who will build the next generation of libraries.  If these
+histories are still typical, by the time we find them, most of the work will
+have been done.

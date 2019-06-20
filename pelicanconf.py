@@ -137,3 +137,11 @@ IPYNB_PREPROCESSORS = [HideInputs]
 sys.path.append(pjoin('plugins', 'pelican_pandoc_reader'))
 import pelican_pandoc_reader as pdr
 pdr.pandoc_fmt_map['pdc'] = 'markdown+footnotes'
+
+# For share_links. All-caps variables available in Jinja2 templates.
+# https://docs.getpelican.com/en/stable/themes.html
+MY_EMAIL = 'matthew.brett+blog@gmail.com'
+COMMENT_BODY = """\
+I will append your comment to the post.  Any format is OK, but Markdown works
+best for me.
+"""
