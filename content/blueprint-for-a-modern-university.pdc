@@ -133,13 +133,12 @@ a three-fold increase for someone working on their own.
 
 Using these techniques is not advanced, it is where the students should start.
 We have taught these techniques to statistics and other undergraduates, in
-Berkeley.  [Our
-course](https://www.frontiersin.org/articles/10.3389/fnins.2018.00727) started
-with the basics of Python programming, then introduced the techniques they
-would need for working together, such as version control, and testing.  We gave
-them a big, difficult, open-ended group project to do. It had to be
-reproducible, so we, their graders, could take their project repository (hosted
-on [Github](https://github.com)), and follow their instructions, in a `README`
+Berkeley [@millman2018rcsds].  Our course started with the basics of Python
+programming, then introduced the techniques they would need for working
+together, such as version control, and testing.  We gave them a big, difficult,
+open-ended group project to do. It had to be reproducible, so we, their
+graders, could take their project repository (hosted on
+[Github](https://github.com)), and follow their instructions, in a `README`
 file, to reproduce all of their analysis, and build their final report,
 including the figures.   If you read the paper, I hope you will agree, that
 they did this with great success.
