@@ -100,8 +100,9 @@ organization.  There is very little chance that the work will be reproducible,
 even by the same researcher, after a few weeks, and little chance that a mentor
 will be able to check the work for error.
 
-This model is, of course, monstrously inefficient, confusing, and error prone.  It
-makes collaboration very difficult.  It is difficult to overestimate the tendency of computers to confuse and distract.
+This model is, of course, monstrously inefficient, confusing, and error prone.
+It makes collaboration very difficult.  It is easy to underestimate the
+tendency of computers to confuse and distract.
 
 Meanwhile, programmers in industry have found these same problems, and they
 learned quickly that they couldn't do efficient work without changing their
