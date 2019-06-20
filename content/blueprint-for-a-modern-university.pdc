@@ -82,23 +82,23 @@ conclusion".
 Working in collaboration on data analysis and other scientific projects is very
 difficult, and we currently do that very badly.  We need to teach our students
 to start with sound, efficient practice, and keep teaching them with this same
-practice, to reinforce and extend their training.
+practice, so it becomes natural for them to use it for all new problems.
 
 Science as currently practiced, and taught, uses what I would call an *artisan*
 working process, or at least, that is the polite name for it.  A less polite
 description might be *sloppy, informal and inefficient*.   Our current model is
 that of the skilled but largely self-taught craftsman, from before the
-industrial revolution.  The task is so specialized and arcane, that the only
-way of learning is to copy the techniques they see during their apprenticeship.
-They will apply and extend these when they practice independently.  In science,
-the apprenticeship is working as a graduate student or post-doc.   Scientists
-mostly work alone. The large proportion of scientists who use a significant
-amount of computing, have disorganized, informal working practice, passing
-around scripts and Word documents via email or via shared drives.  It is very
-hard to share work, because each researcher has their own habits of analysis,
-coding, and data organization.  There is very little chance that the work will
-be reproducible, even by the same researcher, after a few weeks, and little
-chance that a mentor will be able to check the work for error.
+industrial revolution.  The process is so specialized, variable and arcane,
+that the only way to learn is for the student to copy the techniques they see
+during their apprenticeship. In science, the apprenticeship is working as
+a graduate student or post-doc.   Scientists mostly work alone. The large
+proportion of scientists who use a significant amount of computing, have
+disorganized, informal working practice, passing around scripts and Word
+documents via email or via shared drives.  It is very hard to share work,
+because each researcher has their own habits of analysis, coding, and data
+organization.  There is very little chance that the work will be reproducible,
+even by the same researcher, after a few weeks, and little chance that a mentor
+will be able to check the work for error.
 
 This model is, of course, monstrously inefficient, confusing, and error prone.  It
 makes collaboration very difficult.  It is difficult to overestimate the tendency of computers to confuse and distract.
