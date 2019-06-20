@@ -47,7 +47,7 @@ The course teaches programming (in Python) as the fundamental tool for
 analyzing data.   It spends a lot of time thinking about plotting, and about
 the nature of inference.  Because it uses a programming language, it can and
 does replace all classical statistical tests, such as t-tests, with equivalents
-that use resampling.  When the student knows some code, resampling is [much
+that use resampling.  When the student knows some code, resampling is much
 easier to explain than the classical statistical tests [@cobb2007introductory];
 the students can write the procedures for themselves, and fully understand all
 the steps, including the inference at the end.
