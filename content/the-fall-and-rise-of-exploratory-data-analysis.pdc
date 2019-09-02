@@ -1,0 +1,46 @@
+---
+Title: The fall and rise of exploratory data analysis
+Date: 2019-09-02 10:30
+Slug: the-fall-and-rise-of-exploratory-data-analysis
+Author: Matthew Brett
+bibliography: ["data-science-bib/data_science.bib", "blog.bib"]
+---
+
+"Exploratory data analysis" (EDA) [@tukey1977exploratory] is the term that John
+W. Tukey gave to the practice of exploring the data with visualizations and
+summaries. The careful data analyst should do EDA before going on to the more
+familiar mode of making statistical models, and testing them.
+
+I remember coming across these ideas when I was was a PhD student, in 1996.  I bought one of Tukey's books in a second hand bookshop.
+
+In retrospect, I hardly heard about EDA after that.  I didn't use it myself.
+
+I just came across a 2003 article [@curtis2003whatever] recording its quiet
+disappearance:
+
+> The purpose of this research was to analyze recent statistics textbooks in
+> the behavioral sciences in terms of their coverage of exploratory data
+> analysis (EDA) philosophy and techniques. Twenty popular texts were analyzed.
+> EDA philosophy was not addressed in the vast majority of texts. Only three
+> texts had an entire chapter on EDA. None of the authors used the term
+> "confirmatory factor analysis" or discussed model building or
+> cross-validation. Seven texts contained references to published work by
+> Tukey, but these references were mainly for specific techniques, most
+> typically the stem-and-leaf display and box-and-whiskers plot, which were
+> presented in 15 and 9 texts respectively. The paper ends with recommendations
+> for integrating EDA into the fields of psychology and education.
+
+EDA has now made a triumphant return, as part of "data science".  As one
+example, see the introduction to [R for data
+science](https://r4ds.had.co.nz/introduction.html).
+
+I find this interesting, as part of the pattern that Donoho describes
+[@donoho201550], of the tendency for academic statistics departments to study on
+clever and satisfying mathematical models, instead of practical techniques for
+data analysis.
+
+Perhaps EDA was too hard to teach, or even too hard to do, before we learned
+that [data analysis must use
+coding](https://matthew-brett.github.io/dsfe/chapters/01/what-is-data-science).
+
+### References
