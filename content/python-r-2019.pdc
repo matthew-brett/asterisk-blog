@@ -24,8 +24,12 @@ In summary:
 
 Oddly, neither Matlab nor Julia features on any list I could see.  From the
 introduction, the survey is putting some effort into being more "welcoming,
-inclusive, and diverse"; maybe the change in results corresponds to a change in
-the sample.  I'll have a look at the full database, when they release it.
+inclusive, and diverse"; maybe the change in results corresponds to a change
+in the sample.  I'll have a look at the full database, when they release it.
+
+**Update**; now I look at the [released
+files](https://insights.stackoverflow.com/survey), neither Matlab nor Julia
+appears as an option for any question in 2019.
 
 The table shows the positions of each language in the descending ordered list
 for each category.  There are 25 languages in each list. If the language does
