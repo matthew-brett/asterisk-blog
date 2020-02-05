@@ -1,0 +1,53 @@
+---
+Title: Data science tools over time
+Date: 2020-02-05 10:46
+Slug: data-science-tools-over-time
+Author: Matthew Brett
+Category: teaching
+---
+
+It looks as though Python is starting to dominate as the data science language
+of choice.
+
+I started small research on this after a friend pointed me to [this blog post
+about trends in data science
+languages](https://www.datacareer.ch/blog/success-of-python-and-r-evidence-from-google-trends).
+
+The blog post is from March 2018; here is some more recent data, as of February
+2020.
+
+This is the result of my search of [Google
+Trends](https://trends.google.com/trends) for various programming languages
+combined with "data science".  The graph units are as a percentage of the highest value from any of the included searches.
+
+![](images/google_trends_python_etc.png)
+
+Here are some matching [Stack Overflow
+trends](https://insights.stackoverflow.com/trends).  I added a search term for
+the [Pandas](https://pandas.pydata.org) data science library for Python.  The
+Stack Overflow trends are for single search terms, not in combination with "data
+science".  For example, the Python trend line includes questions for all uses
+of Python, including web development and games.  I didn't know how to do the
+combined search, but if you do, please let me know.
+
+The plots show that R and Python were growing at a similar proportional rate up
+until around the end of 2016.  After that, R's "data science" Google search
+flattens, and its Stack Overflow question proportion continues to grow until
+2018, when it appears to flatten.   Around the same time, Python appears to
+increase its growth rate.  By the beginning of 2020, there are more than twice
+as many Google searches for Python and "data science" as there are for R and
+"data science".  On Stack Overflow, the proportion of questions about Pandas --
+a single Python library --- gets close to the proportion for all R language
+questions.
+
+Google trends shows that languages such as Java, Matlab and SPSS are distant
+also-rans for searches with "data science".
+
+For some reason, Matlab questions on Stack Overflow peak in 2015, and start to
+drop thereafter, so there are many more questions about Pandas -- the library
+-- than there are for Matlab -- the language.
+
+Both Python and Java are very widely used languages in other domains, but Java
+questions on Stack Overflow have been steadily decreasing since around 2015,
+while Python questions have been steadily growing, overtaking Java questions
+around the beginning of 2017.
