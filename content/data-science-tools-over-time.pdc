@@ -30,6 +30,8 @@ science".  For example, the Python trend line includes questions for all uses
 of Python, including web development and games.  I didn't know how to do the
 combined search, but if you do, please let me know.
 
+![](images/so_trends_python_etc.png)
+
 The plots show that R and Python were growing at a similar proportional rate up
 until around the end of 2016.  After that, R's "data science" Google search
 flattens, and its Stack Overflow question proportion continues to grow until
