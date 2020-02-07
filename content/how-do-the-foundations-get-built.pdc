@@ -60,13 +60,13 @@ earthquakes, global climate change or nuclear reactions".  The message I took
 from the paper was that Software Experts often suggest solutions that
 Practitioners will not use, often with good reason:
 
-> We aim here to distill our experience about how software engineers how
-> software engineers can productively engage the HPC community.  Several SE
-> [Software Engineer] practices general considered good ideas in other
-> development environments are quite mismatched to the HSP community's needs.
-> For SE researchers, the keys to successful interactions include a health
-> sense of humility and the avoidance of assumptions that SE expertise applies
-> equally in all contexts.
+> Our aim in this paper is to distill our experience about how software
+> engineers can productively engage the HPC community. Several software
+> engineering practices generally considered good ideas in other development
+> environments are quite mismatched to the needs of the HPC community. We found
+> that keys to successful interactions include a healthy sense of humility on
+> the part of software engineering researchers and the avoidance of assumptions
+> that software engineering expertise applies equally in all contexts.
 
 ## Why it matters
 
@@ -477,7 +477,7 @@ podcast](https://www.datacamp.com/community/blog/credibility-crisis-in-data-scie
 > kind of boot camp and first math econ class and it was taught in Python. ...
 > It really helped solidify the stuff I was working on. I felt like I didn't
 > really understand it until I could code it. And once I could code it I was
-> like, " Oh sure I totally understand this and now can program and speak
+> like, "Oh sure I totally understand this and now can program and speak
 > confidently about it I guess."
 > ...
 > I jumped in, and the thing that was really helpful was there was a problem
@@ -487,7 +487,7 @@ podcast](https://www.datacamp.com/community/blog/credibility-crisis-in-data-scie
 > programming, but I had some good and patient mentors and kind of
 > co-developers along the way. I learned a ton from the open source community.
 > Just by kind of, honestly, failing in public, flailing in public, making
-> poor requests and having people take the time out of their day to spend
+> pull requests and having people take the time out of their day to spend
 > hours reading your code and suggest how to be a better programmer.
 
 From the [Statsmodels Scipy conference
@@ -511,8 +511,8 @@ Perktold [^jp] is an economist.  He has a PhD in economics.
 
 In very brief summary, the histories of the various projects here are striking
 in the clarity with which they describe the process where practitioners start
-with an analysis problem, then building the solution.  I would say they give
-very strong evidence for the Practitioner Build model.
+with an analysis problem, then build the solution.  I would say they give very
+strong evidence for the Practitioner Build model.
 
 The analysis of contributor backgrounds is a little more ambiguous.  There are
 some major contributors, particularly in Scipy, that do have a strong prior
