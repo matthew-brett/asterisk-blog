@@ -72,32 +72,9 @@ There's a copy of `julia_commits_2020-02.csv` in
 commits = pd.read_csv('downloads/julia_commits_2020-02.csv', sep='&')
 ```
 
-The first figure is the cumulative plot of the number of
-commits, by committer number, where the committer numbers give the order or
-each committer in terms of number of commits.  Committers with more commits
-have lower committer numbers. The plot shows that a few committers have made
-the large majority of commits, but there is a reasonably large number of
-contributors.
+The previous post had a plot of contributors ordered by their number of commits against the cumulative number of commits, as an index of breadth of contribution.  See that post for code to replicate that plot with the data here.  It has not changed much since April 2019.
 
-```{python echo=FALSE, tags=c("remove_input")}
-commiters = Counter(commits['name'])
-commiter_number = list(range(len(commiters) + 1))
-c_count = list(commiters.values())
-cum_commits = np.r_[[0], np.cumsum(sorted(c_count, reverse=True))]
-
-fig, ax = plt.subplots()
-ax.step(commiter_number, cum_commits, where='post', color='k', lw=5)
-ax.tick_params(axis='y', direction='out')
-ax.tick_params(axis='x', direction='out')
-ax.set_xlim([0, max(commiter_number)])
-ax.set_ylim([0, np.sum(c_count)])
-ax.set_ylabel('cumulative commits')
-ax.set_xlabel('commiter #')
-ax.set_title("{} unique contributors from 2013-01-01 ".
-             format(max(commiter_number)-1));
-```
-
-Next plot the number of commits and number of committers per week:
+The next figure is a plot of the number of commits and number of committers per week:
 
 ```{python echo=FALSE, tags=c("remove_input")}
 def stats_plotter(ax, left_edges, unq_by_week, col, ylabel):
@@ -128,9 +105,7 @@ ax1.set_xlim((dt.datetime(2013, 1, 1), dt.datetime(2020, 2, 7)))
 fig.autofmt_xdate()
 ```
 
-These plots continue to suggest that Julia development has been burning along
-at a fairly constant rate, until 2018, when the development rate falls, apart
-from a burst before the August 2018 release of version 1.0.
+These plots continue to suggest that Julia development has fallen off to a steady rate of around 40 commits per week since the [first release in August 2018](https://julialang.org/blog/2018/08/one-point-zero).
 
 ## Percentage of all Github pull requests
 
@@ -157,37 +132,22 @@ The PR numbers for Julia continue to look rather like the commit plot for the
 Julia language repository, and suggest that relative activity dropped off in
 2018, compared to 2017.
 
-Here are the values for Python, R and Julia for the 18 months:
+Here are the values for Python, R and Julia for the last two years:
 
 ```{python echo=FALSE, tags=c("remove_input")}
-julia_prs.head(6)[['Python', 'R', 'Julia']]
-```
-
-This is the matching plot of PR proportions for Python.  Note the values on the
-y axis.
-
-```{python echo=FALSE, tags=c("remove_input")}
-julia_prs.plot(y='Python', use_index=True)
-plt.title("Python PRs as percentage of all Github PRs")
-plt.ylabel('Percentage of all Github PRs')
-plt.ylim(0);
+julia_prs.head(4)[['Python', 'R', 'Julia']]
 ```
 
 ## TIOBE language index
 
-See the previous post for an introduction to the TIOBE index.
-
-I recovered the TIOBE index for Julia for each month from January 2017 to
-February 2020, using the archived versions of
-<https://www.tiobe.com/tiobe-index>, from <https://archive.org>.
+See the previous post for an introduction to the TIOBE index.  The values here come from <https://archive.org> copies of
+<https://www.tiobe.com/tiobe-index>.
 
 The data file with the index values is
 [downloads/julia_tiobe_2020-02.csv](../downloads/julia_tiobe_2020-02.csv).
 
 Some values were below the reporting threshold for the TIOBE index, in which
 case I gave Julia the index value for the lowest language that was reported.
-This will be a slight overestimate of Julia's value.  I've marked these
-below-threshold values with orange dots.
 
 ```{python echo=FALSE, tags=c("remove_input")}
 julia_tiobe = pd.read_csv('downloads/julia_tiobe_2020-02.csv')
@@ -244,14 +204,6 @@ percentage of Stack Overflow questions on Julia:
 
 ![SO Julia](images/so_julia_2020-02.png)
 
-There is a spike in late 2018, perhaps corresponding to the first release, and another apparent spike in mid-late 2019, but the overall pattern over the last few years could be steady growth of around 0.01% per year.
-
-You can run that query on current data with [this
-URL](https://insights.stackoverflow.com/trends?tags=julia-lang).
-
-Here are the results from the equivalent query for R and Python:
+The overall pattern over the last few years could be steady growth of around 0.01% per year.  By contrast, Python appears to be growing at around 1% per year:
 
 ![SO R Python](images/so_r_python_2020-02.png)
-
-This is the matching [query
-URL](https://insights.stackoverflow.com/trends?tags=r%2Cpython)
