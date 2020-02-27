@@ -8,11 +8,11 @@ Category: teaching
 
 This page tracks the changes in popularity of the Matlab and Python programming languages.
 
-One difficulty in comparing these languages is that Python has wide use
-outside science and data analysis.  For example it is widely used in web
-programming.  However, it look as if the recent growth in Python has been
-driven by its use in data analysis - see [Why is Python growing so
-quickly/](https://stackoverflow.blog/2017/09/14/python-growing-quickly). The
+One difficulty in comparing these languages is that Python is versatile, and
+has many uses outside science and data analysis.  For example, it is widely
+used in web programming.  However, it seems that recent growth in Python has
+been driven by its use in data analysis - see [Why is Python growing so
+quickly](https://stackoverflow.blog/2017/09/14/python-growing-quickly). The
 following is a quote from that page:
 
 > These analyses suggest two conclusions. First, the fastest-growing use of
@@ -86,7 +86,7 @@ than there are about Matlab, the language.
 
 ## Popularity of Programming Languages site
 
-This graphic is a screen shot from the [PopularitY of Programming Languages]() website:
+This graphic is a screen shot from the [PopularitY of Programming Languages](https://pypl.github.io/PYPL.html) website:
 
 ![](images/pypl_java_matlab_python_r.png)
 

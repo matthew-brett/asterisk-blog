@@ -212,7 +212,8 @@ By contrast, Python appears to be growing at around 1% per year:
 ![SO R Python](images/so_r_python_2020-02.png)
 
 
-This graphic is a screen shot from the [PopularitY of Programming Languages]() website:
+This graphic is a screen shot from the [PopularitY of Programming
+Languages](http://pypl.github.io/PYPL.html) website:
 
 ![](images/pypl_2020-02.png)
 
