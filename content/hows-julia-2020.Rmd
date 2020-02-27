@@ -38,9 +38,9 @@ growing quickly.
 
 ## Health of the Julia repository
 
-This is an update on the health of the code repository for the language itself.
-That repository has the code for the base Julia language and its standard
-libraries.  Foo.
+This is an update on the health of the code repository for the language
+itself. That repository has the code for the base Julia language and its
+standard libraries.
 
 ```{python echo=FALSE}
 from collections import Counter
