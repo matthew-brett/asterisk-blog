@@ -1,3 +1,4 @@
+
 ---
 Title: The XFree / X.Org fork and open source governance
 Date: 2013-06-25 16:00
@@ -431,7 +432,7 @@ Packard explained his reasons for acting in a Linux Weekly News interview
 In August
 [xouvert.org](http://web.archive.org/web/20030819010029/http://www.xouvert.org/)
 announced a fork of the XFree86 project. Xouvert did a first release in
-December 2003, but the main XFree96 developers were not involved, and the
+December 2003, but the main XFree86 developers were not involved, and the
 project slowed and folded relatively quickly thereafter ([^osnews-x-marks]).
 
 [^osnews-x-marks]: <http://www.osnews.com/story/6157/X_Marks_the_Spot_Looking_back_at_X11_Developments_of_Past_Year/page2/>
@@ -603,7 +604,7 @@ The announcement quotes Jim Gettys:
 > System under governance open to all contributors for the first time since
 > the founding of the X Consortium in 1988.
 
-Among other endorsements in that announcment, Branden Robinson of Debian
+Among other endorsements in that announcement, Branden Robinson of Debian
 writes:
 
 > We're also delighted that the X.Org Foundation is dedicated to retaining the
