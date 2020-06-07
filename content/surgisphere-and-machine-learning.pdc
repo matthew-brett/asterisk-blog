@@ -1,0 +1,59 @@
+---
+Title: Immediate dangers from credulity about artificial intelligence.
+Date: 2020-06-07 15:20
+Slug: surgisphere-machine-learning
+Author: Matthew Brett
+Category: data science
+---
+
+[Surgisphere](https://en.wikipedia.org/wiki/Surgisphere) is the company that
+provided the data to two major COVID-19 papers, that were later retracted.
+
+The [most shocking of the two
+retractions](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736\(20\)31324-6/fulltext)
+was of a
+[paper](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736\(20\)31180-6/fulltext)
+that appeared to show that patients taking chloroquine and hydroxychloroquine
+for COVID-19 were at a greater risk of death. On the basis of this paper, the
+World Health Organization stopped ongoing clinical trials.  As the retraction
+and the Wikipedia page describe, [many
+scientists](https://zenodo.org/record/3862789#.Xtz638bTV0v) quickly found
+aspects of the reported data that were implausible.  Surgisphere would not
+release the data for an independent audit, so the authors not employed by
+Surgisphere retracted the paper.
+
+One of the problems with the Surgisphere data was that it was difficult to see
+how a company that appeared to have [less than 12
+employees](https://www.theguardian.com/world/2020/jun/03/covid-19-surgisphere-who-world-health-organization-hydroxychloroquine),
+could possibly have gained access to clinical data from a significant
+proportion of hospitals across the world.  Even if they had got such access,
+how had they dealt with the huge problems the rest of us have with low quality
+and coding mismatch that are typical of digital data in healthcare, even from
+sophisticated hospitals?
+
+The answer, of course, was "advanced machine learning" and "artificial
+intelligence", for which the company had apparently [won an
+award](https://www.prnewswire.com/news-releases/quartzclinical-wins-frost-and-sullivan-best-practices-award-300792202.html)
+from a company called [Frost and
+Sullivan](https://en.wikipedia.org/wiki/Frost_%26_Sullivan):
+
+> [Surgisphere's] QuartzClinical cloud-based healthcare data analytics platform
+> was awarded the 2019 Frost and Sullivan Best Practices Award. Earning first
+> place in the Machine Learning-Powered Data Analytics category, QuartzClinical
+> was recognized for its innovative use of big data, advanced machine learning,
+> and proven real-world applications.
+
+In [their report, Frost and
+Sullivan](https://www.quartzclinical.com/best-practices-award) say:
+
+> QuartzClinical’s combination of machine learning technology, artificial
+> intelligence, and precision analytics can provide results quickly.
+>
+> ...
+>
+> Frost & Sullivan’s market research finds that Surgisphere’s QuartzClinical
+> healthcare data analytics platform connects all data together through its
+> artificial intelligence and machine learning engines so that healthcare
+> organization can make better decisions using benchmark analysis of staff
+> performance. The level 5 machine learning capability will help Surgisphere’s
+> platform enter the healthcare industry mainstream in the short term.
