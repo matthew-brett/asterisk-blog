@@ -1,0 +1,21 @@
+---
+Title: Code is for people
+Date: 2020-06-07 18:47
+Slug: code-is-for-people
+Author: Matthew Brett
+Category: data science
+---
+
+[Guido van Rossum](https://en.wikipedia.org/wiki/Guido_van_Rossum) gave
+[something like a TED
+talk](http://neopythonic.blogspot.com/2016/04/kings-day-speech.html) on the
+history of Python.  He explains why it is so important that code is easy to
+read and understand:
+
+> Typically when you ask a programmer to explain to a lay person what a
+> programming language is, they will say that it is how you tell a computer
+> what to do. But if that was all, why would they be so passionate about
+> programming languages when they talk among themselves?
+>
+> In reality, programming languages are how programmers express and communicate
+> ideas — and the audience for those ideas is other programmers, not computers.
