@@ -1,0 +1,71 @@
+---
+Title: Mosteller and data science
+Date: 2020-07-14 12:30
+Slug: mosteller-and-data-science
+Author: Matthew Brett
+Category: data science
+---
+
+While chasing down a reference, I came across this paper:
+
+> David S. Moore (1993) "A Generation of Statistics Education: An Interview
+> with Frederick Mosteller", Journal of Statistics Education, 1:1, DOI:
+> [10.1080/10691898.1993.11910453](https://doi.org/10.1080/10691898.1993.11910453)
+
+It is an interview with [Frederick
+Mosteller](https://en.wikipedia.org/wiki/Frederick_Mosteller) from the end of
+1992.
+
+The contents is particularly interesting in contrast to the path that led me to
+it.  With some friends, I'm in the process of rewriting a [statistics
+textbook](http://www.resample.com/intro-text-online) The book cites Mosteller's
+famous introductory textbook:
+
+> Frederick Mosteller, R. E. K. Rourke, and G. B. Thomas, Jr. (1970)
+> "Probability with Statistical Applications", Second edition. Addison-Wesley.
+
+I was interested in the textbook, because it takes the opposite approach to the
+one that I am tempted by.  Specifically, as the title implies, the book starts
+with the mathematics of probability and then goes on apply this mathematics to
+statistical problems.
+
+It turns out, Mosteller had changed his mind about the probability-first
+approach to introductory statistics:
+
+> The history of that [change in approach] is, of course, a little complicated.
+> I came to Harvard University in the Department of Social Relations. And there
+> I met many graduate students in anthropology, clinical and social psychology,
+> and sociology and came up against dozens and dozens of practical problems. At
+> the same time, I was also working with Dr. Henry Beecher, an anesthesiologist
+> at the Massachusetts General Hospital, on problems of anesthetics and
+> analgesics. Consequently, I was heavily data-oriented, both in the social and
+> medical sciences at that time, and I had had a great deal of experience in
+> data analysis during the war. I found that the students were really not very
+> interested in the logic of statistical analysis. They were eager to get their
+> hands on tools that would help them solve the problems that they had with
+> their doctoral or undergraduate dissertations. Most of them had concrete
+> problems, most of them had data problems, and they were eager to use
+> statistics to solve their own problems. They were not very interested in
+> knowing how somebody invented a statistical device, nor did they care to have
+> it proved to them personally that the method was appropriate or worked. They
+> were rather eager to get on with doing the analysis and trying to interpret
+> it, and then bringing it back to patients or theory of social science, or
+> anthropology, or whatever it might be.
+>
+> ...
+>
+> So, in the classroom as opposed to in the writing of the textbook you speak
+> of, I found that the students I was teaching didn't have much interest in the
+> underpinnings that we in math departments often found very valuable. So I got
+> to thinking that there might be a way to teach a course in statistics using
+> primarily data.
+
+There is a lovely sign-off to the interview:
+
+> [Interviewer] If I can be a bit unfair, let me put one concluding question. If
+> you had one short word of advice to offer to teachers of statistics less
+> experienced than yourself, what would it be?
+>
+> [Mosteller]: Be sure to keep plenty of concrete examples in your teaching.
+> And if you can hear a pin drop in your classroom, nobody's following the
+> lecture (laughter)
