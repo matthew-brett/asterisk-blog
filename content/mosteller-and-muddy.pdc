@@ -1,0 +1,44 @@
+---
+Title: Mosteller's classroom hint
+Date: 2020-07-14 12:30
+Slug: mosteller-and-muddy
+Author: Matthew Brett
+Category: teaching
+---
+
+This is a teaching suggestion I found in this paper:
+
+> David S. Moore (1993) "A Generation of Statistics Education: An Interview
+> with Frederick Mosteller", Journal of Statistics Education, 1:1, DOI:
+> [10.1080/10691898.1993.11910453](https://doi.org/10.1080/10691898.1993.11910453)
+
+I quoted from the paper in my [previous
+post]({filename}/mosteller-and-data-science.pdc).
+
+The suggestion is - ask the students what part of the lecture was "muddiest":
+
+> I learned that certain professors used a device which was called the “minute
+> paper.” The word “minute” expresses the idea that something is done in a very
+> short time. The idea of the professor who used it first was that he just
+> wanted to find out what the students wanted to know and what they were having
+> trouble with. So I thought that I would try it out. In the last 2 or 3
+> minutes of the class, I would ask the students to write down what was the
+> most important thing in the lesson and what they'd like to know more about.
+>
+> ...
+>
+> I said to the class “Now we've done this for a week, and [the resulting
+> feedback] seems pretty bland to me. What is the matter with it?” One student
+> said it was very simple: I wasn't getting any feedback because I was asking
+> them what was the most important point of the class and I'd already written
+> on the board at the beginning of class the four main points in the lecture. I
+> was not likely to get anything much different from what I wrote down, and
+> what the students wanted to know more about was bound to be more about how to
+> do whatever it was that we'd just done. I wasn't learning much from the
+> minute papers, so I was impressed by this remark. This kid had seen through
+> the whole process.
+>
+> So I said maybe we should have some other kind of question, like “What is the
+> muddiest point in the lecture?” The students erupted with applause, and from
+> then on that was the question at the end of the hour. We still also ask them
+> what they want to know more about.
