@@ -1,0 +1,18 @@
+---
+Title: Change programming
+Date: 2020-07-18 11:01
+Slug: change-programming
+Author: Matthew Brett
+Category: teaching
+bibliography: ["data-science-bib/data_science.bib", "blog.bib"]
+---
+
+[Donald Knuth](https://en.wikipedia.org/wiki/Donald_Knuth) on the central idea of [Literate Programming](https://en.wikipedia.org/wiki/Literate_programming):
+
+> Let us change our traditional attitude to the construction of programs:
+> Instead of imagining that our main task is to instruct a computer what to do,
+> let us concentrate rather on explaining to human beings what we want a
+> computer to do.
+
+This is the second paragraph of the introduction in Knuth's literate
+programming article: [@knuth1984literate].
