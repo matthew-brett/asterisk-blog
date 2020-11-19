@@ -4,7 +4,7 @@ Date: 2020-07-18 11:01
 Slug: change-programming
 Author: Matthew Brett
 Category: teaching
-bibliography: ["data-science-bib/data_science.bib", "blog.bib"]
+bibliography: data-science-bib/data_science.bib
 ---
 
 [Donald Knuth](https://en.wikipedia.org/wiki/Donald_Knuth) on the central idea of [Literate Programming](https://en.wikipedia.org/wiki/Literate_programming):
