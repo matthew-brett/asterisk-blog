@@ -77,7 +77,7 @@ PLUGINS = [
 
 PANDOC_ARGS = ['--no-highlight',  # use highlight.js instead
                '--section-divs',  # wrap heading-blocks with <section>
-               '--filter', 'pandoc-citeproc']
+               '--citeproc']
 
 SHOW_ARCHIVES = True
 ENABLE_MATHJAX = True
