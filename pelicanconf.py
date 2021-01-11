@@ -66,11 +66,11 @@ PLUGIN_PATHS = ['plugins/pelican_pandoc_reader',
 PLUGINS = [
     'summary',       # auto-summarizing articles
     'feed_summary',  # use summaries for RSS, not full articles
-    'ipynb.liquid',  # for embedding notebooks
     'liquid_tags.img',  # embedding images
     'liquid_tags.video',  # embedding videos
     'liquid_tags.include_code',  # including code blocks
     'liquid_tags.literal',
+    'ipynb.liquid',  # for embedding notebooks
     'pelican_pandoc_reader',
     'ipynb.markup'
 ]
