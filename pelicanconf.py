@@ -60,8 +60,10 @@ LOAD_CONTENT_CACHE = True
 CHECK_MODIFIED_METHOD = 'md5'
 CONTENT_CACHING_LAYER = 'reader'
 
+sys.path.append('plugins/pelican-plugins')
 PLUGIN_PATHS = ['plugins/pelican_pandoc_reader',
                 'plugins/pelican-plugins',
+                'plugins/ipynb',
                 'plugins']
 PLUGINS = [
     'summary',       # auto-summarizing articles
@@ -93,6 +95,10 @@ MARKUP = ['md', 'ipynb']
 IGNORE_FILES = ['.ipynb_checkpoints']
 IPYNB_NB_SAVE_AS = '{slug}.ipynb'
 # IPYNB_EXPORT_TEMPLATE = 'nbextensions'
+
+sys.path.append(pjoin('plugins', 'ipynb'))
+from pelican_jupyter import markup as nb_markup
+PLUGINS = [nb_markup]
 
 # for liquid tags
 CODE_DIR = 'downloads/code'
