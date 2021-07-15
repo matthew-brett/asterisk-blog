@@ -10,9 +10,6 @@
 [submodule "plugins/ipynb"]
 	path = plugins/ipynb
 	url = https://github.com/danielfrg/pelican-ipynb
-[submodule "theme/--force"]
-	path = theme/--force
-	url = https://github.com/Pelican-Elegant/elegant
 [submodule "theme/elegant"]
 	path = theme/elegant
 	url = https://github.com/Pelican-Elegant/elegant
