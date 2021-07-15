@@ -6,6 +6,7 @@ import sys
 from os.path import join as pjoin
 
 AUTHOR = 'Matthew Brett'
+AUTHORS = {AUTHOR: 'https://matthew.dynevor.org'}
 SITENAME = 'Asterisk'
 SITEURL = 'http://localhost:8000'
 
