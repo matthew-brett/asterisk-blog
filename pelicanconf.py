@@ -62,7 +62,7 @@ CHECK_MODIFIED_METHOD = 'md5'
 CONTENT_CACHING_LAYER = 'reader'
 
 sys.path.append('plugins/pelican-plugins')
-PLUGIN_PATHS = ['plugins/pelican_pandoc_reader',
+PLUGIN_PATHS = ['plugins/pelican_pandoc_reader/src',
                 'plugins/pelican-plugins',
                 'plugins/ipynb',
                 'plugins']
@@ -73,9 +73,7 @@ PLUGINS = [
     'liquid_tags.video',  # embedding videos
     'liquid_tags.include_code',  # including code blocks
     'liquid_tags.literal',
-    'ipynb.liquid',  # for embedding notebooks
     'pelican_pandoc_reader',
-    'ipynb.markup'
 ]
 
 PANDOC_ARGS = ['--no-highlight',  # use highlight.js instead
@@ -99,7 +97,7 @@ IPYNB_NB_SAVE_AS = '{slug}.ipynb'
 
 sys.path.append(pjoin('plugins', 'ipynb'))
 from pelican_jupyter import markup as nb_markup
-PLUGINS = [nb_markup]
+PLUGINS += [nb_markup]
 
 # for liquid tags
 CODE_DIR = 'downloads/code'
@@ -143,9 +141,7 @@ from hideinputs import HideInputs
 IPYNB_PREPROCESSORS = [HideInputs]
 
 # Set pandoc markdown flavor
-sys.path.append(pjoin('plugins', 'pelican_pandoc_reader'))
-import pelican_pandoc_reader as pdr
-pdr.pandoc_fmt_map['pdc'] = 'markdown+footnotes'
+PANDOC_FORMAT_MAP = {'pdc': 'markdown+footnotes'}
 
 # For share_links. All-caps variables available in Jinja2 templates.
 # https://docs.getpelican.com/en/stable/themes.html
