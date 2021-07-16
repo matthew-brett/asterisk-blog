@@ -143,7 +143,9 @@ from hideinputs import HideInputs
 IPYNB_PREPROCESSORS = [HideInputs]
 
 # Set pandoc markdown flavor
-PANDOC_FORMAT_MAP = {'pdc': 'markdown+footnotes'}
+sys.path.append(pjoin('plugins', 'pelican_pandoc_reader'))
+import pelican_pandoc_reader as pdr
+pdr.pandoc_fmt_map['pdc'] = 'markdown+footnotes'
 
 # For share_links. All-caps variables available in Jinja2 templates.
 # https://docs.getpelican.com/en/stable/themes.html
