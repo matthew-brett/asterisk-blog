@@ -164,7 +164,7 @@ hits](https://www.tiobe.com/tiobe-index/programming-languages-definition) for
 particular languages.
 
 The graph shows a moderate uptick in the Julia percent score from mid 2020.The
-latest percentages are are down around 0.4 from the peak of 0.7 at the end of
+latest percentages are down around 0.4 from the peak of 0.7 at the end of
 2020, and there's some suggestion from the month-to-month variation that the
 peak, and the subsequent moderate drop, are a little outside the noise.  It
 seems reasonble to conclude that there has been a moderate increase in web
