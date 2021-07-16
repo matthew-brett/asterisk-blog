@@ -178,7 +178,7 @@ rankings only list the top 20 languages, and Julia is not in the top 20. The
 [June 2020
 rankings](https://redmonk.com/sogrady/2020/07/27/language-rankings-6-20) note
 Julia at +0 change, but it's not clear where it was previously.  The [January
-2021] ratings](https://redmonk.com/sogrady/2021/03/01/language-rankings-1-21/)
+2021 ratings](https://redmonk.com/sogrady/2021/03/01/language-rankings-1-21/)
 don't mention Julia in the text.
 
 Some data for the Redmonk rankings come from [Stack Overflow
