@@ -150,3 +150,13 @@ COMMENT_BODY = """\
 I will append your comment to the post.  Any format is OK, but Markdown works
 best for me.
 """
+
+# https://github.com/danielfrg/pelican-jupyter/issues/126#issuecomment-745372454
+from pelican_jupyter import liquid as nb_liquid
+
+PLUGINS += [nb_liquid]
+
+# configuring notebook integration
+LIQUID_CONFIGS = (("IPYNB_FIX_CSS", "False", ""), 
+                  ("IPYNB_SKIP_CSS", "False", ""), 
+                  ("IPYNB_EXPORT_TEMPLATE", "base", ""),)
