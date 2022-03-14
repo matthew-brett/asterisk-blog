@@ -113,7 +113,7 @@ These are abbreviations I will use for the tables below:
 Eng.         Engineering
 Sci.         Science
 Sys.         Systems
-EE           Electrical Enginneering
+EE           Electrical Engineering
 EECS         Electrical Engineering and Computer Science
 CS           Computer Science
 C Sys. Eng.  Computer and Systems Engineering
@@ -150,7 +150,7 @@ Hugunin notes that Numeric "is based on Jim Fulton's original implementation of
 a matrix object as a container class."  He links to the [then-current list of
 Python extension
 modules](https://web.archive.org/web/19970606192854/http://www.python.org/workshops/1995-05/extModulesNotes.html)
-that contains a description of Fultons "Fortran Matrix extension".
+that contains a description of Fulton's "Fortran Matrix extension".
 
 These are the educational backgrounds of the Numpy founding fathers that
 Hugunin names above:
@@ -168,7 +168,7 @@ Konrad Hinsen [^kh] ?                                 Physics
 
 [^jh]: [Hugunin's LinkedIn page](https://www.linkedin.com/in/jimhugunin)
 [^jf]: [Fulton's LinkedIn page](https://www.linkedin.com/in/jimfulton)
-[^da]: [Ascher's LinkedIn page](https://github.com/rogual/neovim-dot-app)
+[^da]: [Ascher's LinkedIn page](https://www.linkedin.com/in/davidascher)
 [^pd]: [Dubois' web pages](http://pfdubois.com/bio.html)
 [^kh]: [Hinsen's Orchid page](https://orcid.org/0000-0003-0330-9428)
 
