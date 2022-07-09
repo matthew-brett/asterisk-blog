@@ -61,11 +61,12 @@ LOAD_CONTENT_CACHE = True
 CHECK_MODIFIED_METHOD = 'md5'
 CONTENT_CACHING_LAYER = 'reader'
 
-sys.path.append('plugins/pelican-plugins')
-PLUGIN_PATHS = ['plugins/pelican_pandoc_reader/src',
-                'plugins/pelican-plugins',
-                'plugins/ipynb',
-                'plugins']
+sys.path += ['plugins/pelican-plugins',
+             'plugins/pelican-plugins/tipue_search/pelican/plugins',
+             'plugins/pelican_pandoc_reader/src',
+             'plugins/pelican-plugins',
+             'plugins/ipynb',
+             'plugins']
 PLUGINS = [
     'summary',       # auto-summarizing articles
     'feed_summary',  # use summaries for RSS, not full articles
@@ -112,7 +113,7 @@ THEME = 'theme/elegant'
 TAG_SAVE_AS = ''
 AUTHOR_SAVE_AS = ''
 CATEGORY_SAVE_AS = ''
-STATIC_PATHS.append('theme/elegant/images')
+STATIC_PATHS.append('theme/images')
 PLUGINS += ['sitemap', 'extract_toc', 'tipue_search',
             'neighbors', 'assets', 'share_post']
 MARKDOWN = {

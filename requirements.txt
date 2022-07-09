@@ -3,9 +3,8 @@ beautifulsoup4
 markdown
 cssmin
 jupyter
-nbconvert
+nbconvert<6
 jupyter_contrib_nbextensions
 webassets
 # For pelican-pandoc-reader
 pypandoc
-pelican-search
