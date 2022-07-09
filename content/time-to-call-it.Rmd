@@ -17,15 +17,17 @@ jupyter:
     name: python3
 ---
 
-It's time to call it — I don't think the Julia language is going to make it into the data analysis mainstream.
+It's time to call it — I don't think the [Julia programming
+language](https://julialang.org) is going to make it into the data analysis
+mainstream.
 
-You'll see the evidence for this below.  In summary, there is now some
-evidence, particularly from Stack Overflow trends, and the Popularity of
-Programming Languages site, that Julia uptake has plateaued.
+You'll see more data on this below.  In summary, there is now some evidence,
+particularly from Stack Overflow trends, and the Popularity of Programming
+Languages site, that Julia uptake has plateaued.
 
 Some people hoped that Julia would be the One Language to Rule Them All, at
-least in science.  In order to get there, it need to have a plausible shot at
-competing with Python, and to do that, it would need to grow quickly.
+least in science.  In order to get there, it needed to have a plausible shot
+at competing with Python, and to do that, it would need to grow quickly.
 
 I think the data here says it isn't growing quickly.  I think Julia is not
 going to be able to compete with Python, and that it will remain a niche
@@ -48,8 +50,8 @@ some reasoned critiques:
 
 ## The data
 
-This is a further update from my previous two posts on uptake and activity for
-the [Julia programming language](https://julialang.org).
+This is a further update from my previous three posts on uptake and activity
+for the [Julia programming language](https://julialang.org).
 
 * [Julia in 2019]({filename}/hows-julia.ipynb);
 * [Julia in 2020]({filename}/hows-julia-2020.ipynb).
@@ -57,7 +59,8 @@ the [Julia programming language](https://julialang.org).
 
 As for the previous posts, the source for this document is a Jupyter Notebook:
 `time-to-call-it.ipynb` notebook. Get the notebook from [Github repository of
-this blog](https://github.com/matthew-brett/asterisk-blog).
+this blog](https://github.com/matthew-brett/asterisk-blog).  I've also plotted
+Julia's Google search trends.
 
 ## Summary
 
@@ -65,7 +68,7 @@ As for the previous posts, I collected time-series data from the Julia language
 repository commits, proportion of Github PRs, and two language ranking sites.
 
 * Web searches for Julia are flat and at a low level.
-* Commits on the main Julia repository have been flat since mid 2018.
+* Commits on the main Julia repository have been flat since mid 2019.
 * Julia commit percentages on Github have been flat since 2018.
 * TIOBE index scores have been hovering around the 0.5% level since mid
   2020 (compared to around 12% for Python).
@@ -76,14 +79,14 @@ repository commits, proportion of Github PRs, and two language ranking sites.
 * The Popularity of Programming Languages website has Julia at a fairly flat
   0.4% since mid 2020, compared to around 27% for Python.
 
-The subheading below mostly match those from the previous posts.  See those
+The subheadings below mostly match those from the previous posts.  See those
 posts for more detail on methods.
 
 ## Google search trends
 
 This is the [graph of worldwide Google searches](https://trends.google.com/trends/explore?date=all&q=%2Fm%2F0j3djl7,%2Fm%2F0212jm,%2Fm%2F0rphppq) for the *topics* Julia (programming language), R (programming language) and Pandas (software):
 
-![](image/google_trends_2022_07.png)
+![](images/google_trends_2022_07.png)
 
 ## Health of the Julia repository
 
