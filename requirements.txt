@@ -8,3 +8,7 @@ jupyter_contrib_nbextensions
 webassets
 # For pelican-pandoc-reader
 pypandoc
+# For notebooks
+pandas
+matplotlib
+jupytext
