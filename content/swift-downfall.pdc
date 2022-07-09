@@ -1,0 +1,39 @@
+---
+Title: Swift downfall
+Date: 2022-07-09 12:41
+Slug: swift-downfall
+Author: Matthew Brett
+Category: coding
+---
+
+A while ago, a friend pointed me to the [reasoned discussion at
+Google](https://github.com/tensorflow/swift/blob/main/docs/WhySwiftForTensorFlow.md)
+of their decision to switch development of their
+[TensorFlow](https://en.wikipedia.org/wiki/TensorFlow) machine-learning
+library from Python (with C++ and CUDA) to Swift.  The justification has date
+"April 2018".
+
+I remember thinking at the time that an important part of the decision was
+that many of the engineers knew Swift.  And that that probably wasn't going to
+be true for engineers outside that team.
+
+Today I found that Google has [already abandoned the Swift
+TenrsorFlow project](https://github.com/tensorflow/swift). An [article in
+InfoWorld](https://www.infoworld.com/article/3608151/swift-for-tensorflow-project-shuts-down.html)
+dates the shutdown to around February 2021, and that is also the date of the
+last commit to the Github repository linked above.  The [Github code-frequency
+plot](https://github.com/tensorflow/swift/graphs/code-frequency) suggests that
+the project was more or less dormant from April 2020.
+
+I found this interesting only because I was surprised that Google would be
+quick to abandon a decision that they appear to have taken carefully.
+
+Maybe related, [StackOverflow
+trends](https://insights.stackoverflow.com/trends?tags=pytorch%2Ctensorflow)
+shows Tensorflow discussion plateaued around the beginning of 2018, dropped in
+late 2019 and early 2020, and then started rising again from mid-2021.
+Meanwhile the other standard machine-learning library,
+[PyTorch](https://en.wikipedia.org/wiki/PyTorch), has seen a linear rise since
+its release in late 2016.
+
+![](images/so_trends_tf_pytorch.png)
