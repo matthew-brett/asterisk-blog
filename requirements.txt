@@ -8,3 +8,4 @@ jupyter_contrib_nbextensions
 webassets
 # For pelican-pandoc-reader
 pypandoc
+pelican-search

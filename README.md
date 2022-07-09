@@ -2,6 +2,13 @@
 
 Hosted at <http://asterisk.dynevor.org>.
 
+## Setup
+
+```
+brew install stork-search/stork-tap/stork
+python -m pip install -r requirements.txt
+```
+
 ## Pandoc markdown format for posts
 
 See `requirements.txt` and `pelicanconf.py`.  In `pelicanconf.py`:
