@@ -1,0 +1,120 @@
+---
+Title: Where do we disagree?
+Date: 2023-07-05 12:57
+Slug: where-do-we-disagree
+Author: Matthew Brett
+Status: draft
+Category: information
+---
+
+This is a question about debate in science.
+
+I'm not asking about *what* we disagree on, but if we do disagree, *where*
+should we disagree?
+
+Let's imagine that the scientific authorities have a strong policy that lacks
+good evidence, and might be harmful.
+
+For example, what if the [US Centers for Disease Control
+(CDC)](https://www.cdc.gov) come out strongly in favor of masks for the
+prevention of spread of Covid, despite weak to negative evidence of the
+effectiveness of masks? And what if there was some reason to think that
+masking children could cause harm?  Or what if the CDC had a very strong
+supportive policy on vaccines, to the extent that it failed to seriously
+investigate obvious and serious side-effects?
+
+Now let us say that a certain — perhaps large — proportion of the scientific
+publishing establishment strongly back the CDC, to the extent they will not
+publish articles that contradict the CDC.
+
+You might think — it's OK, if we want to argue our case, we can put our papers
+up on preprint servers, but you would be wrong, because, for example
+[MedRxiv](https://www.medrxiv.org/about/FAQ) has the explicit policy to reject
+articles that "challenge ... accepted public health measures and advice":
+
+> All articles are screened on submission for ... material that could potentially endanger the health of individual patients or the public. The latter may include, but is not limited to, studies describing dual-use research of concern and works that challenge or could compromise accepted public health measures and advice regarding infectious disease transmission, immunization, and therapy.
+
+OK, say you, we can submit to BioRxiv instead.  But no, it has an [identical
+policy forbidding disagreement with health
+authorities](https://www.biorxiv.org/about/FAQ).
+
+Sure, say you, but I can always submit to the original-and-best
+[arXiv](https://arxiv.org).  That has no such policy.  It only has this:
+
+> Submissions that do not contain original or substantive research, including
+undergraduate research, course projects, and research proposals, news, or
+information about political causes (even those with potential special interest
+to the academic community) may be declined. Papers that contain inflammatory
+or fictitious content (see also Code of Conduct), or papers that use highly
+dramatic and misrepresentative titles/abstracts/introductions may be declined.
+Papers in need of significant review and revision may also be declined.
+
+And — even better - the linked [Code of
+Conduct](https://info.arxiv.org/help/policies/code_of_conduct.html) has:
+
+> arXiv community members should uphold intellectual honesty and ethics based
+on community and academic standards when writing and handling scholarly works.
+We strive to be objective and transparent in our decisions about policies,
+standards, and practices.
+
+But in practice, there is good evidence that arXiv *does* block articles that
+"challenge ... accepted public health measures and advice", it's just that
+they don't do it in an "objective and transparent" way.
+
+First consider the experience of [John
+Ioannides](https://en.wikipedia.org/wiki/John_Ioannidis), one of the most
+highly-cited authors in medicine.  He
+[describes his experience](https://sensiblemed.substack.com/p/john-ioannidis-the-pandemic-as-of):
+
+> In December 2020 I wrote a paper where, based on mathematical modeling,
+I showed that once people started to increase their exposures again, vaccines
+with modest effectiveness in halting transmission would probably even lose all
+of their effectiveness for this outcome. medRxiv declined to post my paper as
+a preprint claiming it was dealing with a sensitive public health issue. arXiv
+also declined to post my paper as a preprint, the message I received was
+stunning: “Our moderators have determined that your submission is not of
+sufficient interest for inclusion within arXiv. The moderators have rejected
+your submission after examination, having determined that your article does
+not contain sufficient original or substantive scholarly research.”
+>
+> I sent an appeal and the reply was even more stunning: arXiv, a preprint server, offered to post my paper as a preprint only AFTER it had been published by a conventional peer-reviewed journal! I submitted the paper to SSRN and then it got published in npj Vaccines, the vaccines journal of Nature, several months later.
+
+[Norman Fenton](https://en.wikipedia.org/wiki/Norman_Fenton) [describes] [link
+TBA] having multiple papers critical of Covid statistical analysis being
+rejected both from MedRxiv, and from arXiv, all with vague "not interesting,
+wrong type of thing" reasons given, while all his non-Covid papers continued
+to be accepted.
+
+Now — here's the question.  What happens next time?   We already have ample
+evidence that the governments of the
+[US](https://thehill.com/policy/technology/3768087-former-nyt-columnist-bari-weiss-releases-twitter-files-part-two/)
+and
+[UK](https://www.gov.uk/government/publications/counter-disinformation-unit-open-source-information-collection-and-analysis-privacy-notice/counter-disinformation-unit-open-source-information-collection-and-analysis-privacy-notice),
+at least, specifically acted to suppress voices critical of lockdown policies.
+
+You might think — I would argue contrary to evidence — that masks are
+effective, lockdowns necessary and proportionate, and mRNA vaccines are of net
+health benefit for young men.  But even so, you would have to accept that
+there at least a *chance* that government health bodies will give strong but
+harmful advice, and there it is very likely that government bodies will again
+act to suppress scientific commentary and criticism.
+
+We can see that the current publishing models, including the preprint servers,
+have failed at the task of allowing open scientific debate of papers that (to
+quote the MedRxiv FAQ): "challenge or could compromise accepted public health
+measures and advice regarding infectious disease transmission, immunization,
+and therapy."
+
+I hope y'all agree that it would be dangerous error to take the same approach
+next time *even if you think the public health authorities were entirely
+correct on all counts, this time*.  But, if, like me, you think the
+authorities gave too-simple advice, often to the point of frank dishonesty,
+and then doubled-down when challenged, you will feel even more strongly.
+
+Assuming you agree we did not allow enough *scientific debate* this time
+— where will this discussion happen next time?  I mean, where will we go for
+careful measured debate, with argument and counter-argument?  Where would we
+go for real, open, public peer-review?
+
+And, what do we need to do, to prepare the ground for a publishing system that
+really applies science to the problem, rather than power?
