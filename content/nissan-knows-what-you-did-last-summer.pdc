@@ -1,0 +1,41 @@
+---
+Title: Nissan knows what you did last summer
+Date: 2024-01-01 12:45
+Slug: nissan-knows-what-you-did-last-summer
+Author: Matthew Brett
+Category: information
+---
+
+Following links from a [New York Times article on cars and
+privacy](https://www.nytimes.com/2023/12/31/technology/car-trackers-gps-abuse.html),
+I confirmed the surprising fact that [Nissan's December 20th 2023 USA privacy
+policy](https://web.archive.org/web/20231220153959/https://www.nissanusa.com/privacy.html)
+contains the following under the heading "Categories of information we collect
+and disclose":
+
+>  **Types of Personal Data collected** Sensitive personal information,
+including driver’s license number, national or state identification number,
+citizenship status, immigration status, race, national origin, religious or
+philosophical beliefs, sexual orientation, sexual activity, precise
+geolocation, health diagnosis data, and genetic information.
+
+They justify doing this in order
+
+> To provide connected vehicle services that might utilize or rely on
+geolocation data, facilitate more targeted marketing, as well as for internal
+reporting and analytics purposes, and for other purposes in the ordinary course
+of employment or the provision of other services according to the terms that
+govern those programs.
+
+Funnily enough, Nissan changed their policy wording on December 21st 2023,
+about a week before the New York Times article came out.  The policy [now
+restricts
+itself](https://web.archive.org/web/20231223210541/https://www.nissanusa.com/privacy.html)
+to:
+
+> Sensitive Personal Data, including driver’s license number, national or state
+identification number, citizenship status, immigration status, race, national
+origin, religious or philosophical beliefs, precise geolocation.
+
+So, Nissan is still proposing to share where you went, and what you believe,
+but they no longer admit to sharing when and whether you had sex in your car.
