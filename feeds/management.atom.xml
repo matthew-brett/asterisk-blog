@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Asterisk - management</title><link href="https://asterisk.dynevor.org/" rel="alternate"></link><link href="https://asterisk.dynevor.org/feeds/management.atom.xml" rel="self"></link><id>https://asterisk.dynevor.org/</id><updated>2022-07-08T17:45:00+01:00</updated><entry><title>Fumbling the future</title><link href="https://asterisk.dynevor.org/fumbling-the-future.html" rel="alternate"></link><published>2022-07-08T17:45:00+01:00</published><updated>2022-07-08T17:45:00+01:00</updated><author><name>Matthew Brett</name></author><id>tag:asterisk.dynevor.org,2022-07-08:/fumbling-the-future.html</id><summary type="html">&lt;p&gt;I recently bought and read “Fumbling the future: how Xerox invented,
+then ignored, the first personal computer”, by Douglas K. Smith and
+Robert C. Alexander (1988).&lt;/p&gt;
+&lt;p&gt;Its a story so tragic that I was almost in tears in various
+points.&lt;/p&gt;
+&lt;p&gt;To summarize, Xerox became extremely successful by identifying the
+nascent …&lt;/p&gt;</summary><content type="html">&lt;p&gt;I recently bought and read “Fumbling the future: how Xerox invented,
+then ignored, the first personal computer”, by Douglas K. Smith and
+Robert C. Alexander (1988).&lt;/p&gt;
+&lt;p&gt;Its a story so tragic that I was almost in tears in various
+points.&lt;/p&gt;
+&lt;p&gt;To summarize, Xerox became extremely successful by identifying the
+nascent technology for photocopying. The continued to invest in this
+technology, patiently, and without making a profit, for many years,
+before they made a photocopier that worked well enough to reveal that
+every company needed one, at which point they started to make enormous
+amounts of money, as they were an effective monopoly.&lt;/p&gt;
+&lt;p&gt;They realized that they would soon lose that monopoly, and invested
+heavily in commercial and academic research. Among their research
+investments was the Xerox &lt;a
+href="https://en.wikipedia.org/wiki/PARC_(company)"&gt;Palo Alto Research
+Center&lt;/a&gt; (PARC). In particular, PARC contained the now-famous Computer
+Science Lab (CSL), led by &lt;a
+href="https://en.wikipedia.org/wiki/Robert_Taylor_(computer_scientist)#Xerox"&gt;Bob
+Taylor&lt;/a&gt;. The &lt;a
+href="https://www.nae.edu/Projects/Awards/DraperPrize/DraperWinners/page20048879/55018.aspx"&gt;National
+Academy of Engineering’s biography of Taylor&lt;/a&gt; describes him as “An
+acknowledged genius at assembling outstanding teams of researchers,
+suggesting avenues of exploration and motivating colleagues to push the
+technological envelope, Mr. Taylor was instrumental in creating PARC’s
+exceptional record of innovation and accomplishment.”&lt;/p&gt;
+&lt;p&gt;Under Taylor’s management, the PARC CSL team made huge strides in
+inventing or improving much of what we now consider standard in
+computing. They invented Ethernet, contributed greatly to development of
+laser printing, and developed a &lt;a
+href="https://en.wikipedia.org/wiki/Xerox_Alto"&gt;computer with a
+graphical user interface&lt;/a&gt; and a What-You-See-Is-What-You-Get
+(WYSIWYG) word processor that inspired the Macintosh Lisa and Mac. They
+claimed, completely reasonably, to have invented desktop computing, and
+the office of the future.&lt;/p&gt;
+&lt;p&gt;But various levels of in-fighting and management hubris prevented
+Xerox from realizing what they had built, and the project collapsed when
+a particularly forceful and incompetent manager called William J.
+Spencer took over overall control, and effectively forced Bob Taylor
+out.&lt;/p&gt;
+&lt;p&gt;The book describes this failure in detail. The part that sticks most
+in my mind was the written memo that Spencer sent Taylor, that
+contributed largely to Taylor’s resignation. At the point that Spencer
+sent this memo, Taylor already knew that Spencer had said &lt;a
+href="http://archive.computerhistory.org/resources/text/Oral_History/Taylor_Robert/102702015.05.01.acc.pdf"&gt;“Taylor’s
+not going to leave. He doesn’t have anywhere to go.”&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Quoting from “Fumbling the future”, page 251:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;In [the memo], Spencer accused and forbade Taylor from attempting to
+induce employees to leave the company, gave him three weeks to
+reorganize CSL into several sub-groups, directed Taylor to share
+managerial responsibilities with others in CSL, commanded CSL to improve
+its contacts with the rest of Xerox, announced that Spencer himself
+would attend CSL staff and planning meetings, and ordered Taylor to stop
+bad-mouthing other PARC programs and labs.&lt;/p&gt;
+&lt;p&gt;The Spencer note ended with an ultimatum: “Bob, it is my desire that
+as a result of our discussions that you will make the necessary
+corrections in your behavior and actions to be a valued member of my
+staff. However, it is important for you to understand that any failure
+to comply with these action items, or the confidentiality of this memo,
+with result in disciplinary action that may include your
+termination”.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Taylor replied, but it had become clear that he had to go. Quoting
+Taylor from &lt;a
+href="http://archive.computerhistory.org/resources/text/Oral_History/Taylor_Robert/102702015.05.01.acc.pdf"&gt;this
+oral history&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;At some point in there we had our weekly meeting of the whole lab and
+I announced that I was leaving, and I left the building. This was 10 or
+11 in the morning. … It was the whole lab, and Spencer had even come to
+the meeting. I had said something in the meeting to the effect that
+Spencer had given me this letter, and I had written a letter back. Oh,
+and Spencer’s letter said that I was prohibited from showing his letter
+to anyone. It’s coming back slowly. So after I left the meeting, someone
+in the meeting, I don’t know who, said, “I want to read to the rest of
+you Spencer’s letter.” He had a copy of it, and he read it. And then he
+said, “Now here’s Bob’s letter in reply to Spencer.” And he read that.
+These letters were three or four pages long, something like that. They
+weren’t just single paragraphs. At the end of all of that, the lab was
+kind of in an uproar in this meeting, and Spencer said, “Well, you heard
+him. He’s left, what do you want me to do?” And someone in the back of
+the room said, “Quit.” They were pretty upset.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;And, sure enough, in short order, virtually the entire CSL team quit,
+some of them to go and work with Taylor in a new center at the Digital
+Equipment Corporation.&lt;/p&gt;
+&lt;p&gt;Taylor was relieved to change jobs. From “Fumbling the future” p
+254:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“It’s great” [Taylor] exclaimed, “to finally work for a computer
+company!”.&lt;/p&gt;
+&lt;/blockquote&gt;
+</content><category term="management"></category></entry></feed>

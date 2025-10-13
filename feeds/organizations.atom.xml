@@ -1,171 +1,684 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Asterisk - organizations</title><link href="http://asterisk.dynevor.org/" rel="alternate"></link><link href="http://asterisk.dynevor.org/feeds/organizations.atom.xml" rel="self"></link><id>http://asterisk.dynevor.org/</id><updated>2013-06-25T16:00:00-07:00</updated><entry><title>The XFree / X.Org fork and open source governance</title><link href="http://asterisk.dynevor.org/xfree-forked.html" rel="alternate"></link><published>2013-06-25T16:00:00-07:00</published><updated>2013-06-25T16:00:00-07:00</updated><author><name>Matthew Brett</name></author><id>tag:asterisk.dynevor.org,2013-06-25:/xfree-forked.html</id><summary type="html">&lt;p&gt;A short history of the XFree86 / X.org fork and some interpretations&lt;/p&gt;</summary><content type="html">&lt;h2&gt;Why a history of the X.org fork?&lt;/h2&gt;
-&lt;p&gt;Forks are experiments in open-source management (&lt;sup id="fnref-oss-why-fork"&gt;&lt;a class="footnote-ref" href="#fn-oss-why-fork"&gt;1&lt;/a&gt;&lt;/sup&gt;).&lt;/p&gt;
-&lt;p&gt;Management in open-source can be mysterious. In our technical world, we would
-rather believe that anything important must be technical, and management seems
-soft and poorly defined. We want to believe that all you need is good code,
-and that management is for corporate types, whom we despise.&lt;/p&gt;
-&lt;p&gt;A fork is interesting because it usually comes about when one group of
-developers thinks that they can do a better job managing a project than the
-current group in charge.&lt;/p&gt;
-&lt;p&gt;The group doing the fork takes a risk, because forking is violation of the
-code of honor. The group will probably have to start under a new project and
-package name, and then compete with the old project for users.&lt;/p&gt;
-&lt;p&gt;If the fork fails and the old project succeeds, it is difficult to draw
-conclusions about which project had better management, because of the inertia
-bias against the fork.  If both fail, the project may have already been doomed
-by bad code or changes in fashion. If both succeed, the forkers were right
-enough about the management to survive the resistance to forking.  The most
-interesting outcome is where the fork succeeds and the original project fails.
-In this case we may be able to conclude that there really was a problem with
-the old management that has been fixed by the fork.&lt;/p&gt;
-&lt;p&gt;The X.org fork of XFree86 is particularly interesting because, after the fork,
-XFree86 went into steep decline and died, to be fully replaced by X.org. There
-may be interesting lessons we can learn from why the fork happened.&lt;/p&gt;
-&lt;p&gt;I've set out the background in some detail because I think it is important to
-be able to understand motivations and arguments of the actors in the fork
-drama.  The royalist defenders of the status quo and the revolutionaries
-behind the fork make the same kind of arguments that I have seen often and
-recently.  Maybe seeing these arguments together with their outcome will help
-make our own discussions easier to think about and better informed.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Asterisk - organizations</title><link href="https://asterisk.dynevor.org/" rel="alternate"></link><link href="https://asterisk.dynevor.org/feeds/organizations.atom.xml" rel="self"></link><id>https://asterisk.dynevor.org/</id><updated>2024-05-07T11:36:00+01:00</updated><entry><title>Saw that everywhere</title><link href="https://asterisk.dynevor.org/saw-that-everywhere.html" rel="alternate"></link><published>2024-05-07T11:36:00+01:00</published><updated>2024-05-07T11:36:00+01:00</updated><author><name>Matthew Brett</name></author><id>tag:asterisk.dynevor.org,2024-05-07:/saw-that-everywhere.html</id><summary type="html">&lt;p&gt;&lt;a href="https://en.wikipedia.org/wiki/John_Gage"&gt;John Gage&lt;/a&gt; was
+at Berkeley during the student protests in the sixties.&lt;/p&gt;
+&lt;p&gt;He later went on to be vice-president of Sun Microcomputers.&lt;/p&gt;
+&lt;p&gt;Interviewed in the documentary &lt;a
+href="https://en.wikipedia.org/wiki/Berkeley_in_the_Sixties"&gt;Berkeley in
+the Sixties&lt;/a&gt; (at 40 minutes), he talks about the effect of watching
+the response of the authorities:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I’d never realized that …&lt;/p&gt;&lt;/blockquote&gt;</summary><content type="html">&lt;p&gt;&lt;a href="https://en.wikipedia.org/wiki/John_Gage"&gt;John Gage&lt;/a&gt; was
+at Berkeley during the student protests in the sixties.&lt;/p&gt;
+&lt;p&gt;He later went on to be vice-president of Sun Microcomputers.&lt;/p&gt;
+&lt;p&gt;Interviewed in the documentary &lt;a
+href="https://en.wikipedia.org/wiki/Berkeley_in_the_Sixties"&gt;Berkeley in
+the Sixties&lt;/a&gt; (at 40 minutes), he talks about the effect of watching
+the response of the authorities:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I’d never realized that there were those who would lie to maintain
+their positions of power. Then I saw it. I’m not sure — I don’t think
+people were evil to lie, but they did it. They altered the way things
+were to maintain their positions of power and authority, and they did it
+in a way that was wrong. And then I saw that, and then I saw that
+everywhere. I saw that in the structures of political power in Oakland,
+I saw that in the structures of political power in the South, and I
+began to see that the mechanisms that the free-speech movement was
+attempting to change, were mechanisms that operated everywhere.&lt;/p&gt;
+&lt;/blockquote&gt;
+</content><category term="organizations"></category></entry><entry><title>The shoes were still there</title><link href="https://asterisk.dynevor.org/shoes-in-my-soul.html" rel="alternate"></link><published>2024-03-31T18:11:00+01:00</published><updated>2024-03-31T18:11:00+01:00</updated><author><name>Matthew Brett</name></author><id>tag:asterisk.dynevor.org,2024-03-31:/shoes-in-my-soul.html</id><summary type="html">&lt;p&gt;Trinh Nhoc is 90 years old. He rather sweetly describes himself (in
+French) as a “un bon cordonnier vietnamien” — a good shoemaker from
+Vietnam.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;In 1970, the coup happened in Cambodia. That first night, I remember
+Cambodian soldiers knocking on the door of my shop.&lt;/p&gt;
+&lt;p&gt;They knocked for five minutes …&lt;/p&gt;&lt;/blockquote&gt;</summary><content type="html">&lt;p&gt;Trinh Nhoc is 90 years old. He rather sweetly describes himself (in
+French) as a “un bon cordonnier vietnamien” — a good shoemaker from
+Vietnam.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;In 1970, the coup happened in Cambodia. That first night, I remember
+Cambodian soldiers knocking on the door of my shop.&lt;/p&gt;
+&lt;p&gt;They knocked for five minutes. That night they arrested many of my
+friends — and after that, they all died. They all died.&lt;/p&gt;
+&lt;p&gt;And that’s why I had to go back to Vietnam. It was very difficult for
+me, because I left everything in Cambodia. The leather, the materials,
+the customers, the machines.&lt;/p&gt;
+&lt;p&gt;I thought my career was over. But deep in my heart, the shoes were
+still there.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;From Netflix “Stories of a generation — with Pope Francis”: “Episode
+4: Work”, starting at 15:23.&lt;/p&gt;
+&lt;p&gt;At around 30 minutes, we see a customer arriving to collect the shoes
+he has ordered. The customer is clearly pleased. The camera catches Mr
+Ngoc’s face as he looks past the cameraman with such a pride that it
+should better be said as joy.&lt;/p&gt;
+</content><category term="organizations"></category></entry><entry><title>Meritocracy and valor</title><link href="https://asterisk.dynevor.org/meritocracy-and-valor.html" rel="alternate"></link><published>2024-03-13T16:12:00+00:00</published><updated>2024-03-13T16:12:00+00:00</updated><author><name>Matthew Brett</name></author><id>tag:asterisk.dynevor.org,2024-03-13:/meritocracy-and-valor.html</id><summary type="html">&lt;p&gt;&lt;a href="https://en.wikipedia.org/wiki/Christopher_Lasch"&gt;Christopher
+Lasch&lt;/a&gt; wrote a book called &lt;a
+href="https://www.alibris.co.uk/The-Revolt-of-the-Elites-and-the-Betrayal-of-Democracy-Christopher-Lasch/book/5741108"&gt;The
+revolt of the elites and the betrayal of democracy&lt;/a&gt; (1996).&lt;/p&gt;
+&lt;p&gt;The first essay in the book — “The revolt of the elites”, describes
+the fall of the aristocratic elites, and the rise of a new meritocratic
+elite — “the best and brightest”. These new elites …&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;a href="https://en.wikipedia.org/wiki/Christopher_Lasch"&gt;Christopher
+Lasch&lt;/a&gt; wrote a book called &lt;a
+href="https://www.alibris.co.uk/The-Revolt-of-the-Elites-and-the-Betrayal-of-Democracy-Christopher-Lasch/book/5741108"&gt;The
+revolt of the elites and the betrayal of democracy&lt;/a&gt; (1996).&lt;/p&gt;
+&lt;p&gt;The first essay in the book — “The revolt of the elites”, describes
+the fall of the aristocratic elites, and the rise of a new meritocratic
+elite — “the best and brightest”. These new elites are particularly
+susceptible to the “arrogance of power”.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This arrogance should not be confused with the pride characteristic
+of the aristocratic classes, which rests on the inheritance of an
+ancient lineage and on the obligation to defend its honor. Neither valor
+nor chivalry nor the code of courtly, romantic love, with which these
+values are closely associated, has any place in the world view of the
+best and brightest. — (page 39).&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;His next sentence is very painful:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;A meritocracy has no more use for chivalry and valor than a
+hereditary aristocracy has for brains.&lt;/p&gt;
+&lt;/blockquote&gt;
+</content><category term="organizations"></category></entry><entry><title>Die playing our own thing</title><link href="https://asterisk.dynevor.org/die-playing-our-own-thing.html" rel="alternate"></link><published>2023-04-21T11:39:00+01:00</published><updated>2023-04-21T11:39:00+01:00</updated><author><name>Matthew Brett</name></author><id>tag:asterisk.dynevor.org,2023-04-21:/die-playing-our-own-thing.html</id><summary type="html">&lt;p&gt;&lt;a href="https://en.wikipedia.org/wiki/Benny_Goodman"&gt;Benny
+Goodman&lt;/a&gt; and his band were struggling to break out with their new
+music. From the link above:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The next night, August 21, 1935, at the Palomar Ballroom in Los
+Angeles, Goodman and his band began a three-week engagement. … Goodman
+started the evening with stock arrangements, but after an indifferent …&lt;/p&gt;&lt;/blockquote&gt;</summary><content type="html">&lt;p&gt;&lt;a href="https://en.wikipedia.org/wiki/Benny_Goodman"&gt;Benny
+Goodman&lt;/a&gt; and his band were struggling to break out with their new
+music. From the link above:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The next night, August 21, 1935, at the Palomar Ballroom in Los
+Angeles, Goodman and his band began a three-week engagement. … Goodman
+started the evening with stock arrangements, but after an indifferent
+response, he began the second set with arrangements by Fletcher
+Henderson and Spud Murphy. According to Willard Alexander, the band’s
+booking agent, Krupa said, “If we’re gonna die, Benny, let’s die playing
+our own thing.” The crowd broke into cheers and applause. News reports
+spread word of the exciting music and enthusiastic dancing. The Palomar
+engagement was such a marked success that it is often described as the
+beginning of the swing era.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;See also &lt;a
+href="https://web.archive.org/web/20090209021911/http://tuxjunction.net/bennygoodman.htm"&gt;Benny
+Goodman launches swing era in Chicago&lt;/a&gt;&lt;/p&gt;
+</content><category term="organizations"></category></entry><entry><title>Corrupt all the way down</title><link href="https://asterisk.dynevor.org/corrupt-all-the-way-down.html" rel="alternate"></link><published>2023-03-29T13:19:00+01:00</published><updated>2023-03-29T13:19:00+01:00</updated><author><name>Matthew Brett</name></author><id>tag:asterisk.dynevor.org,2023-03-29:/corrupt-all-the-way-down.html</id><summary type="html">&lt;p&gt;&lt;a href="https://en.wikipedia.org/wiki/Pierre_Sprey"&gt;Pierre Sprey&lt;/a&gt;
+was a major contributor to the design of two of the most successful
+aircraft in US military history — the &lt;a
+href="https://en.wikipedia.org/wiki/General_Dynamics_F-16_Fighting_Falcon"&gt;F-16&lt;/a&gt;
+and the &lt;a
+href="https://en.wikipedia.org/wiki/Fairchild_Republic_A-10_Thunderbolt_II"&gt;A-10&lt;/a&gt;.
+He was very critical of the current &lt;a
+href="https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II"&gt;F-35&lt;/a&gt;
+fighter design as dangerous, buggy, and ineffective, and blamed the
+procurement process for the poor design and …&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;a href="https://en.wikipedia.org/wiki/Pierre_Sprey"&gt;Pierre Sprey&lt;/a&gt;
+was a major contributor to the design of two of the most successful
+aircraft in US military history — the &lt;a
+href="https://en.wikipedia.org/wiki/General_Dynamics_F-16_Fighting_Falcon"&gt;F-16&lt;/a&gt;
+and the &lt;a
+href="https://en.wikipedia.org/wiki/Fairchild_Republic_A-10_Thunderbolt_II"&gt;A-10&lt;/a&gt;.
+He was very critical of the current &lt;a
+href="https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II"&gt;F-35&lt;/a&gt;
+fighter design as dangerous, buggy, and ineffective, and blamed the
+procurement process for the poor design and massive time and cost
+overrun. This is a quote from &lt;a
+href="https://soundcloud.com/wort-fm/defense-analyst-pierre-sprey-voices-opposition-to-the-f-35s"&gt;a
+2020 interview with Sprey for the Public Affair radio show&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;.. that’s the reason I left the Pentagon, I’d still be working there,
+I’m very committed to getting better airplanes that actually defend the
+nation better, but the reason I left was it became impossible to design
+airplanes or tanks or ships that were better than their predecessor and
+cost less. Because the nature of this enormously corrupt military
+industrial complex procurement process, is corrupt all the way to the
+base. I mean corrupt but legal of course, this is not something you can
+jail people for, although there’s probably underground there’s probably
+plenty of jailable offenses going on, but it’s not inherently that way,
+inherently it’s legal, because it was designed to send more money to
+contractors, and when that’s the primary reason for getting a new
+airplane, it can’t possibly be effective in combat, it cannot do well by
+the pilots, and can’t do well by the people on the ground that you’re
+trying to protect&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The transcript is from around 49:46 in the interview.&lt;/p&gt;
+&lt;p&gt;Sprey elsewhere &lt;a href="https://youtu.be/mxDSiwqM2nw"&gt;described the
+F-35 as a “turkey”&lt;/a&gt;. The F-35 has now been in development for 22
+years, with an estimated total programme cost of $1.7 trillion, and is
+still not authorized for full-rate production (see &lt;a
+href="https://www.gao.gov/products/gao-22-105128"&gt;Government
+Accountability Office report&lt;/a&gt;). &lt;a
+href="https://www.pogo.org/analysis/2023/02/f-35-program-stalled-in-2022"&gt;F-35
+development appeared to stall in 2022&lt;/a&gt;.&lt;/p&gt;
+</content><category term="organizations"></category></entry><entry><title>To be an individual</title><link href="https://asterisk.dynevor.org/to-be-an-individual.html" rel="alternate"></link><published>2022-08-07T09:27:00+01:00</published><updated>2022-08-07T09:27:00+01:00</updated><author><name>Matthew Brett</name></author><id>tag:asterisk.dynevor.org,2022-08-07:/to-be-an-individual.html</id><content type="html">&lt;p&gt;&lt;a href="https://tarahenley.substack.com/"&gt;Tara Henley&lt;/a&gt;, &lt;a
+href="https://tarahenley.substack.com/p/the-end-of-solitude#details"&gt;quoting
+William Deresiewicz’s forthcoming book&lt;/a&gt; “The End of Solitude”:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;To be an individual, the years have taught me, takes a constant
+effort. These essays are an offering to those who wish to be one,
+too.&lt;/p&gt;
+&lt;/blockquote&gt;
+</content><category term="organizations"></category></entry><entry><title>Who do the work</title><link href="https://asterisk.dynevor.org/who-do-the-work.html" rel="alternate"></link><published>2022-07-08T19:48:00+01:00</published><updated>2022-07-08T19:48:00+01:00</updated><author><name>Matthew Brett</name></author><id>tag:asterisk.dynevor.org,2022-07-08:/who-do-the-work.html</id><summary type="html">&lt;p&gt;Here is another quote from “Fumbling the future: how Xerox invented,
+then ignored, the first personal computer”, by Douglas K. Smith and
+Robert C. Alexander (1988).&lt;/p&gt;
+&lt;p&gt;It is just another example of how important it is to talk to the
+people who are doing the work.&lt;/p&gt;
+&lt;p&gt;The Xerox Computer Science …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Here is another quote from “Fumbling the future: how Xerox invented,
+then ignored, the first personal computer”, by Douglas K. Smith and
+Robert C. Alexander (1988).&lt;/p&gt;
+&lt;p&gt;It is just another example of how important it is to talk to the
+people who are doing the work.&lt;/p&gt;
+&lt;p&gt;The Xerox Computer Science Laboratory (CSL) essentially invented, or
+made practical, computing as we now know it, including graphical word
+processors, Ethernet networking, and laser printing.&lt;/p&gt;
+&lt;p&gt;The CSL did a demonstration at Xerox headquarter in 1978.
+Unfortunately, the wrong people realized the extraordinary potential of
+what CSL had done. Chuck Geschke had been helping at the demonstration
+(p 209):&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“The reactions we saw in the wives,” Geschke explains, “were what we
+had hoped to see in the men. What was remarkable was that almost to a
+couple, the man would stand back and be very skeptical and reserved, and
+the wives, many of whom had been secretaries, got enthralled by moving
+around the mouse, seeing the graphics on the screen, and using the color
+printer. The men had no background, really, to grasp the significance of
+it. I would look out and see bright enthusiasm in the eyes of the women,
+and the men just asking, in a standoffish way, ‘Oh, can it do
+that?’”&lt;/p&gt;
+&lt;/blockquote&gt;
+</content><category term="organizations"></category></entry><entry><title>Because it hurts</title><link href="https://asterisk.dynevor.org/because-it-hurts.html" rel="alternate"></link><published>2022-07-08T19:15:00+01:00</published><updated>2022-07-08T19:15:00+01:00</updated><author><name>Matthew Brett</name></author><id>tag:asterisk.dynevor.org,2022-07-08:/because-it-hurts.html</id><summary type="html">&lt;p&gt;This is another notable quote from “Fumbling the future: how Xerox
+invented, then ignored, the first personal computer”, by Douglas K.
+Smith and Robert C. Alexander (1988).&lt;/p&gt;
+&lt;p&gt;One of the villains of that story is a Xerox executive called Bob
+Sparacino. He had come to Xerox from General Motors, and …&lt;/p&gt;</summary><content type="html">&lt;p&gt;This is another notable quote from “Fumbling the future: how Xerox
+invented, then ignored, the first personal computer”, by Douglas K.
+Smith and Robert C. Alexander (1988).&lt;/p&gt;
+&lt;p&gt;One of the villains of that story is a Xerox executive called Bob
+Sparacino. He had come to Xerox from General Motors, and specialized in
+“operations” rather than research. The book suggests that his focus on
+operations did lead to faster release cycles of copiers, but the copiers
+were of lower quality, and damaged the company’s reputation (p 218).&lt;/p&gt;
+&lt;p&gt;In 1978, Xerox was planning to give Sparacino control of the research
+budget, a move that the research teams thought would be disastrous.
+Eventually, &lt;a href="https://en.wikipedia.org/wiki/George_Pake"&gt;George
+Pake&lt;/a&gt;, head of the Xerox Palo Alto Research Center, offered to take
+the job of vice-president of research, in order to maintain some
+autonomy for research in Xerox. From page 217 of the book:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“I had a stormy meeting with Sparacino,” remembers George Pake. He
+was telling me I was crazy to take the job, that it couldn’t last. The
+thinly veiled threat was that if I took the job of heading up research,
+he’d get me. He seemed to be impugning the dedication and hard work of
+people in research. When I said they worked very hard and long hours and
+not for money either but because they loved it, Sparacino said, ‘People
+shouldn’t work because they love it. They should work because it
+hurts’“.&lt;/p&gt;
+&lt;/blockquote&gt;
+</content><category term="organizations"></category></entry><entry><title>Parkinson’s law</title><link href="https://asterisk.dynevor.org/parkinsons-law.html" rel="alternate"></link><published>2022-05-10T18:02:00+01:00</published><updated>2022-05-10T18:02:00+01:00</updated><author><name>Matthew Brett</name></author><id>tag:asterisk.dynevor.org,2022-05-10:/parkinsons-law.html</id><summary type="html">&lt;p&gt;Here is C. Northcote Parkinson’s terrifying and utterly convincing
+explanation of uncontrolled expansion in bureaucracy:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;We may distinguish at the outset two motive forces. They can be
+represented for the present purpose by two almost axiomatic statements,
+thus: (1) “An official wants to multiply subordinates, not rivals” and
+(2 …&lt;/p&gt;&lt;/blockquote&gt;</summary><content type="html">&lt;p&gt;Here is C. Northcote Parkinson’s terrifying and utterly convincing
+explanation of uncontrolled expansion in bureaucracy:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;We may distinguish at the outset two motive forces. They can be
+represented for the present purpose by two almost axiomatic statements,
+thus: (1) “An official wants to multiply subordinates, not rivals” and
+(2) “Officials make work for each other.”&lt;/p&gt;
+&lt;p&gt;To comprehend Factor 1, we must picture a civil servant, called A,
+who finds himself overworked. Whether this overwork is real or imaginary
+is immaterial, but we should observe, in passing, that A’s sensation (or
+illusion) might easily result from his own decreasing energy: a normal
+symptom of middle age. For this real or imagined overwork there are,
+broadly speaking, three possible remedies. He may resign; he may ask to
+halve the work with a colleague called B; he may demand the assistance
+of two subordinates, to be called C and D. There is probably no instance
+in history, however, of A choosing any but the third alternative.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;See &lt;a
+href="https://web.archive.org/web/20190629014655/http://caprofession.com/parkinsons1.asp"&gt;this
+online version&lt;/a&gt; of “Parkinson’s law, or The Rising Pyramid”, the
+first chapter of “Parkinson’s Law, and Other Studies in Administration”
+by C. Northcote Parkinson.&lt;/p&gt;
+</content><category term="organizations"></category></entry><entry><title>Malice cured by stupidity</title><link href="https://asterisk.dynevor.org/malice-cured-by-stupidity.html" rel="alternate"></link><published>2021-09-08T15:22:00+01:00</published><updated>2021-09-08T15:22:00+01:00</updated><author><name>Matthew Brett</name></author><id>tag:asterisk.dynevor.org,2021-09-08:/malice-cured-by-stupidity.html</id><summary type="html">&lt;p&gt;&lt;a href="https://en.wikipedia.org/wiki/Christopher_Smart"&gt;Kit
+Smart&lt;/a&gt; was a religious poet who died in debtor’s prison, aged 49, in
+1771.&lt;/p&gt;
+&lt;p&gt;&lt;a href="Asylum_confinement_of_Christopher_Smart"&gt;Most
+controversially&lt;/a&gt;, in 1757, his father-in-law took Smart against his
+will to be committed to a lunatic asylum. There he wrote his now-famous
+poem &lt;a href="https://en.wikipedia.org/wiki/Jubilate_Agno"&gt;Jubilate
+Agno&lt;/a&gt; (“Rejoice in the Lamb”), although the poem was …&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;a href="https://en.wikipedia.org/wiki/Christopher_Smart"&gt;Kit
+Smart&lt;/a&gt; was a religious poet who died in debtor’s prison, aged 49, in
+1771.&lt;/p&gt;
+&lt;p&gt;&lt;a href="Asylum_confinement_of_Christopher_Smart"&gt;Most
+controversially&lt;/a&gt;, in 1757, his father-in-law took Smart against his
+will to be committed to a lunatic asylum. There he wrote his now-famous
+poem &lt;a href="https://en.wikipedia.org/wiki/Jubilate_Agno"&gt;Jubilate
+Agno&lt;/a&gt; (“Rejoice in the Lamb”), although the poem was not published
+until 1939.&lt;/p&gt;
+&lt;p&gt;It contains &lt;a
+href="http://www.pseudopodium.org/repress/jubilate/agno-b0.html"&gt;these
+evocative lines&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;For the bite of an Adder is cured by its greese and the malice of my
+enemies by their stupidity.&lt;/p&gt;
+&lt;/blockquote&gt;
+</content><category term="organizations"></category></entry><entry><title>Language hygiene initiative</title><link href="https://asterisk.dynevor.org/language-hygiene-initiative.html" rel="alternate"></link><published>2021-07-15T15:39:00+01:00</published><updated>2021-07-15T15:39:00+01:00</updated><author><name>Matthew Brett</name></author><id>tag:asterisk.dynevor.org,2021-07-15:/language-hygiene-initiative.html</id><summary type="html">&lt;section id="take-my-money-if-i-use-these-phrases" class="level2"&gt;
+&lt;h2&gt;Take my money if I use these phrases&lt;/h2&gt;
+&lt;p&gt;There are certain phrases that upset me. I’m sure they upset other
+people too, but the temptation to use them can be strong.&lt;/p&gt;
+&lt;p&gt;To help me resist, I offer the following hostage.&lt;/p&gt;
+&lt;p&gt;If you find me using any of the following …&lt;/p&gt;&lt;/section&gt;</summary><content type="html">&lt;section id="take-my-money-if-i-use-these-phrases" class="level2"&gt;
+&lt;h2&gt;Take my money if I use these phrases&lt;/h2&gt;
+&lt;p&gt;There are certain phrases that upset me. I’m sure they upset other
+people too, but the temptation to use them can be strong.&lt;/p&gt;
+&lt;p&gt;To help me resist, I offer the following hostage.&lt;/p&gt;
+&lt;p&gt;If you find me using any of the following phrases for anything but
+rejection and ridicule, that is a &lt;em&gt;language hygiene violation&lt;/em&gt;.
+If you find a language hygiene violation, contact me by email, and point
+to the phrase I used and the place I used it. I’ll call that a language
+hygiene &lt;em&gt;citation&lt;/em&gt;. If you’re the first person to point out that
+use, I’ll send you 10 US dollars, and chalk up a mark, here.&lt;/p&gt;
+&lt;p&gt;Each set of phrases below has a sell-by date. Yes, there was a time I
+didn’t have enough courage or energy to avoid these phrases. I’ll try
+harder from now. When you find a violation, check that it’s after the
+sell-by date. If you can’t be bothered to do that, just send your
+citation, and I’ll check the date.&lt;/p&gt;
+&lt;/section&gt;
+&lt;section id="language-hygiene-violations" class="level2"&gt;
+&lt;h2&gt;Language hygiene violations&lt;/h2&gt;
+&lt;p&gt;Sell-by date: 2018/08/18&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;stakeholder&lt;/em&gt; - except when used in the phrase “Vlad the
+Stakeholder”.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;grant capture&lt;/em&gt; - except when used in the sense of a
+researcher being captured by grants. A researcher is said to be
+‘captured’ by grants, when grant income becomes more important to the
+researcher, than scientific discovery. As in “It will be very difficult
+for this University to recover from its current levels of grant
+capture”.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;moving forwards&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;going forwards&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;cross-cutting&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;best practice&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Importantly, &lt;/em&gt; starting a sentence or phrase.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Crucially, &lt;/em&gt; starting a sentence of phrase.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;leverage&lt;/em&gt; used a verb.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;including, but not limited to&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;excellence&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;deliverable&lt;/em&gt;. Here is a sentence I use to remind me to avoid
+this word: “Try restricting your diet to beef during the week, and fruit
+at weekends; you will see some impressive deliverables.”&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/section&gt;
+</content><category term="organizations"></category></entry><entry><title>On too-simple solutions</title><link href="https://asterisk.dynevor.org/on-too-simple-solutions.html" rel="alternate"></link><published>2021-03-04T12:51:00+00:00</published><updated>2021-03-04T12:51:00+00:00</updated><author><name>Matthew Brett</name></author><id>tag:asterisk.dynevor.org,2021-03-04:/on-too-simple-solutions.html</id><summary type="html">&lt;p&gt;Here are two quotes about giving solutions when you don’t understand
+the problem:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;… there is always a well-known solution to every human problem —
+neat, plausible, and wrong.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href="http://www.gutenberg.org/ebooks/53467"&gt;Book of Prejudices,
+Second Series, by H. L. Mencken, 1921&lt;/a&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;… advice, tinged with the reckless courage of the non-combatant.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a
+href="http://www.cleavebooks.co.uk/grol/saki/clovis22.htm"&gt;Chronicles of
+Clovis …&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;Here are two quotes about giving solutions when you don’t understand
+the problem:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;… there is always a well-known solution to every human problem —
+neat, plausible, and wrong.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href="http://www.gutenberg.org/ebooks/53467"&gt;Book of Prejudices,
+Second Series, by H. L. Mencken, 1921&lt;/a&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;… advice, tinged with the reckless courage of the non-combatant.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a
+href="http://www.cleavebooks.co.uk/grol/saki/clovis22.htm"&gt;Chronicles of
+Clovis, by H. H. Munro (“Saki”), 1912&lt;/a&gt;&lt;/p&gt;
+</content><category term="organizations"></category></entry><entry><title>Righteous, disobedient, stubborn and firm</title><link href="https://asterisk.dynevor.org/righteous-disobedient-stubborn-and-firm.html" rel="alternate"></link><published>2021-03-03T14:25:00+00:00</published><updated>2021-03-03T14:25:00+00:00</updated><author><name>Matthew Brett</name></author><id>tag:asterisk.dynevor.org,2021-03-03:/righteous-disobedient-stubborn-and-firm.html</id><summary type="html">&lt;p&gt;There is a very enjoyable Korean comedy drama called &lt;a
+href="https://en.wikipedia.org/wiki/The_Fiery_Priest"&gt;The Fiery
+Priest&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;As for many Korean dramas, the characters struggle against deeply
+entrenched corruption and cynicism.&lt;/p&gt;
+&lt;p&gt;In Episode 16, our heroes have just found evidence of some of this
+corruption. Many times they have been close to exposing the officials …&lt;/p&gt;</summary><content type="html">&lt;p&gt;There is a very enjoyable Korean comedy drama called &lt;a
+href="https://en.wikipedia.org/wiki/The_Fiery_Priest"&gt;The Fiery
+Priest&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;As for many Korean dramas, the characters struggle against deeply
+entrenched corruption and cynicism.&lt;/p&gt;
+&lt;p&gt;In Episode 16, our heroes have just found evidence of some of this
+corruption. Many times they have been close to exposing the officials
+responsible, but have had the evidence snatched away by some new layer
+of the conspiracy. Here, they decide what to do with the account records
+they have just liberated from one of the organizations involved:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The Fiery Priest: “Choose someone you can trust and finish it
+off.”&lt;/p&gt;
+&lt;p&gt;Prosecutor: “By someone I can trust, you mean…?”&lt;/p&gt;
+&lt;p&gt;The Fiery Priest: “Someone righteous, disobedient, stubborn, and
+firm.”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a
+href="https://www.netflix.com/watch/81225031?trackId=200257859"&gt;17.33 of
+Netflix version of Fiery Priest episode 16&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;On the other hand, in many institutions, there is no place for such
+people. I mean, corrupt institutions, or institutions building the
+foundations of future corruption.&lt;/p&gt;
+</content><category term="organizations"></category></entry><entry><title>Not professional</title><link href="https://asterisk.dynevor.org/not-professional.html" rel="alternate"></link><published>2020-08-08T10:58:00+01:00</published><updated>2020-08-08T10:58:00+01:00</updated><author><name>Matthew Brett</name></author><id>tag:asterisk.dynevor.org,2020-08-08:/not-professional.html</id><summary type="html">&lt;p&gt;Among many interesting bits of advice on the BBCs &lt;a
+href="https://www.bbc.co.uk/news/business-53658735"&gt;CEO secrets&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Too often business is about suits, weird talk, I’m amazing,
+“professional, professional, professional”. I think in business, you
+have to remember not to be professional. Business is about our life,
+it’s about inspiring people, it’s about …&lt;/p&gt;&lt;/blockquote&gt;</summary><content type="html">&lt;p&gt;Among many interesting bits of advice on the BBCs &lt;a
+href="https://www.bbc.co.uk/news/business-53658735"&gt;CEO secrets&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Too often business is about suits, weird talk, I’m amazing,
+“professional, professional, professional”. I think in business, you
+have to remember not to be professional. Business is about our life,
+it’s about inspiring people, it’s about having fun. If you stifle your
+staff with far too much of this professionalism, no one is going to be
+enjoying themselves, and therefore not going to add value to your
+business.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a
+href="https://www.bbc.co.uk/news/av/business-35717490/ceo-secrets-brompton-bikes-boss-shares-business-tips"&gt;Will
+Butler-Adams of Brompton Bicycles&lt;/a&gt;.&lt;/p&gt;
+</content><category term="organizations"></category></entry><entry><title>The Joys of the Craft</title><link href="https://asterisk.dynevor.org/joys-of-craft.html" rel="alternate"></link><published>2018-10-12T14:41:00+01:00</published><updated>2018-10-12T14:41:00+01:00</updated><author><name>Matthew Brett</name></author><id>tag:asterisk.dynevor.org,2018-10-12:/joys-of-craft.html</id><summary type="html">The Joys of the Craft</summary><content type="html">&lt;p&gt;Below, I have copied a section from the book &lt;a
+href="https://en.wikipedia.org/wiki/The_Mythical_Man-Month"&gt;The Mythical
+Man Month&lt;/a&gt;, by &lt;a
+href="https://en.wikipedia.org/wiki/Fred_Brooks"&gt;Fred Brooks&lt;/a&gt;. The
+Mythical Man Month is one of the most famous books on programming, for
+good reason: it is thoughtful, interesting and well-written. This
+section is on “The Joys of the Craft”:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Why is programming fun? What delights may its practitioner expect as
+his reward?&lt;/p&gt;
+&lt;p&gt;First is the sheer joy of making things. As the child delights in his
+mud pie, so the adult enjoys building things, especially things of his
+own design. I think this delight must be an image of God’s delight in
+making things, a delight shown in the distinctness and newness of each
+leaf and each snowflake.&lt;/p&gt;
+&lt;p&gt;Second is the pleasure of making things that are useful to other
+people. Deep within, we want others to use our work and to find it
+helpful. In this respect the programming system is not essentially
+different from the child’s first clay pencil holder “for Daddy’s
+office.”&lt;/p&gt;
+&lt;p&gt;Third is the fascination of fashioning complex puzzle-like objects of
+interlocking moving parts and watching them work in subtle cycles,
+playing out the consequences of principles built in from the beginning.
+The programmed computer has all the fascination of the pinball machine
+or the jukebox mechanism, carried to the ultimate.&lt;/p&gt;
+&lt;p&gt;Fourth is the joy of always learning, which springs from the
+non-repeating nature of the task. In one way or another the problem is
+ever new, and its solver learns something: sometimes practical,
+sometimes theoretical, and sometimes both.&lt;/p&gt;
+&lt;p&gt;Finally, there is the delight of working in such a tractable medium.
+The programmer, like the poet, works only slightly removed from pure
+thought-stuff. He builds his castles in the air, from air, creating by
+exertion of the imagination. Few media of creation are so flexible, so
+easy to polish and rework, so readily capable of realizing grand
+conceptual structures. (As we shall see later, this very tractability
+has its own problems.)&lt;/p&gt;
+&lt;p&gt;Yet the program construct, unlike the poet’s words, is real in the
+sense that it moves and works, producing visible outputs separate from
+the construct itself. It prints results, draws pictures, produces
+sounds, moves arms. The magic of myth and legend has come true in our
+time. One types the correct incantation on a keyboard, and a display
+screen comes to life, showing things that never were nor could be.&lt;/p&gt;
+&lt;p&gt;Programming then is fun because it gratifies creative longings built
+deep within us and delights sensibilities we have in common with all
+men.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;See &lt;a href="https://archive.org/details/mythicalmanmonth00fred"
+class="uri"&gt;https://archive.org/details/mythicalmanmonth00fred&lt;/a&gt; for
+the full text.&lt;/p&gt;
+</content><category term="organizations"></category><category term="open source"></category><category term="free software"></category><category term="programming"></category><category term="code"></category></entry><entry><title>The XFree / X.Org fork and open source governance</title><link href="https://asterisk.dynevor.org/xfree-forked.html" rel="alternate"></link><published>2013-06-25T16:00:00+01:00</published><updated>2013-06-25T16:00:00+01:00</updated><author><name>Matthew Brett</name></author><id>tag:asterisk.dynevor.org,2013-06-25:/xfree-forked.html</id><summary type="html">A short history of the XFree86 / X.org fork and some interpretations</summary><content type="html">&lt;section id="why-a-history-of-the-x.org-fork" class="level2"&gt;
+&lt;h2&gt;Why a history of the X.org fork?&lt;/h2&gt;
+&lt;p&gt;Forks are experiments in open-source management (&lt;a href="#fn1"
+class="footnote-ref" id="fnref1"
+role="doc-noteref"&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;Management in open-source can be mysterious. In our technical world,
+we would rather believe that anything important must be technical, and
+management seems soft and poorly defined. We want to believe that all
+you need is good code, and that management is for corporate types, whom
+we despise.&lt;/p&gt;
+&lt;p&gt;A fork is interesting because it usually comes about when one group
+of developers thinks that they can do a better job managing a project
+than the current group in charge.&lt;/p&gt;
+&lt;p&gt;The group doing the fork takes a risk, because forking is violation
+of the code of honor. The group will probably have to start under a new
+project and package name, and then compete with the old project for
+users.&lt;/p&gt;
+&lt;p&gt;If the fork fails and the old project succeeds, it is difficult to
+draw conclusions about which project had better management, because of
+the inertia bias against the fork. If both fail, the project may have
+already been doomed by bad code or changes in fashion. If both succeed,
+the forkers were right enough about the management to survive the
+resistance to forking. The most interesting outcome is where the fork
+succeeds and the original project fails. In this case we may be able to
+conclude that there really was a problem with the old management that
+has been fixed by the fork.&lt;/p&gt;
+&lt;p&gt;The X.org fork of XFree86 is particularly interesting because, after
+the fork, XFree86 went into steep decline and died, to be fully replaced
+by X.org. There may be interesting lessons we can learn from why the
+fork happened.&lt;/p&gt;
+&lt;p&gt;I’ve set out the background in some detail because I think it is
+important to be able to understand motivations and arguments of the
+actors in the fork drama. The royalist defenders of the status quo and
+the revolutionaries behind the fork make the same kind of arguments that
+I have seen often and recently. Maybe seeing these arguments together
+with their outcome will help make our own discussions easier to think
+about and better informed.&lt;/p&gt;
+&lt;/section&gt;
+&lt;section id="a-sketch-of-early-x-history-with-some-dramatis-personae"
+class="level2"&gt;
 &lt;h2&gt;A sketch of early X history with some dramatis personae&lt;/h2&gt;
-&lt;p&gt;&lt;sup id="fnref-wp-x-history"&gt;&lt;a class="footnote-ref" href="#fn-wp-x-history"&gt;2&lt;/a&gt;&lt;/sup&gt; attributes the original idea for X to Jim Gettys and Bob
-Scheifler at MIT in 1984.&lt;/p&gt;
-&lt;p&gt;MIT released version X10R3 under what later became known as the MIT license in
-1986.&lt;/p&gt;
-&lt;p&gt;MIT handed over stewardship to a newly formed MIT X consortium in 1988.  The
-consortium hired Jim Fulton, Keith Packard in early 1988, with others joining
-later in the year.&lt;/p&gt;
-&lt;p&gt;The development of XFree86 itself started as a fork. Thomas Roell developed
-the first X implementation for the Intel 386 chip, called X386. He donated the
-code to the X consortium and this code was part of the X11R5 release in 1991
-(&lt;sup id="fnref-wp-x-history"&gt;&lt;a class="footnote-ref" href="#fn-wp-x-history"&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;sup id="fnref-xfree86-history"&gt;&lt;a class="footnote-ref" href="#fn-xfree86-history"&gt;3&lt;/a&gt;&lt;/sup&gt;).  Roell then took a job with a company
-called SGCS and further versions of his X386 code were not open source
-(&lt;sup id="fnref-rebel-code"&gt;&lt;a class="footnote-ref" href="#fn-rebel-code"&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;sup id="fnref-wp-x386"&gt;&lt;a class="footnote-ref" href="#fn-wp-x386"&gt;5&lt;/a&gt;&lt;/sup&gt;).  A group of programmers found they were maintaining
-the original open-source version of X386 and joined together to form a fork of
-X386 called "XFree86" (&lt;sup id="fnref-xfree86-announce"&gt;&lt;a class="footnote-ref" href="#fn-xfree86-announce"&gt;13&lt;/a&gt;&lt;/sup&gt;). XFree86 was a joke from the X386
-name. The original team for XFree86 was David Dawes, Glenn Lai, Jim Tsillas
-and David Wexelblat (&lt;sup id="fnref-xfree86-announce"&gt;&lt;a class="footnote-ref" href="#fn-xfree86-announce"&gt;13&lt;/a&gt;&lt;/sup&gt;).&lt;/p&gt;
+&lt;p&gt;&lt;a href="#fn2" class="footnote-ref" id="fnref2"
+role="doc-noteref"&gt;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt; attributes the original idea for X
+to Jim Gettys and Bob Scheifler at MIT in 1984.&lt;/p&gt;
+&lt;p&gt;MIT released version X10R3 under what later became known as the MIT
+license in 1986.&lt;/p&gt;
+&lt;p&gt;MIT handed over stewardship to a newly formed MIT X consortium in
+1988. The consortium hired Jim Fulton, Keith Packard in early 1988, with
+others joining later in the year.&lt;/p&gt;
+&lt;p&gt;The development of XFree86 itself started as a fork. Thomas Roell
+developed the first X implementation for the Intel 386 chip, called
+X386. He donated the code to the X consortium and this code was part of
+the X11R5 release in 1991 (&lt;a href="#fn3" class="footnote-ref"
+id="fnref3" role="doc-noteref"&gt;&lt;sup&gt;3&lt;/sup&gt;&lt;/a&gt;&lt;a href="#fn4"
+class="footnote-ref" id="fnref4" role="doc-noteref"&gt;&lt;sup&gt;4&lt;/sup&gt;&lt;/a&gt;).
+Roell then took a job with a company called SGCS and further versions of
+his X386 code were not open source (&lt;a href="#fn5" class="footnote-ref"
+id="fnref5" role="doc-noteref"&gt;&lt;sup&gt;5&lt;/sup&gt;&lt;/a&gt;&lt;a href="#fn6"
+class="footnote-ref" id="fnref6" role="doc-noteref"&gt;&lt;sup&gt;6&lt;/sup&gt;&lt;/a&gt;). A
+group of programmers found they were maintaining the original
+open-source version of X386 and joined together to form a fork of X386
+called “XFree86” (&lt;a href="#fn7" class="footnote-ref" id="fnref7"
+role="doc-noteref"&gt;&lt;sup&gt;7&lt;/sup&gt;&lt;/a&gt;). XFree86 was a joke from the X386
+name. The original team for XFree86 was David Dawes, Glenn Lai, Jim
+Tsillas and David Wexelblat (&lt;a href="#fn8" class="footnote-ref"
+id="fnref8" role="doc-noteref"&gt;&lt;sup&gt;8&lt;/sup&gt;&lt;/a&gt;).&lt;/p&gt;
 &lt;p&gt;In order to get access to the development versions of the reference
-X-consortium code, XFree86 needed to be a member of the X-consortium.  To do
-this, XFree86 formed a corporation called "XFree86 inc" in January 1994.
-XFree86 inc then asked for donations for X-consortium membership, and joined
-(&lt;sup id="fnref-xfree86-history"&gt;&lt;a class="footnote-ref" href="#fn-xfree86-history"&gt;3&lt;/a&gt;&lt;/sup&gt;).&lt;/p&gt;
-&lt;p&gt;At least by May 1994, XFree86 had a BSD-like governance, with a core group and
-a board of directors.  The board of directors was David Dawes, Glenn Lai, Dirk
-Hohndel, Rich Murphey, Jon Tombs, Jim Tsillas, and David Wexelblat
-(&lt;sup id="fnref-xfree-inc-minutes"&gt;&lt;a class="footnote-ref" href="#fn-xfree-inc-minutes"&gt;6&lt;/a&gt;&lt;/sup&gt;).  The core group was the same as or similar to the
-board of directors at this stage (&lt;sup id="fnref-core-board-1994"&gt;&lt;a class="footnote-ref" href="#fn-core-board-1994"&gt;7&lt;/a&gt;&lt;/sup&gt;).&lt;/p&gt;
-&lt;p&gt;In November 1994 David Wexelblat handed over the XFree86 board presidency to
-David Dawes (&lt;sup id="fnref-president-dawes"&gt;&lt;a class="footnote-ref" href="#fn-president-dawes"&gt;8&lt;/a&gt;&lt;/sup&gt;). Dawes continued as president at least until
-2015 (&lt;sup id="fnref-current-bod"&gt;&lt;a class="footnote-ref" href="#fn-current-bod"&gt;9&lt;/a&gt;&lt;/sup&gt;).&lt;/p&gt;
-&lt;p&gt;In 1997, the X-consortium handed over X stewardship to a vendor group called
-"The Open Group". In April 1998, the Open Group changed the X license to
-require commercial entities to &lt;a href="http://old.lwn.net/lwn/1998/0409/xstate.html"&gt;pay a license
+X-consortium code, XFree86 needed to be a member of the X-consortium. To
+do this, XFree86 formed a corporation called “XFree86 inc” in January
+1994. XFree86 inc then asked for donations for X-consortium membership,
+and joined (&lt;a href="#fn9" class="footnote-ref" id="fnref9"
+role="doc-noteref"&gt;&lt;sup&gt;9&lt;/sup&gt;&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;At least by May 1994, XFree86 had a BSD-like governance, with a core
+group and a board of directors. The board of directors was David Dawes,
+Glenn Lai, Dirk Hohndel, Rich Murphey, Jon Tombs, Jim Tsillas, and David
+Wexelblat (&lt;a href="#fn10" class="footnote-ref" id="fnref10"
+role="doc-noteref"&gt;&lt;sup&gt;10&lt;/sup&gt;&lt;/a&gt;). The core group was the same as or
+similar to the board of directors at this stage (&lt;a href="#fn11"
+class="footnote-ref" id="fnref11"
+role="doc-noteref"&gt;&lt;sup&gt;11&lt;/sup&gt;&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;In November 1994 David Wexelblat handed over the XFree86 board
+presidency to David Dawes (&lt;a href="#fn12" class="footnote-ref"
+id="fnref12" role="doc-noteref"&gt;&lt;sup&gt;12&lt;/sup&gt;&lt;/a&gt;). Dawes continued as
+president at least until 2015 (&lt;a href="#fn13" class="footnote-ref"
+id="fnref13" role="doc-noteref"&gt;&lt;sup&gt;13&lt;/sup&gt;&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;In 1997, the X-consortium handed over X stewardship to a vendor group
+called “The Open Group”. In April 1998, the Open Group changed the X
+license to require commercial entities to &lt;a
+href="http://old.lwn.net/lwn/1998/0409/xstate.html"&gt;pay a license
 fee&lt;/a&gt;:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Although [XFree86] may be able to claim several million users, the net
-contribution to the development of the X Window System, as embodied by
-specs, protocols or cash is a flat zero.&lt;/p&gt;
+&lt;p&gt;Although [XFree86] may be able to claim several million users, the
+net contribution to the development of the X Window System, as embodied
+by specs, protocols or cash is a flat zero.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;XFree86 decided to continue development without using any new code from the
-Open Group reference implementation, in order to avoid the new license. At the
-same time, the Open Group X development stalled (&lt;sup id="fnref-xfree86-history"&gt;&lt;a class="footnote-ref" href="#fn-xfree86-history"&gt;3&lt;/a&gt;&lt;/sup&gt;) leaving
-XFree86 to become the de-facto reference implementation.  The Open Group
-reverted to the old license in September 1998, and formed a new consortium for
-X stewardship called X.Org in 1999 (&lt;sup id="fnref-wp-x-history"&gt;&lt;a class="footnote-ref" href="#fn-wp-x-history"&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;sup id="fnref-xorg-consortium"&gt;&lt;a class="footnote-ref" href="#fn-xorg-consortium"&gt;10&lt;/a&gt;&lt;/sup&gt;). X.Org
-(the consortium) went on to supervise the releases of the X reference
-implementation.  XFree86 joined the X.Org consortium as an honorary member in
-the same year.&lt;/p&gt;
-&lt;p&gt;An article in 2001 said "Today, XFree86 is considered to be among the most
-successful open source projects in existence." (&lt;sup id="fnref-xfree86-history"&gt;&lt;a class="footnote-ref" href="#fn-xfree86-history"&gt;3&lt;/a&gt;&lt;/sup&gt;).&lt;/p&gt;
-&lt;p&gt;By 1999 the board of directors was unchanged apart from the additions of Robin
-Cutshaw and Marc Evans (&lt;sup id="fnref-readme-3.3.6"&gt;&lt;a class="footnote-ref" href="#fn-readme-3.3.6"&gt;11&lt;/a&gt;&lt;/sup&gt;).&lt;/p&gt;
-&lt;p&gt;By February 2003 the "core" group was 16 people, of which 7 were also on the
-board of directors (at least as of 1999) (&lt;sup id="fnref-man-4.3.0"&gt;&lt;a class="footnote-ref" href="#fn-man-4.3.0"&gt;12&lt;/a&gt;&lt;/sup&gt;&lt;sup id="fnref-coreteam"&gt;&lt;a class="footnote-ref" href="#fn-coreteam"&gt;15&lt;/a&gt;&lt;/sup&gt;).&lt;/p&gt;
-&lt;p&gt;Now we're ready for the events around the fork.&lt;/p&gt;
+&lt;p&gt;XFree86 decided to continue development without using any new code
+from the Open Group reference implementation, in order to avoid the new
+license. At the same time, the Open Group X development stalled (&lt;a
+href="#fn14" class="footnote-ref" id="fnref14"
+role="doc-noteref"&gt;&lt;sup&gt;14&lt;/sup&gt;&lt;/a&gt;) leaving XFree86 to become the
+de-facto reference implementation. The Open Group reverted to the old
+license in September 1998, and formed a new consortium for X stewardship
+called X.Org in 1999 (&lt;a href="#fn15" class="footnote-ref" id="fnref15"
+role="doc-noteref"&gt;&lt;sup&gt;15&lt;/sup&gt;&lt;/a&gt;&lt;a href="#fn16" class="footnote-ref"
+id="fnref16" role="doc-noteref"&gt;&lt;sup&gt;16&lt;/sup&gt;&lt;/a&gt;). X.Org (the
+consortium) went on to supervise the releases of the X reference
+implementation. XFree86 joined the X.Org consortium as an honorary
+member in the same year.&lt;/p&gt;
+&lt;p&gt;An article in 2001 said “Today, XFree86 is considered to be among the
+most successful open source projects in existence.” (&lt;a href="#fn17"
+class="footnote-ref" id="fnref17"
+role="doc-noteref"&gt;&lt;sup&gt;17&lt;/sup&gt;&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;By 1999 the board of directors was unchanged apart from the additions
+of Robin Cutshaw and Marc Evans (&lt;a href="#fn18" class="footnote-ref"
+id="fnref18" role="doc-noteref"&gt;&lt;sup&gt;18&lt;/sup&gt;&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;By February 2003 the “core” group was 16 people, of which 7 were also
+on the board of directors (at least as of 1999) (&lt;a href="#fn19"
+class="footnote-ref" id="fnref19" role="doc-noteref"&gt;&lt;sup&gt;19&lt;/sup&gt;&lt;/a&gt;&lt;a
+href="#fn20" class="footnote-ref" id="fnref20"
+role="doc-noteref"&gt;&lt;sup&gt;20&lt;/sup&gt;&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;Now we’re ready for the events around the fork.&lt;/p&gt;
+&lt;/section&gt;
+&lt;section id="background-to-the-fork" class="level2"&gt;
 &lt;h2&gt;Background to the fork&lt;/h2&gt;
-&lt;p&gt;Although XFree86 had a development CVS repository, it was only available to
-those granted "membership" of the project.  The development mailing lists were
-also not public (&lt;sup id="fnref-kp-lwn-interview"&gt;&lt;a class="footnote-ref" href="#fn-kp-lwn-interview"&gt;16&lt;/a&gt;&lt;/sup&gt;).  This had been forced on the project
-because of the initial contract with the X consortium.  After the Open Group
-had tried and failed to change the license, it appears that this was no longer
-necessary, but nevertheless continued to be the case until Keith Packard
-joined the project (&lt;sup id="fnref-kp-lwn-interview"&gt;&lt;a class="footnote-ref" href="#fn-kp-lwn-interview"&gt;16&lt;/a&gt;&lt;/sup&gt;).&lt;/p&gt;
-&lt;p&gt;Keith Packard started to work on XFree86 at the end of 1999 as an employee of
-SuSE. He became a member of the XFree86 core in the same year (&lt;sup id="fnref-coreteam"&gt;&lt;a class="footnote-ref" href="#fn-coreteam"&gt;15&lt;/a&gt;&lt;/sup&gt;). He
-moved to the Cambridge Research Laboratory to work for Compaq / HP at the end
-of 2001 and continued to work on XFree86. Among his contributions were the
-&lt;a href="http://en.wikipedia.org/wiki/X_Rendering_Extension"&gt;Render extension&lt;/a&gt;, (with
-Jim Gettys) the &lt;a href="http://en.wikipedia.org/wiki/RandR"&gt;XRandR
-extension&lt;/a&gt;(&lt;sup id="fnref-xrandr-man"&gt;&lt;a class="footnote-ref" href="#fn-xrandr-man"&gt;18&lt;/a&gt;&lt;/sup&gt;), (with Carl
-Worth) the &lt;a href="http://en.wikipedia.org/wiki/Cairo_(graphics)"&gt;Cairo rendering
-library&lt;/a&gt; and the &lt;a href="http://en.wikipedia.org/wiki/Fontconfig"&gt;fontconfig
-library&lt;/a&gt; (&lt;sup id="fnref-kp-resume"&gt;&lt;a class="footnote-ref" href="#fn-kp-resume"&gt;17&lt;/a&gt;&lt;/sup&gt;).&lt;/p&gt;
-&lt;p&gt;Packard successfully lobbied for open read access to the CVS repository, and
-moving at least some of the development discussion to public mailing lists.
-He said that some of the development discussion continued to be on private
-mailing lists (&lt;sup id="fnref-kp-lwn-interview"&gt;&lt;a class="footnote-ref" href="#fn-kp-lwn-interview"&gt;16&lt;/a&gt;&lt;/sup&gt;).&lt;/p&gt;
+&lt;p&gt;Although XFree86 had a development CVS repository, it was only
+available to those granted “membership” of the project. The development
+mailing lists were also not public (&lt;a href="#fn21" class="footnote-ref"
+id="fnref21" role="doc-noteref"&gt;&lt;sup&gt;21&lt;/sup&gt;&lt;/a&gt;). This had been forced
+on the project because of the initial contract with the X consortium.
+After the Open Group had tried and failed to change the license, it
+appears that this was no longer necessary, but nevertheless continued to
+be the case until Keith Packard joined the project (&lt;a href="#fn22"
+class="footnote-ref" id="fnref22"
+role="doc-noteref"&gt;&lt;sup&gt;22&lt;/sup&gt;&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;Keith Packard started to work on XFree86 at the end of 1999 as an
+employee of SuSE. He became a member of the XFree86 core in the same
+year (&lt;a href="#fn23" class="footnote-ref" id="fnref23"
+role="doc-noteref"&gt;&lt;sup&gt;23&lt;/sup&gt;&lt;/a&gt;). He moved to the Cambridge
+Research Laboratory to work for Compaq / HP at the end of 2001 and
+continued to work on XFree86. Among his contributions were the &lt;a
+href="http://en.wikipedia.org/wiki/X_Rendering_Extension"&gt;Render
+extension&lt;/a&gt;, (with Jim Gettys) the &lt;a
+href="http://en.wikipedia.org/wiki/RandR"&gt;XRandR extension&lt;/a&gt;(&lt;a
+href="#fn24" class="footnote-ref" id="fnref24"
+role="doc-noteref"&gt;&lt;sup&gt;24&lt;/sup&gt;&lt;/a&gt;), (with Carl Worth) the &lt;a
+href="http://en.wikipedia.org/wiki/Cairo_(graphics)"&gt;Cairo rendering
+library&lt;/a&gt; and the &lt;a
+href="http://en.wikipedia.org/wiki/Fontconfig"&gt;fontconfig library&lt;/a&gt;
+(&lt;a href="#fn25" class="footnote-ref" id="fnref25"
+role="doc-noteref"&gt;&lt;sup&gt;25&lt;/sup&gt;&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;Packard successfully lobbied for open read access to the CVS
+repository, and moving at least some of the development discussion to
+public mailing lists. He said that some of the development discussion
+continued to be on private mailing lists (&lt;a href="#fn26"
+class="footnote-ref" id="fnref26"
+role="doc-noteref"&gt;&lt;sup&gt;26&lt;/sup&gt;&lt;/a&gt;).&lt;/p&gt;
 &lt;p&gt;Over a period of years before 2003 there seems have been considerable
-frustration at the slow pace of XFree86 development, and the difficulty of
-getting patches accepted.  Mike Harris was a Redhat developer working on
-XFree86.  He complained in a blog post of very slow or completely failed patch
-review, even from vendors like ATI, and the very small number of developers
-with CVS write access given the size of the project (&lt;sup id="fnref-mh-blog"&gt;&lt;a class="footnote-ref" href="#fn-mh-blog"&gt;19&lt;/a&gt;&lt;/sup&gt;).  In a
-follow-up post he records his surprise at the level of support he had got for
-his blog post by email (&lt;sup id="fnref-mh-blog-fu"&gt;&lt;a class="footnote-ref" href="#fn-mh-blog-fu"&gt;20&lt;/a&gt;&lt;/sup&gt;).  A KDE developer agreed later that
+frustration at the slow pace of XFree86 development, and the difficulty
+of getting patches accepted. Mike Harris was a Redhat developer working
+on XFree86. He complained in a blog post of very slow or completely
+failed patch review, even from vendors like ATI, and the very small
+number of developers with CVS write access given the size of the project
+(&lt;a href="#fn27" class="footnote-ref" id="fnref27"
+role="doc-noteref"&gt;&lt;sup&gt;27&lt;/sup&gt;&lt;/a&gt;). In a follow-up post he records
+his surprise at the level of support he had got for his blog post by
+email (&lt;a href="#fn28" class="footnote-ref" id="fnref28"
+role="doc-noteref"&gt;&lt;sup&gt;28&lt;/sup&gt;&lt;/a&gt;). A KDE developer agreed later that
 there was a widespread impression of XFree86 as a slow and unresponsive
-project (&lt;sup id="fnref-kp-issue"&gt;&lt;a class="footnote-ref" href="#fn-kp-issue"&gt;21&lt;/a&gt;&lt;/sup&gt;). Others had similar complaints
-(&lt;sup id="fnref-forum-communication"&gt;&lt;a class="footnote-ref" href="#fn-forum-communication"&gt;22&lt;/a&gt;&lt;/sup&gt;&lt;sup id="fnref-debian-xfree86-pain"&gt;&lt;a class="footnote-ref" href="#fn-debian-xfree86-pain"&gt;23&lt;/a&gt;&lt;/sup&gt;).&lt;/p&gt;
-&lt;p&gt;Packard felt that he had been gradually excluded from XFree86 management:&lt;/p&gt;
+project (&lt;a href="#fn29" class="footnote-ref" id="fnref29"
+role="doc-noteref"&gt;&lt;sup&gt;29&lt;/sup&gt;&lt;/a&gt;). Others had similar complaints (&lt;a
+href="#fn30" class="footnote-ref" id="fnref30"
+role="doc-noteref"&gt;&lt;sup&gt;30&lt;/sup&gt;&lt;/a&gt;&lt;a href="#fn31" class="footnote-ref"
+id="fnref31" role="doc-noteref"&gt;&lt;sup&gt;31&lt;/sup&gt;&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;Packard felt that he had been gradually excluded from XFree86
+management:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;My ability to contribute to the project was severely curtailed in stages,
-first administration of the public server, next permission to represent
-XFree86 to other groups, then administration of the public mailing lists, and
-finally CVS access.  (&lt;sup id="fnref-kp-lwn-interview"&gt;&lt;a class="footnote-ref" href="#fn-kp-lwn-interview"&gt;16&lt;/a&gt;&lt;/sup&gt;)&lt;/p&gt;
+&lt;p&gt;My ability to contribute to the project was severely curtailed in
+stages, first administration of the public server, next permission to
+represent XFree86 to other groups, then administration of the public
+mailing lists, and finally CVS access. (&lt;a href="#fn32"
+class="footnote-ref" id="fnref32"
+role="doc-noteref"&gt;&lt;sup&gt;32&lt;/sup&gt;&lt;/a&gt;)&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;He lost CVS access when he committed the XFIXES extension to CVS in November
-2002:&lt;/p&gt;
+&lt;p&gt;He lost CVS access when he committed the XFIXES extension to CVS in
+November 2002:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;I've stuck these features into a new XFIXES extension and included that in
-XFree86 CVS so that others might see the code and specification and test
-whether they solve the issues they're supposed to.  This does not represent
-any endorsement by the XFree86 project or it's [sic] members (other than
-me), nor any assurance that the extension will be included in future XFree86
-releases.  (&lt;sup id="fnref-xfixes-announce"&gt;&lt;a class="footnote-ref" href="#fn-xfixes-announce"&gt;24&lt;/a&gt;&lt;/sup&gt;)&lt;/p&gt;
+&lt;p&gt;I’ve stuck these features into a new XFIXES extension and included
+that in XFree86 CVS so that others might see the code and specification
+and test whether they solve the issues they’re supposed to. This does
+not represent any endorsement by the XFree86 project or it’s [sic]
+members (other than me), nor any assurance that the extension will be
+included in future XFree86 releases. (&lt;a href="#fn33"
+class="footnote-ref" id="fnref33"
+role="doc-noteref"&gt;&lt;sup&gt;33&lt;/sup&gt;&lt;/a&gt;)&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;The extension appears to have been disabled by default (&lt;sup id="fnref-xfixes-disabled"&gt;&lt;a class="footnote-ref" href="#fn-xfixes-disabled"&gt;25&lt;/a&gt;&lt;/sup&gt;).&lt;/p&gt;
-&lt;p&gt;It seems the commit of XFIXES was just before a release feature freeze.  Some
-process occurred by which Packard lost his CVS commit rights on the basis that
-he should have discussed the changes before committing (&lt;sup id="fnref-kp-no-cvs"&gt;&lt;a class="footnote-ref" href="#fn-kp-no-cvs"&gt;28&lt;/a&gt;&lt;/sup&gt;).  David
-Dawes refers to a rumor that Packard did this in order to cause a crisis
-(&lt;sup id="fnref-kp-xfixes-rumor"&gt;&lt;a class="footnote-ref" href="#fn-kp-xfixes-rumor"&gt;29&lt;/a&gt;&lt;/sup&gt;).  There does not appear to be any public record of this
-decision at the time.&lt;/p&gt;
+&lt;p&gt;The extension appears to have been disabled by default (&lt;a
+href="#fn34" class="footnote-ref" id="fnref34"
+role="doc-noteref"&gt;&lt;sup&gt;34&lt;/sup&gt;&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;It seems the commit of XFIXES was just before a release feature
+freeze. Some process occurred by which Packard lost his CVS commit
+rights on the basis that he should have discussed the changes before
+committing (&lt;a href="#fn35" class="footnote-ref" id="fnref35"
+role="doc-noteref"&gt;&lt;sup&gt;35&lt;/sup&gt;&lt;/a&gt;). David Dawes refers to a rumor
+that Packard did this in order to cause a crisis (&lt;a href="#fn36"
+class="footnote-ref" id="fnref36" role="doc-noteref"&gt;&lt;sup&gt;36&lt;/sup&gt;&lt;/a&gt;).
+There does not appear to be any public record of this decision at the
+time.&lt;/p&gt;
+&lt;/section&gt;
+&lt;section id="the-forking-fighting" class="level2"&gt;
 &lt;h2&gt;The forking fighting&lt;/h2&gt;
-&lt;p&gt;In March 2003, David Dawes used an email asking for public discussion of
-XFree86 to announce that the XFree86 board of directors had expelled Keith
-Packard from the core group (&lt;sup id="fnref-kp-is-out"&gt;&lt;a class="footnote-ref" href="#fn-kp-is-out"&gt;26&lt;/a&gt;&lt;/sup&gt;):&lt;/p&gt;
+&lt;p&gt;In March 2003, David Dawes used an email asking for public discussion
+of XFree86 to announce that the XFree86 board of directors had expelled
+Keith Packard from the core group (&lt;a href="#fn37" class="footnote-ref"
+id="fnref37" role="doc-noteref"&gt;&lt;sup&gt;37&lt;/sup&gt;&lt;/a&gt;):&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;It has been brought to the attention of the XFree86 Core Team that one of
-its members, Keith Packard, has been actively (but privately) se)eking out
-support for a fork of XFree86 that would be led by himself.  He is also in
-the process of forming a by-invitation-only group of vested interests to
-discuss privately concerns he has about XFree86 and the future of X.  He has
-consistently refused to even disclose these concerns within the context of
-the XFree86 Core Team, which makes his membership of that team unviable.  As
-a consequence, Keith Packard is no longer a member of the XFree86 Core Team.&lt;/p&gt;
+&lt;p&gt;It has been brought to the attention of the XFree86 Core Team that
+one of its members, Keith Packard, has been actively (but privately)
+seeking out support for a fork of XFree86 that would be led by himself.
+He is also in the process of forming a by-invitation-only group of
+vested interests to discuss privately concerns he has about XFree86 and
+the future of X. He has consistently refused to even disclose these
+concerns within the context of the XFree86 Core Team, which makes his
+membership of that team unviable. As a consequence, Keith Packard is no
+longer a member of the XFree86 Core Team.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;The board claimed to have email evidence of Packard's intentions, but that
-they were unable to release this evidence because the emails were private and
-Packard had asked for them not to be released (&lt;sup id="fnref-dw-have-cause"&gt;&lt;a class="footnote-ref" href="#fn-dw-have-cause"&gt;30&lt;/a&gt;&lt;/sup&gt;). Packard
-responded with permission to release the mails (&lt;sup id="fnref-kp-release-emails"&gt;&lt;a class="footnote-ref" href="#fn-kp-release-emails"&gt;31&lt;/a&gt;&lt;/sup&gt;) and David
-Wexelblat, for the board, said that they would release some version of the
-emails soon after (&lt;sup id="fnref-dw-well-try"&gt;&lt;a class="footnote-ref" href="#fn-dw-well-try"&gt;32&lt;/a&gt;&lt;/sup&gt;).  I could find no evidence that this
-happened. It's possible that the email enclosed in (&lt;sup id="fnref-private-cced"&gt;&lt;a class="footnote-ref" href="#fn-private-cced"&gt;33&lt;/a&gt;&lt;/sup&gt;) is an
-example of the discussion leading to Packard's expulsion.&lt;/p&gt;
-&lt;p&gt;Packard didn't reply directly to the thread expelling him from the core, but
-instead posted an appeal for open governance of XFree86 (&lt;sup id="fnref-call-for-open"&gt;&lt;a class="footnote-ref" href="#fn-call-for-open"&gt;27&lt;/a&gt;&lt;/sup&gt;).  He
-lists four problems:&lt;/p&gt;
+&lt;p&gt;The board claimed to have email evidence of Packard’s intentions, but
+that they were unable to release this evidence because the emails were
+private and Packard had asked for them not to be released (&lt;a
+href="#fn38" class="footnote-ref" id="fnref38"
+role="doc-noteref"&gt;&lt;sup&gt;38&lt;/sup&gt;&lt;/a&gt;). Packard responded with permission
+to release the mails (&lt;a href="#fn39" class="footnote-ref" id="fnref39"
+role="doc-noteref"&gt;&lt;sup&gt;39&lt;/sup&gt;&lt;/a&gt;) and David Wexelblat, for the
+board, said that they would release some version of the emails soon
+after (&lt;a href="#fn40" class="footnote-ref" id="fnref40"
+role="doc-noteref"&gt;&lt;sup&gt;40&lt;/sup&gt;&lt;/a&gt;). I could find no evidence that
+this happened. It’s possible that the email enclosed in (&lt;a href="#fn41"
+class="footnote-ref" id="fnref41" role="doc-noteref"&gt;&lt;sup&gt;41&lt;/sup&gt;&lt;/a&gt;)
+is an example of the discussion leading to Packard’s expulsion.&lt;/p&gt;
+&lt;p&gt;Packard didn’t reply directly to the thread expelling him from the
+core, but instead posted an appeal for open governance of XFree86 (&lt;a
+href="#fn42" class="footnote-ref" id="fnref42"
+role="doc-noteref"&gt;&lt;sup&gt;42&lt;/sup&gt;&lt;/a&gt;). He lists four problems:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Limited development resources&lt;/li&gt;
 &lt;li&gt;Slow release schedules&lt;/li&gt;
@@ -174,208 +687,257 @@ lists four problems:&lt;/p&gt;
 &lt;/ul&gt;
 &lt;p&gt;Packard thought that this was a problem of governance:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;While the XFree86 Board of Directors is nominally in charge of XFree86, they
-have absented themselves from governing the project and left that to the
-XFree86 Core Team. The community is left wondering who is actually in charge
-of XFree86. As a result, community trust in XFree86 leadership has suffered.
-Decisions appear to be arbitrary and are not seen to reflect the will of the
-community. The leadership has no accountability to the community: thus
-community members have no ability to change project direction and the Board
-has little incentive to do so.  In addition, the lack of clear formal
-policies has made it difficult to resolve disputes when the usual consensus
-breaks down.&lt;/p&gt;
+&lt;p&gt;While the XFree86 Board of Directors is nominally in charge of
+XFree86, they have absented themselves from governing the project and
+left that to the XFree86 Core Team. The community is left wondering who
+is actually in charge of XFree86. As a result, community trust in
+XFree86 leadership has suffered. Decisions appear to be arbitrary and
+are not seen to reflect the will of the community. The leadership has no
+accountability to the community: thus community members have no ability
+to change project direction and the Board has little incentive to do so.
+In addition, the lack of clear formal policies has made it difficult to
+resolve disputes when the usual consensus breaks down.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;He appealed to the board of directors for a change in governance:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;There are many ways to move from our current position to one of community
-control, but for XFree86 to make the transition, the current Board of
-Directors must have a desire to do so. I encourage the X community to
-support a community government for X development and hope the XFree86 Board
-will adopt this model.&lt;/p&gt;
+&lt;p&gt;There are many ways to move from our current position to one of
+community control, but for XFree86 to make the transition, the current
+Board of Directors must have a desire to do so. I encourage the X
+community to support a community government for X development and hope
+the XFree86 Board will adopt this model.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;The subsequent discussion was often bad-tempered.&lt;/p&gt;
-&lt;p&gt;An early reply by Alan Hourihane blamed 'limited development resources' on the
-difficulty of the codebase, and emphasized the previous work of David Dawes:&lt;/p&gt;
+&lt;p&gt;An early reply by Alan Hourihane blamed ‘limited development
+resources’ on the difficulty of the codebase, and emphasized the
+previous work of David Dawes:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;As for the rest of the above. I'd urge people to think of how XFree86 has
-got were it has - under the directive of the current team, headed by David
-Dawes. David has worked tirelessly in his own time to bring XFree86 where it
-is today. And I applaud him for that devotion. (&lt;sup id="fnref-hourihane1"&gt;&lt;a class="footnote-ref" href="#fn-hourihane1"&gt;34&lt;/a&gt;&lt;/sup&gt;)&lt;/p&gt;
+&lt;p&gt;As for the rest of the above. I’d urge people to think of how XFree86
+has got were it has - under the directive of the current team, headed by
+David Dawes. David has worked tirelessly in his own time to bring
+XFree86 where it is today. And I applaud him for that devotion. (&lt;a
+href="#fn43" class="footnote-ref" id="fnref43"
+role="doc-noteref"&gt;&lt;sup&gt;43&lt;/sup&gt;&lt;/a&gt;)&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;David Dawes' employer, the CEO of Tungsten graphics (&lt;sup id="fnref-dawes-tungsten"&gt;&lt;a class="footnote-ref" href="#fn-dawes-tungsten"&gt;36&lt;/a&gt;&lt;/sup&gt;) saw
-problems in the organization of XFree86:&lt;/p&gt;
+&lt;p&gt;David Dawes’ employer, the CEO of Tungsten graphics (&lt;a href="#fn44"
+class="footnote-ref" id="fnref44" role="doc-noteref"&gt;&lt;sup&gt;44&lt;/sup&gt;&lt;/a&gt;)
+saw problems in the organization of XFree86:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;We are seeing Keith Packard, a loyal and dedicated XFree86 contributor,
-publicly express his frustration with an organization in which he has more
-personal control than the vast majority of other people whose livelihood
-depends on XFree86's continued success.  David Dawes has turned to that
-constituency to assist him in resolving this situation.  Both of these
-actions imply there is an organizational problem within XFree86 itself.&lt;/p&gt;
+&lt;p&gt;We are seeing Keith Packard, a loyal and dedicated XFree86
+contributor, publicly express his frustration with an organization in
+which he has more personal control than the vast majority of other
+people whose livelihood depends on XFree86’s continued success. David
+Dawes has turned to that constituency to assist him in resolving this
+situation. Both of these actions imply there is an organizational
+problem within XFree86 itself.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;He asked for greater democracy in governing the project:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;The best organizational model I know of that adequately addresses both the
-need to have managers who are the most knowledgeable and willing to work,
-and the need to have a mechanism for all interested parties to voice their
-concerns, is a representative democracy.  XFree86 has historically resisted
-that model.  The increasing ubiquity of XFree86 has widened the discrepancy
-between the desires of its constituency and those of its managing cadre.
-Under those circumstances, a fork was inevitable.  There is currently no way
-for dissenting voices to have an opportunity to fairly affect the direction
-of XFree86, no matter what percentage of interested parties agree.
-(&lt;sup id="fnref-tungsten-boss"&gt;&lt;a class="footnote-ref" href="#fn-tungsten-boss"&gt;35&lt;/a&gt;&lt;/sup&gt;).&lt;/p&gt;
+&lt;p&gt;The best organizational model I know of that adequately addresses
+both the need to have managers who are the most knowledgeable and
+willing to work, and the need to have a mechanism for all interested
+parties to voice their concerns, is a representative democracy. XFree86
+has historically resisted that model. The increasing ubiquity of XFree86
+has widened the discrepancy between the desires of its constituency and
+those of its managing cadre. Under those circumstances, a fork was
+inevitable. There is currently no way for dissenting voices to have an
+opportunity to fairly affect the direction of XFree86, no matter what
+percentage of interested parties agree. (&lt;a href="#fn45"
+class="footnote-ref" id="fnref45"
+role="doc-noteref"&gt;&lt;sup&gt;45&lt;/sup&gt;&lt;/a&gt;).&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;In reply, David Wexelblat denied there were organizational problems, blaming
-Packard:&lt;/p&gt;
+&lt;p&gt;In reply, David Wexelblat denied there were organizational problems,
+blaming Packard:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Well, I'm not convinced that's true. The organizational problem was Keith.&lt;/p&gt;
-&lt;p&gt;There are PROCESS problems, but I don't accept (at face value) that there
-are organizational problems.&lt;/p&gt;
+&lt;p&gt;Well, I’m not convinced that’s true. The organizational problem was
+Keith.&lt;/p&gt;
+&lt;p&gt;There are PROCESS problems, but I don’t accept (at face value) that
+there are organizational problems.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Wexelblat was clearly angry with Packard:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;But what Keith is doing, at least how he's handled it, is just flat out
-wrong. It's literally dishonest, and morally repugnant. Doesn't mean that
-there aren't some valid issues to work, or that there is no need for
-branching, but (a) it remains to be proven, and (b) I'll be damned if I'll
-quietly accept it being done by someone who is lying to my face.&lt;/p&gt;
+&lt;p&gt;But what Keith is doing, at least how he’s handled it, is just flat
+out wrong. It’s literally dishonest, and morally repugnant. Doesn’t mean
+that there aren’t some valid issues to work, or that there is no need
+for branching, but (a) it remains to be proven, and (b) I’ll be damned
+if I’ll quietly accept it being done by someone who is lying to my
+face.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;and didn't see a need for fully open governance:&lt;/p&gt;
+&lt;p&gt;and didn’t see a need for fully open governance:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;But there are things that don't need to change:&lt;/p&gt;
+&lt;p&gt;But there are things that don’t need to change:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;There is no reason for XFree86 BOD matters to be public. The XFree86
-  Project, Inc is a privately-held corporation.&lt;/li&gt;
+Project, Inc is a privately-held corporation.&lt;/li&gt;
 &lt;li&gt;There is no reason for Core Team matters to be public. This is the
-  leadership forum, not a public forum. (&lt;sup id="fnref-dx-cheap"&gt;&lt;a class="footnote-ref" href="#fn-dx-cheap"&gt;37&lt;/a&gt;&lt;/sup&gt;)&lt;/li&gt;
+leadership forum, not a public forum. (&lt;a href="#fn46"
+class="footnote-ref" id="fnref46"
+role="doc-noteref"&gt;&lt;sup&gt;46&lt;/sup&gt;&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;David Dawes saw his opponents as trying to take over the hard work of others:&lt;/p&gt;
+&lt;p&gt;David Dawes saw his opponents as trying to take over the hard work of
+others:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Some of those really old X guys (pre XFree86) left X for dead in the early
-'90s.  Now that they've seen that their attitudes then were short-sighted,
-they want to come back and take over where they left off.  If we'd listened
-to them, we'd have abandoned it too.  And they want us all to follow their
-lead now? "Thanks for keeping it alive guys, but we'll take it from here,"
-is the attitude. (&lt;sup id="fnref-dawes-old-guys"&gt;&lt;a class="footnote-ref" href="#fn-dawes-old-guys"&gt;38&lt;/a&gt;&lt;/sup&gt;)&lt;/p&gt;
+&lt;p&gt;Some of those really old X guys (pre XFree86) left X for dead in the
+early ’90s. Now that they’ve seen that their attitudes then were
+short-sighted, they want to come back and take over where they left off.
+If we’d listened to them, we’d have abandoned it too. And they want us
+all to follow their lead now? “Thanks for keeping it alive guys, but
+we’ll take it from here,” is the attitude. (&lt;a href="#fn47"
+class="footnote-ref" id="fnref47"
+role="doc-noteref"&gt;&lt;sup&gt;47&lt;/sup&gt;&lt;/a&gt;)&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Rich Murphey could not see the point of governance discussions:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;You seem to have an obsession with governing, leading,
-the will of the community and democracy.&lt;/p&gt;
-&lt;p&gt;Why are any of these critical to development success?  They
-have nothing to do with what motivates open-source developers.&lt;/p&gt;
+&lt;p&gt;You seem to have an obsession with governing, leading, the will of
+the community and democracy.&lt;/p&gt;
+&lt;p&gt;Why are any of these critical to development success? They have
+nothing to do with what motivates open-source developers.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;The lack of direction for the core group was an advantage:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Core has very much to do, and as all-volunteer developers they pretty much
-decide whatever they do themselves.  There is a remarkable degree of
-consensus, in part because there is no one imposing a direction or mandate
-on them.&lt;/p&gt;
+&lt;p&gt;Core has very much to do, and as all-volunteer developers they pretty
+much decide whatever they do themselves. There is a remarkable degree of
+consensus, in part because there is no one imposing a direction or
+mandate on them.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Developers are leaders and should not be accountable to any 'community':&lt;/p&gt;
+&lt;p&gt;Developers are leaders and should not be accountable to any
+‘community’:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;The developers are the leaders.  And yes, they have no
-accountability to you because they are volunteers.  They
-code whatever they damn well please when the want to.&lt;/p&gt;
-&lt;p&gt;I wish you luck in holding everyone accountable to the
-will of the community and imposing formal policies on everyone.
-I can imagine how many developers that will attract (&lt;sup id="fnref-murphey-phoey"&gt;&lt;a class="footnote-ref" href="#fn-murphey-phoey"&gt;39&lt;/a&gt;&lt;/sup&gt;)&lt;/p&gt;
+&lt;p&gt;The developers are the leaders. And yes, they have no accountability
+to you because they are volunteers. They code whatever they damn well
+please when the want to.&lt;/p&gt;
+&lt;p&gt;I wish you luck in holding everyone accountable to the will of the
+community and imposing formal policies on everyone. I can imagine how
+many developers that will attract (&lt;a href="#fn48" class="footnote-ref"
+id="fnref48" role="doc-noteref"&gt;&lt;sup&gt;48&lt;/sup&gt;&lt;/a&gt;)&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;a href="http://en.wikipedia.org/wiki/Alan_Cox"&gt;Alan Cox&lt;/a&gt; thought the problem was one
-of resistance to change:&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://en.wikipedia.org/wiki/Alan_Cox"&gt;Alan Cox&lt;/a&gt; thought
+the problem was one of resistance to change:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;This isnt about voting, governance and dictatorship IMHO, its about change.
-XFree86 is hard to get involved with usefully, resistant to cool ideas and
-strongly wedded to an occasional not rolling regular release model.&lt;/p&gt;
+&lt;p&gt;This isnt about voting, governance and dictatorship IMHO, its about
+change. XFree86 is hard to get involved with usefully, resistant to cool
+ideas and strongly wedded to an occasional not rolling regular release
+model.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;He insisted that change was essential to the project:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;X has to evolve, X has to do cool stuff, X has to let people break stuff, X
-has to delegate trust to driver maintainers far more. To me it doesn't
-matter if Keith and friends spin off an "Xperimental" or XFree itself
-changes, but that change is vital to the future of X11.&lt;/p&gt;
-&lt;p&gt;If the XFree BOD doesn't want to be the evolving at high rate and really
-believes the current plodding progress is the right path, don't harass Keith
-work with him, endorse an Xperimental project and see what it produces.  If
-it works the community wins, if it fails you get both to smirk, and to take
-the good bits and the lessons it learned.  (&lt;sup id="fnref-cox-change"&gt;&lt;a class="footnote-ref" href="#fn-cox-change"&gt;40&lt;/a&gt;&lt;/sup&gt;)&lt;/p&gt;
+&lt;p&gt;X has to evolve, X has to do cool stuff, X has to let people break
+stuff, X has to delegate trust to driver maintainers far more. To me it
+doesn’t matter if Keith and friends spin off an “Xperimental” or XFree
+itself changes, but that change is vital to the future of X11.&lt;/p&gt;
+&lt;p&gt;If the XFree BOD doesn’t want to be the evolving at high rate and
+really believes the current plodding progress is the right path, don’t
+harass Keith work with him, endorse an Xperimental project and see what
+it produces. If it works the community wins, if it fails you get both to
+smirk, and to take the good bits and the lessons it learned. (&lt;a
+href="#fn49" class="footnote-ref" id="fnref49"
+role="doc-noteref"&gt;&lt;sup&gt;49&lt;/sup&gt;&lt;/a&gt;)&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Packard and other interested developers held a series of teleconferences in
-late March / early April to discuss what to do next
-(&lt;sup id="fnref-teleconference-1"&gt;&lt;a class="footnote-ref" href="#fn-teleconference-1"&gt;41&lt;/a&gt;&lt;/sup&gt;&lt;sup id="fnref-teleconference-2"&gt;&lt;a class="footnote-ref" href="#fn-teleconference-2"&gt;42&lt;/a&gt;&lt;/sup&gt;&lt;sup id="fnref-teleconference-3"&gt;&lt;a class="footnote-ref" href="#fn-teleconference-3"&gt;43&lt;/a&gt;&lt;/sup&gt;). They decided to
-set up a new site for collaboration on X windows work,
-&lt;a href="http://web.archive.org/web/20030531183127/http://xwin.org/"&gt;xwin.org&lt;/a&gt;:&lt;/p&gt;
+&lt;p&gt;Packard and other interested developers held a series of
+teleconferences in late March / early April to discuss what to do next
+(&lt;a href="#fn50" class="footnote-ref" id="fnref50"
+role="doc-noteref"&gt;&lt;sup&gt;50&lt;/sup&gt;&lt;/a&gt;&lt;a href="#fn51" class="footnote-ref"
+id="fnref51" role="doc-noteref"&gt;&lt;sup&gt;51&lt;/sup&gt;&lt;/a&gt;&lt;a href="#fn52"
+class="footnote-ref" id="fnref52" role="doc-noteref"&gt;&lt;sup&gt;52&lt;/sup&gt;&lt;/a&gt;).
+They decided to set up a new site for collaboration on X windows work,
+&lt;a
+href="http://web.archive.org/web/20030531183127/http://xwin.org/"&gt;xwin.org&lt;/a&gt;:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;xwin.org is a forum for community participation in X, not a development
-project. The X development community needs to work together to form a
-government. The hope is that community governance will encourage rapid
-advances in the X window system&lt;/p&gt;
+&lt;p&gt;xwin.org is a forum for community participation in X, not a
+development project. The X development community needs to work together
+to form a government. The hope is that community governance will
+encourage rapid advances in the X window system&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Packard explained his reasons for acting in a Linux Weekly News interview
-(&lt;sup id="fnref-kp-lwn-interview"&gt;&lt;a class="footnote-ref" href="#fn-kp-lwn-interview"&gt;16&lt;/a&gt;&lt;/sup&gt;).&lt;/p&gt;
+&lt;p&gt;Packard explained his reasons for acting in a Linux Weekly News
+interview (&lt;a href="#fn53" class="footnote-ref" id="fnref53"
+role="doc-noteref"&gt;&lt;sup&gt;53&lt;/sup&gt;&lt;/a&gt;).&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;The highest priority should be to create an environment where people are
-encouraged to participate to whatever extent they are able, and where these
-contributors feel ownership of their code and pride in the community in
-which they work.&lt;/p&gt;
+&lt;p&gt;The highest priority should be to create an environment where people
+are encouraged to participate to whatever extent they are able, and
+where these contributors feel ownership of their code and pride in the
+community in which they work.&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;/section&gt;
+&lt;section id="xouvert-fork" class="level2"&gt;
 &lt;h2&gt;Xouvert fork&lt;/h2&gt;
-&lt;p&gt;In August
-&lt;a href="http://web.archive.org/web/20030819010029/http://www.xouvert.org/"&gt;xouvert.org&lt;/a&gt;
+&lt;p&gt;In August &lt;a
+href="http://web.archive.org/web/20030819010029/http://www.xouvert.org/"&gt;xouvert.org&lt;/a&gt;
 announced a fork of the XFree86 project. Xouvert did a first release in
-December 2003, but the main XFree96 developers were not involved, and the
-project slowed and folded relatively quickly thereafter (&lt;sup id="fnref-osnews-x-marks"&gt;&lt;a class="footnote-ref" href="#fn-osnews-x-marks"&gt;44&lt;/a&gt;&lt;/sup&gt;).&lt;/p&gt;
+December 2003, but the main XFree86 developers were not involved, and
+the project slowed and folded relatively quickly thereafter (&lt;a
+href="#fn54" class="footnote-ref" id="fnref54"
+role="doc-noteref"&gt;&lt;sup&gt;54&lt;/sup&gt;&lt;/a&gt;).&lt;/p&gt;
+&lt;/section&gt;
+&lt;section id="cygwin-loses-patience" class="level2"&gt;
 &lt;h2&gt;Cygwin loses patience&lt;/h2&gt;
-&lt;p&gt;In October 2003, Cygwin publicly announced it would no longer contribute to
-XFree86 development because they had been unable to persuade David Dawes to
-give them CVS commit access (&lt;sup id="fnref-cygwin-no-more"&gt;&lt;a class="footnote-ref" href="#fn-cygwin-no-more"&gt;45&lt;/a&gt;&lt;/sup&gt;).&lt;/p&gt;
+&lt;p&gt;In October 2003, Cygwin publicly announced it would no longer
+contribute to XFree86 development because they had been unable to
+persuade David Dawes to give them CVS commit access (&lt;a href="#fn55"
+class="footnote-ref" id="fnref55"
+role="doc-noteref"&gt;&lt;sup&gt;55&lt;/sup&gt;&lt;/a&gt;).&lt;/p&gt;
 &lt;p&gt;Egbert Eich commented as an XFree86 core member:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;I understand that the level of frustration among contributors has risen to a
-point that people are starting to use bad words.  I've tried to get support
-from individual core team members for giving you commit rights. After I was
-unable to do so (maybe I asked the wrong ones) I decided to no longer persue
-[sic] the issue.  None of the initiatives I've made so far have been
-accepted.&lt;/p&gt;
-&lt;p&gt;I don't understand why people cannot deal with issues on the pragmatic level
-by looking at how one can best distribute the workload so that the burdeon
-[sic] on each individual volunteer is reduced.  The discussion always turns
-to who owes what to whom. This is the wrong question. All or most of us are
-volunteers. Therefore noone owes anything to anybody (&lt;sup id="fnref-egbert-sigh"&gt;&lt;a class="footnote-ref" href="#fn-egbert-sigh"&gt;46&lt;/a&gt;&lt;/sup&gt;).&lt;/p&gt;
+&lt;p&gt;I understand that the level of frustration among contributors has
+risen to a point that people are starting to use bad words. I’ve tried
+to get support from individual core team members for giving you commit
+rights. After I was unable to do so (maybe I asked the wrong ones) I
+decided to no longer persue [sic] the issue. None of the initiatives
+I’ve made so far have been accepted.&lt;/p&gt;
+&lt;p&gt;I don’t understand why people cannot deal with issues on the
+pragmatic level by looking at how one can best distribute the workload
+so that the burdeon [sic] on each individual volunteer is reduced. The
+discussion always turns to who owes what to whom. This is the wrong
+question. All or most of us are volunteers. Therefore noone owes
+anything to anybody (&lt;a href="#fn56" class="footnote-ref" id="fnref56"
+role="doc-noteref"&gt;&lt;sup&gt;56&lt;/sup&gt;&lt;/a&gt;).&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;/section&gt;
+&lt;section id="xfree86-core-team-disbands" class="level2"&gt;
 &lt;h2&gt;XFree86 core team disbands&lt;/h2&gt;
-&lt;p&gt;David Dawes successfully proposed disbanding the XFree86 core team in December
-2003:&lt;/p&gt;
+&lt;p&gt;David Dawes successfully proposed disbanding the XFree86 core team in
+December 2003:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;I'm very pleased to announce that a majority of the XFree86 core team has
-voted in favour of my proposal to disband the core team.&lt;/p&gt;
-&lt;p&gt;I believe that this is an acknowlegement [sic] that the core team was no
-longer representative of the active, experienced and skilled XFree86
-developers, or a place where technical discussion happens (&lt;sup id="fnref-core-disbands"&gt;&lt;a class="footnote-ref" href="#fn-core-disbands"&gt;47&lt;/a&gt;&lt;/sup&gt;)&lt;/p&gt;
+&lt;p&gt;I’m very pleased to announce that a majority of the XFree86 core team
+has voted in favour of my proposal to disband the core team.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;The bare announcement caused considerable confusion, with some taking it to
-mean that the XFree86 project was closing down (&lt;sup id="fnref-disband-confused"&gt;&lt;a class="footnote-ref" href="#fn-disband-confused"&gt;48&lt;/a&gt;&lt;/sup&gt;). There
-was no indication of any other structure to replace the core.  An ex-member of
-the core team explained it as a way of avoiding potential complaint:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;I think it doesn't really mean anything at all, so it's hard to say much
-about it.  The core team was basically an honor role, which outsiders
-assumed was a kabal [sic] of some sort despite the core and bod [board of
-directors] repeatedly explaining that it wasn't.  Now it's gone, so people
-will have to find something else to complain about. (&lt;sup id="fnref-core-gone"&gt;&lt;a class="footnote-ref" href="#fn-core-gone"&gt;49&lt;/a&gt;&lt;/sup&gt;)&lt;/p&gt;
+&lt;p&gt;I believe that this is an acknowlegement [sic] that the core team was
+no longer representative of the active, experienced and skilled XFree86
+developers, or a place where technical discussion happens (&lt;a
+href="#fn57" class="footnote-ref" id="fnref57"
+role="doc-noteref"&gt;&lt;sup&gt;57&lt;/sup&gt;&lt;/a&gt;)&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;p&gt;The bare announcement caused considerable confusion, with some taking
+it to mean that the XFree86 project was closing down (&lt;a href="#fn58"
+class="footnote-ref" id="fnref58" role="doc-noteref"&gt;&lt;sup&gt;58&lt;/sup&gt;&lt;/a&gt;).
+There was no indication of any other structure to replace the core. An
+ex-member of the core team explained it as a way of avoiding potential
+complaint:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I think it doesn’t really mean anything at all, so it’s hard to say
+much about it. The core team was basically an honor role, which
+outsiders assumed was a kabal [sic] of some sort despite the core and
+bod [board of directors] repeatedly explaining that it wasn’t. Now it’s
+gone, so people will have to find something else to complain about. (&lt;a
+href="#fn59" class="footnote-ref" id="fnref59"
+role="doc-noteref"&gt;&lt;sup&gt;59&lt;/sup&gt;&lt;/a&gt;)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/section&gt;
+&lt;section id="start-of-the-x.org-foundation" class="level2"&gt;
 &lt;h2&gt;Start of the X.org foundation&lt;/h2&gt;
-&lt;p&gt;In January 2004, many of those involved in the discussion formed a new company
-called the X.Org foundation (as distinct from the previous X.Org consortium).
-A presentation to the Linux World Expo on 22nd January (&lt;sup id="fnref-xorg-foundation"&gt;&lt;a class="footnote-ref" href="#fn-xorg-foundation"&gt;50&lt;/a&gt;&lt;/sup&gt;)
-gave the mission statement as:&lt;/p&gt;
+&lt;p&gt;In January 2004, many of those involved in the discussion formed a
+new company called the X.Org foundation (as distinct from the previous
+X.Org consortium). A presentation to the Linux World Expo on 22nd
+January (&lt;a href="#fn60" class="footnote-ref" id="fnref60"
+role="doc-noteref"&gt;&lt;sup&gt;60&lt;/sup&gt;&lt;/a&gt;) gave the mission statement as:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;To promote a proactive and participatory community for Open Source X Window
-System and desktop development&lt;/p&gt;
+&lt;p&gt;To promote a proactive and participatory community for Open Source X
+Window System and desktop development&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;The same presentation records that a development tree had been established.&lt;/p&gt;
-&lt;p&gt;The interim board of directors (&lt;sup id="fnref-xorg-interim-bod"&gt;&lt;a class="footnote-ref" href="#fn-xorg-interim-bod"&gt;51&lt;/a&gt;&lt;/sup&gt;) was composed of
+&lt;p&gt;The same presentation records that a development tree had been
+established.&lt;/p&gt;
+&lt;p&gt;The interim board of directors (&lt;a href="#fn61" class="footnote-ref"
+id="fnref61" role="doc-noteref"&gt;&lt;sup&gt;61&lt;/sup&gt;&lt;/a&gt;) was composed of
 representatives from industry and free software organizations:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Stuart Anderson, Free Standards Group&lt;/li&gt;
@@ -389,367 +951,505 @@ representatives from industry and free software organizations:&lt;/p&gt;
 &lt;li&gt;Leon Shiman - Shiman Associates&lt;/li&gt;
 &lt;li&gt;Jeremy White - Code Weavers&lt;/li&gt;
 &lt;/ul&gt;
+&lt;/section&gt;
+&lt;section id="license-change-and-collapse-of-xfree86" class="level2"&gt;
 &lt;h2&gt;License change and collapse of XFree86&lt;/h2&gt;
-&lt;p&gt;On 29th January 2004, David Dawes announced a change to the base XFree86
-license (&lt;sup id="fnref-license-announce"&gt;&lt;a class="footnote-ref" href="#fn-license-announce"&gt;53&lt;/a&gt;&lt;/sup&gt;).&lt;/p&gt;
-&lt;p&gt;The &lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/legal/licenses.html"&gt;new
-license&lt;/a&gt;
-added a non-standard clause that required any derived work to include a
-specified acknowledgment of XFree86 in the documentation or "in the software
-itself":&lt;/p&gt;
+&lt;p&gt;On 29th January 2004, David Dawes announced a change to the base
+XFree86 license (&lt;a href="#fn62" class="footnote-ref" id="fnref62"
+role="doc-noteref"&gt;&lt;sup&gt;62&lt;/sup&gt;&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;The &lt;a
+href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/legal/licenses.html"&gt;new
+license&lt;/a&gt; added a non-standard clause that required any derived work
+to include a specified acknowledgment of XFree86 in the documentation or
+“in the software itself”:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;The end-user documentation included with the redistribution, if any, must
-include the following acknowledgment: "This product includes software
-developed by The XFree86 Project, Inc (http://www.xfree86.org/) and its
-contributors", in the same place and form as other third-party
-acknowledgments. Alternately, this acknowledgment may appear in the software
-itself, in the same form and location as other such third-party
+&lt;p&gt;The end-user documentation included with the redistribution, if any,
+must include the following acknowledgment: “This product includes
+software developed by The XFree86 Project, Inc (http://www.xfree86.org/)
+and its contributors”, in the same place and form as other third-party
+acknowledgments. Alternately, this acknowledgment may appear in the
+software itself, in the same form and location as other such third-party
 acknowledgments.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;It later turned out that the board of directors had unanimously agreed to this
-change in a private meeting (&lt;sup id="fnref-dawes-hung-out"&gt;&lt;a class="footnote-ref" href="#fn-dawes-hung-out"&gt;56&lt;/a&gt;&lt;/sup&gt;).&lt;/p&gt;
-&lt;p&gt;Most people considered that the new license did not allow derived code to use
-the GPL license, because the GPL says that a GPL or derived work "may not
-impose any further restrictions on the recipients' exercise of the rights
-granted herein." (&lt;sup id="fnref-gpl-2"&gt;&lt;a class="footnote-ref" href="#fn-gpl-2"&gt;52&lt;/a&gt;&lt;/sup&gt;).  Here the further restriction is the requirement
-to acknowledge XFree86 in documentation or "in the software itself".&lt;/p&gt;
-&lt;p&gt;Dawes appeared unmoved by concerns about this change, suggesting that the GPL
-ought to change instead:&lt;/p&gt;
+&lt;p&gt;It later turned out that the board of directors had unanimously
+agreed to this change in a private meeting (&lt;a href="#fn63"
+class="footnote-ref" id="fnref63"
+role="doc-noteref"&gt;&lt;sup&gt;63&lt;/sup&gt;&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;Most people considered that the new license did not allow derived
+code to use the GPL license, because the GPL says that a GPL or derived
+work “may not impose any further restrictions on the recipients’
+exercise of the rights granted herein.” (&lt;a href="#fn64"
+class="footnote-ref" id="fnref64" role="doc-noteref"&gt;&lt;sup&gt;64&lt;/sup&gt;&lt;/a&gt;).
+Here the further restriction is the requirement to acknowledge XFree86
+in documentation or “in the software itself”.&lt;/p&gt;
+&lt;p&gt;Dawes appeared unmoved by concerns about this change, suggesting that
+the GPL ought to change instead:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Has anyone considered modifying the GPL to be more compatible with other
-Open Source licences rather than trying to force all Open Source licences to
-be a subset of the GPL? (&lt;sup id="fnref-gpl-should-change"&gt;&lt;a class="footnote-ref" href="#fn-gpl-should-change"&gt;54&lt;/a&gt;&lt;/sup&gt;)&lt;/p&gt;
+&lt;p&gt;Has anyone considered modifying the GPL to be more compatible with
+other Open Source licences rather than trying to force all Open Source
+licences to be a subset of the GPL? (&lt;a href="#fn65"
+class="footnote-ref" id="fnref65"
+role="doc-noteref"&gt;&lt;sup&gt;65&lt;/sup&gt;&lt;/a&gt;)&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;The long email threads that followed were mostly against the license change
-- e.g. (&lt;sup id="fnref-gettys-on-change"&gt;&lt;a class="footnote-ref" href="#fn-gettys-on-change"&gt;58&lt;/a&gt;&lt;/sup&gt;, &lt;sup id="fnref-license-no-support"&gt;&lt;a class="footnote-ref" href="#fn-license-no-support"&gt;55&lt;/a&gt;&lt;/sup&gt;).&lt;/p&gt;
-&lt;p&gt;Richard Stallman joined the discussion to see if he could help restore GPL
-compatibility (&lt;sup id="fnref-stallman-on-license"&gt;&lt;a class="footnote-ref" href="#fn-stallman-on-license"&gt;59&lt;/a&gt;&lt;/sup&gt;) but Dawes was not ready to compromise:&lt;/p&gt;
+&lt;p&gt;The long email threads that followed were mostly against the license
+change - e.g. (&lt;a href="#fn66" class="footnote-ref" id="fnref66"
+role="doc-noteref"&gt;&lt;sup&gt;66&lt;/sup&gt;&lt;/a&gt;, &lt;a href="#fn67"
+class="footnote-ref" id="fnref67"
+role="doc-noteref"&gt;&lt;sup&gt;67&lt;/sup&gt;&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;Richard Stallman joined the discussion to see if he could help
+restore GPL compatibility (&lt;a href="#fn68" class="footnote-ref"
+id="fnref68" role="doc-noteref"&gt;&lt;sup&gt;68&lt;/sup&gt;&lt;/a&gt;) but Dawes was not
+ready to compromise:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;However, I also believe that all of that is irrelevant, and that anyone who
-writes software should have the freedom to set conditions on what others may
-do with it(*).  The choice for others is then either to accept the
-conditions (legally enforcable or not), or to avoid said software.&lt;/p&gt;
-&lt;p&gt;(*) Providing of course that the act of setting the conditions is not itself
-illegal. (&lt;sup id="fnref-dawes-no-gpl"&gt;&lt;a class="footnote-ref" href="#fn-dawes-no-gpl"&gt;60&lt;/a&gt;&lt;/sup&gt;)&lt;/p&gt;
+&lt;p&gt;However, I also believe that all of that is irrelevant, and that
+anyone who writes software should have the freedom to set conditions on
+what others may do with it(*). The choice for others is then either to
+accept the conditions (legally enforcable or not), or to avoid said
+software.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Dawes was clearly surprised that others on the board did not support his
-unmoving position on the license:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;I can't speak for why the XFree86 board that voted unanimously for the
-change, (and some of whom were advocating more radical changes), have hung
-me out to dry on this.  I also can't speak for why some developers have
-privately supported the change, but won't do so publicly.  But then taking
-the heat on things like this comes with the job.  And I have very thick
-asbestos undies, but boy do they itch :-) (&lt;sup id="fnref-dawes-hung-out"&gt;&lt;a class="footnote-ref" href="#fn-dawes-hung-out"&gt;56&lt;/a&gt;&lt;/sup&gt;)&lt;/p&gt;
+&lt;p&gt;(*) Providing of course that the act of setting the conditions is not
+itself illegal. (&lt;a href="#fn69" class="footnote-ref" id="fnref69"
+role="doc-noteref"&gt;&lt;sup&gt;69&lt;/sup&gt;&lt;/a&gt;)&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;p&gt;Dawes was clearly surprised that others on the board did not support
+his unmoving position on the license:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I can’t speak for why the XFree86 board that voted unanimously for
+the change, (and some of whom were advocating more radical changes),
+have hung me out to dry on this. I also can’t speak for why some
+developers have privately supported the change, but won’t do so
+publicly. But then taking the heat on things like this comes with the
+job. And I have very thick asbestos undies, but boy do they itch :-) (&lt;a
+href="#fn70" class="footnote-ref" id="fnref70"
+role="doc-noteref"&gt;&lt;sup&gt;70&lt;/sup&gt;&lt;/a&gt;)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/section&gt;
+&lt;section id="x.org-releases-fork-of-x" class="level2"&gt;
 &lt;h2&gt;X.org releases fork of X&lt;/h2&gt;
 &lt;p&gt;In April 2004, the new X.Org foundation released their own fork of X
-Windows (&lt;sup id="fnref-xorg-release"&gt;&lt;a class="footnote-ref" href="#fn-xorg-release"&gt;57&lt;/a&gt;&lt;/sup&gt;):&lt;/p&gt;
+Windows (&lt;a href="#fn71" class="footnote-ref" id="fnref71"
+role="doc-noteref"&gt;&lt;sup&gt;71&lt;/sup&gt;&lt;/a&gt;):&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;The new X.Org release, called X Window System Version 11 Release 6.7
 (X11R6.7), builds on the work of the X.Org X11R6.6 and XFree86TM Project
-Inc. V4.4RC2 releases to combine many of the latest developments from a
+Inc. V4.4RC2 releases to combine many of the latest developments from a
 large number of the participants and companies working with the X Window
-community ...&lt;/p&gt;
+community …&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;The announcement quotes Jim Gettys:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;This release marks the return to community development of the X Window
-System under governance open to all contributors for the first time since
-the founding of the X Consortium in 1988.&lt;/p&gt;
+&lt;p&gt;This release marks the return to community development of the X
+Window System under governance open to all contributors for the first
+time since the founding of the X Consortium in 1988.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Among other endorsements in that announcment, Branden Robinson of Debian
-writes:&lt;/p&gt;
+&lt;p&gt;Among other endorsements in that announcement, Branden Robinson of
+Debian writes:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;We're also delighted that the X.Org Foundation is dedicated to retaining the
-licensing model that has made the X Window System an enduring success.&lt;/p&gt;
+&lt;p&gt;We’re also delighted that the X.Org Foundation is dedicated to
+retaining the licensing model that has made the X Window System an
+enduring success.&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;/section&gt;
+&lt;section id="the-decline-and-fall-of-xfree86" class="level2"&gt;
 &lt;h2&gt;The decline and fall of XFree86&lt;/h2&gt;
-&lt;p&gt;The license change appears to have been the last straw in forcing adoption of
-X.org instead of XFree86 (&lt;sup id="fnref-xfree86-and-gpl"&gt;&lt;a class="footnote-ref" href="#fn-xfree86-and-gpl"&gt;61&lt;/a&gt;&lt;/sup&gt;).  In a page dated from May 2004,
-XFree86 lists the Linux and BSD distributions supporting the first release of
-XFree86 that contained the license change (&lt;sup id="fnref-xfree-distributions"&gt;&lt;a class="footnote-ref" href="#fn-xfree-distributions"&gt;62&lt;/a&gt;&lt;/sup&gt;).  The list
-does not include SUSE, Redhat or Debian among many others.&lt;/p&gt;
-&lt;p&gt;The page at (&lt;sup id="fnref-xfree86-and-gpl"&gt;&lt;a class="footnote-ref" href="#fn-xfree86-and-gpl"&gt;61&lt;/a&gt;&lt;/sup&gt;) gives a vivid summary of the almost complete
-collapse of XFree86 at this point, with all significant developer and packager
-interest switching to X.org.&lt;/p&gt;
-&lt;div class="footnote"&gt;
-&lt;hr&gt;
+&lt;p&gt;The license change appears to have been the last straw in forcing
+adoption of X.org instead of XFree86 (&lt;a href="#fn72"
+class="footnote-ref" id="fnref72" role="doc-noteref"&gt;&lt;sup&gt;72&lt;/sup&gt;&lt;/a&gt;).
+In a page dated from May 2004, XFree86 lists the Linux and BSD
+distributions supporting the first release of XFree86 that contained the
+license change (&lt;a href="#fn73" class="footnote-ref" id="fnref73"
+role="doc-noteref"&gt;&lt;sup&gt;73&lt;/sup&gt;&lt;/a&gt;). The list does not include SUSE,
+Redhat or Debian among many others.&lt;/p&gt;
+&lt;p&gt;The page at (&lt;a href="#fn74" class="footnote-ref" id="fnref74"
+role="doc-noteref"&gt;&lt;sup&gt;74&lt;/sup&gt;&lt;/a&gt;) gives a vivid summary of the
+almost complete collapse of XFree86 at this point, with all significant
+developer and packager interest switching to X.org.&lt;/p&gt;
+&lt;/section&gt;
+&lt;section id="footnotes" class="footnotes footnotes-end-of-document"
+role="doc-endnotes"&gt;
+&lt;hr /&gt;
 &lt;ol&gt;
-&lt;li id="fn-oss-why-fork"&gt;
-&lt;p&gt;&lt;a href="http://www.dwheeler.com/oss_fs_why.html#forking"&gt;http://www.dwheeler.com/oss_fs_why.html#forking&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref-oss-why-fork" title="Jump back to footnote 1 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id="fn-wp-x-history"&gt;
-&lt;p&gt;&lt;a href="http://en.wikipedia.org/wiki/X_Window_System#History"&gt;http://en.wikipedia.org/wiki/X_Window_System#History&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref-wp-x-history" title="Jump back to footnote 2 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id="fn-xfree86-history"&gt;
-&lt;p&gt;&lt;a href="http://www.linux-mag.com/id/922"&gt;http://www.linux-mag.com/id/922&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref-xfree86-history" title="Jump back to footnote 3 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id="fn-rebel-code"&gt;
-&lt;p&gt;Glynn Moody "Rebel Code: Linux and the Open Source Revolution"
-2002, p63. Perseus Publishing.&amp;#160;&lt;a class="footnote-backref" href="#fnref-rebel-code" title="Jump back to footnote 4 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id="fn-wp-x386"&gt;
-&lt;p&gt;&lt;a href="http://en.wikipedia.org/wiki/X386"&gt;http://en.wikipedia.org/wiki/X386&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref-wp-x386" title="Jump back to footnote 5 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id="fn-xfree-inc-minutes"&gt;
-&lt;p&gt;&lt;a href="http://web.archive.org/web/20030101005232/http://www.xfree86.org/legal/org_minutes.html"&gt;http://web.archive.org/web/20030101005232/http://www.xfree86.org/legal/org_minutes.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref-xfree-inc-minutes" title="Jump back to footnote 6 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id="fn-core-board-1994"&gt;
-&lt;p&gt;&lt;a href="http://ftp.x.org/R5contrib/XFree86-2.1.Announce"&gt;http://ftp.x.org/R5contrib/XFree86-2.1.Announce&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref-core-board-1994" title="Jump back to footnote 7 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id="fn-president-dawes"&gt;
-&lt;p&gt;&lt;a href="http://www.informatica.co.cr/linux-desktops/research/1994/1116.html"&gt;http://www.informatica.co.cr/linux-desktops/research/1994/1116.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref-president-dawes" title="Jump back to footnote 8 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id="fn-current-bod"&gt;
-&lt;p&gt;&lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/legal/bod.html"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/legal/bod.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref-current-bod" title="Jump back to footnote 9 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id="fn-xorg-consortium"&gt;
-&lt;p&gt;&lt;a href="http://web.archive.org/web/20030402160332/http://www.x.org/XOrg_background.html"&gt;http://web.archive.org/web/20030402160332/http://www.x.org/XOrg_background.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref-xorg-consortium" title="Jump back to footnote 10 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id="fn-readme-3.3.6"&gt;
-&lt;p&gt;&lt;a href="http://www.xfree86.org/3.3.6/README7.html"&gt;http://www.xfree86.org/3.3.6/README7.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref-readme-3.3.6" title="Jump back to footnote 11 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id="fn-man-4.3.0"&gt;
-&lt;p&gt;&lt;a href="http://www.xfree86.org/4.3.0/XFree86.1.html"&gt;http://www.xfree86.org/4.3.0/XFree86.1.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref-man-4.3.0" title="Jump back to footnote 12 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id="fn-xfree86-announce"&gt;
-&lt;p&gt;&lt;a href="https://groups.google.com/forum/#!original/comp.unix.bsd/vQZnxPoIYEA/G0B0hyz0iYgJ"&gt;https://groups.google.com/forum/#!original/comp.unix.bsd/vQZnxPoIYEA/G0B0hyz0iYgJ&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref-xfree86-announce" title="Jump back to footnote 13 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id="fn-x-non-free"&gt;
-&lt;p&gt;&lt;a href="http://old.lwn.net/lwn/1998/0409/xstate.html"&gt;http://old.lwn.net/lwn/1998/0409/xstate.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref-x-non-free" title="Jump back to footnote 14 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id="fn-coreteam"&gt;
-&lt;p&gt;&lt;a href="http://web.archive.org/web/20020906035319/http://www.xfree86.org/coreteam.html"&gt;http://web.archive.org/web/20020906035319/http://www.xfree86.org/coreteam.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref-coreteam" title="Jump back to footnote 15 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id="fn-kp-lwn-interview"&gt;
-&lt;p&gt;&lt;a href="http://lwn.net/Articles/27673"&gt;http://lwn.net/Articles/27673&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref-kp-lwn-interview" title="Jump back to footnote 16 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id="fn-kp-resume"&gt;
-&lt;p&gt;&lt;a href="http://keithp.com/keithp/resume"&gt;http://keithp.com/keithp/resume&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref-kp-resume" title="Jump back to footnote 17 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id="fn-xrandr-man"&gt;
-&lt;p&gt;&lt;a href="http://www.xfree86.org/4.3.0/Xrandr.3.html"&gt;http://www.xfree86.org/4.3.0/Xrandr.3.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref-xrandr-man" title="Jump back to footnote 18 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id="fn-mh-blog"&gt;
-&lt;p&gt;&lt;a href="http://web.archive.org/web/20030304041751/http://advogato.org/person/mharris/diary.html?start=5"&gt;http://web.archive.org/web/20030304041751/http://advogato.org/person/mharris/diary.html?start=5&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref-mh-blog" title="Jump back to footnote 19 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id="fn-mh-blog-fu"&gt;
-&lt;p&gt;&lt;a href="http://web.archive.org/web/20030304041751/http://advogato.org/person/mharris/diary.html?start=6"&gt;http://web.archive.org/web/20030304041751/http://advogato.org/person/mharris/diary.html?start=6&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref-mh-blog-fu" title="Jump back to footnote 20 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id="fn-kp-issue"&gt;
-&lt;p&gt;&lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002018.html"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002018.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref-kp-issue" title="Jump back to footnote 21 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id="fn-forum-communication"&gt;
-&lt;p&gt;&lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/000476.html"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/000476.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref-forum-communication" title="Jump back to footnote 22 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id="fn-debian-xfree86-pain"&gt;
-&lt;p&gt;&lt;a href="http://lists.debian.org/debian-x/2003/11/msg00285.html"&gt;http://lists.debian.org/debian-x/2003/11/msg00285.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref-debian-xfree86-pain" title="Jump back to footnote 23 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id="fn-xfixes-announce"&gt;
-&lt;p&gt;&lt;a href="http://www.mail-archive.com/xpert@xfree86.org/msg11266.html"&gt;http://www.mail-archive.com/xpert@xfree86.org/msg11266.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref-xfixes-announce" title="Jump back to footnote 24 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id="fn-xfixes-disabled"&gt;
-&lt;p&gt;&lt;a href="http://www.mail-archive.com/xpert@xfree86.org/msg11290.html"&gt;http://www.mail-archive.com/xpert@xfree86.org/msg11290.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref-xfixes-disabled" title="Jump back to footnote 25 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id="fn-kp-is-out"&gt;
-&lt;p&gt;&lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/001997.html"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/001997.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref-kp-is-out" title="Jump back to footnote 26 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id="fn-call-for-open"&gt;
-&lt;p&gt;&lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002165.html"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002165.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref-call-for-open" title="Jump back to footnote 27 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id="fn-kp-no-cvs"&gt;
-&lt;p&gt;&lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002105.html"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002105.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref-kp-no-cvs" title="Jump back to footnote 28 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id="fn-kp-xfixes-rumor"&gt;
-&lt;p&gt;&lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002121.html"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002121.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref-kp-xfixes-rumor" title="Jump back to footnote 29 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id="fn-dw-have-cause"&gt;
-&lt;p&gt;&lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002461.html"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002461.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref-dw-have-cause" title="Jump back to footnote 30 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id="fn-kp-release-emails"&gt;
-&lt;p&gt;&lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002525.html"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002525.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref-kp-release-emails" title="Jump back to footnote 31 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id="fn-dw-well-try"&gt;
-&lt;p&gt;&lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002545.html"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002545.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref-dw-well-try" title="Jump back to footnote 32 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id="fn-private-cced"&gt;
-&lt;p&gt;&lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-April/003139.html"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-April/003139.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref-private-cced" title="Jump back to footnote 33 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id="fn-hourihane1"&gt;
-&lt;p&gt;&lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002168.html"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002168.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref-hourihane1" title="Jump back to footnote 34 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id="fn-tungsten-boss"&gt;
-&lt;p&gt;&lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002040.html"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002040.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref-tungsten-boss" title="Jump back to footnote 35 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id="fn-dawes-tungsten"&gt;
-&lt;p&gt;&lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-April/003357.html"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-April/003357.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref-dawes-tungsten" title="Jump back to footnote 36 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id="fn-dx-cheap"&gt;
-&lt;p&gt;&lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002124.html"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002124.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref-dx-cheap" title="Jump back to footnote 37 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id="fn-dawes-old-guys"&gt;
-&lt;p&gt;&lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002208.html"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002208.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref-dawes-old-guys" title="Jump back to footnote 38 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id="fn-murphey-phoey"&gt;
-&lt;p&gt;&lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002286.html"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002286.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref-murphey-phoey" title="Jump back to footnote 39 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id="fn-cox-change"&gt;
-&lt;p&gt;&lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002077.html"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002077.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref-cox-change" title="Jump back to footnote 40 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id="fn-teleconference-1"&gt;
-&lt;p&gt;&lt;a href="http://web.archive.org/web/20030607004252/http://fontconfig.org/~keithp/teleconference/minutes-2003-03-27.txt"&gt;http://web.archive.org/web/20030607004252/http://fontconfig.org/~keithp/teleconference/minutes-2003-03-27.txt&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref-teleconference-1" title="Jump back to footnote 41 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id="fn-teleconference-2"&gt;
-&lt;p&gt;&lt;a href="http://web.archive.org/web/20030815144605/http://fontconfig.org/~keithp/teleconference/minutes-2003-04-03.txt"&gt;http://web.archive.org/web/20030815144605/http://fontconfig.org/~keithp/teleconference/minutes-2003-04-03.txt&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref-teleconference-2" title="Jump back to footnote 42 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id="fn-teleconference-3"&gt;
-&lt;p&gt;&lt;a href="http://web.archive.org/web/20030420065828/http://fontconfig.org/~keithp/teleconference/telecon-2003-04-10.txt"&gt;http://web.archive.org/web/20030420065828/http://fontconfig.org/~keithp/teleconference/telecon-2003-04-10.txt&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref-teleconference-3" title="Jump back to footnote 43 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id="fn-osnews-x-marks"&gt;
-&lt;p&gt;&lt;a href="http://www.osnews.com/story/6157/X_Marks_the_Spot_Looking_back_at_X11_Developments_of_Past_Year/page2/"&gt;http://www.osnews.com/story/6157/X_Marks_the_Spot_Looking_back_at_X11_Developments_of_Past_Year/page2/&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref-osnews-x-marks" title="Jump back to footnote 44 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id="fn-cygwin-no-more"&gt;
-&lt;p&gt;&lt;a href="http://cygwin.com/ml/cygwin-xfree/2003-10/msg00328.html"&gt;http://cygwin.com/ml/cygwin-xfree/2003-10/msg00328.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref-cygwin-no-more" title="Jump back to footnote 45 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id="fn-egbert-sigh"&gt;
-&lt;p&gt;&lt;a href="http://cygwin.com/ml/cygwin-xfree/2003-10/msg00360.html"&gt;http://cygwin.com/ml/cygwin-xfree/2003-10/msg00360.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref-egbert-sigh" title="Jump back to footnote 46 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id="fn-core-disbands"&gt;
-&lt;p&gt;&lt;a href="http://www.mail-archive.com/devel%40xfree86.org/msg04639.html"&gt;http://www.mail-archive.com/devel%40xfree86.org/msg04639.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref-core-disbands" title="Jump back to footnote 47 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id="fn-disband-confused"&gt;
-&lt;p&gt;&lt;a href="http://www.mail-archive.com/devel@xfree86.org/msg04658.html"&gt;http://www.mail-archive.com/devel@xfree86.org/msg04658.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref-disband-confused" title="Jump back to footnote 48 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id="fn-core-gone"&gt;
-&lt;p&gt;&lt;a href="http://www.mail-archive.com/devel@xfree86.org/msg04888.html"&gt;http://www.mail-archive.com/devel@xfree86.org/msg04888.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref-core-gone" title="Jump back to footnote 49 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id="fn-xorg-foundation"&gt;
-&lt;p&gt;&lt;a href="https://web.archive.org/web/20040616015847/http://www.x.org/XOrg_Foundation_22Jan04.pdf"&gt;https://web.archive.org/web/20040616015847/http://www.x.org/XOrg_Foundation_22Jan04.pdf&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref-xorg-foundation" title="Jump back to footnote 50 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id="fn-xorg-interim-bod"&gt;
-&lt;p&gt;&lt;a href="https://web.archive.org/web/20040418234209/http://www.x.org/XOrg_Foundation_Board.html"&gt;https://web.archive.org/web/20040418234209/http://www.x.org/XOrg_Foundation_Board.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref-xorg-interim-bod" title="Jump back to footnote 51 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id="fn-gpl-2"&gt;
-&lt;p&gt;&lt;a href="http://www.gnu.org/licenses/old-licenses/gpl-2.0.html"&gt;http://www.gnu.org/licenses/old-licenses/gpl-2.0.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref-gpl-2" title="Jump back to footnote 52 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id="fn-license-announce"&gt;
-&lt;p&gt;&lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2004-January/001892.html"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2004-January/001892.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref-license-announce" title="Jump back to footnote 53 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id="fn-gpl-should-change"&gt;
-&lt;p&gt;&lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2004-January/003907.html"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2004-January/003907.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref-gpl-should-change" title="Jump back to footnote 54 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id="fn-license-no-support"&gt;
-&lt;p&gt;&lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2004-February/004035.html"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2004-February/004035.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref-license-no-support" title="Jump back to footnote 55 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id="fn-dawes-hung-out"&gt;
-&lt;p&gt;&lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2004-February/004039.html"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2004-February/004039.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref-dawes-hung-out" title="Jump back to footnote 56 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id="fn-xorg-release"&gt;
-&lt;p&gt;&lt;a href="http://lwn.net/Articles/79302"&gt;http://lwn.net/Articles/79302&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref-xorg-release" title="Jump back to footnote 57 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id="fn-gettys-on-change"&gt;
-&lt;p&gt;&lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2004-February/003945.html"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2004-February/003945.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref-gettys-on-change" title="Jump back to footnote 58 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id="fn-stallman-on-license"&gt;
-&lt;p&gt;&lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2004-February/003974.html"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2004-February/003974.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref-stallman-on-license" title="Jump back to footnote 59 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id="fn-dawes-no-gpl"&gt;
-&lt;p&gt;&lt;a href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2004-February/004021.html"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2004-February/004021.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref-dawes-no-gpl" title="Jump back to footnote 60 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id="fn-xfree86-and-gpl"&gt;
-&lt;p&gt;&lt;a href="http://www.dwheeler.com/essays/gpl-compatible.html#xfree86"&gt;http://www.dwheeler.com/essays/gpl-compatible.html#xfree86&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref-xfree86-and-gpl" title="Jump back to footnote 61 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id="fn-xfree-distributions"&gt;
-&lt;p&gt;&lt;a href="http://web.archive.org/web/20040531203819/http://www.xfree86.org/distro-support.html"&gt;http://web.archive.org/web/20040531203819/http://www.xfree86.org/distro-support.html&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref-xfree-distributions" title="Jump back to footnote 62 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
+&lt;li id="fn1"&gt;&lt;p&gt;&lt;a
+href="http://www.dwheeler.com/oss_fs_why.html#forking"
+class="uri"&gt;http://www.dwheeler.com/oss_fs_why.html#forking&lt;/a&gt;&lt;a
+href="#fnref1" class="footnote-back" role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id="fn2"&gt;&lt;p&gt;&lt;a
+href="http://en.wikipedia.org/wiki/X_Window_System#History"
+class="uri"&gt;http://en.wikipedia.org/wiki/X_Window_System#History&lt;/a&gt;&lt;a
+href="#fnref2" class="footnote-back" role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id="fn3"&gt;&lt;p&gt;&lt;a
+href="http://en.wikipedia.org/wiki/X_Window_System#History"
+class="uri"&gt;http://en.wikipedia.org/wiki/X_Window_System#History&lt;/a&gt;&lt;a
+href="#fnref3" class="footnote-back" role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id="fn4"&gt;&lt;p&gt;&lt;a href="http://www.linux-mag.com/id/922"
+class="uri"&gt;http://www.linux-mag.com/id/922&lt;/a&gt;&lt;a href="#fnref4"
+class="footnote-back" role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id="fn5"&gt;&lt;p&gt;Glynn Moody “Rebel Code: Linux and the Open Source
+Revolution” 2002, p63. Perseus Publishing.&lt;a href="#fnref5"
+class="footnote-back" role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id="fn6"&gt;&lt;p&gt;&lt;a href="http://en.wikipedia.org/wiki/X386"
+class="uri"&gt;http://en.wikipedia.org/wiki/X386&lt;/a&gt;&lt;a href="#fnref6"
+class="footnote-back" role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id="fn7"&gt;&lt;p&gt;&lt;a
+href="https://groups.google.com/forum/#!original/comp.unix.bsd/vQZnxPoIYEA/G0B0hyz0iYgJ"
+class="uri"&gt;https://groups.google.com/forum/#!original/comp.unix.bsd/vQZnxPoIYEA/G0B0hyz0iYgJ&lt;/a&gt;&lt;a
+href="#fnref7" class="footnote-back" role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id="fn8"&gt;&lt;p&gt;&lt;a
+href="https://groups.google.com/forum/#!original/comp.unix.bsd/vQZnxPoIYEA/G0B0hyz0iYgJ"
+class="uri"&gt;https://groups.google.com/forum/#!original/comp.unix.bsd/vQZnxPoIYEA/G0B0hyz0iYgJ&lt;/a&gt;&lt;a
+href="#fnref8" class="footnote-back" role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id="fn9"&gt;&lt;p&gt;&lt;a href="http://www.linux-mag.com/id/922"
+class="uri"&gt;http://www.linux-mag.com/id/922&lt;/a&gt;&lt;a href="#fnref9"
+class="footnote-back" role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id="fn10"&gt;&lt;p&gt;&lt;a
+href="http://web.archive.org/web/20030101005232/http://www.xfree86.org/legal/org_minutes.html"
+class="uri"&gt;http://web.archive.org/web/20030101005232/http://www.xfree86.org/legal/org_minutes.html&lt;/a&gt;&lt;a
+href="#fnref10" class="footnote-back" role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id="fn11"&gt;&lt;p&gt;&lt;a
+href="http://ftp.x.org/R5contrib/XFree86-2.1.Announce"
+class="uri"&gt;http://ftp.x.org/R5contrib/XFree86-2.1.Announce&lt;/a&gt;&lt;a
+href="#fnref11" class="footnote-back" role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id="fn12"&gt;&lt;p&gt;&lt;a
+href="http://www.informatica.co.cr/linux-desktops/research/1994/1116.html"
+class="uri"&gt;http://www.informatica.co.cr/linux-desktops/research/1994/1116.html&lt;/a&gt;&lt;a
+href="#fnref12" class="footnote-back" role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id="fn13"&gt;&lt;p&gt;&lt;a
+href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/legal/bod.html"
+class="uri"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/legal/bod.html&lt;/a&gt;&lt;a
+href="#fnref13" class="footnote-back" role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id="fn14"&gt;&lt;p&gt;&lt;a href="http://www.linux-mag.com/id/922"
+class="uri"&gt;http://www.linux-mag.com/id/922&lt;/a&gt;&lt;a href="#fnref14"
+class="footnote-back" role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id="fn15"&gt;&lt;p&gt;&lt;a
+href="http://en.wikipedia.org/wiki/X_Window_System#History"
+class="uri"&gt;http://en.wikipedia.org/wiki/X_Window_System#History&lt;/a&gt;&lt;a
+href="#fnref15" class="footnote-back" role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id="fn16"&gt;&lt;p&gt;&lt;a
+href="http://web.archive.org/web/20030402160332/http://www.x.org/XOrg_background.html"
+class="uri"&gt;http://web.archive.org/web/20030402160332/http://www.x.org/XOrg_background.html&lt;/a&gt;&lt;a
+href="#fnref16" class="footnote-back" role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id="fn17"&gt;&lt;p&gt;&lt;a href="http://www.linux-mag.com/id/922"
+class="uri"&gt;http://www.linux-mag.com/id/922&lt;/a&gt;&lt;a href="#fnref17"
+class="footnote-back" role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id="fn18"&gt;&lt;p&gt;&lt;a href="http://www.xfree86.org/3.3.6/README7.html"
+class="uri"&gt;http://www.xfree86.org/3.3.6/README7.html&lt;/a&gt;&lt;a
+href="#fnref18" class="footnote-back" role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id="fn19"&gt;&lt;p&gt;&lt;a href="http://www.xfree86.org/4.3.0/XFree86.1.html"
+class="uri"&gt;http://www.xfree86.org/4.3.0/XFree86.1.html&lt;/a&gt;&lt;a
+href="#fnref19" class="footnote-back" role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id="fn20"&gt;&lt;p&gt;&lt;a
+href="http://web.archive.org/web/20020906035319/http://www.xfree86.org/coreteam.html"
+class="uri"&gt;http://web.archive.org/web/20020906035319/http://www.xfree86.org/coreteam.html&lt;/a&gt;&lt;a
+href="#fnref20" class="footnote-back" role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id="fn21"&gt;&lt;p&gt;&lt;a href="http://lwn.net/Articles/27673"
+class="uri"&gt;http://lwn.net/Articles/27673&lt;/a&gt;&lt;a href="#fnref21"
+class="footnote-back" role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id="fn22"&gt;&lt;p&gt;&lt;a href="http://lwn.net/Articles/27673"
+class="uri"&gt;http://lwn.net/Articles/27673&lt;/a&gt;&lt;a href="#fnref22"
+class="footnote-back" role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id="fn23"&gt;&lt;p&gt;&lt;a
+href="http://web.archive.org/web/20020906035319/http://www.xfree86.org/coreteam.html"
+class="uri"&gt;http://web.archive.org/web/20020906035319/http://www.xfree86.org/coreteam.html&lt;/a&gt;&lt;a
+href="#fnref23" class="footnote-back" role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id="fn24"&gt;&lt;p&gt;&lt;a href="http://www.xfree86.org/4.3.0/Xrandr.3.html"
+class="uri"&gt;http://www.xfree86.org/4.3.0/Xrandr.3.html&lt;/a&gt;&lt;a
+href="#fnref24" class="footnote-back" role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id="fn25"&gt;&lt;p&gt;&lt;a href="http://keithp.com/keithp/resume"
+class="uri"&gt;http://keithp.com/keithp/resume&lt;/a&gt;&lt;a href="#fnref25"
+class="footnote-back" role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id="fn26"&gt;&lt;p&gt;&lt;a href="http://lwn.net/Articles/27673"
+class="uri"&gt;http://lwn.net/Articles/27673&lt;/a&gt;&lt;a href="#fnref26"
+class="footnote-back" role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id="fn27"&gt;&lt;p&gt;&lt;a
+href="http://web.archive.org/web/20030304041751/http://advogato.org/person/mharris/diary.html?start=5"
+class="uri"&gt;http://web.archive.org/web/20030304041751/http://advogato.org/person/mharris/diary.html?start=5&lt;/a&gt;&lt;a
+href="#fnref27" class="footnote-back" role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id="fn28"&gt;&lt;p&gt;&lt;a
+href="http://web.archive.org/web/20030304041751/http://advogato.org/person/mharris/diary.html?start=6"
+class="uri"&gt;http://web.archive.org/web/20030304041751/http://advogato.org/person/mharris/diary.html?start=6&lt;/a&gt;&lt;a
+href="#fnref28" class="footnote-back" role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id="fn29"&gt;&lt;p&gt;&lt;a
+href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002018.html"
+class="uri"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002018.html&lt;/a&gt;&lt;a
+href="#fnref29" class="footnote-back" role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id="fn30"&gt;&lt;p&gt;&lt;a
+href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/000476.html"
+class="uri"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/000476.html&lt;/a&gt;&lt;a
+href="#fnref30" class="footnote-back" role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id="fn31"&gt;&lt;p&gt;&lt;a
+href="http://lists.debian.org/debian-x/2003/11/msg00285.html"
+class="uri"&gt;http://lists.debian.org/debian-x/2003/11/msg00285.html&lt;/a&gt;&lt;a
+href="#fnref31" class="footnote-back" role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id="fn32"&gt;&lt;p&gt;&lt;a href="http://lwn.net/Articles/27673"
+class="uri"&gt;http://lwn.net/Articles/27673&lt;/a&gt;&lt;a href="#fnref32"
+class="footnote-back" role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id="fn33"&gt;&lt;p&gt;&lt;a
+href="http://www.mail-archive.com/xpert@xfree86.org/msg11266.html"
+class="uri"&gt;http://www.mail-archive.com/xpert@xfree86.org/msg11266.html&lt;/a&gt;&lt;a
+href="#fnref33" class="footnote-back" role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id="fn34"&gt;&lt;p&gt;&lt;a
+href="http://www.mail-archive.com/xpert@xfree86.org/msg11290.html"
+class="uri"&gt;http://www.mail-archive.com/xpert@xfree86.org/msg11290.html&lt;/a&gt;&lt;a
+href="#fnref34" class="footnote-back" role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id="fn35"&gt;&lt;p&gt;&lt;a
+href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002105.html"
+class="uri"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002105.html&lt;/a&gt;&lt;a
+href="#fnref35" class="footnote-back" role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id="fn36"&gt;&lt;p&gt;&lt;a
+href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002121.html"
+class="uri"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002121.html&lt;/a&gt;&lt;a
+href="#fnref36" class="footnote-back" role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id="fn37"&gt;&lt;p&gt;&lt;a
+href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/001997.html"
+class="uri"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/001997.html&lt;/a&gt;&lt;a
+href="#fnref37" class="footnote-back" role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id="fn38"&gt;&lt;p&gt;&lt;a
+href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002461.html"
+class="uri"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002461.html&lt;/a&gt;&lt;a
+href="#fnref38" class="footnote-back" role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id="fn39"&gt;&lt;p&gt;&lt;a
+href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002525.html"
+class="uri"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002525.html&lt;/a&gt;&lt;a
+href="#fnref39" class="footnote-back" role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id="fn40"&gt;&lt;p&gt;&lt;a
+href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002545.html"
+class="uri"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002545.html&lt;/a&gt;&lt;a
+href="#fnref40" class="footnote-back" role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id="fn41"&gt;&lt;p&gt;&lt;a
+href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-April/003139.html"
+class="uri"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-April/003139.html&lt;/a&gt;&lt;a
+href="#fnref41" class="footnote-back" role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id="fn42"&gt;&lt;p&gt;&lt;a
+href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002165.html"
+class="uri"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002165.html&lt;/a&gt;&lt;a
+href="#fnref42" class="footnote-back" role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id="fn43"&gt;&lt;p&gt;&lt;a
+href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002168.html"
+class="uri"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002168.html&lt;/a&gt;&lt;a
+href="#fnref43" class="footnote-back" role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id="fn44"&gt;&lt;p&gt;&lt;a
+href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-April/003357.html"
+class="uri"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-April/003357.html&lt;/a&gt;&lt;a
+href="#fnref44" class="footnote-back" role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id="fn45"&gt;&lt;p&gt;&lt;a
+href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002040.html"
+class="uri"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002040.html&lt;/a&gt;&lt;a
+href="#fnref45" class="footnote-back" role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id="fn46"&gt;&lt;p&gt;&lt;a
+href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002124.html"
+class="uri"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002124.html&lt;/a&gt;&lt;a
+href="#fnref46" class="footnote-back" role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id="fn47"&gt;&lt;p&gt;&lt;a
+href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002208.html"
+class="uri"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002208.html&lt;/a&gt;&lt;a
+href="#fnref47" class="footnote-back" role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id="fn48"&gt;&lt;p&gt;&lt;a
+href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002286.html"
+class="uri"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002286.html&lt;/a&gt;&lt;a
+href="#fnref48" class="footnote-back" role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id="fn49"&gt;&lt;p&gt;&lt;a
+href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002077.html"
+class="uri"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2003-March/002077.html&lt;/a&gt;&lt;a
+href="#fnref49" class="footnote-back" role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id="fn50"&gt;&lt;p&gt;&lt;a
+href="http://web.archive.org/web/20030607004252/http://fontconfig.org/~keithp/teleconference/minutes-2003-03-27.txt"
+class="uri"&gt;http://web.archive.org/web/20030607004252/http://fontconfig.org/~keithp/teleconference/minutes-2003-03-27.txt&lt;/a&gt;&lt;a
+href="#fnref50" class="footnote-back" role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id="fn51"&gt;&lt;p&gt;&lt;a
+href="http://web.archive.org/web/20030815144605/http://fontconfig.org/~keithp/teleconference/minutes-2003-04-03.txt"
+class="uri"&gt;http://web.archive.org/web/20030815144605/http://fontconfig.org/~keithp/teleconference/minutes-2003-04-03.txt&lt;/a&gt;&lt;a
+href="#fnref51" class="footnote-back" role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id="fn52"&gt;&lt;p&gt;&lt;a
+href="http://web.archive.org/web/20030420065828/http://fontconfig.org/~keithp/teleconference/telecon-2003-04-10.txt"
+class="uri"&gt;http://web.archive.org/web/20030420065828/http://fontconfig.org/~keithp/teleconference/telecon-2003-04-10.txt&lt;/a&gt;&lt;a
+href="#fnref52" class="footnote-back" role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id="fn53"&gt;&lt;p&gt;&lt;a href="http://lwn.net/Articles/27673"
+class="uri"&gt;http://lwn.net/Articles/27673&lt;/a&gt;&lt;a href="#fnref53"
+class="footnote-back" role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id="fn54"&gt;&lt;p&gt;&lt;a
+href="http://www.osnews.com/story/6157/X_Marks_the_Spot_Looking_back_at_X11_Developments_of_Past_Year/page2/"
+class="uri"&gt;http://www.osnews.com/story/6157/X_Marks_the_Spot_Looking_back_at_X11_Developments_of_Past_Year/page2/&lt;/a&gt;&lt;a
+href="#fnref54" class="footnote-back" role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id="fn55"&gt;&lt;p&gt;&lt;a
+href="http://cygwin.com/ml/cygwin-xfree/2003-10/msg00328.html"
+class="uri"&gt;http://cygwin.com/ml/cygwin-xfree/2003-10/msg00328.html&lt;/a&gt;&lt;a
+href="#fnref55" class="footnote-back" role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id="fn56"&gt;&lt;p&gt;&lt;a
+href="http://cygwin.com/ml/cygwin-xfree/2003-10/msg00360.html"
+class="uri"&gt;http://cygwin.com/ml/cygwin-xfree/2003-10/msg00360.html&lt;/a&gt;&lt;a
+href="#fnref56" class="footnote-back" role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id="fn57"&gt;&lt;p&gt;&lt;a
+href="http://www.mail-archive.com/devel%40xfree86.org/msg04639.html"
+class="uri"&gt;http://www.mail-archive.com/devel%40xfree86.org/msg04639.html&lt;/a&gt;&lt;a
+href="#fnref57" class="footnote-back" role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id="fn58"&gt;&lt;p&gt;&lt;a
+href="http://www.mail-archive.com/devel@xfree86.org/msg04658.html"
+class="uri"&gt;http://www.mail-archive.com/devel@xfree86.org/msg04658.html&lt;/a&gt;&lt;a
+href="#fnref58" class="footnote-back" role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id="fn59"&gt;&lt;p&gt;&lt;a
+href="http://www.mail-archive.com/devel@xfree86.org/msg04888.html"
+class="uri"&gt;http://www.mail-archive.com/devel@xfree86.org/msg04888.html&lt;/a&gt;&lt;a
+href="#fnref59" class="footnote-back" role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id="fn60"&gt;&lt;p&gt;&lt;a
+href="https://web.archive.org/web/20040616015847/http://www.x.org/XOrg_Foundation_22Jan04.pdf"
+class="uri"&gt;https://web.archive.org/web/20040616015847/http://www.x.org/XOrg_Foundation_22Jan04.pdf&lt;/a&gt;&lt;a
+href="#fnref60" class="footnote-back" role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id="fn61"&gt;&lt;p&gt;&lt;a
+href="https://web.archive.org/web/20040418234209/http://www.x.org/XOrg_Foundation_Board.html"
+class="uri"&gt;https://web.archive.org/web/20040418234209/http://www.x.org/XOrg_Foundation_Board.html&lt;/a&gt;&lt;a
+href="#fnref61" class="footnote-back" role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id="fn62"&gt;&lt;p&gt;&lt;a
+href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2004-January/001892.html"
+class="uri"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2004-January/001892.html&lt;/a&gt;&lt;a
+href="#fnref62" class="footnote-back" role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id="fn63"&gt;&lt;p&gt;&lt;a
+href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2004-February/004039.html"
+class="uri"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2004-February/004039.html&lt;/a&gt;&lt;a
+href="#fnref63" class="footnote-back" role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id="fn64"&gt;&lt;p&gt;&lt;a
+href="http://www.gnu.org/licenses/old-licenses/gpl-2.0.html"
+class="uri"&gt;http://www.gnu.org/licenses/old-licenses/gpl-2.0.html&lt;/a&gt;&lt;a
+href="#fnref64" class="footnote-back" role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id="fn65"&gt;&lt;p&gt;&lt;a
+href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2004-January/003907.html"
+class="uri"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2004-January/003907.html&lt;/a&gt;&lt;a
+href="#fnref65" class="footnote-back" role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id="fn66"&gt;&lt;p&gt;&lt;a
+href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2004-February/003945.html"
+class="uri"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2004-February/003945.html&lt;/a&gt;&lt;a
+href="#fnref66" class="footnote-back" role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id="fn67"&gt;&lt;p&gt;&lt;a
+href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2004-February/004035.html"
+class="uri"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2004-February/004035.html&lt;/a&gt;&lt;a
+href="#fnref67" class="footnote-back" role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id="fn68"&gt;&lt;p&gt;&lt;a
+href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2004-February/003974.html"
+class="uri"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2004-February/003974.html&lt;/a&gt;&lt;a
+href="#fnref68" class="footnote-back" role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id="fn69"&gt;&lt;p&gt;&lt;a
+href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2004-February/004021.html"
+class="uri"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2004-February/004021.html&lt;/a&gt;&lt;a
+href="#fnref69" class="footnote-back" role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id="fn70"&gt;&lt;p&gt;&lt;a
+href="https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2004-February/004039.html"
+class="uri"&gt;https://web.archive.org/web/20140910005646/http://www.xfree86.org/pipermail/forum/2004-February/004039.html&lt;/a&gt;&lt;a
+href="#fnref70" class="footnote-back" role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id="fn71"&gt;&lt;p&gt;&lt;a href="http://lwn.net/Articles/79302"
+class="uri"&gt;http://lwn.net/Articles/79302&lt;/a&gt;&lt;a href="#fnref71"
+class="footnote-back" role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id="fn72"&gt;&lt;p&gt;&lt;a
+href="http://www.dwheeler.com/essays/gpl-compatible.html#xfree86"
+class="uri"&gt;http://www.dwheeler.com/essays/gpl-compatible.html#xfree86&lt;/a&gt;&lt;a
+href="#fnref72" class="footnote-back" role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id="fn73"&gt;&lt;p&gt;&lt;a
+href="http://web.archive.org/web/20040531203819/http://www.xfree86.org/distro-support.html"
+class="uri"&gt;http://web.archive.org/web/20040531203819/http://www.xfree86.org/distro-support.html&lt;/a&gt;&lt;a
+href="#fnref73" class="footnote-back" role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id="fn74"&gt;&lt;p&gt;&lt;a
+href="http://www.dwheeler.com/essays/gpl-compatible.html#xfree86"
+class="uri"&gt;http://www.dwheeler.com/essays/gpl-compatible.html#xfree86&lt;/a&gt;&lt;a
+href="#fnref74" class="footnote-back" role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
-&lt;/div&gt;</content><category term="Management"></category><category term="open source"></category><category term="free software"></category><category term="core"></category><category term="XFree86"></category><category term="Xorg"></category></entry><entry><title>The core melts down</title><link href="http://asterisk.dynevor.org/melting-core.html" rel="alternate"></link><published>2013-06-25T14:00:00-07:00</published><updated>2013-06-25T14:00:00-07:00</updated><author><name>Matthew Brett</name></author><id>tag:asterisk.dynevor.org,2013-06-25:/melting-core.html</id><summary type="html">&lt;p&gt;NetBSD developers on death by leadership vacuum&lt;/p&gt;</summary><content type="html">&lt;p&gt;My friend &lt;a href="http://pirsquared.org"&gt;Paul Ivanov&lt;/a&gt; kindly pointed me to this
-&lt;a href="http://julipedia.meroh.net/2013/06/self-interview-after-leaving-netbsd.html"&gt;Self-interview after leaving the NetBSD
-board&lt;/a&gt; by Julio Merino.&lt;/p&gt;
-&lt;p&gt;This lead me to an earlier &lt;a href="http://mail-index.netbsd.org/netbsd-users/2006/08/30/0016.html"&gt;NetBSD resignation
-email&lt;/a&gt; from
-Charles Hannum, one of the "4 originators of NetBSD".&lt;/p&gt;
-&lt;p&gt;They both complain of lack of leadership.  From Merino's post:&lt;/p&gt;
+&lt;/section&gt;
+</content><category term="organizations"></category><category term="Management"></category><category term="open source"></category><category term="free software"></category><category term="core"></category><category term="XFree86"></category><category term="Xorg"></category></entry><entry><title>The core melts down</title><link href="https://asterisk.dynevor.org/melting-core.html" rel="alternate"></link><published>2013-06-25T14:00:00+01:00</published><updated>2013-06-25T14:00:00+01:00</updated><author><name>Matthew Brett</name></author><id>tag:asterisk.dynevor.org,2013-06-25:/melting-core.html</id><summary type="html">NetBSD developers on death by leadership vacuum</summary><content type="html">&lt;p&gt;My friend &lt;a href="http://pirsquared.org"&gt;Paul Ivanov&lt;/a&gt; kindly
+pointed me to this &lt;a
+href="http://julipedia.meroh.net/2013/06/self-interview-after-leaving-netbsd.html"&gt;Self-interview
+after leaving the NetBSD board&lt;/a&gt; by Julio Merino.&lt;/p&gt;
+&lt;p&gt;This lead me to an earlier &lt;a
+href="http://mail-index.netbsd.org/netbsd-users/2006/08/30/0016.html"&gt;NetBSD
+resignation email&lt;/a&gt; from Charles Hannum, one of the “4 originators of
+NetBSD”.&lt;/p&gt;
+&lt;p&gt;They both complain of lack of leadership. From Merino’s post:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;[the "core" and "board of directors"] teams are dysfunctional because they
-do not provide leadership: all they do is act reactively to requests from
-users and/or to resolve internal disputes. In other words: there is no
-initiative nor vision emerging from these teams (and, for that matter, from
-anybody).&lt;/p&gt;
+&lt;p&gt;[the “core” and “board of directors”] teams are dysfunctional because
+they do not provide leadership: all they do is act reactively to
+requests from users and/or to resolve internal disputes. In other words:
+there is no initiative nor vision emerging from these teams (and, for
+that matter, from anybody).&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;From Hannum:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;There is no high-level direction; if you ask "what about the problems with
-threads" or "will there be a flash-friendly file system", the best you'll
-get is "we'd love to have both" -- but no work is done to recruit people to
-code these things, or encourage existing developers to work on them.&lt;/p&gt;
+&lt;p&gt;There is no high-level direction; if you ask “what about the problems
+with threads” or “will there be a flash-friendly file system”, the best
+you’ll get is “we’d love to have both” – but no work is done to recruit
+people to code these things, or encourage existing developers to work on
+them.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Merino also complains that the NetBSD leadership will not take risks:&lt;/p&gt;
+&lt;p&gt;Merino also complains that the NetBSD leadership will not take
+risks:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;As things are today, the project leaders will almost always settle for
-either the conservative solution or a solution that compromises on every
-detail so as to not annoy anyone. Unfortunately, this approach implicitly
-disappoints a group of people — a group of people that may not be vocal
-enough to express their preferences out of previous disappointments. All of
-this, of course, only happens when the leader teams are asked about
-something, as they will rarely provide input unless asked for (see reactive
-model above).&lt;/p&gt;
+&lt;p&gt;As things are today, the project leaders will almost always settle
+for either the conservative solution or a solution that compromises on
+every detail so as to not annoy anyone. Unfortunately, this approach
+implicitly disappoints a group of people — a group of people that may
+not be vocal enough to express their preferences out of previous
+disappointments. All of this, of course, only happens when the leader
+teams are asked about something, as they will rarely provide input
+unless asked for (see reactive model above).&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Hannum wonders aloud whether the diffuse management structure is the problem:&lt;/p&gt;
+&lt;p&gt;Hannum wonders aloud whether the diffuse management structure is the
+problem:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Much of this early structure (CVS, web site, cabal ["core" group], etc.) was
-copied verbatim by other open source (this term not being in wide use yet)
-projects -- even the form of the project name and the term "core".  This
-later became a kind of standard template for starting up an open source
-project. [...] I'm sorry to say that I helped create this problem, and that
-most of the projects which modeled themselves after NetBSD (probably due to
-its high popularity in 1993 and 1994) have suffered similar problems.
-FreeBSD and XFree86, for example, have both forked successor projects
-(Dragonfly and X.org) for very similar reasons.&amp;gt;&lt;/p&gt;
+&lt;p&gt;Much of this early structure (CVS, web site, cabal [“core” group],
+etc.) was copied verbatim by other open source (this term not being in
+wide use yet) projects – even the form of the project name and the term
+“core”. This later became a kind of standard template for starting up an
+open source project. […] I’m sorry to say that I helped create this
+problem, and that most of the projects which modeled themselves after
+NetBSD (probably due to its high popularity in 1993 and 1994) have
+suffered similar problems. FreeBSD and XFree86, for example, have both
+forked successor projects (Dragonfly and X.org) for very similar
+reasons.&amp;gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Hannum wanted a change in leadership:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;1) There must be a strong leadership, and it is not the current one.
- The leadership must honestly want NetBSD to be a premier, world class
- system with leading edge features.  The leadership must set
- aggressive goals, and actively recruit people to make them happen.&lt;/p&gt;
+&lt;ol type="1"&gt;
+&lt;li&gt;There must be a strong leadership, and it is not the current one.
+The leadership must honestly want NetBSD to be a premier, world class
+system with leading edge features. The leadership must set aggressive
+goals, and actively recruit people to make them happen.&lt;/li&gt;
+&lt;/ol&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;and:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;I must repeat a point I've made earlier.  The current "management" of the
-project is not going to either fix the project's problems, or lead the
-project to solutions.  They are going to maintain the status quo, and
-nothing else.  If the project is to rise from its charred stump, this
-"management" must be disbanded and replaced wholesale.  Anything less is a
-non-solution.&lt;/p&gt;
-&lt;/blockquote&gt;</content><category term="Management"></category><category term="open source"></category><category term="free software"></category><category term="core"></category><category term="BSD"></category><category term="NetBSD"></category></entry><entry><title>Disapproval of heart</title><link href="http://asterisk.dynevor.org/disapproval-of-heart.html" rel="alternate"></link><published>2013-04-22T00:50:00-07:00</published><updated>2013-04-22T00:50:00-07:00</updated><author><name>Matthew Brett</name></author><id>tag:asterisk.dynevor.org,2013-04-22:/disapproval-of-heart.html</id><summary type="html">&lt;p&gt;Sima Qian on the dangers of a wry smile&lt;/p&gt;</summary><content type="html">&lt;blockquote&gt;
-&lt;p&gt;Shortly before this, the minister of agriculture Yan Yi had been put to
-death. Yan Yi had originally been a village head in Ji'nan.  Because of his
-honesty and integrity, he was gradually promoted in office until he became
-one of the highest ministers. [...]&lt;/p&gt;
-&lt;p&gt;... Yan Yi was on bad terms with Zhang Tang.  When someone bought an
-accusation against Yan Yi for some other affair, the matter was referred to
-Zhang Tang for investigation.  Earlier Yan Yi had been talking with one of
-his guests, when the guest remarked that some new law that had just been put
-into affect did not seem very practical.  Yan Yi had made no answer, but
-given only a subtle wry twist of his lips.  Zhang Tang sent a memorial to the
-throne relating this affair and stating "Yang Yi, one of the nine highest
-ministers, having seen that the law was impractical, did not state his
-opinion to the emperor, but nevertheless disapproved of it in his heart.  For
-this offence he is deserving of death!".  From this time on, the crime known
-as "disapproval of heart" became a part of the law, and most of the high
-ministers and officials resorted to gross flattery in order to stay in the
-good graces of the emperor.&lt;/p&gt;
-&lt;p&gt;-- &lt;cite&gt;Sima Qian, Records of the Grand Historian; Han Dynasty II (revised
-edition). pp 75-76 Translated by Burton Watson.  Columbia University Press
-1993 &lt;/cite&gt;&lt;/p&gt;
-&lt;/blockquote&gt;</content><category term="History"></category><category term="China"></category></entry><entry><title>A bad time</title><link href="http://asterisk.dynevor.org/a-bad-time.html" rel="alternate"></link><published>2013-04-21T16:30:00-07:00</published><updated>2013-04-21T16:30:00-07:00</updated><author><name>Matthew Brett</name></author><id>tag:asterisk.dynevor.org,2013-04-21:/a-bad-time.html</id><summary type="html">&lt;p&gt;Sima Qian on decay&lt;/p&gt;</summary><content type="html">&lt;blockquote&gt;
-&lt;p&gt;From the time of these men on, the empire was torn by the strife of the
-warring kingdoms. Men honoured deceit and power and scoffed at benevolence
-and righteousness; they put wealth and possession first and courtesy and
-humility last.&lt;/p&gt;
-&lt;p&gt;-- &lt;cite&gt;Sima Qian, Records of the Grand Historian; Han Dynasty II (revised
-edition). p 84 Translated by Burton Watson.  Columbia University Press 1993
-&lt;/cite&gt;&lt;/p&gt;
-&lt;/blockquote&gt;</content><category term="History"></category><category term="China"></category></entry></feed>
+&lt;p&gt;I must repeat a point I’ve made earlier. The current “management” of
+the project is not going to either fix the project’s problems, or lead
+the project to solutions. They are going to maintain the status quo, and
+nothing else. If the project is to rise from its charred stump, this
+“management” must be disbanded and replaced wholesale. Anything less is
+a non-solution.&lt;/p&gt;
+&lt;/blockquote&gt;
+</content><category term="organizations"></category><category term="Management"></category><category term="open source"></category><category term="free software"></category><category term="core"></category><category term="BSD"></category><category term="NetBSD"></category></entry><entry><title>Disapproval of heart</title><link href="https://asterisk.dynevor.org/disapproval-of-heart.html" rel="alternate"></link><published>2013-04-22T00:50:00+01:00</published><updated>2013-04-22T00:50:00+01:00</updated><author><name>Matthew Brett</name></author><id>tag:asterisk.dynevor.org,2013-04-22:/disapproval-of-heart.html</id><summary type="html">Sima Qian on the dangers of a wry smile</summary><content type="html">&lt;blockquote&gt;
+&lt;p&gt;Shortly before this, the minister of agriculture Yan Yi had been put
+to death. Yan Yi had originally been a village head in Ji’nan. Because
+of his honesty and integrity, he was gradually promoted in office until
+he became one of the highest ministers. […]&lt;/p&gt;
+&lt;p&gt;… Yan Yi was on bad terms with Zhang Tang. When someone bought an
+accusation against Yan Yi for some other affair, the matter was referred
+to Zhang Tang for investigation. Earlier Yan Yi had been talking with
+one of his guests, when the guest remarked that some new law that had
+just been put into affect did not seem very practical. Yan Yi had made
+no answer, but given only a subtle wry twist of his lips. Zhang Tang
+sent a memorial to the throne relating this affair and stating “Yang Yi,
+one of the nine highest ministers, having seen that the law was
+impractical, did not state his opinion to the emperor, but nevertheless
+disapproved of it in his heart. For this offence he is deserving of
+death!”. From this time on, the crime known as “disapproval of heart”
+became a part of the law, and most of the high ministers and officials
+resorted to gross flattery in order to stay in the good graces of the
+emperor.&lt;/p&gt;
+&lt;p&gt;– &lt;cite&gt;Sima Qian, Records of the Grand Historian; Han Dynasty II
+(revised edition). pp 75-76 Translated by Burton Watson. Columbia
+University Press 1993 &lt;/cite&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</content><category term="organizations"></category><category term="History"></category><category term="China"></category></entry><entry><title>A bad time</title><link href="https://asterisk.dynevor.org/a-bad-time.html" rel="alternate"></link><published>2013-04-21T16:30:00+01:00</published><updated>2013-04-21T16:30:00+01:00</updated><author><name>Matthew Brett</name></author><id>tag:asterisk.dynevor.org,2013-04-21:/a-bad-time.html</id><summary type="html">Sima Qian on decay</summary><content type="html">&lt;blockquote&gt;
+&lt;p&gt;From the time of these men on, the empire was torn by the strife of
+the warring kingdoms. Men honoured deceit and power and scoffed at
+benevolence and righteousness; they put wealth and possession first and
+courtesy and humility last.&lt;/p&gt;
+&lt;p&gt;– &lt;cite&gt;Sima Qian, Records of the Grand Historian; Han Dynasty II
+(revised edition). p 84 Translated by Burton Watson. Columbia University
+Press 1993 &lt;/cite&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</content><category term="organizations"></category><category term="History"></category><category term="China"></category></entry></feed>

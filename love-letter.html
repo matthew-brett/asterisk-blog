@@ -1,136 +1,341 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-        <meta charset="utf-8" />
-        <title>Why do researchers write sloppy code?</title>
-        <link rel="stylesheet" href="http://asterisk.dynevor.org/theme/css/main.css" />
-        <link href="http://asterisk.dynevor.org/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Asterisk Atom Feed" />
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="https://asterisk.dynevor.org/theme/css/style.min.css?2fcac227">
 
-        <!--[if IE]>
-            <script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-        <![endif]-->
-</head>
+        <link rel="dns-prefetch" href="//fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
 
-<body id="index" class="home">
-        <header id="banner" class="body">
-                <h1><a href="http://asterisk.dynevor.org/">Asterisk </a></h1>
-                <nav><ul>
-                    <li><a href="http://asterisk.dynevor.org/category/bible-criticism.html">bible criticism</a></li>
-                    <li><a href="http://asterisk.dynevor.org/category/organizations.html">organizations</a></li>
-                    <li class="active"><a href="http://asterisk.dynevor.org/category/teaching.html">teaching</a></li>
-                </ul></nav>
-        </header><!-- /#banner -->
-<section id="content" class="body">
-  <article>
-    <header>
-      <h1 class="entry-title">
-        <a href="http://asterisk.dynevor.org/love-letter.html" rel="bookmark"
-           title="Permalink to Why do researchers write sloppy code?">Why do researchers write sloppy code?</a></h1>
+        <meta name="author" content="Matthew Brett" />
+
+        <meta property="og:type" content="article" />
+        <meta name="twitter:card" content="summary">
+
+<meta name="keywords" content="Thinking, Teaching, Coding, teaching, " />
+
+<meta property="og:title" content="Why do researchers write sloppy code? "/>
+<meta property="og:url" content="https://asterisk.dynevor.org/love-letter.html" />
+<meta property="og:description" content="A love letter to the computer" />
+<meta property="og:site_name" content="Asterisk" />
+<meta property="og:article:author" content="Matthew Brett" />
+<meta property="og:article:published_time" content="2016-01-15T14:00:00+00:00" />
+<meta name="twitter:title" content="Why do researchers write sloppy code? ">
+<meta name="twitter:description" content="A love letter to the computer">
+
+        <title>Why do researchers write sloppy code?  · Asterisk
+</title>
+        <link href="https://asterisk.dynevor.org/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Asterisk - Full Atom Feed" />
+
+
+
+    </head>
+    <body>
+        <div id="content">
+            <div class="navbar navbar-static-top">
+                <div class="navbar-inner">
+                    <div class="container-fluid">
+                        <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </a>
+                        <a class="brand" href="https://asterisk.dynevor.org/"><span class=site-name>Asterisk</span></a>
+                        <div class="nav-collapse collapse">
+                            <ul class="nav pull-right top-menu">
+                                <li >
+                                    <a href=
+                                       https://asterisk.dynevor.org
+                                    >Home</a>
+                                </li>
+                                <li ><a href="https://asterisk.dynevor.org/pages/about.html">About</a></li>
+                                <li ><a href="https://asterisk.dynevor.org/categories.html">Categories</a></li>
+                                <li ><a href="https://asterisk.dynevor.org/tags.html">Tags</a></li>
+                                <li ><a href="https://asterisk.dynevor.org/archives.html">Archives</a></li>
+                                <li><form class="navbar-search" action="https://asterisk.dynevor.org/search.html" onsubmit="return validateForm(this.elements['q'].value);"> <input type="text" class="search-query" placeholder="Search" name="q" id="tipue_search_input"></form></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="container-fluid">
+                <div class="row-fluid">
+                    <div class="span1"></div>
+                    <div class="span10">
+<article itemscope>
+<div class="row-fluid">
+    <header class="page-header span10 offset2">
+        <h1>
+            <a href="https://asterisk.dynevor.org/love-letter.html">
+                Why do researchers write sloppy code?
+            </a>
+        </h1>
     </header>
+</div>
 
-    <div class="entry-content">
-<footer class="post-info">
-        <abbr class="published" title="2016-01-15T14:00:00-08:00">
-                Published: Fri 15 January 2016
-        </abbr>
-
-        <address class="vcard author">
-                By                         <a class="url fn" href="http://asterisk.dynevor.org/author/matthew-brett.html">Matthew Brett</a>
-        </address>
-<p>In <a href="http://asterisk.dynevor.org/category/teaching.html">teaching</a>.</p>
-<p>tags: <a href="http://asterisk.dynevor.org/tag/thinking.html">Thinking</a> <a href="http://asterisk.dynevor.org/tag/teaching.html">Teaching</a> <a href="http://asterisk.dynevor.org/tag/coding.html">Coding</a> </p>
-</footer><!-- /.post-info -->      <p>A friend of mine teaches a subject that involves scientific programming.  He
-has several times told me that he is surprised at some of the work that
-students turn in.  He tells me that it is often messy and badly written.
-Despite his clear instructions, the code often does not run as written and may
-have very obvious syntax errors, commented out lines for debugging and other
-work-in-progress cruft.  He wonders why the students turn in such bad code,
-when they would be much more careful turning in a mathematical proof.</p>
-<p>This reminds me of a quote that I read a long time since, and have just found
-again in the famous "Code Complete" (<sup id="fnref-code-complete"><a class="footnote-ref" href="#fn-code-complete">1</a></sup>).</p>
+<div class="row-fluid">
+        <div class="span8 offset2 article-content">
+            
+            <p>A friend of mine teaches a subject that involves scientific
+programming. He has several times told me that he is surprised at some
+of the work that students turn in. He tells me that it is often messy
+and badly written. Despite his clear instructions, the code often does
+not run as written and may have very obvious syntax errors, commented
+out lines for debugging and other work-in-progress cruft. He wonders why
+the students turn in such bad code, when they would be much more careful
+turning in a mathematical proof.</p>
+<p>This reminds me of a quote that I read a long time since, and have
+just found again in the famous “Code Complete” (<a href="#fn1"
+class="footnote-ref" id="fnref1"
+role="doc-noteref"><sup>1</sup></a>).</p>
 <blockquote>
-<p>In the early years of programming, a program was regarded as the private
-property of the programmer. One would no more think of reading a colleague's
-program unbidden than of picking up a love letter and reading it. This is
-essentially what a program was, a love letter from the programmer to the
-hardware, full of the intimate details known only to partners in an affair.
-Consequently, programs became larded with the pet names and verbal shorthand
-so popular with lovers who live in the blissful abstraction that assumes
-that theirs is the only existence in the universe. Such programs are
-unintelligible to those outside the partnership.</p>
+<p>In the early years of programming, a program was regarded as the
+private property of the programmer. One would no more think of reading a
+colleague’s program unbidden than of picking up a love letter and
+reading it. This is essentially what a program was, a love letter from
+the programmer to the hardware, full of the intimate details known only
+to partners in an affair. Consequently, programs became larded with the
+pet names and verbal shorthand so popular with lovers who live in the
+blissful abstraction that assumes that theirs is the only existence in
+the universe. Such programs are unintelligible to those outside the
+partnership.</p>
 </blockquote>
 <p>(Attributed to Michael Marcotty).</p>
-<p>Students producing proofs in math have had a lot of practice in making the
-proof easy to follow.  They know that the proof is for the teacher or grader,
-and they write the proof for them.</p>
-<p>Students do not have the same feeling about code.  For them, code is a private
-conversation between them and the computer.  If the computer does what we
-want, at least once, then the conversation that led to up that is outside the
-scope of public comment. The fact that the computer did what we wanted is the
-equivalent of the mathematical proof, and the code that made that happen is
-equivalent to the working notes for the proof.</p>
-<p>That way of thinking is surprising to someone who has spent time developing
-software, because we know that we make many mistakes, and that, to reduce the
-number of mistakes, we need to lay out our reasoning in code, for others to
-check.</p>
-<p>One difference between the developer and the student is that the developer
-knows that their code has to give the right answer in a range of
-circumstances, over a fairly long period of time, and on different types of
-computers.  To defend ourselves, we ask "is this code correct?".  If we want a
-good answer to this question, we have to write code that others can follow and
-criticize. The student usually has a different task, which is to get the
-computer to give a small number of required outputs.  Their question is "does
-this code give the required outputs in the situations for which I will be
-graded".  For that question, code quality is irrelevant.</p>
-<p>That is a damn shame, because in due course, the student may go on to do
-research.  Their work will very likely involve some kind of coding.  They have
-learned that the point of coding is to get the desired result.  They write
-terrible, poorly organized code, that is full of errors, hard to read, and
-dangerous to re-use.  After some editing, the code produces a plausible
-answer, but it is likely to be wrong, because, as every experienced coder
-knows, <a href="http://blog.nipy.org/ubiquity-of-error.html">coders make errors all the
-time</a>.  The researcher can only
-know the answer is wrong if they know the code is wrong, but that is something
-that they have no instinct to investigate.</p>
-<div class="footnote">
-<hr>
+<p>Students producing proofs in math have had a lot of practice in
+making the proof easy to follow. They know that the proof is for the
+teacher or grader, and they write the proof for them.</p>
+<p>Students do not have the same feeling about code. For them, code is a
+private conversation between them and the computer. If the computer does
+what we want, at least once, then the conversation that led to up that
+is outside the scope of public comment. The fact that the computer did
+what we wanted is the equivalent of the mathematical proof, and the code
+that made that happen is equivalent to the working notes for the
+proof.</p>
+<p>That way of thinking is surprising to someone who has spent time
+developing software, because we know that we make many mistakes, and
+that, to reduce the number of mistakes, we need to lay out our reasoning
+in code, for others to check.</p>
+<p>One difference between the developer and the student is that the
+developer knows that their code has to give the right answer in a range
+of circumstances, over a fairly long period of time, and on different
+types of computers. To defend ourselves, we ask “is this code correct?”.
+If we want a good answer to this question, we have to write code that
+others can follow and criticize. The student usually has a different
+task, which is to get the computer to give a small number of required
+outputs. Their question is “does this code give the required outputs in
+the situations for which I will be graded”. For that question, code
+quality is irrelevant.</p>
+<p>That is a damn shame, because in due course, the student may go on to
+do research. Their work will very likely involve some kind of coding.
+They have learned that the point of coding is to get the desired result.
+They write terrible, poorly organized code, that is full of errors, hard
+to read, and dangerous to re-use. After some editing, the code produces
+a plausible answer, but it is likely to be wrong, because, as every
+experienced coder knows, <a
+href="http://blog.nipy.org/ubiquity-of-error.html">coders make errors
+all the time</a>. The researcher can only know the answer is wrong if
+they know the code is wrong, but that is something that they have no
+instinct to investigate.</p>
+<section id="footnotes" class="footnotes footnotes-end-of-document"
+role="doc-endnotes">
+<hr />
 <ol>
-<li id="fn-code-complete">
-<p>Steve McConnell "Code Complete, second edition" (2004) p842.
-Microsoft Press.&#160;<a class="footnote-backref" href="#fnref-code-complete" title="Jump back to footnote 1 in the text">&#8617;</a></p>
-</li>
+<li id="fn1"><p>Steve McConnell “Code Complete, second edition” (2004)
+p842. Microsoft Press.<a href="#fnref1" class="footnote-back"
+role="doc-backlink">↩︎</a></p></li>
 </ol>
-</div>
-    </div><!-- /.entry-content -->
-
-  </article>
 </section>
-        <section id="extras" class="body">
-                <div class="blogroll">
-                        <h2>links</h2>
-                        <ul>
-                            <li><a href="http://getpelican.com/">Pelican</a></li>
-                            <li><a href="http://python.org/">Python.org</a></li>
-                            <li><a href="http://matthew.dynevor.org">My pages</a></li>
-                            <li><a href="http://nipy.org/">Nipy</a></li>
-                        </ul>
-                </div><!-- /.blogroll -->
-                <div class="social">
-                        <h2>social</h2>
-                        <ul>
-                            <li><a href="http://asterisk.dynevor.org/feeds/all.atom.xml" type="application/atom+xml" rel="alternate">atom feed</a></li>
 
-                        </ul>
-                </div><!-- /.social -->
-        </section><!-- /#extras -->
 
-        <footer id="contentinfo" class="body">
-                <address id="about" class="vcard body">
-                Proudly powered by <a href="http://getpelican.com/">Pelican</a>, which takes great advantage of <a href="http://python.org">Python</a>.
-                </address><!-- /#about -->
 
-                <p>The theme is by <a href="http://coding.smashingmagazine.com/2009/08/04/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p>
-        </footer><!-- /#contentinfo -->
+             
+ 
+                <p id="post-share-links">
+    Share on:
+      <a href="https://twitter.com/intent/tweet?text=Why%20do%20researchers%20write%20sloppy%20code%3F&url=https%3A//asterisk.dynevor.org/love-letter.html&hashtags=thinking,teaching,coding" target="_blank" rel="nofollow noopener noreferrer" title="Share on Twitter">Twitter</a>
+ ❄       <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//asterisk.dynevor.org/love-letter.html" target="_blank" rel="nofollow noopener noreferrer" title="Share on Facebook">Facebook</a>
+ ❄       <a href="mailto:?subject=Why%20do%20researchers%20write%20sloppy%20code%3F&amp;body=https%3A//asterisk.dynevor.org/love-letter.html" target="_blank" rel="nofollow noopener noreferrer" title="Share via Email">Email</a>
 
-</body>
+                <hr />
+    <div class="author-blurb">
+        <a href="" target="_blank" rel="nofollow noopener noreferrer">
+            <span class="author-name">Matthew Brett</span>
+        </a>
+        
+    </div>
+
+            
+
+
+
+
+
+
+
+            <hr/>
+            <aside>
+            <nav>
+            <ul class="articles-timeline">
+                <li class="previous-article">« <a href="https://asterisk.dynevor.org/makes-sense.html" title="Previous: Makes-sense epistemology">Makes-sense epistemology</a></li>
+                <li class="next-article"><a href="https://asterisk.dynevor.org/i-wrote-a-blog-link.html" title="Next: I wrote a blog post about “makes-sense epistemology">I wrote a blog post about “makes-sense epistemology</a> »</li>
+            </ul>
+            </nav>
+            </aside>
+        </div>
+        <section id="article-sidebar" class="span2">
+            <h4>Published</h4>
+            <time itemprop="dateCreated" datetime="2016-01-15T14:00:00+00:00">Fri 15 January 2016</time>
+            <h4>Category</h4>
+            <a class="category-link" href="https://asterisk.dynevor.org/categories.html#teaching-ref">teaching</a>
+            <h4>Tags</h4>
+            <ul class="list-of-tags tags-in-article">
+                <li><a href="https://asterisk.dynevor.org/tags.html#coding-ref">Coding
+                    <span class="superscript">3</span>
+</a></li>
+                <li><a href="https://asterisk.dynevor.org/tags.html#teaching-ref">Teaching
+                    <span class="superscript">4</span>
+</a></li>
+                <li><a href="https://asterisk.dynevor.org/tags.html#thinking-ref">Thinking
+                    <span class="superscript">3</span>
+</a></li>
+            </ul>
+<h4>Atom feed</h4>
+<div id="sidebar-social-link">
+    <a href="/feeds/all.atom.xml" title="" target="_blank" rel="nofollow noopener noreferrer">
+        <svg xmlns="http://www.w3.org/2000/svg" aria-label="RSS" role="img" viewBox="0 0 512 512"><rect width="512" height="512" rx="15%" fill="#f80"/><circle cx="145" cy="367" r="35" fill="#fff"/><path fill="none" stroke="#fff" stroke-width="60" d="M109 241c89 0 162 73 162 162M109 127c152 0 276 124 276 276"/></svg>
+    </a>
+</div>
+            
+
+
+
+
+
+            
+
+
+
+
+
+        </section>
+</div>
+</article>
+<!-- Root element of PhotoSwipe. Must have class pswp. -->
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    <!-- Background of PhotoSwipe.
+         It's a separate element as animating opacity is faster than rgba(). -->
+    <div class="pswp__bg"></div>
+
+    <!-- Slides wrapper with overflow:hidden. -->
+    <div class="pswp__scroll-wrap">
+
+        <!-- Container that holds slides.
+            PhotoSwipe keeps only 3 of them in the DOM to save memory.
+            Don't modify these 3 pswp__item elements, data is added later on. -->
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        <!-- Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. -->
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                <!--  Controls are self-explanatory. Order can be changed. -->
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                <!-- Preloader demo https://codepen.io/dimsemenov/pen/yyBWoR -->
+                <!-- element will get class pswp__preloader--active when preloader is running -->
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                      <div class="pswp__preloader__cut">
+                        <div class="pswp__preloader__donut"></div>
+                      </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div>
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div>                    </div>
+                    <div class="span1"></div>
+                </div>
+            </div>
+        </div>
+<footer>
+
+
+
+
+    <div id="fpowered">
+        Powered by: <a href="http://getpelican.com/" title="Pelican Home Page" target="_blank" rel="nofollow noopener noreferrer">Pelican</a>
+        Theme: <a href="https://elegant.oncrashreboot.com/" title="Theme Elegant Home Page" target="_blank" rel="nofollow noopener noreferrer">Elegant</a>
+    </div>
+</footer>            <script src="//code.jquery.com/jquery.min.js"></script>
+        <script src="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js"></script>
+        <script src="https://asterisk.dynevor.org/theme/js/elegant.prod.9e9d5ce754.js"></script>
+        <script>
+            function validateForm(query)
+            {
+                return (query.length > 0);
+            }
+        </script>
+
+    <script>
+    (function () {
+        if (window.location.hash.match(/^#comment-\d+$/)) {
+            $('#comment_thread').collapse('show');
+        }
+    })();
+    window.onhashchange=function(){
+        if (window.location.hash.match(/^#comment-\d+$/))
+            window.location.reload(true);
+    }
+    $('#comment_thread').on('shown', function () {
+        var link = document.getElementById('comment-accordion-toggle');
+        var old_innerHTML = link.innerHTML;
+        $(link).fadeOut(200, function() {
+            $(this).text('Click here to hide comments').fadeIn(200);
+        });
+        $('#comment_thread').on('hidden', function () {
+            $(link).fadeOut(200, function() {
+                $(this).text(old_innerHTML).fadeIn(200);
+            });
+        })
+    })
+</script>
+
+    </body>
+    <!-- Theme: Elegant built for Pelican
+        License : MIT -->
 </html>

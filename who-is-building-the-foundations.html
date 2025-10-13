@@ -1,0 +1,436 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="https://asterisk.dynevor.org/theme/css/style.min.css?2fcac227">
+
+        <link rel="dns-prefetch" href="//fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
+
+        <meta name="author" content="Matthew Brett" />
+
+        <meta property="og:type" content="article" />
+        <meta name="twitter:card" content="summary">
+
+<meta name="keywords" content="Python, open-source, scientific Python, culture, teaching, " />
+
+<meta property="og:title" content="Who is building the foundations? "/>
+<meta property="og:url" content="https://asterisk.dynevor.org/who-is-building-the-foundations.html" />
+<meta property="og:description" content="I tried to estimate the extent to which different countries contribute to the foundations of scientific Python. To do this I analyzed commits and &lt;a href=&#34;https://github.com&#34;&gt;Github data for the following set of libraries: Numpy Scipy Matplotlib Scikit-learn Scikit-image Statsmodels Pandas h5py Cython Sympy I chose these libraries because they are common …" />
+<meta property="og:site_name" content="Asterisk" />
+<meta property="og:article:author" content="Matthew Brett" />
+<meta property="og:article:published_time" content="2019-05-14T16:14:00+01:00" />
+<meta name="twitter:title" content="Who is building the foundations? ">
+<meta name="twitter:description" content="I tried to estimate the extent to which different countries contribute to the foundations of scientific Python. To do this I analyzed commits and &lt;a href=&#34;https://github.com&#34;&gt;Github data for the following set of libraries: Numpy Scipy Matplotlib Scikit-learn Scikit-image Statsmodels Pandas h5py Cython Sympy I chose these libraries because they are common …">
+
+        <title>Who is building the foundations?  · Asterisk
+</title>
+        <link href="https://asterisk.dynevor.org/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Asterisk - Full Atom Feed" />
+
+
+
+    </head>
+    <body>
+        <div id="content">
+            <div class="navbar navbar-static-top">
+                <div class="navbar-inner">
+                    <div class="container-fluid">
+                        <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </a>
+                        <a class="brand" href="https://asterisk.dynevor.org/"><span class=site-name>Asterisk</span></a>
+                        <div class="nav-collapse collapse">
+                            <ul class="nav pull-right top-menu">
+                                <li >
+                                    <a href=
+                                       https://asterisk.dynevor.org
+                                    >Home</a>
+                                </li>
+                                <li ><a href="https://asterisk.dynevor.org/pages/about.html">About</a></li>
+                                <li ><a href="https://asterisk.dynevor.org/categories.html">Categories</a></li>
+                                <li ><a href="https://asterisk.dynevor.org/tags.html">Tags</a></li>
+                                <li ><a href="https://asterisk.dynevor.org/archives.html">Archives</a></li>
+                                <li><form class="navbar-search" action="https://asterisk.dynevor.org/search.html" onsubmit="return validateForm(this.elements['q'].value);"> <input type="text" class="search-query" placeholder="Search" name="q" id="tipue_search_input"></form></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="container-fluid">
+                <div class="row-fluid">
+                    <div class="span1"></div>
+                    <div class="span10">
+<article itemscope>
+<div class="row-fluid">
+    <header class="page-header span10 offset2">
+        <h1>
+            <a href="https://asterisk.dynevor.org/who-is-building-the-foundations.html">
+                Who is building the foundations?
+            </a>
+        </h1>
+    </header>
+</div>
+
+<div class="row-fluid">
+        <div class="span8 offset2 article-content">
+            
+            <p>I tried to estimate the extent to which different countries
+contribute to the foundations of scientific Python.</p>
+<p>To do this I analyzed commits and <a
+href="https://github.com">Github</a> data for the following set of
+libraries:</p>
+<ul>
+<li>Numpy</li>
+<li>Scipy</li>
+<li>Matplotlib</li>
+<li>Scikit-learn</li>
+<li>Scikit-image</li>
+<li>Statsmodels</li>
+<li>Pandas</li>
+<li>h5py</li>
+<li>Cython</li>
+<li>Sympy</li>
+</ul>
+<p>I chose these libraries because they are common building blocks for
+more specialized libraries and workflows.</p>
+<p>I made some effort to attribute library commits to authors, and then
+authors to countries, to give commits per country, across all these
+libraries.</p>
+<p>I then divided the number of commits by the population in the
+country, in millions, to give a measure of the extent to which a country
+is pulling its weight, relative to its resources.</p>
+<p>Here is the table of the top 10 countries, by number of commits,
+ordered by their commits / million in the population.</p>
+<table>
+<colgroup>
+<col style="width: 32%" />
+<col style="width: 13%" />
+<col style="width: 30%" />
+<col style="width: 23%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Country</th>
+<th style="text-align: right;">Commits</th>
+<th style="text-align: right;">Population (millions)</th>
+<th style="text-align: right;">Commits/million</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Finland</td>
+<td style="text-align: right;">4607</td>
+<td style="text-align: right;">5.5</td>
+<td style="text-align: right;">831.6</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Canada</td>
+<td style="text-align: right;">12533</td>
+<td style="text-align: right;">37.0</td>
+<td style="text-align: right;">339.2</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Switzerland</td>
+<td style="text-align: right;">2676</td>
+<td style="text-align: right;">8.5</td>
+<td style="text-align: right;">313.3</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">United States of America</td>
+<td style="text-align: right;">80336</td>
+<td style="text-align: right;">326.8</td>
+<td style="text-align: right;">245.8</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">France</td>
+<td style="text-align: right;">10755</td>
+<td style="text-align: right;">65.2</td>
+<td style="text-align: right;">164.9</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Germany</td>
+<td style="text-align: right;">13377</td>
+<td style="text-align: right;">82.3</td>
+<td style="text-align: right;">162.6</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">United Kingdom</td>
+<td style="text-align: right;">5523</td>
+<td style="text-align: right;">66.6</td>
+<td style="text-align: right;">83.0</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Japan</td>
+<td style="text-align: right;">3742</td>
+<td style="text-align: right;">127.2</td>
+<td style="text-align: right;">29.4</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Russian Federation</td>
+<td style="text-align: right;">3572</td>
+<td style="text-align: right;">144.0</td>
+<td style="text-align: right;">24.8</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">India</td>
+<td style="text-align: right;">5214</td>
+<td style="text-align: right;">1354.0</td>
+<td style="text-align: right;">3.9</td>
+</tr>
+</tbody>
+</table>
+<section id="method" class="level2">
+<h2>Method</h2>
+<p>You will find the code to generate data in this post at <a
+href="https://github.com/matthew-brett/github-places"
+class="uri">https://github.com/matthew-brett/github-places</a>.</p>
+<p>The analysis steps were:</p>
+<ul>
+<li>Clone all library repositories as submodules of the
+<code>github-places</code> analysis repository, above.</li>
+<li>Use <code>git shortlog</code> to get names, number of commits and
+other details of <em>significant contributors</em> to each repository. I
+defined a significant contributor (SC) as an author of 25 commits or
+more. As you will see below, SC commits account for about 90% of all
+repository commits.</li>
+<li>Use various heuristics to identify the Github user corresponding to
+each SC (see <code>find_gh_users.py</code> in the analysis repository).
+When the heuristics failed, I found the Github user manually. I had to
+do this for about 10% of SCs (see below).</li>
+<li>Using the SC Github user profile, or other research, identify the
+country in which the SC is currently based. I looked for the current
+location because this is the only information I have from their Github
+profiles. I had to identify the user’s country by doing web research for
+about 35% of SC Github users (see below).</li>
+</ul>
+<p>The results of these steps come from the output of
+<code>repo_analysis.py</code> in the analysis repository.</p>
+</section>
+<section id="repo-analysis-results" class="level2">
+<h2>Repo analysis results</h2>
+<p>I could not find the location for 1.4% of SCs, and therefore 0.2% of
+SC contributor commits.</p>
+<p>For 10.2% of SCs, I had to work out the corresponding Github user
+manually.</p>
+<p>I had to identify the locations of 34.8% of SC Github users manually
+by various searches.</p>
+<p>Percentage of total repository commits included in the analysis, by
+repository:</p>
+<ul>
+<li>numpy: 88.2</li>
+<li>scipy: 87.7</li>
+<li>matplotlib: 89.4</li>
+<li>scikit-learn: 85.1</li>
+<li>scikit-image: 89.3</li>
+<li>statsmodels: 94.4</li>
+<li>pandas: 81.0</li>
+<li>h5py: 83.1</li>
+<li>cython: 93.0</li>
+<li>sympy: 90.8</li>
+</ul>
+<p>Overall percentage 88.5</p>
+</section>
+<section id="commits-by-country-analysis" class="level2">
+<h2>Commits by country analysis</h2>
+<p>The table at the top of this post is the output from
+<code>commit_analysis.py</code> in the analysis repository.</p>
+</section>
+
+
+
+             
+ 
+                <p id="post-share-links">
+    Share on:
+      <a href="https://twitter.com/intent/tweet?text=Who%20is%20building%20the%20foundations%3F&url=https%3A//asterisk.dynevor.org/who-is-building-the-foundations.html&hashtags=python,open-source,scientific-python,culture" target="_blank" rel="nofollow noopener noreferrer" title="Share on Twitter">Twitter</a>
+ ❄       <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//asterisk.dynevor.org/who-is-building-the-foundations.html" target="_blank" rel="nofollow noopener noreferrer" title="Share on Facebook">Facebook</a>
+ ❄       <a href="mailto:?subject=Who%20is%20building%20the%20foundations%3F&amp;body=https%3A//asterisk.dynevor.org/who-is-building-the-foundations.html" target="_blank" rel="nofollow noopener noreferrer" title="Share via Email">Email</a>
+
+                <hr />
+    <div class="author-blurb">
+        <a href="" target="_blank" rel="nofollow noopener noreferrer">
+            <span class="author-name">Matthew Brett</span>
+        </a>
+        
+    </div>
+
+            
+
+
+
+
+
+
+
+            <hr/>
+            <aside>
+            <nav>
+            <ul class="articles-timeline">
+                <li class="previous-article">« <a href="https://asterisk.dynevor.org/learning-and-twitter.html" title="Previous: Learning and Twitter">Learning and Twitter</a></li>
+                <li class="next-article"><a href="https://asterisk.dynevor.org/how-do-the-foundations-get-built.html" title="Next: How do the foundations get built?">How do the foundations get built?</a> »</li>
+            </ul>
+            </nav>
+            </aside>
+        </div>
+        <section id="article-sidebar" class="span2">
+            <h4>Published</h4>
+            <time itemprop="dateCreated" datetime="2019-05-14T16:14:00+01:00">Tue 14 May 2019</time>
+            <h4>Category</h4>
+            <a class="category-link" href="https://asterisk.dynevor.org/categories.html#teaching-ref">teaching</a>
+            <h4>Tags</h4>
+            <ul class="list-of-tags tags-in-article">
+                <li><a href="https://asterisk.dynevor.org/tags.html#culture-ref">culture
+                    <span class="superscript">1</span>
+</a></li>
+                <li><a href="https://asterisk.dynevor.org/tags.html#open-source-ref">open-source
+                    <span class="superscript">11</span>
+</a></li>
+                <li><a href="https://asterisk.dynevor.org/tags.html#python-ref">Python
+                    <span class="superscript">4</span>
+</a></li>
+                <li><a href="https://asterisk.dynevor.org/tags.html#scientific-python-ref">scientific Python
+                    <span class="superscript">1</span>
+</a></li>
+            </ul>
+<h4>Atom feed</h4>
+<div id="sidebar-social-link">
+    <a href="/feeds/all.atom.xml" title="" target="_blank" rel="nofollow noopener noreferrer">
+        <svg xmlns="http://www.w3.org/2000/svg" aria-label="RSS" role="img" viewBox="0 0 512 512"><rect width="512" height="512" rx="15%" fill="#f80"/><circle cx="145" cy="367" r="35" fill="#fff"/><path fill="none" stroke="#fff" stroke-width="60" d="M109 241c89 0 162 73 162 162M109 127c152 0 276 124 276 276"/></svg>
+    </a>
+</div>
+            
+
+
+
+
+
+            
+
+
+
+
+
+        </section>
+</div>
+</article>
+<!-- Root element of PhotoSwipe. Must have class pswp. -->
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    <!-- Background of PhotoSwipe.
+         It's a separate element as animating opacity is faster than rgba(). -->
+    <div class="pswp__bg"></div>
+
+    <!-- Slides wrapper with overflow:hidden. -->
+    <div class="pswp__scroll-wrap">
+
+        <!-- Container that holds slides.
+            PhotoSwipe keeps only 3 of them in the DOM to save memory.
+            Don't modify these 3 pswp__item elements, data is added later on. -->
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        <!-- Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. -->
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                <!--  Controls are self-explanatory. Order can be changed. -->
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                <!-- Preloader demo https://codepen.io/dimsemenov/pen/yyBWoR -->
+                <!-- element will get class pswp__preloader--active when preloader is running -->
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                      <div class="pswp__preloader__cut">
+                        <div class="pswp__preloader__donut"></div>
+                      </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div>
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div>                    </div>
+                    <div class="span1"></div>
+                </div>
+            </div>
+        </div>
+<footer>
+
+
+
+
+    <div id="fpowered">
+        Powered by: <a href="http://getpelican.com/" title="Pelican Home Page" target="_blank" rel="nofollow noopener noreferrer">Pelican</a>
+        Theme: <a href="https://elegant.oncrashreboot.com/" title="Theme Elegant Home Page" target="_blank" rel="nofollow noopener noreferrer">Elegant</a>
+    </div>
+</footer>            <script src="//code.jquery.com/jquery.min.js"></script>
+        <script src="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js"></script>
+        <script src="https://asterisk.dynevor.org/theme/js/elegant.prod.9e9d5ce754.js"></script>
+        <script>
+            function validateForm(query)
+            {
+                return (query.length > 0);
+            }
+        </script>
+
+    <script>
+    (function () {
+        if (window.location.hash.match(/^#comment-\d+$/)) {
+            $('#comment_thread').collapse('show');
+        }
+    })();
+    window.onhashchange=function(){
+        if (window.location.hash.match(/^#comment-\d+$/))
+            window.location.reload(true);
+    }
+    $('#comment_thread').on('shown', function () {
+        var link = document.getElementById('comment-accordion-toggle');
+        var old_innerHTML = link.innerHTML;
+        $(link).fadeOut(200, function() {
+            $(this).text('Click here to hide comments').fadeIn(200);
+        });
+        $('#comment_thread').on('hidden', function () {
+            $(link).fadeOut(200, function() {
+                $(this).text(old_innerHTML).fadeIn(200);
+            });
+        })
+    })
+</script>
+
+    </body>
+    <!-- Theme: Elegant built for Pelican
+        License : MIT -->
+</html>
