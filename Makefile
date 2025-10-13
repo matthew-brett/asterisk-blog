@@ -87,9 +87,6 @@ publish: content
 ssh_upload: publish
 	scp -P $(SSH_PORT) -r $(OUTPUTDIR)/* $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)
 
-rsync_upload: publish
-	rsync -e "ssh -p $(SSH_PORT)" -P -rvzc --cvs-exclude --delete $(OUTPUTDIR)/ $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)
-
 .PHONY: html help clean regenerate serve serve-global devserver stopserver publish ssh_upload rsync_upload content
 
 newpost:
@@ -100,7 +97,6 @@ else
 	@echo 'Do make newpost NAME='"'"'Post Name'"'"
 endif
 
-rsu: rsync_upload
-
 github: publish
+	if [ -e "CNAME" ]; then cp CNAME $(OUTPUTDIR); fi
 	ghp-import -n $(OUTPUTDIR) -p -f
