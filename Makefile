@@ -101,3 +101,6 @@ else
 endif
 
 rsu: rsync_upload
+
+github: publish
+	ghp-import -n $(OUTPUTDIR) -p -f
