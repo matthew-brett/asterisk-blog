@@ -9,7 +9,8 @@ Category: management
 I suppose the United Kingdom will not collapse completely in my lifetime, but
 it's hard to imagine it can keep going much longer.
 
-Consider the following snapshot of interaction with the National Health System.
+Consider the following snapshot of interaction with the National Health Service
+(NHS).
 
 For background, my wife and I live in Birmingham, the [second largest city in
 the UK](https://en.wikipedia.org/wiki/Birmingham), with a population of around
@@ -18,7 +19,7 @@ the UK](https://en.wikipedia.org/wiki/Birmingham), with a population of around
 Last Saturday, my wife woke up with very severe back pain, so that she couldn't
 walk without holding on to something.
 
-Our general practice (GP) surgery is closed during the weekend, as seems almost
+Our General Practice (GP) surgery is closed during the weekend, as seems almost
 universal in the NHS, apparently as a result of the ["core hours" part of the
 NHS contract with
 GPs](https://www.legislation.gov.uk/uksi/2015/1862/regulation/3/made).
@@ -49,10 +50,9 @@ At once, at about 3.30pm, we called the number the nurse had given us, and the
 person answering said in fact we had to go to a website
 — <http://badgeruts.uk> — log in, and then book ourselves an appointment with
 the given code.   He explained that there were three places we could book an
-appointment, in the Birmingham areas of Aston (centre North Birmingham),
-Erdington (North), and Solihull (South East). One of these (I forget which)
-releases appointments at 6pm, and the other two release appointments at 4pm. He
-warned us to be quick because the appointments go fast.
+appointment in Birmingham.  One of these releases appointments at 6pm, and the
+other two release appointments at 4pm. He warned us to be quick because the
+appointments go fast.
 
 So we went to the website, which, entertainingly enough, redirected us to
 a site called [Drive Thru Care](https://www.drivethrucare.uk/uts.php).
@@ -82,8 +82,9 @@ refill each time.
 Meanwhile, for reasons inaccessible to us, more appointments become "Booked".
 Presumably wondering how someone got these appointments without going through
 the same process is part of the entertainment. I noticed that the total number of
-slots decreased by one — again, for reasons unknown.  We wait, refresh / retype
-/ paste, refresh / retype / paste, every few seconds.
+slots decreased by one — again, for reasons unknown.  We begin to wonder
+whether there will be any bookable appointments left when we get to 4pm.  We
+wait, refresh / retype / paste, refresh / retype / paste, every few seconds.
 
 At last, a little past 4pm, a series of slots appear, and immediately about
 half of them appear to be "Booked".  We very quickly select one of the six or
