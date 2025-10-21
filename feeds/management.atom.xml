@@ -1,5 +1,170 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Asterisk - management</title><link href="https://asterisk.dynevor.org/" rel="alternate"></link><link href="https://asterisk.dynevor.org/feeds/management.atom.xml" rel="self"></link><id>https://asterisk.dynevor.org/</id><updated>2022-07-08T17:45:00+01:00</updated><entry><title>Fumbling the future</title><link href="https://asterisk.dynevor.org/fumbling-the-future.html" rel="alternate"></link><published>2022-07-08T17:45:00+01:00</published><updated>2022-07-08T17:45:00+01:00</updated><author><name>Matthew Brett</name></author><id>tag:asterisk.dynevor.org,2022-07-08:/fumbling-the-future.html</id><summary type="html">&lt;p&gt;I recently bought and read “Fumbling the future: how Xerox invented,
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Asterisk - management</title><link href="https://asterisk.dynevor.org/" rel="alternate"></link><link href="https://asterisk.dynevor.org/feeds/management.atom.xml" rel="self"></link><id>https://asterisk.dynevor.org/</id><updated>2025-10-21T10:39:00+01:00</updated><entry><title>NHS snapshot</title><link href="https://asterisk.dynevor.org/nhs-snapshot.html" rel="alternate"></link><published>2025-10-21T10:39:00+01:00</published><updated>2025-10-21T10:39:00+01:00</updated><author><name>Matthew Brett</name></author><id>tag:asterisk.dynevor.org,2025-10-21:/nhs-snapshot.html</id><summary type="html">&lt;p&gt;I suppose the United Kingdom will not collapse completely in my
+lifetime, but it’s hard to imagine it can keep going much longer.&lt;/p&gt;
+&lt;p&gt;Consider the following snapshot of interaction with the National
+Health System.&lt;/p&gt;
+&lt;p&gt;For background, my wife and I live in Birmingham, the &lt;a
+href="https://en.wikipedia.org/wiki/Birmingham"&gt;second largest city in
+the …&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;I suppose the United Kingdom will not collapse completely in my
+lifetime, but it’s hard to imagine it can keep going much longer.&lt;/p&gt;
+&lt;p&gt;Consider the following snapshot of interaction with the National
+Health System.&lt;/p&gt;
+&lt;p&gt;For background, my wife and I live in Birmingham, the &lt;a
+href="https://en.wikipedia.org/wiki/Birmingham"&gt;second largest city in
+the UK&lt;/a&gt;, with a population of around 1.2 million people.&lt;/p&gt;
+&lt;p&gt;Last Saturday, my wife woke up with very severe back pain, so that
+she couldn’t walk without holding on to something.&lt;/p&gt;
+&lt;p&gt;Our general practice (GP) surgery is closed during the weekend, as
+seems almost universal in the NHS. This seems to be something to do with
+the nationwide NHS contract with GPs.&lt;/p&gt;
+&lt;p&gt;We therefore had to phone the national 111 helpline.&lt;/p&gt;
+&lt;p&gt;This was a series of “press one for …” options, that ended up with a
+five minute conversation with an operator, who said that someone would
+call back within two hours.&lt;/p&gt;
+&lt;p&gt;After around two hours, someone called to say that they were busy,
+and they’d call back within another two hours.&lt;/p&gt;
+&lt;p&gt;After about another 30 minutes, a specialist nurse called up, talked
+to my wife, and agreed she needed to be seen urgently.&lt;/p&gt;
+&lt;p&gt;Here’s where the frustration ramped up quickly.&lt;/p&gt;
+&lt;p&gt;The specialist nurse gave us a numeric code and a phone number. She
+told us to call the phone number and give the code, and they would give
+us an appointment.&lt;a href="#fn1" class="footnote-ref" id="fnref1"
+role="doc-noteref"&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;At about 3.30pm, we called the number the nurse had given us, and the
+person answering said in fact we had to go to a website — &lt;a
+href="http://badgeruts.uk" class="uri"&gt;http://badgeruts.uk&lt;/a&gt;, log in,
+and then book ourselves an appointment with the given code. He then
+helpfully (yes really) explained that there were three places we could
+book an appointment, in the Birmingham areas of Aston (centre North
+Birmingham), Erdington (North), and Solihull (South East). One of these
+(I forget which) releases appointments at 6pm, and the other two release
+appointments at 4pm. He warned us to be quick because the appointments
+go fast.&lt;/p&gt;
+&lt;p&gt;So we went to the website, which, entertainingly enough, redirected
+us to a site called &lt;a href="https://www.drivethrucare.uk/uts.php"&gt;Drive
+Thru Care&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Have a look at that site. It’s a really clunky old interface. Luckily
+my wife had logged in before, so we went straight to the Log In phase,
+and this took us to the booking phase, where things got nasty.&lt;/p&gt;
+&lt;p&gt;Sure enough, this phase offers us the options of the three sites
+above offering appointments. Sure enough, on choosing one, we got a year
+2000 vintage web interface, where we click on a box to confirm the
+patient is not bleeding to death or suffering a heart attack, enter the
+date of symptom onset, and type a summary of the problem. Below, sure
+enough, is a series of 24 or so appointment boxes for Saturday, either
+labeled “Booked” or “N/A” — nothing we can select.&lt;/p&gt;
+&lt;p&gt;We know from the helpful phone call that some appointments will be
+released at or around 4pm in two sites.&lt;/p&gt;
+&lt;p&gt;Does this website auto-refresh when the appointments become
+available? Looking at the low quality of the site, we have to guess no.
+So we refresh the page, at which point the page clears all our previous
+information, so we have to fill the checkbox, date and summary again.
+And refresh, and again. And again. And again. We can copy / paste the
+summary, but still, it takes a few seconds to refill each time.&lt;/p&gt;
+&lt;p&gt;Meanwhile, for reasons inaccessible to us, more appointments become
+“Booked”. Presumably wondering how someone got these appointments
+without going through the same process is part of the entertainment. I
+noticed that the number of remaining “N/A”s decrease by one, again, for
+reasons unknown. We wait, refresh / retype / paste, refresh / retype /
+paste, every few seconds.&lt;/p&gt;
+&lt;p&gt;At last, a little past 4pm, a series of slots appear, and immediately
+about half of them appear to be “Booked”. We very quickly select one of
+the six or so remaining, retype / paste, click “Book”. Error, the slot
+is no longer available. Refresh. One slot left. Select, retype / paste,
+“Book”. We get the last slot.&lt;a href="#fn2" class="footnote-ref"
+id="fnref2" role="doc-noteref"&gt;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I guess there was about 40 seconds between the slots appearing and
+all of them being booked, and this only because we are very good at
+using computers — we know to refresh, copy / paste the long stuff, and
+do it very quickly.&lt;/p&gt;
+&lt;p&gt;Aren’t we the wrong people to prefer for urgent care slots? I mean,
+yes, we needed a slot, but why do we get it for being in the top few
+centiles for fluidity, and speed in using web interfaces.&lt;/p&gt;
+&lt;p&gt;Given how fast the slots went, I assume that a large majority of
+people who should have got slots, did not get slots. Before we succeeded
+in getting the last slot, we had spent maybe 20 minutes on the phone,
+2.5 hours waiting for a phone call, and about 20 minutes on the website.
+A specialist nurse had agreed we needed an appointment. Given our
+experience, I’d have to guess that a small proportion of people in that
+situation got a slot — maybe 15%, maybe less. So now you have 85% of
+your patients, and particularly those patients who not very skilled with
+clunky web interfaces, who need to be seen, have spent maybe 40 minutes
+working on getting an appointment, and waited more than three hours
+since contacting the health services, and they get — nothing.&lt;/p&gt;
+&lt;p&gt;What should have happened?&lt;/p&gt;
+&lt;p&gt;By looking at the web interface while we were waiting, I estimate
+that there were around 100 Saturday evening slots available across the
+three urgent treatment centres. Bear in mind that these three centres
+cover the UK’s second largest city, with a population of 1.2
+million.&lt;/p&gt;
+&lt;p&gt;It seems most unlikely that 100 slots were enough for the demand.&lt;/p&gt;
+&lt;p&gt;OK, say that the NHS just doesn’t have enough money or staff to
+provide more than 100 evening appointments. How should these slots be
+distributed?&lt;/p&gt;
+&lt;p&gt;Not, I think, by making your sick and needy patients run an obstacle
+course of outdated web technology, and giving the slots to the
+winners.&lt;/p&gt;
+&lt;p&gt;And in fact, how hard would it be to allocate the slots by answering
+the phone?&lt;/p&gt;
+&lt;p&gt;Remember that we already had to phone somebody, to tell us to use the
+website, and to give us the miserable but useful advice on how to play
+the system to get an appointment.&lt;/p&gt;
+&lt;p&gt;Let’s take my guess of 85% pre-screened people not getting
+appointments, and 100 appointments. That’s about 670 people who need
+appointments, of whom only 15% are going to get one. Let’s pay 10
+doctors to answer the phone on Saturday afternoon. They each take about
+70 calls, and then negotiate to allocate the 100 appointments. Give them
+an average of five minutes to talk to each (already pre-screened)
+patient, giving them each around six hours of work, and allow time for
+negotiation, and between calls, for an eight hour shift. Let’s say the
+average GP gets paid &lt;a
+href="https://www.gpworld.co.uk/news/a-guide-to-gp-salary-and-pay-in-the-uk-2024/16/"&gt;£87K
+per year&lt;/a&gt;; this would give an &lt;a
+href="https://timetastic.co.uk/blog/how-many-working-hours-are-in-a-year/"&gt;hourly
+rate&lt;/a&gt; of about £50. So the cost of this service would be about £4000
+per weekend day. For the UK’s second largest city.&lt;/p&gt;
+&lt;p&gt;And at least, that way a) the patients get a better assessment and
+triage service, and b) the selection of who gets an appointment would be
+based at least plausibly on clinical need, rather than skill and speed
+in using poor web interfaces.&lt;/p&gt;
+&lt;p&gt;On the other hand, the advantage of the current system is there is no
+person to whom one can direct one’s anger — one can only marvel at the
+extraordinary but terribly familiar incompetence of NHS IT provisioning,
+and tell one’s friends. Put simply, our leaders appear not to be much
+worried if we fall into existential rage as long as that rage is
+impotent.&lt;/p&gt;
+&lt;section id="footnotes" class="footnotes footnotes-end-of-document"
+role="doc-endnotes"&gt;
+&lt;hr /&gt;
+&lt;ol&gt;
+&lt;li id="fn1"&gt;&lt;p&gt;To recall the context — my wife found it difficult to
+walk and was in severe pain. Now we would have to get downstairs, get
+into a car, drive for 30 minutes, wait in a waiting room, walk to a
+treatment room, be seen, walk out, drive back. This was going to be (and
+in due course was) very unpleasant. The obvious thing to do is to offer
+a home visit. These do not appear to be possible with the current NHS
+system. Anyway, back to process that exists.&lt;a href="#fnref1"
+class="footnote-back" role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id="fn2"&gt;&lt;p&gt;To complete the story, we drove for 30 minutes or so to
+the urgent treatment centre for our allotted appointment time. We were
+seen after about 20 minutes, and the appointment was — OK. At which
+point my wife is still in a lot of pain, and I leave her at the
+treatment centre entrance to get the car. When I try to get out of the
+hospital car park, the Pay Station to which I am directed is
+comprehensively closed, the phone number given there is the main
+hospital number (press one for …), and neither I nor another two drivers
+can get through the barrier without a paid ticket. By discussion and
+exploration, we find two machines where we can pay our tickets, but the
+machines won’t read mine, and are cash-only for those it can read.
+Jogging around the building and asking, it turns out we have to go the
+hospital main entrance, and ask security. Who take my payment, and send
+me back to the car park to buzz me through. It appears the hospital does
+not expect its patients getting after hours treatment to park in their
+patients car park.&lt;a href="#fnref2" class="footnote-back"
+role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</content><category term="management"></category></entry><entry><title>Fumbling the future</title><link href="https://asterisk.dynevor.org/fumbling-the-future.html" rel="alternate"></link><published>2022-07-08T17:45:00+01:00</published><updated>2022-07-08T17:45:00+01:00</updated><author><name>Matthew Brett</name></author><id>tag:asterisk.dynevor.org,2022-07-08:/fumbling-the-future.html</id><summary type="html">&lt;p&gt;I recently bought and read “Fumbling the future: how Xerox invented,
 then ignored, the first personal computer”, by Douglas K. Smith and
 Robert C. Alexander (1988).&lt;/p&gt;
 &lt;p&gt;Its a story so tragic that I was almost in tears in various

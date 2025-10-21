@@ -5,42 +5,42 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://asterisk.dynevor.org/</loc>
-<lastmod>2025-10-13T13:47:48-00:00</lastmod>
+<lastmod>2025-10-21T12:31:04-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://asterisk.dynevor.org/tags.html</loc>
-<lastmod>2025-10-13T13:47:48-00:00</lastmod>
+<lastmod>2025-10-21T12:31:04-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://asterisk.dynevor.org/categories.html</loc>
-<lastmod>2025-10-13T13:47:48-00:00</lastmod>
+<lastmod>2025-10-21T12:31:04-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://asterisk.dynevor.org/archives.html</loc>
-<lastmod>2025-10-13T13:47:48-00:00</lastmod>
+<lastmod>2025-10-21T12:31:04-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://asterisk.dynevor.org/search.html</loc>
-<lastmod>2025-10-13T13:47:48-00:00</lastmod>
+<lastmod>2025-10-21T12:31:04-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://asterisk.dynevor.org/404.html</loc>
-<lastmod>2025-10-13T13:47:48-00:00</lastmod>
+<lastmod>2025-10-21T12:31:04-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -48,6 +48,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://asterisk.dynevor.org/pages/about.html</loc>
 <lastmod>2018-01-13T13:42:00+00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://asterisk.dynevor.org/nhs-snapshot.html</loc>
+<lastmod>2025-10-21T10:39:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
