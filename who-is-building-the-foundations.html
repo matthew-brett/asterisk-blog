@@ -18,12 +18,12 @@
 
 <meta property="og:title" content="Who is building the foundations? "/>
 <meta property="og:url" content="https://asterisk.dynevor.org/who-is-building-the-foundations.html" />
-<meta property="og:description" content="I tried to estimate the extent to which different countries contribute to the foundations of scientific Python. To do this I analyzed commits and &lt;a href=&#34;https://github.com&#34;&gt;Github data for the following set of libraries: Numpy Scipy Matplotlib Scikit-learn Scikit-image Statsmodels Pandas h5py Cython Sympy I chose these libraries because they are common …" />
+<meta property="og:description" content="I tried to estimate the extent to which different countries contribute to the foundations of scientific Python. To do this I analyzed commits and Github data for the following set of libraries: Numpy Scipy Matplotlib Scikit-learn Scikit-image Statsmodels Pandas h5py Cython Sympy I chose these libraries because they are common …" />
 <meta property="og:site_name" content="Asterisk" />
 <meta property="og:article:author" content="Matthew Brett" />
 <meta property="og:article:published_time" content="2019-05-14T16:14:00+01:00" />
 <meta name="twitter:title" content="Who is building the foundations? ">
-<meta name="twitter:description" content="I tried to estimate the extent to which different countries contribute to the foundations of scientific Python. To do this I analyzed commits and &lt;a href=&#34;https://github.com&#34;&gt;Github data for the following set of libraries: Numpy Scipy Matplotlib Scikit-learn Scikit-image Statsmodels Pandas h5py Cython Sympy I chose these libraries because they are common …">
+<meta name="twitter:description" content="I tried to estimate the extent to which different countries contribute to the foundations of scientific Python. To do this I analyzed commits and Github data for the following set of libraries: Numpy Scipy Matplotlib Scikit-learn Scikit-image Statsmodels Pandas h5py Cython Sympy I chose these libraries because they are common …">
 
         <title>Who is building the foundations?  · Asterisk
 </title>
@@ -78,11 +78,8 @@
 <div class="row-fluid">
         <div class="span8 offset2 article-content">
             
-            <p>I tried to estimate the extent to which different countries
-contribute to the foundations of scientific Python.</p>
-<p>To do this I analyzed commits and <a
-href="https://github.com">Github</a> data for the following set of
-libraries:</p>
+            <p>I tried to estimate the extent to which different countries contribute to the foundations of scientific Python.</p>
+<p>To do this I analyzed commits and <a href="https://github.com">Github</a> data for the following set of libraries:</p>
 <ul>
 <li>Numpy</li>
 <li>Scipy</li>
@@ -95,23 +92,11 @@ libraries:</p>
 <li>Cython</li>
 <li>Sympy</li>
 </ul>
-<p>I chose these libraries because they are common building blocks for
-more specialized libraries and workflows.</p>
-<p>I made some effort to attribute library commits to authors, and then
-authors to countries, to give commits per country, across all these
-libraries.</p>
-<p>I then divided the number of commits by the population in the
-country, in millions, to give a measure of the extent to which a country
-is pulling its weight, relative to its resources.</p>
-<p>Here is the table of the top 10 countries, by number of commits,
-ordered by their commits / million in the population.</p>
+<p>I chose these libraries because they are common building blocks for more specialized libraries and workflows.</p>
+<p>I made some effort to attribute library commits to authors, and then authors to countries, to give commits per country, across all these libraries.</p>
+<p>I then divided the number of commits by the population in the country, in millions, to give a measure of the extent to which a country is pulling its weight, relative to its resources.</p>
+<p>Here is the table of the top 10 countries, by number of commits, ordered by their commits / million in the population.</p>
 <table>
-<colgroup>
-<col style="width: 32%" />
-<col style="width: 13%" />
-<col style="width: 30%" />
-<col style="width: 23%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th style="text-align: left;">Country</th>
@@ -185,41 +170,22 @@ ordered by their commits / million in the population.</p>
 </table>
 <section id="method" class="level2">
 <h2>Method</h2>
-<p>You will find the code to generate data in this post at <a
-href="https://github.com/matthew-brett/github-places"
-class="uri">https://github.com/matthew-brett/github-places</a>.</p>
+<p>You will find the code to generate data in this post at <a href="https://github.com/matthew-brett/github-places" class="uri">https://github.com/matthew-brett/github-places</a>.</p>
 <p>The analysis steps were:</p>
 <ul>
-<li>Clone all library repositories as submodules of the
-<code>github-places</code> analysis repository, above.</li>
-<li>Use <code>git shortlog</code> to get names, number of commits and
-other details of <em>significant contributors</em> to each repository. I
-defined a significant contributor (SC) as an author of 25 commits or
-more. As you will see below, SC commits account for about 90% of all
-repository commits.</li>
-<li>Use various heuristics to identify the Github user corresponding to
-each SC (see <code>find_gh_users.py</code> in the analysis repository).
-When the heuristics failed, I found the Github user manually. I had to
-do this for about 10% of SCs (see below).</li>
-<li>Using the SC Github user profile, or other research, identify the
-country in which the SC is currently based. I looked for the current
-location because this is the only information I have from their Github
-profiles. I had to identify the user’s country by doing web research for
-about 35% of SC Github users (see below).</li>
+<li>Clone all library repositories as submodules of the <code>github-places</code> analysis repository, above.</li>
+<li>Use <code>git shortlog</code> to get names, number of commits and other details of <em>significant contributors</em> to each repository. I defined a significant contributor (SC) as an author of 25 commits or more. As you will see below, SC commits account for about 90% of all repository commits.</li>
+<li>Use various heuristics to identify the Github user corresponding to each SC (see <code>find_gh_users.py</code> in the analysis repository). When the heuristics failed, I found the Github user manually. I had to do this for about 10% of SCs (see below).</li>
+<li>Using the SC Github user profile, or other research, identify the country in which the SC is currently based. I looked for the current location because this is the only information I have from their Github profiles. I had to identify the user’s country by doing web research for about 35% of SC Github users (see below).</li>
 </ul>
-<p>The results of these steps come from the output of
-<code>repo_analysis.py</code> in the analysis repository.</p>
+<p>The results of these steps come from the output of <code>repo_analysis.py</code> in the analysis repository.</p>
 </section>
 <section id="repo-analysis-results" class="level2">
 <h2>Repo analysis results</h2>
-<p>I could not find the location for 1.4% of SCs, and therefore 0.2% of
-SC contributor commits.</p>
-<p>For 10.2% of SCs, I had to work out the corresponding Github user
-manually.</p>
-<p>I had to identify the locations of 34.8% of SC Github users manually
-by various searches.</p>
-<p>Percentage of total repository commits included in the analysis, by
-repository:</p>
+<p>I could not find the location for 1.4% of SCs, and therefore 0.2% of SC contributor commits.</p>
+<p>For 10.2% of SCs, I had to work out the corresponding Github user manually.</p>
+<p>I had to identify the locations of 34.8% of SC Github users manually by various searches.</p>
+<p>Percentage of total repository commits included in the analysis, by repository:</p>
 <ul>
 <li>numpy: 88.2</li>
 <li>scipy: 87.7</li>
@@ -236,8 +202,7 @@ repository:</p>
 </section>
 <section id="commits-by-country-analysis" class="level2">
 <h2>Commits by country analysis</h2>
-<p>The table at the top of this post is the output from
-<code>commit_analysis.py</code> in the analysis repository.</p>
+<p>The table at the top of this post is the output from <code>commit_analysis.py</code> in the analysis repository.</p>
 </section>
 
 

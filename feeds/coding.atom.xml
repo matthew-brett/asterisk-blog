@@ -1,63 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Asterisk - coding</title><link href="https://asterisk.dynevor.org/" rel="alternate"></link><link href="https://asterisk.dynevor.org/feeds/coding.atom.xml" rel="self"></link><id>https://asterisk.dynevor.org/</id><updated>2022-07-09T12:41:00+01:00</updated><entry><title>Swift downfall</title><link href="https://asterisk.dynevor.org/swift-downfall.html" rel="alternate"></link><published>2022-07-09T12:41:00+01:00</published><updated>2022-07-09T12:41:00+01:00</updated><author><name>Matthew Brett</name></author><id>tag:asterisk.dynevor.org,2022-07-09:/swift-downfall.html</id><summary type="html">&lt;p&gt;A while ago, a friend pointed me to the &lt;a
-href="https://github.com/tensorflow/swift/blob/main/docs/WhySwiftForTensorFlow.md"&gt;reasoned
-discussion at Google&lt;/a&gt; of their decision to switch development of
-their &lt;a href="https://en.wikipedia.org/wiki/TensorFlow"&gt;TensorFlow&lt;/a&gt;
-machine-learning library from Python (with C++ and CUDA) to Swift. The
-justification has date “April 2018”.&lt;/p&gt;
-&lt;p&gt;I remember thinking at the time that an important part of the …&lt;/p&gt;</summary><content type="html">&lt;p&gt;A while ago, a friend pointed me to the &lt;a
-href="https://github.com/tensorflow/swift/blob/main/docs/WhySwiftForTensorFlow.md"&gt;reasoned
-discussion at Google&lt;/a&gt; of their decision to switch development of
-their &lt;a href="https://en.wikipedia.org/wiki/TensorFlow"&gt;TensorFlow&lt;/a&gt;
-machine-learning library from Python (with C++ and CUDA) to Swift. The
-justification has date “April 2018”.&lt;/p&gt;
-&lt;p&gt;I remember thinking at the time that an important part of the
-decision was that many of the engineers knew Swift. And that that
-probably wasn’t going to be true for engineers outside that team.&lt;/p&gt;
-&lt;p&gt;Today I found that Google has &lt;a
-href="https://github.com/tensorflow/swift"&gt;already abandoned the Swift
-TenrsorFlow project&lt;/a&gt;. An &lt;a
-href="https://www.infoworld.com/article/3608151/swift-for-tensorflow-project-shuts-down.html"&gt;article
-in InfoWorld&lt;/a&gt; dates the shutdown to around February 2021, and that is
-also the date of the last commit to the Github repository linked above.
-The &lt;a
-href="https://github.com/tensorflow/swift/graphs/code-frequency"&gt;Github
-code-frequency plot&lt;/a&gt; suggests that the project was more or less
-dormant from April 2020.&lt;/p&gt;
-&lt;p&gt;I found this interesting only because I was surprised that Google
-would be quick to abandon a decision that they appear to have taken
-carefully.&lt;/p&gt;
-&lt;p&gt;Maybe related, &lt;a
-href="https://insights.stackoverflow.com/trends?tags=pytorch%2Ctensorflow"&gt;StackOverflow
-trends&lt;/a&gt; shows Tensorflow discussion plateaued around the beginning of
-2018, dropped in late 2019 and early 2020, and then started rising again
-from mid-2021. Meanwhile the other standard machine-learning library, &lt;a
-href="https://en.wikipedia.org/wiki/PyTorch"&gt;PyTorch&lt;/a&gt;, has seen a
-linear rise since its release in late 2016.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Asterisk - coding</title><link href="https://asterisk.dynevor.org/" rel="alternate"></link><link href="https://asterisk.dynevor.org/feeds/coding.atom.xml" rel="self"></link><id>https://asterisk.dynevor.org/</id><updated>2022-07-09T12:41:00+01:00</updated><entry><title>Swift downfall</title><link href="https://asterisk.dynevor.org/swift-downfall.html" rel="alternate"></link><published>2022-07-09T12:41:00+01:00</published><updated>2022-07-09T12:41:00+01:00</updated><author><name>Matthew Brett</name></author><id>tag:asterisk.dynevor.org,2022-07-09:/swift-downfall.html</id><summary type="html">&lt;p&gt;A while ago, a friend pointed me to the &lt;a href="https://github.com/tensorflow/swift/blob/main/docs/WhySwiftForTensorFlow.md"&gt;reasoned discussion at Google&lt;/a&gt; of their decision to switch development of their &lt;a href="https://en.wikipedia.org/wiki/TensorFlow"&gt;TensorFlow&lt;/a&gt; machine-learning library from Python (with C++ and CUDA) to Swift. The justification has date “April 2018”.&lt;/p&gt;
+&lt;p&gt;I remember thinking at the time that an important part of the …&lt;/p&gt;</summary><content type="html">&lt;p&gt;A while ago, a friend pointed me to the &lt;a href="https://github.com/tensorflow/swift/blob/main/docs/WhySwiftForTensorFlow.md"&gt;reasoned discussion at Google&lt;/a&gt; of their decision to switch development of their &lt;a href="https://en.wikipedia.org/wiki/TensorFlow"&gt;TensorFlow&lt;/a&gt; machine-learning library from Python (with C++ and CUDA) to Swift. The justification has date “April 2018”.&lt;/p&gt;
+&lt;p&gt;I remember thinking at the time that an important part of the decision was that many of the engineers knew Swift. And that that probably wasn’t going to be true for engineers outside that team.&lt;/p&gt;
+&lt;p&gt;Today I found that Google has &lt;a href="https://github.com/tensorflow/swift"&gt;already abandoned the Swift TenrsorFlow project&lt;/a&gt;. An &lt;a href="https://www.infoworld.com/article/3608151/swift-for-tensorflow-project-shuts-down.html"&gt;article in InfoWorld&lt;/a&gt; dates the shutdown to around February 2021, and that is also the date of the last commit to the Github repository linked above. The &lt;a href="https://github.com/tensorflow/swift/graphs/code-frequency"&gt;Github code-frequency plot&lt;/a&gt; suggests that the project was more or less dormant from April 2020.&lt;/p&gt;
+&lt;p&gt;I found this interesting only because I was surprised that Google would be quick to abandon a decision that they appear to have taken carefully.&lt;/p&gt;
+&lt;p&gt;Maybe related, &lt;a href="https://insights.stackoverflow.com/trends?tags=pytorch%2Ctensorflow"&gt;StackOverflow trends&lt;/a&gt; shows Tensorflow discussion plateaued around the beginning of 2018, dropped in late 2019 and early 2020, and then started rising again from mid-2021. Meanwhile the other standard machine-learning library, &lt;a href="https://en.wikipedia.org/wiki/PyTorch"&gt;PyTorch&lt;/a&gt;, has seen a linear rise since its release in late 2016.&lt;/p&gt;
 &lt;p&gt;&lt;img src="images/so_trends_tf_pytorch.png" /&gt;&lt;/p&gt;
-</content><category term="coding"></category></entry><entry><title>Nothing is easy but failure</title><link href="https://asterisk.dynevor.org/nothing-is-easy-but-failure.html" rel="alternate"></link><published>2020-07-29T11:23:00+01:00</published><updated>2020-07-29T11:23:00+01:00</updated><author><name>Matthew Brett</name></author><id>tag:asterisk.dynevor.org,2020-07-29:/nothing-is-easy-but-failure.html</id><summary type="html">&lt;p&gt;From an &lt;a
-href="https://jaxenter.com/vaughn-vernon-domain-driven-design-170630.html"&gt;interview
-about Domain Driven Design&lt;/a&gt;, with &lt;a
-href="https://github.com/VaughnVernon"&gt;Vaughn Vernon&lt;/a&gt;.&lt;/p&gt;
+</content><category term="coding"></category></entry><entry><title>Nothing is easy but failure</title><link href="https://asterisk.dynevor.org/nothing-is-easy-but-failure.html" rel="alternate"></link><published>2020-07-29T11:23:00+01:00</published><updated>2020-07-29T11:23:00+01:00</updated><author><name>Matthew Brett</name></author><id>tag:asterisk.dynevor.org,2020-07-29:/nothing-is-easy-but-failure.html</id><summary type="html">&lt;p&gt;From an &lt;a href="https://jaxenter.com/vaughn-vernon-domain-driven-design-170630.html"&gt;interview about Domain Driven Design&lt;/a&gt;, with &lt;a href="https://github.com/VaughnVernon"&gt;Vaughn Vernon&lt;/a&gt;.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Nothing is easy in the software industry other than failure.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Later:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Software development is creative. Creating is rewarding. Creating
-releases some kind of chemicals in my brain that deliver incredibly
-positive intellectual and emotional satisfaction. It’s not hard for …&lt;/p&gt;&lt;/blockquote&gt;</summary><content type="html">&lt;p&gt;From an &lt;a
-href="https://jaxenter.com/vaughn-vernon-domain-driven-design-170630.html"&gt;interview
-about Domain Driven Design&lt;/a&gt;, with &lt;a
-href="https://github.com/VaughnVernon"&gt;Vaughn Vernon&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Software development is creative. Creating is rewarding. Creating releases some kind of chemicals in my brain that deliver incredibly positive intellectual and emotional satisfaction. It’s not hard for …&lt;/p&gt;&lt;/blockquote&gt;</summary><content type="html">&lt;p&gt;From an &lt;a href="https://jaxenter.com/vaughn-vernon-domain-driven-design-170630.html"&gt;interview about Domain Driven Design&lt;/a&gt;, with &lt;a href="https://github.com/VaughnVernon"&gt;Vaughn Vernon&lt;/a&gt;.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Nothing is easy in the software industry other than failure.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Later:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Software development is creative. Creating is rewarding. Creating
-releases some kind of chemicals in my brain that deliver incredibly
-positive intellectual and emotional satisfaction. It’s not hard for me
-to do it. It’s hard for me not to do it.&lt;/p&gt;
+&lt;p&gt;Software development is creative. Creating is rewarding. Creating releases some kind of chemicals in my brain that deliver incredibly positive intellectual and emotional satisfaction. It’s not hard for me to do it. It’s hard for me not to do it.&lt;/p&gt;
 &lt;/blockquote&gt;
 </content><category term="coding"></category></entry></feed>

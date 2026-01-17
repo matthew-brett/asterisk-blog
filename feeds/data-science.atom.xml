@@ -1,29 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Asterisk - data science</title><link href="https://asterisk.dynevor.org/" rel="alternate"></link><link href="https://asterisk.dynevor.org/feeds/data-science.atom.xml" rel="self"></link><id>https://asterisk.dynevor.org/</id><updated>2020-07-23T21:03:00+01:00</updated><entry><title>Data no defense</title><link href="https://asterisk.dynevor.org/data-no-defense.html" rel="alternate"></link><published>2020-07-23T21:03:00+01:00</published><updated>2020-07-23T21:03:00+01:00</updated><author><name>Matthew Brett</name></author><id>tag:asterisk.dynevor.org,2020-07-23:/data-no-defense.html</id><summary type="html">&lt;p&gt;David Shor is a 28-year-old political data analyst who worked for the
-2012 Obama campaign. He &lt;a
-href="https://twitter.com/davidshor/status/1265998625836019712"&gt;tweeted&lt;/a&gt;
-about a paper with data analysis suggesting that race riots contributed
-to Nixon’s victory in 1968:&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Asterisk - data science</title><link href="https://asterisk.dynevor.org/" rel="alternate"></link><link href="https://asterisk.dynevor.org/feeds/data-science.atom.xml" rel="self"></link><id>https://asterisk.dynevor.org/</id><updated>2020-07-23T21:03:00+01:00</updated><entry><title>Data no defense</title><link href="https://asterisk.dynevor.org/data-no-defense.html" rel="alternate"></link><published>2020-07-23T21:03:00+01:00</published><updated>2020-07-23T21:03:00+01:00</updated><author><name>Matthew Brett</name></author><id>tag:asterisk.dynevor.org,2020-07-23:/data-no-defense.html</id><summary type="html">&lt;p&gt;David Shor is a 28-year-old political data analyst who worked for the 2012 Obama campaign. He &lt;a href="https://twitter.com/davidshor/status/1265998625836019712"&gt;tweeted&lt;/a&gt; about a paper with data analysis suggesting that race riots contributed to Nixon’s victory in 1968:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Post-MLK-assasination race riots reduced Democratic vote share in
-surrounding counties by 2%, which was enough to …&lt;/p&gt;&lt;/blockquote&gt;</summary><content type="html">&lt;p&gt;David Shor is a 28-year-old political data analyst who worked for the
-2012 Obama campaign. He &lt;a
-href="https://twitter.com/davidshor/status/1265998625836019712"&gt;tweeted&lt;/a&gt;
-about a paper with data analysis suggesting that race riots contributed
-to Nixon’s victory in 1968:&lt;/p&gt;
+&lt;p&gt;Post-MLK-assasination race riots reduced Democratic vote share in surrounding counties by 2%, which was enough to …&lt;/p&gt;&lt;/blockquote&gt;</summary><content type="html">&lt;p&gt;David Shor is a 28-year-old political data analyst who worked for the 2012 Obama campaign. He &lt;a href="https://twitter.com/davidshor/status/1265998625836019712"&gt;tweeted&lt;/a&gt; about a paper with data analysis suggesting that race riots contributed to Nixon’s victory in 1968:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Post-MLK-assasination race riots reduced Democratic vote share in
-surrounding counties by 2%, which was enough to tip the 1968 election to
-Nixon. Non-violent protests &lt;em&gt;increase&lt;/em&gt; Dem vote, mainly by
-encouraging warm elite discourse and media coverage:
-http://www.omarwasow.com/Protests_on_Voting.pdf&lt;/p&gt;
+&lt;p&gt;Post-MLK-assasination race riots reduced Democratic vote share in surrounding counties by 2%, which was enough to tip the 1968 election to Nixon. Non-violent protests &lt;em&gt;increase&lt;/em&gt; Dem vote, mainly by encouraging warm elite discourse and media coverage: http://www.omarwasow.com/Protests_on_Voting.pdf&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Orthodoxy identified that relaying this analysis was “racist”, and
-Shor was &lt;a
-href="https://nymag.com/intelligencer/2020/06/case-for-liberalism-tom-cotton-new-york-times-james-bennet.html"&gt;sacked
-from his job&lt;/a&gt; and &lt;a
-href="https://nymag.com/intelligencer/2020/06/white-fragility-racism-racism-progressive-progressphiles-david-shor.html"&gt;publicly
-ejected from a progressive mailing list&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Orthodoxy identified that relaying this analysis was “racist,” and Shor was &lt;a href="https://nymag.com/intelligencer/2020/06/case-for-liberalism-tom-cotton-new-york-times-james-bennet.html"&gt;sacked from his job&lt;/a&gt; and &lt;a href="https://nymag.com/intelligencer/2020/06/white-fragility-racism-racism-progressive-progressphiles-david-shor.html"&gt;publicly ejected from a progressive mailing list&lt;/a&gt;.&lt;/p&gt;
 </content><category term="data science"></category></entry><entry><title>Mosteller and data science</title><link href="https://asterisk.dynevor.org/mosteller-and-data-science.html" rel="alternate"></link><published>2020-07-14T12:30:00+01:00</published><updated>2020-07-14T12:30:00+01:00</updated><author><name>Matthew Brett</name></author><id>tag:asterisk.dynevor.org,2020-07-14:/mosteller-and-data-science.html</id><summary type="html">&lt;p&gt;While chasing down a reference, I came across this paper:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;David S. Moore (1993) “A Generation of Statistics Education: An
@@ -97,156 +79,49 @@ statistics less experienced than yourself, what would it be?&lt;/p&gt;
 teaching. And if you can hear a pin drop in your classroom, nobody’s
 following the lecture (laughter).&lt;/p&gt;
 &lt;/blockquote&gt;
-</content><category term="data science"></category></entry><entry><title>Code is for people</title><link href="https://asterisk.dynevor.org/code-is-for-people.html" rel="alternate"></link><published>2020-06-07T18:47:00+01:00</published><updated>2020-06-07T18:47:00+01:00</updated><author><name>Matthew Brett</name></author><id>tag:asterisk.dynevor.org,2020-06-07:/code-is-for-people.html</id><summary type="html">&lt;p&gt;&lt;a href="https://en.wikipedia.org/wiki/Guido_van_Rossum"&gt;Guido van
-Rossum&lt;/a&gt; gave &lt;a
-href="http://neopythonic.blogspot.com/2016/04/kings-day-speech.html"&gt;something
-like a TED talk&lt;/a&gt; on the history of Python. He explains why it is so
-important that code is easy to read and understand:&lt;/p&gt;
+</content><category term="data science"></category></entry><entry><title>Code is for people</title><link href="https://asterisk.dynevor.org/code-is-for-people.html" rel="alternate"></link><published>2020-06-07T18:47:00+01:00</published><updated>2020-06-07T18:47:00+01:00</updated><author><name>Matthew Brett</name></author><id>tag:asterisk.dynevor.org,2020-06-07:/code-is-for-people.html</id><summary type="html">&lt;p&gt;&lt;a href="https://en.wikipedia.org/wiki/Guido_van_Rossum"&gt;Guido van Rossum&lt;/a&gt; gave &lt;a href="http://neopythonic.blogspot.com/2016/04/kings-day-speech.html"&gt;something like a TED talk&lt;/a&gt; on the history of Python. He explains why it is so important that code is easy to read and understand:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Typically when you ask a programmer to explain to a lay person what a
-programming language is, they will say that …&lt;/p&gt;&lt;/blockquote&gt;</summary><content type="html">&lt;p&gt;&lt;a href="https://en.wikipedia.org/wiki/Guido_van_Rossum"&gt;Guido van
-Rossum&lt;/a&gt; gave &lt;a
-href="http://neopythonic.blogspot.com/2016/04/kings-day-speech.html"&gt;something
-like a TED talk&lt;/a&gt; on the history of Python. He explains why it is so
-important that code is easy to read and understand:&lt;/p&gt;
+&lt;p&gt;Typically when you ask a programmer to explain to a lay person what a programming language is, they will say that …&lt;/p&gt;&lt;/blockquote&gt;</summary><content type="html">&lt;p&gt;&lt;a href="https://en.wikipedia.org/wiki/Guido_van_Rossum"&gt;Guido van Rossum&lt;/a&gt; gave &lt;a href="http://neopythonic.blogspot.com/2016/04/kings-day-speech.html"&gt;something like a TED talk&lt;/a&gt; on the history of Python. He explains why it is so important that code is easy to read and understand:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Typically when you ask a programmer to explain to a lay person what a
-programming language is, they will say that it is how you tell a
-computer what to do. But if that was all, why would they be so
-passionate about programming languages when they talk among
-themselves?&lt;/p&gt;
-&lt;p&gt;In reality, programming languages are how programmers express and
-communicate ideas — and the audience for those ideas is other
-programmers, not computers.&lt;/p&gt;
+&lt;p&gt;Typically when you ask a programmer to explain to a lay person what a programming language is, they will say that it is how you tell a computer what to do. But if that was all, why would they be so passionate about programming languages when they talk among themselves?&lt;/p&gt;
+&lt;p&gt;In reality, programming languages are how programmers express and communicate ideas — and the audience for those ideas is other programmers, not computers.&lt;/p&gt;
 &lt;/blockquote&gt;
-</content><category term="data science"></category></entry><entry><title>Immediate dangers from credulity about artificial intelligence.</title><link href="https://asterisk.dynevor.org/surgisphere-machine-learning.html" rel="alternate"></link><published>2020-06-07T15:20:00+01:00</published><updated>2020-06-07T15:20:00+01:00</updated><author><name>Matthew Brett</name></author><id>tag:asterisk.dynevor.org,2020-06-07:/surgisphere-machine-learning.html</id><summary type="html">&lt;p&gt;&lt;a href="https://en.wikipedia.org/wiki/Surgisphere"&gt;Surgisphere&lt;/a&gt;
-is the company that provided the data to two major COVID-19 papers, that
-were later retracted.&lt;/p&gt;
-&lt;p&gt;The &lt;a
-href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31324-6/fulltext"&gt;most
-shocking of the two retractions&lt;/a&gt; was of a &lt;a
-href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31180-6/fulltext"&gt;paper&lt;/a&gt;
-that appeared to show that patients taking chloroquine and
-hydroxychloroquine for COVID-19 were at a greater risk of death. On the
-basis …&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;a href="https://en.wikipedia.org/wiki/Surgisphere"&gt;Surgisphere&lt;/a&gt;
-is the company that provided the data to two major COVID-19 papers, that
-were later retracted.&lt;/p&gt;
-&lt;p&gt;The &lt;a
-href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31324-6/fulltext"&gt;most
-shocking of the two retractions&lt;/a&gt; was of a &lt;a
-href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31180-6/fulltext"&gt;paper&lt;/a&gt;
-that appeared to show that patients taking chloroquine and
-hydroxychloroquine for COVID-19 were at a greater risk of death. On the
-basis of this paper, the World Health Organization stopped ongoing
-clinical trials. As the retraction and the Wikipedia page describe, &lt;a
-href="https://zenodo.org/record/3862789#.Xtz638bTV0v"&gt;many
-scientists&lt;/a&gt; quickly found aspects of the reported data that were
-implausible. Surgisphere would not release the data for an independent
-audit, so the authors not employed by Surgisphere retracted the
-paper.&lt;/p&gt;
-&lt;p&gt;One of the problems with the Surgisphere data was that it was
-difficult to see how a company that appeared to have &lt;a
-href="https://www.theguardian.com/world/2020/jun/03/covid-19-surgisphere-who-world-health-organization-hydroxychloroquine"&gt;less
-than 12 employees&lt;/a&gt;, could possibly have gained access to clinical
-data from a significant proportion of hospitals across the world. Even
-if they had got such access, how had they dealt with the huge problems
-the rest of us have with low quality and coding mismatch that are
-typical of digital data in healthcare, even from sophisticated
-hospitals?&lt;/p&gt;
-&lt;p&gt;The answer, of course, was “advanced machine learning” and
-“artificial intelligence”, for which the company had apparently &lt;a
-href="https://www.prnewswire.com/news-releases/quartzclinical-wins-frost-and-sullivan-best-practices-award-300792202.html"&gt;won
-an award&lt;/a&gt; from a company called &lt;a
-href="https://en.wikipedia.org/wiki/Frost_%26_Sullivan"&gt;Frost and
-Sullivan&lt;/a&gt;:&lt;/p&gt;
+</content><category term="data science"></category></entry><entry><title>Immediate dangers from credulity about artificial intelligence.</title><link href="https://asterisk.dynevor.org/surgisphere-machine-learning.html" rel="alternate"></link><published>2020-06-07T15:20:00+01:00</published><updated>2020-06-07T15:20:00+01:00</updated><author><name>Matthew Brett</name></author><id>tag:asterisk.dynevor.org,2020-06-07:/surgisphere-machine-learning.html</id><summary type="html">&lt;p&gt;&lt;a href="https://en.wikipedia.org/wiki/Surgisphere"&gt;Surgisphere&lt;/a&gt; is the company that provided the data to two major COVID-19 papers, that were later retracted.&lt;/p&gt;
+&lt;p&gt;The &lt;a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31324-6/fulltext"&gt;most shocking of the two retractions&lt;/a&gt; was of a &lt;a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31180-6/fulltext"&gt;paper&lt;/a&gt; that appeared to show that patients taking chloroquine and hydroxychloroquine for COVID-19 were at a greater risk of death. On the basis …&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;a href="https://en.wikipedia.org/wiki/Surgisphere"&gt;Surgisphere&lt;/a&gt; is the company that provided the data to two major COVID-19 papers, that were later retracted.&lt;/p&gt;
+&lt;p&gt;The &lt;a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31324-6/fulltext"&gt;most shocking of the two retractions&lt;/a&gt; was of a &lt;a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31180-6/fulltext"&gt;paper&lt;/a&gt; that appeared to show that patients taking chloroquine and hydroxychloroquine for COVID-19 were at a greater risk of death. On the basis of this paper, the World Health Organization stopped ongoing clinical trials. As the retraction and the Wikipedia page describe, &lt;a href="https://zenodo.org/record/3862789#.Xtz638bTV0v"&gt;many scientists&lt;/a&gt; quickly found aspects of the reported data that were implausible. Surgisphere would not release the data for an independent audit, so the authors not employed by Surgisphere retracted the paper.&lt;/p&gt;
+&lt;p&gt;One of the problems with the Surgisphere data was that it was difficult to see how a company that appeared to have &lt;a href="https://www.theguardian.com/world/2020/jun/03/covid-19-surgisphere-who-world-health-organization-hydroxychloroquine"&gt;less than 12 employees&lt;/a&gt;, could possibly have gained access to clinical data from a significant proportion of hospitals across the world. Even if they had got such access, how had they dealt with the huge problems the rest of us have with low quality and coding mismatch that are typical of digital data in healthcare, even from sophisticated hospitals?&lt;/p&gt;
+&lt;p&gt;The answer, of course, was “advanced machine learning” and “artificial intelligence,” for which the company had apparently &lt;a href="https://www.prnewswire.com/news-releases/quartzclinical-wins-frost-and-sullivan-best-practices-award-300792202.html"&gt;won an award&lt;/a&gt; from a company called &lt;a href="https://en.wikipedia.org/wiki/Frost_%26_Sullivan"&gt;Frost and Sullivan&lt;/a&gt;:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;[Surgisphere’s] QuartzClinical cloud-based healthcare data analytics
-platform was awarded the 2019 Frost and Sullivan Best Practices Award.
-Earning first place in the Machine Learning-Powered Data Analytics
-category, QuartzClinical was recognized for its innovative use of big
-data, advanced machine learning, and proven real-world applications.&lt;/p&gt;
+&lt;p&gt;[Surgisphere’s] QuartzClinical cloud-based healthcare data analytics platform was awarded the 2019 Frost and Sullivan Best Practices Award. Earning first place in the Machine Learning-Powered Data Analytics category, QuartzClinical was recognized for its innovative use of big data, advanced machine learning, and proven real-world applications.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;In &lt;a
-href="https://www.quartzclinical.com/best-practices-award"&gt;their report,
-Frost and Sullivan&lt;/a&gt; say:&lt;/p&gt;
+&lt;p&gt;In &lt;a href="https://www.quartzclinical.com/best-practices-award"&gt;their report, Frost and Sullivan&lt;/a&gt; say:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;QuartzClinical’s combination of machine learning technology,
-artificial intelligence, and precision analytics can provide results
-quickly.&lt;/p&gt;
+&lt;p&gt;QuartzClinical’s combination of machine learning technology, artificial intelligence, and precision analytics can provide results quickly.&lt;/p&gt;
 &lt;p&gt;…&lt;/p&gt;
-&lt;p&gt;Frost &amp;amp; Sullivan’s market research finds that Surgisphere’s
-QuartzClinical healthcare data analytics platform connects all data
-together through its artificial intelligence and machine learning
-engines so that healthcare organization can make better decisions using
-benchmark analysis of staff performance. The level 5 machine learning
-capability will help Surgisphere’s platform enter the healthcare
-industry mainstream in the short term.&lt;/p&gt;
+&lt;p&gt;Frost &amp;amp; Sullivan’s market research finds that Surgisphere’s QuartzClinical healthcare data analytics platform connects all data together through its artificial intelligence and machine learning engines so that healthcare organization can make better decisions using benchmark analysis of staff performance. The level 5 machine learning capability will help Surgisphere’s platform enter the healthcare industry mainstream in the short term.&lt;/p&gt;
 &lt;/blockquote&gt;
-</content><category term="data science"></category></entry><entry><title>The fall and rise of exploratory data analysis</title><link href="https://asterisk.dynevor.org/the-fall-and-rise-of-exploratory-data-analysis.html" rel="alternate"></link><published>2019-09-02T10:30:00+01:00</published><updated>2019-09-02T10:30:00+01:00</updated><author><name>Matthew Brett</name></author><id>tag:asterisk.dynevor.org,2019-09-02:/the-fall-and-rise-of-exploratory-data-analysis.html</id><summary type="html">&lt;p&gt;“Exploratory data analysis” (EDA) &lt;span class="citation"
-data-cites="tukey1977exploratory"&gt;(Tukey 1977)&lt;/span&gt; is the term that
-John W. Tukey gave to the practice of exploring the data with
-visualizations and summaries. The careful data analyst should do EDA
-before going on to the more familiar mode of making statistical models,
-and testing them.&lt;/p&gt;
-&lt;p&gt;I remember coming …&lt;/p&gt;</summary><content type="html">&lt;p&gt;“Exploratory data analysis” (EDA) &lt;span class="citation"
-data-cites="tukey1977exploratory"&gt;(Tukey 1977)&lt;/span&gt; is the term that
-John W. Tukey gave to the practice of exploring the data with
-visualizations and summaries. The careful data analyst should do EDA
-before going on to the more familiar mode of making statistical models,
-and testing them.&lt;/p&gt;
-&lt;p&gt;I remember coming across these ideas when I was was a PhD student, in
-1996. I bought one of Tukey’s books in a second hand bookshop.&lt;/p&gt;
-&lt;p&gt;In retrospect, I hardly heard about EDA after that. I didn’t use it
-myself.&lt;/p&gt;
-&lt;p&gt;I just came across a 2003 article &lt;span class="citation"
-data-cites="curtis2003whatever"&gt;(Curtis and Araki 2003)&lt;/span&gt; recording
-its quiet disappearance:&lt;/p&gt;
+</content><category term="data science"></category></entry><entry><title>The fall and rise of exploratory data analysis</title><link href="https://asterisk.dynevor.org/the-fall-and-rise-of-exploratory-data-analysis.html" rel="alternate"></link><published>2019-09-02T10:30:00+01:00</published><updated>2019-09-02T10:30:00+01:00</updated><author><name>Matthew Brett</name></author><id>tag:asterisk.dynevor.org,2019-09-02:/the-fall-and-rise-of-exploratory-data-analysis.html</id><summary type="html">&lt;p&gt;“Exploratory data analysis” (EDA) &lt;span class="citation" data-cites="tukey1977exploratory"&gt;(Tukey 1977)&lt;/span&gt; is the term that John W. Tukey gave to the practice of exploring the data with visualizations and summaries. The careful data analyst should do EDA before going on to the more familiar mode of making statistical models, and testing them.&lt;/p&gt;
+&lt;p&gt;I remember coming …&lt;/p&gt;</summary><content type="html">&lt;p&gt;“Exploratory data analysis” (EDA) &lt;span class="citation" data-cites="tukey1977exploratory"&gt;(Tukey 1977)&lt;/span&gt; is the term that John W. Tukey gave to the practice of exploring the data with visualizations and summaries. The careful data analyst should do EDA before going on to the more familiar mode of making statistical models, and testing them.&lt;/p&gt;
+&lt;p&gt;I remember coming across these ideas when I was was a PhD student, in 1996. I bought one of Tukey’s books in a second hand bookshop.&lt;/p&gt;
+&lt;p&gt;In retrospect, I hardly heard about EDA after that. I didn’t use it myself.&lt;/p&gt;
+&lt;p&gt;I just came across a 2003 article &lt;span class="citation" data-cites="curtis2003whatever"&gt;(Curtis and Araki 2003)&lt;/span&gt; recording its quiet disappearance:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;The purpose of this research was to analyze recent statistics
-textbooks in the behavioral sciences in terms of their coverage of
-exploratory data analysis (EDA) philosophy and techniques. Twenty
-popular texts were analyzed. EDA philosophy was not addressed in the
-vast majority of texts. Only three texts had an entire chapter on EDA.
-None of the authors used the term “confirmatory factor analysis” or
-discussed model building or cross-validation. Seven texts contained
-references to published work by Tukey, but these references were mainly
-for specific techniques, most typically the stem-and-leaf display and
-box-and-whiskers plot, which were presented in 15 and 9 texts
-respectively. The paper ends with recommendations for integrating EDA
-into the fields of psychology and education.&lt;/p&gt;
+&lt;p&gt;The purpose of this research was to analyze recent statistics textbooks in the behavioral sciences in terms of their coverage of exploratory data analysis (EDA) philosophy and techniques. Twenty popular texts were analyzed. EDA philosophy was not addressed in the vast majority of texts. Only three texts had an entire chapter on EDA. None of the authors used the term “confirmatory factor analysis” or discussed model building or cross-validation. Seven texts contained references to published work by Tukey, but these references were mainly for specific techniques, most typically the stem-and-leaf display and box-and-whiskers plot, which were presented in 15 and 9 texts respectively. The paper ends with recommendations for integrating EDA into the fields of psychology and education.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;EDA has now made a triumphant return, as part of “data science”. As
-one example, see the introduction to &lt;a
-href="https://r4ds.had.co.nz/introduction.html"&gt;R for data
-science&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;I find this interesting, as part of the pattern that Donoho describes
-&lt;span class="citation" data-cites="donoho201550"&gt;(Donoho 2015)&lt;/span&gt;,
-of the tendency for academic statistics departments to study clever and
-satisfying mathematical models, instead of practical techniques for data
-analysis.&lt;/p&gt;
-&lt;p&gt;Perhaps EDA was too hard to teach, or even too hard to do, before we
-learned that &lt;a
-href="https://matthew-brett.github.io/dsfe/chapters/01/what-is-data-science"&gt;data
-analysis must use coding&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;EDA has now made a triumphant return, as part of “data science.” As one example, see the introduction to &lt;a href="https://r4ds.had.co.nz/introduction.html"&gt;R for data science&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I find this interesting, as part of the pattern that Donoho describes &lt;span class="citation" data-cites="donoho201550"&gt;(Donoho 2015)&lt;/span&gt;, of the tendency for academic statistics departments to study clever and satisfying mathematical models, instead of practical techniques for data analysis.&lt;/p&gt;
+&lt;p&gt;Perhaps EDA was too hard to teach, or even too hard to do, before we learned that &lt;a href="https://matthew-brett.github.io/dsfe/chapters/01/what-is-data-science"&gt;data analysis must use coding&lt;/a&gt;.&lt;/p&gt;
 &lt;section id="references" class="level3 unnumbered"&gt;
 &lt;h3 class="unnumbered"&gt;References&lt;/h3&gt;
-&lt;div id="refs" class="references csl-bib-body hanging-indent"
-role="doc-bibliography"&gt;
-&lt;div id="ref-curtis2003whatever" class="csl-entry"
-role="doc-biblioentry"&gt;
-Curtis, Deborah A, and Cheri J Araki. 2003. &lt;span&gt;“Whatever Happened to
-Exploratory Data Analysis? An Evaluation of Behavioral Science
-Statistics Textbooks.”&lt;/span&gt;
+&lt;div id="refs" class="references csl-bib-body hanging-indent" role="doc-bibliography"&gt;
+&lt;div id="ref-curtis2003whatever" class="csl-entry" role="doc-biblioentry"&gt;
+Curtis, Deborah A, and Cheri J Araki. 2003. &lt;span&gt;“Whatever Happened to Exploratory Data Analysis? An Evaluation of Behavioral Science Statistics Textbooks.”&lt;/span&gt;
 &lt;/div&gt;
 &lt;div id="ref-donoho201550" class="csl-entry" role="doc-biblioentry"&gt;
-Donoho, David. 2015. &lt;span&gt;“50 Years of Data Science.”&lt;/span&gt; In
-&lt;em&gt;Princeton &lt;span&gt;NJ&lt;/span&gt;, Tukey Centennial Workshop&lt;/em&gt;. &lt;a
-href="http://courses.csail.mit.edu/18.337/2015/docs/50YearsDataScience.pdf"&gt;http://courses.csail.mit.edu/18.337/2015/docs/50YearsDataScience.pdf&lt;/a&gt;.
+Donoho, David. 2015. &lt;span&gt;“50 Years of Data Science.”&lt;/span&gt; In &lt;em&gt;Princeton &lt;span&gt;NJ&lt;/span&gt;, Tukey Centennial Workshop&lt;/em&gt;. &lt;a href="http://courses.csail.mit.edu/18.337/2015/docs/50YearsDataScience.pdf"&gt;http://courses.csail.mit.edu/18.337/2015/docs/50YearsDataScience.pdf&lt;/a&gt;.
 &lt;/div&gt;
-&lt;div id="ref-tukey1977exploratory" class="csl-entry"
-role="doc-biblioentry"&gt;
-Tukey, John W. 1977. &lt;em&gt;Exploratory Data Analysis&lt;/em&gt;. Reading, MA,
-USA: Ad&lt;span&gt;d&lt;/span&gt;i&lt;span&gt;s&lt;/span&gt;on-Wes&lt;span&gt;l&lt;/span&gt;ey.
+&lt;div id="ref-tukey1977exploratory" class="csl-entry" role="doc-biblioentry"&gt;
+Tukey, John W. 1977. &lt;em&gt;Exploratory Data Analysis&lt;/em&gt;. Reading, MA, USA: Ad&lt;span&gt;d&lt;/span&gt;i&lt;span&gt;s&lt;/span&gt;on-Wes&lt;span&gt;l&lt;/span&gt;ey.
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/section&gt;
