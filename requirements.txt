@@ -1,6 +1,6 @@
 pelican
 beautifulsoup4
-markdown==3.3.7
+markdown==3.8.1
 cssmin
 jupyter
 nbconvert<6
