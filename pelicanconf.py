@@ -35,6 +35,8 @@ LINKS =  (
     ('atom', '/feeds/all.atom.xml'),
 )
 
+SHARE_LINKS = [("twitter", "X"), ("facebook", "Facebook"), ("email", "Email")]
+
 # Social widget
 SOCIAL = (
     ('rss', '/feeds/all.atom.xml'),
