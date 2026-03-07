@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Asterisk - management</title><link href="https://asterisk.dynevor.org/" rel="alternate"></link><link href="https://asterisk.dynevor.org/feeds/management.atom.xml" rel="self"></link><id>https://asterisk.dynevor.org/</id><updated>2025-10-21T10:39:00+01:00</updated><entry><title>NHS snapshot</title><link href="https://asterisk.dynevor.org/nhs-snapshot.html" rel="alternate"></link><published>2025-10-21T10:39:00+01:00</published><updated>2025-10-21T10:39:00+01:00</updated><author><name>Matthew Brett</name></author><id>tag:asterisk.dynevor.org,2025-10-21:/nhs-snapshot.html</id><summary type="html">&lt;p&gt;I suppose the United Kingdom will not collapse completely in my
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Asterisk - management</title><link href="https://asterisk.dynevor.org/" rel="alternate"/><link href="https://asterisk.dynevor.org/feeds/management.atom.xml" rel="self"/><id>https://asterisk.dynevor.org/</id><updated>2025-10-21T10:39:00+01:00</updated><entry><title>NHS snapshot</title><link href="https://asterisk.dynevor.org/nhs-snapshot.html" rel="alternate"/><published>2025-10-21T10:39:00+01:00</published><updated>2025-10-21T10:39:00+01:00</updated><author><name>Matthew Brett</name></author><id>tag:asterisk.dynevor.org,2025-10-21:/nhs-snapshot.html</id><summary type="html">&lt;p&gt;I suppose the United Kingdom will not collapse completely in my
 lifetime, but it’s hard to imagine it can keep going much longer.&lt;/p&gt;
 &lt;p&gt;Consider the following snapshot of interaction with the National
 Health Service (NHS).&lt;/p&gt;
@@ -161,7 +161,7 @@ patients’ car park.&lt;a href="#fnref2" class="footnote-back"
 role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/section&gt;
-</content><category term="management"></category></entry><entry><title>Fumbling the future</title><link href="https://asterisk.dynevor.org/fumbling-the-future.html" rel="alternate"></link><published>2022-07-08T17:45:00+01:00</published><updated>2022-07-08T17:45:00+01:00</updated><author><name>Matthew Brett</name></author><id>tag:asterisk.dynevor.org,2022-07-08:/fumbling-the-future.html</id><summary type="html">&lt;p&gt;I recently bought and read “Fumbling the future: how Xerox invented, then ignored, the first personal computer”, by Douglas K. Smith and Robert C. Alexander (1988).&lt;/p&gt;
+</content><category term="management"/></entry><entry><title>Fumbling the future</title><link href="https://asterisk.dynevor.org/fumbling-the-future.html" rel="alternate"/><published>2022-07-08T17:45:00+01:00</published><updated>2022-07-08T17:45:00+01:00</updated><author><name>Matthew Brett</name></author><id>tag:asterisk.dynevor.org,2022-07-08:/fumbling-the-future.html</id><summary type="html">&lt;p&gt;I recently bought and read “Fumbling the future: how Xerox invented, then ignored, the first personal computer”, by Douglas K. Smith and Robert C. Alexander (1988).&lt;/p&gt;
 &lt;p&gt;Its a story so tragic that I was almost in tears in various points.&lt;/p&gt;
 &lt;p&gt;To summarize, Xerox became extremely successful by identifying the nascent …&lt;/p&gt;</summary><content type="html">&lt;p&gt;I recently bought and read “Fumbling the future: how Xerox invented, then ignored, the first personal computer”, by Douglas K. Smith and Robert C. Alexander (1988).&lt;/p&gt;
 &lt;p&gt;Its a story so tragic that I was almost in tears in various points.&lt;/p&gt;
@@ -184,4 +184,4 @@ role="doc-backlink"&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;blockquote&gt;
 &lt;p&gt;“It’s great” [Taylor] exclaimed, “to finally work for a computer company!”.&lt;/p&gt;
 &lt;/blockquote&gt;
-</content><category term="management"></category></entry></feed>
+</content><category term="management"/></entry></feed>
