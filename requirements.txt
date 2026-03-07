@@ -9,7 +9,11 @@ jupyter_contrib_nbextensions
 webassets
 # For pelican-pandoc-reader
 pypandoc
+# Tools for making new posts
+./pelitools
 # For notebooks
 pandas
 matplotlib
 jupytext
+# Github upload
+ghp_import

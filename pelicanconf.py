@@ -69,7 +69,6 @@ sys.path += ['plugins/pelican-plugins',
              'plugins']
 PLUGINS = [
     'summary',       # auto-summarizing articles
-    'feed_summary',  # use summaries for RSS, not full articles
     'liquid_tags.img',  # embedding images
     'liquid_tags.video',  # embedding videos
     'liquid_tags.include_code',  # including code blocks
