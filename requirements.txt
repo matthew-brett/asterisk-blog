@@ -1,6 +1,4 @@
-pelican
-beautifulsoup4
-markdown
+pelican[markdown]
 cssmin
 jupyter
 nbconvert
@@ -10,7 +8,7 @@ webassets
 # For pelican-pandoc-reader
 pypandoc
 # Tools for making new posts
-./pelitools
+-e ./pelitools
 # For notebooks
 pandas
 matplotlib
