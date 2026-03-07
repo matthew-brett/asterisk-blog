@@ -1,10 +1,10 @@
 pelican
 beautifulsoup4
-markdown==3.3.7
+markdown
 cssmin
 jupyter
-nbconvert<6
-jinja2<=3.0
+nbconvert
+jinja2
 jupyter_contrib_nbextensions
 webassets
 # For pelican-pandoc-reader
