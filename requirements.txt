@@ -5,6 +5,7 @@ nbconvert
 jinja2
 jupyter_contrib_nbextensions
 webassets
+pytz
 # https://github.com/jupyter/notebook/issues/4436#issuecomment-2591585054
 notebook<7
 # For pelican-pandoc-reader
