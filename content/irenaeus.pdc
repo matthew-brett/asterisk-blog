@@ -610,11 +610,40 @@ dwelt among us*.
 
 ## Fragments
 
-These are from various sources:
+These are from various sources, noted below for each.
+
+[Keble
+1872](https://archive.org/details/42ALibraryOfFathersOfTheHolyCatholicV42):
+
+> With regard to the genuineness of the fragments, Massuet the Benedictine
+Editor who had bestowed much pains in verifying those which his predecessors
+had collected from Catenae, &c., points out (i. 338) that they were of two
+kinds, those given by Eusebius and other ancient writers being undoubtedly
+genuine, those given by later writers or again by Catenae (whose compilers
+constantly condensed very considerably, whose transcribers sometimes put by
+mistake the wrong name) are of more doubtful authority. Massuet sums up, *We
+give here all the fragments which have been collected by Feuardent, Halloix,
+Sirmond, Combefis, Grabe and others and those which ourselves have collected,
+yet not attaching to them more credit than they deserve.*
+>
+> The first 13 fragments and the 6 Syriac ones and again those marked 35 to 38
+will probably be genuine, the 14th and again the last fragment from the
+Armenian almost certainly spurious; of the Catenae-fragments some rest on the
+authority of several Mss., (and for these the probability of the wrong name
+having been appended is very considerably diminished,) some again at present on
+that of one Ms. only, while fragment xxxix attributed to S\. Irenœus by the
+Vatican Ms. 331 and one of the Mss. used by the editor of the Leipzig Catena,
+is by bis other Ms. attributed to Diodorus, and probably also (since Muenter
+was the first to publish it) the 3 Paris Catenae consulted by Massuet attribute
+this fragment to Diodorus or some other writer.
+
+(The 6 Syriac fragments have labels "a" through "f".  There follows fragment
+"g", the last listed fragment, which must be the "the last fragment from the
+Armenian" referred to above.)
 
 ### Letter to Florinus
 
-From Roberts, above, p568:
+From Roberts, above, p568 (Roberts, Keble fragment #II, notes from Roberts):
 
 > This interesting extract we also owe to Eusebius, who (*ut sup.*)
 took it from the work *De Ogdoade*, written after this former friend of
@@ -656,7 +685,7 @@ certain of the brethren, admonishing and exhorting them.
 
 ### Letter on the observance of Easter
 
-From Roberts, above, p568:
+From Roberts, above, p568 (Roberts, Keble #III):
 
 > We are indebted again to Eusebius for this valuable fragment from the Epistle
 of Irenaeus to Victor Bishop of Rome (Hist. Eccl. , v. 24 ; copied also by
@@ -701,34 +730,3 @@ held fellowship with each other ; and Anicetus conceded to Polycarp in the
 Church the celebration of the Eucharist, by way of showing him respect ; so
 that they parted in peace one from the other, maintaining peace with the whole
 Church, both those who did observe [this custom] and those who did not.
-
-<!---
-We are going to be thinking about multiple references to the document `roberts1895ante_nicene_fathers_1.pdf`, also available at:
-
-https://archive.org/download/cuaantenicenefat01robe/cuaantenicenefat01robe.pdf
-
-I'll call this document "Roberts 1895".
-
-In particular, the page numbers I'm going to give you refer to page numbers in
-the book scanned into the PDF.  I'll call these book page numbers.  To be
-clear, these are the page numbers printed in the PDF (pages as identified by
-the printed book), not the pages numbers of the PDF document file.
-
-Now, the same (or extremely similar) text is also available at https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies . I'll call this the BKV URL.
-
-Roberts 1895 contains a translation of Irenaeus of Lyons' work "Against Heresies" (AH), from book page number 317.
-
-AH has "books" (of which there are 5), and within each book it has chapters, and paragraphs.  So a full reference to an AH piece of text might loook like AH 3,XXI:3, meaning book 3, chapter XXI (Roman numerals), and paragraphy 3.
-
-Here is an example reference from Roberts 1895:
-
-> His own Word is both suitable and sufficient for the formation of all things,
-even as John, the disciple of the Lord, declares regarding Him : " All things
-were made by Him, and without Him was nothing made." AH 2, II:5, p361-2 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/202)
-
-Notice the reference at the end - AH for "Against Heresies", but with the
-*book* number missing, giving only the chapter (II) and the paragraph 5, as
-well as the book page number 361-2.
-
-Your task is to first - identify the book number of this quote, and second, give a URL to this book / chapter from BKV, and third check that the reference is correct, flagging for review otherwise.
--->
