@@ -8,11 +8,20 @@ Status: hidden
 bibliography: ["bible.bib"]
 ---
 
-[Wikipedia - Against Heresies](https://en.wikipedia.org/wiki/Against_Heresies)
-— abbreviated AH.
+Most of the discussion here is from Irenaeus' five books of [Against
+Heresies](https://en.wikipedia.org/wiki/Against_Heresies) — abbreviated AH.
 
 This document records all mentions of "apostle" in AH, to document how Irenaeus
 uses the term.
+
+## Sources
+
+@roberts1899ante_nicene_fathers_1 has the full text in English translation.
+@harvey1857sancti_irenaei_2 is an edition of the Latin text that is our main
+source for AH.  I refer to the AH text below by book number, chapter number (in
+Roman numerals), section number, and Roberts page number — e.g AH 4, XXXV:2
+p513. The [Bibliothek der Kirchenväter site](https://bkv.unifr.ch) (BKV) has
+Roberts' text as clean web pages, to which I link below.
 
 ## Motivation
 
@@ -22,31 +31,38 @@ was also John the son of Zebedee, one of the 12 apostles appointed by Jesus.
 
 ## Summary
 
+### John the disciple of the Lord
+
 When referring to John the author, Irenaeus very often uses the set phrase
 "John, the disciple of the Lord" (14 times of 49 total uses of "John" other
 than John the Baptist).  He does not use the phrase "disciple of the Lord" of
 any other person, though he does twice refer in general to the "disciples of
 the Lord".  He only ever uses "the Apostle N" or "N the Apostle" for: Paul (17
 times); Matthew (once of 17 mentions of "Matthew") and Peter (once for 48
-mentions of "Peter"). At one point Irenaeus argues that John the Baptist could
-be considered an apostle, because "he actually saw him when he came, and
-pointed him out":
+mentions of "Peter").
 
-> Wherefore the Lord said that He deemed [[John the Baptist]] "more than
-a prophet." For all the other prophets preached the advent of the paternal
-Light, and desired to be worthy of seeing Him whom they preached; but John
-did both announce [the advent] beforehand, in a like manner as did the others,
-and actually saw Him when He came, and pointed Him out, and persuaded many to
-believe on Him, so that he did himself hold the place of both prophet and
-apostle. For this is to be more than a prophet, because, "first apostles,
-secondarily prophets;" ... AH 3, XI:4 p427. (see below)
+### Irenaeus' apostles
 
-The most representative apostles are Peter and Paul — where (from the Canon)
-Paul claims this title, but had never met Jesus.  In general Irenaeus treats
-apostles as the source of traditions and sayings and deeds about Jesus and of
-secure interpretation.
+For Irenaeus, the most representative apostles are Peter and Paul — he
+criticizes the heretics for claiming to be "superior to his disciples, such as
+Peter and Paul, and the rest of the apostles" (AH 1, XXV:2, p350), and
+contrasts the heretics' teaching with that of the apostles with "Therefore let
+them not any longer assert that Peter and Paul and the other apostles
+proclaimed the truth ..." AH 4, XXXV:2 p513
 
-It's clear from the quotes below, and those in [Irenaeus on
+In his letters, Paul specifically and often identifies himself as an "apostle of Christ Jesus" (e.g. Romans 1:1, 1 and 2 Corinthians 1), but did not claim to have met Jesus in person.
+
+When referring to apostles, Irenaeus sometimes means:
+
+1. The 12 named apostles; I've labeled these references as "12" below.
+1. Paul
+1. The source of definitive teaching from and about Jesus. I've labeled these
+   references as "SA".
+
+The question at hand is whether Irenaeus, when citing the apostles as general
+authority (SA), restricted the apostles to the 12 plus Paul.
+
+As background, it is clear from the quotes below, and those in [Irenaeus on
 John]({filename}irenaeus.pdc) that:
 
 1. Irenaeus identifies the author of John's Gospel as John, the disciple of the
@@ -68,24 +84,38 @@ John]({filename}irenaeus.pdc) that:
    the Word previously mentioned by him, he further declares, "And the Word was
    made flesh, and dwelt among us." AH 1, IX:2-3 p329 (see below).
 
-However, what is not clear, is whether Irenaeus considers the author of John's
-gospel to be John son of Zebedee — one of the 12.   The question there is
-whether Irenaeus restricted the term "apostle" to the 12, plus Paul.
+The question though, is whether Irenaeus is asserting that John — the disciple
+of the Lord — was also one of the 12.  Could he, instead, have been referring
+to some other John, who was an apostle in the sense of being one of Jesus'
+disciples, and therefore, a source of reliable testimony?
 
-There is suggestive evidence that Irenaeus allows other disciples of Jesus to
-be apostles.  For example: "For that Judas the traitor is the twelfth in order,
-is agreed upon by all, there being twelve apostles mentioned by name in the
-Gospel." AH 2, XX:4 p388; "mentioned by name" weakly implies there may be other
-apostles not mentioned by name.
+Irenaeus does use this second, more general interpretation of apostle, when he
+argues that John the Baptist could be considered an apostle, because "he
+actually saw [[Jesus]] when he came, and pointed him out":
+
+> Wherefore the Lord said that He deemed [[John the Baptist]] "more than
+a prophet." For all the other prophets preached the advent of the paternal
+Light, and desired to be worthy of seeing Him whom they preached; but John did
+both announce [the advent] beforehand, in a like manner as did the others, and
+actually saw Him when He came, and pointed Him out, and persuaded many to
+believe on Him, so that he did himself hold the place of both prophet and
+apostle. For this is to be more than a prophet, because, "first apostles,
+secondarily prophets;" ... AH 3, XI:4 p427. (see below)
+
+There is another piece of suggestive evidence that Irenaeus allows other
+disciples of Jesus to be apostles.  He writes: "For that Judas the traitor is
+the twelfth in order, is agreed upon by all, there being twelve apostles
+mentioned by name in the Gospel." AH 2, XX:4 p388; "mentioned by name" weakly
+implies there may be other apostles not mentioned by name.
 
 ## Abbreviations and notation
 
 * AH - Against Heresies
 * AJG - Author of John's Gospel.
-* AJA - Author of John's Apocalypse (Irenaeus assumes this is also AJG).
 * JsZ - John son of Zebedee, one of the 12 Apostles.
-* NC - not clear who specifically is being referred to (other than those named
-  explicitly).
+* SA - Source of Authority.  It is not clear who specifically is being referred
+  to (other than those named explicitly).
+* BKV — [Bibliothek der Kirchenväter](https://bkv.unifr.ch)
 
 Quotes below are from @roberts1899ante_nicene_fathers_1. Text in quotes
 enclosed in *double* square brackets ([[like this]]) is my own explanation, and
@@ -96,18 +126,18 @@ this]) comes from Roberts.
 
 > Inasmuch as certain men have set the truth aside, and bring in lying words
 and vain genealogies, which," as the apostle says," minister questions rather
-than godly edifying which is in faith," [quoting 1 Tim 1:4] 1, Preface:1 p315 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/1)
+than godly edifying which is in faith," [[quoting 1 Tim 1:4]] 1, Preface:1 p315 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/1)
 (Paul)
 
 > 2/ The production, again, of the Duodecad of the Aeons, is indicated by the
 fact that the Lord was twelve years of age when He disputed with the teachers
 of the law, and by the election of the apostles, for of these there were
-twelve. [Luke vi 13], AH 1,III:2 p319 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/18) (12 Apostles)
+twelve. [[Luke vi 13]], AH 1,III:2 p319 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/18) (12 Apostles)
 
 > 3/ They further maintain that the passion which took place in the case of the
 twelfth Aeon is pointed at by the apostasy of Judas, who was the twelfth
 apostle, and also by the fact that Christ suffered in the twelfth month. AH 1,
-III:3 p319 (12 Apostles) [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/19)
+III:3 p319 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/19) (12)
 
 > Moreover, they affirm that the Apostle Paul himself made mention of this
 cross in the following words ... AH 1, III:5, p320 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/21) (Paul)
@@ -129,7 +159,7 @@ sources than the Scriptures; and, to use a common proverb, they strive to weave
 ropes of sand, while they endeavour to adapt with an air of probability to
 their own peculiar assertions the parables of the Lord, the sayings of the
 prophets, and the words of the apostles, in order that their scheme may not
-seem altogether without support. AH 1, VIII:1 p326 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/49) (NC)
+seem altogether without support. AH 1, VIII:1 p326 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/49) (SA)
 
 > For if he has named the Father, and Charis, and Monogenes, and Aletheia, and
 Logos, and Zoe, and Anthropos, and Ecclesia, according to their hypothesis, he
@@ -155,7 +185,7 @@ respecting our Lord Jesus Christ. AH 1, IX:2-3 p329 [BKV](https://bkv.unifr.ch/e
 
 > 1/ The Church, though dispersed throughout, the whole world, even to the ends
 of the earth, has received from the apostles and their disciples this faith: [She believes] in one God, the Father Almighty, Maker of heaven, and earth,
-and the sea, and all things that are in them; ... AH 1, X:1 p330 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/61) (NC)
+and the sea, and all things that are in them; ... AH 1, X:1 p330 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/61) (SA)
 
 > For in reference to these points, and others of a like nature, the apostle
 exclaims: " Oh! the depth of the riches both of the wisdom and knowledge of
@@ -164,7 +194,7 @@ God; how unsearchable are His judgments, and His ways past finding out!"
 
 > They proclaim themselves as being "perfect," so that no-one can be compared
 to them with respect to the immensity of their knowledge, nor even were you to
-mention Paul or Peter, or any other of the apostles. AH 1, XIII:6 p335 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/82) (NC).
+mention Paul or Peter, or any other of the apostles. AH 1, XIII:6 p335 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/82) (SA).
 
 > Jeroboam also, who received the ten sceptres (tribes), and the ten courts of
 the tabernacle, and the columns of ten cubits [high] , and the ten sons of
@@ -174,7 +204,7 @@ whom the Lord appeared after His resurrection, — Thomas being absent,
 
 > ... the number, too, of the apostles; and, in fine, every event which
 embraces in it the number twelve, — set forth their Duodecad. AH 1, XVIII:4
-p344 (12) [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/112)
+p344 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/112) (12)
 
 > 1/ Simon the Samaritan was that magician of whom Luke, the disciple and
 follower of the apostles, says, "But there was a certain man, Simon by name,
@@ -197,14 +227,14 @@ gall of bitterness, and in the bond of iniquity." He, then, not putting faith
 in God a whit the more, set himself eagerly to contend against the apostles, in
 order that he himself might seem to be a wonderful being, and applied himself
 with still greater zeal to the study of the whole magic art, that he might the
-better bewilder and overpower multitudes of men. AH 1, XXIII:1 p347 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/129) [Acts
-89-24] (Peter and JsZ).
+better bewilder and overpower multitudes of men. AH 1, XXIII:1 p347 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/129) [[Acts
+89-24]] (Peter and JsZ).
 
 > This idea has raised them to such a pitch of pride, that some of them declare
 themselves similar to Jesus; while others, still more mighty, maintain that
 they are superior to his disciples, such as Peter and Paul, and the rest of the
 apostles, whom they consider to be in no respect inferior to Jesus. AH 1,
-XXV:2, p350 (NC) [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/144)
+XXV:2, p350 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/144) (SA)
 
 > And in their writings we read as follows, the interpretation which they give
 [of their views], declaring that Jesus spoke in a mystery to His disciples and
@@ -220,23 +250,23 @@ seven first ordained to the diaconate by the apostles. AH 1, XXVI:3, p352 [BKV](
 
 > 1/ Cerdo was one who took his system from the followers of Simon, and came
 to live at Rome in the time of Hyginus, who held the ninth place in the
-episcopal succession from the apostles downwards. AH 1, XXVII:1 p352 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/154) (NC)
+episcopal succession from the apostles downwards. AH 1, XXVII:1 p352 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/154) (SA)
 
-> He [Marcion] likewise persuaded his disciples that he himself was more
+> He [[Marcion]] likewise persuaded his disciples that he himself was more
 worthy of credit than are those apostles who have handed down the Gospel to
 us, furnishing them not with the Gospel, but merely a fragment of it. In like
 manner, too, he dismembered the Epistles of Paul, removing all that is said by
 the apostle respecting that God who made the world, to the effect that He is
 the Father of our Lord Jesus Christ, and also those passages from the
 prophetical writings which the apostle quotes, in order to teach us that they
-announced beforehand the coming of the Lord. AH 1, XXVII:2 p352 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/155) (NC, Paul)
+announced beforehand the coming of the Lord. AH 1, XXVII:2 p352 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/155) (SA, Paul)
 
 > 4/ But since this man is the only one who has dared openly to mutilate the
 Scriptures, and unblushingly above all others to inveigh against God,
 I purpose specially to refute him, convicting him out of his own writings
 ; and, with the help of God, I shall overthrow him out of those discourses of
 the Lord and the apostles, which are of authority with him, and of which he
-makes use. AH 1, XXVII:4 p352-3 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/157) (NC)
+makes use. AH 1, XXVII:4 p352-3 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/157) (SA)
 
 > Now, that this God [[of John 1]] is the Father of our Lord Jesus Christ, Paul
 the apostle also has declared, [saying,] "There is one God, the Father, who is
@@ -245,10 +275,10 @@ already that there is only one God; but I shall further demonstrate this from
 the apostles themselves, and from the discourses of the Lord. For what sort of
 conduct would it be, were we to forsake the utterances of the prophets, of the
 Lord, and of the apostles, that we might give heed to these persons, who speak
-not a word of sense? AH 2, II:5 p362 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/203) (Paul + NC)
+not a word of sense? AH 2, II:5 p362 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/203) (Paul + SA)
 
 > The Universal Church, moreover, through the whole world, has received this
-tradition [[that God created the world]] from the apostles. AH 2, IX:1 p369 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/233) (NC)
+tradition [[that God created the world]] from the apostles. AH 2, IX:1 p369 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/233) (SA)
 
 > Let them, then, henceforth seek to set forth some other reasons why the Lord
 came to be baptized at the age of thirty years, and [explain in some other
@@ -265,8 +295,8 @@ there being twelve apostles mentioned by name in the Gospel. AH 2, XX:4 p388 [BK
 > 1/ If, again, they maintain that the twelve apostles were a type only of that
 group of twelve Aeons which Anthropos in conjunction with Ecclesia produced,
 then let them produce ten other apostles as a type of those ten remaining
-Aeons, who, as they declare, were produced by Logos and Zoe. ... [an extended
-discussion of the number 12 with relation to the number of apostles]
+Aeons, who, as they declare, were produced by Logos and Zoe. ... [[an extended
+discussion of the number 12 with relation to the number of apostles]]
 >
 > 2/ ... Moreover, we must not keep silence respecting Paul, but demand from
 them after the type of what Aeon that apostle has been handed down to us ..."
@@ -288,7 +318,7 @@ also, and heard the very same account from them, and bear testimony as to the
 [validity of] the statement. Whom then should we rather believe? Whether such
 men as these, or Ptolemaeus, who never saw the apostles, and who never even in
 his dreams attained to the slightest trace of an apostle? AH 2, XXII:5 p392 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/326)
-(AJG? JsZ? NC)
+(AJG? JsZ? SA)
 
 > 1/ If any one, however, say in reply to these things, What then? Is it
 a meaningless and accidental thing, that the positions of names, and the
@@ -298,7 +328,7 @@ should they seek to prosecute inquiries respecting God by means of numbers,
 syllables, and letters. For this is an uncertain mode of proceeding, on
 account of their varied and diverse systems, and because every sort of
 hypothesis may at the present day be, in like manner, devised by any one; AH 2,
-XXV:1 p396 (12) [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/339)
+XXV:1 p396 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/339) (12)
 
 > As the apostle has said on this point, that, when other things have been
 done away, then these three, "faith, hope and charity, shall endure." AH 2,
@@ -310,7 +340,7 @@ those who were [afterwards] to transgress [His commandments]; but the cause
 itself of the nature of such transgressors neither has any Scripture informed
 us, nor has an apostle told us, nor has the Lord taught us. AH 2, XXVIII:7 p401
 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/358)
-(NC)
+(SA)
 
 > 9/ But if any lover of strife contradict what I have said, and also what the
 apostle affirms, that "we know in part, and prophesy in part," AH 2, XXVIII:9
@@ -331,24 +361,26 @@ love of God.
 the third heaven, the apostle was made a spectator, ... AH 2, XXX:7-9 p405 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/372) (Paul)
 
 > He is the God of Abraham, ... whom Christ reveals, whom the apostles make
-known to us, and in whom the Church believes. AH 2, XXX:9 p406 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/374) (NC)
+known to us, and in whom the Church believes. AH 2, XXX:9 p406 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/374) (SA)
 
 > And so far are they from being able to raise the dead, as the Lord raised
 them, and the apostles did by means of prayer, and as has been frequently done
-in the brotherhood on account of some necessity — ... AH 2, XXXI:2 p407 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/377) (NC)
+in the brotherhood on account of some necessity — ... AH 2, XXXI:2 p407 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/377) (SA)
 
 > 4/ Now, that the preaching of the apostles, the authoritative teaching of
 the Lord, the announcements of the prophets, the dictated utterances of
-the apostles, [footnote 3] ...
+the apostles,[ [footnote 3]] ...
 >
-> [Footnote 3] The words are "apostolorum dictatio," probably referring to the
-*letters* of the apostles, as distinguished from their *preaching* already
-mentioned. AH 2 XXXV:4 p413 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/400) (NC)
+> [[Contents of footnote 3]] The words are "apostolorum dictatio," probably
+referring to the *letters* of the apostles, as distinguished from their
+*preaching* already mentioned. AH 2 XXXV:4 p413
+[BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/400)
+(SA)
 
 > ... the only true and life-giving faith, which the Church has received from
 the apostles and imparted to her sons. For the Lord of all gave to His
 apostles the power of the Gospel, through whom also we have known the truth,
-... AH 3, Preface p414 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/401) (NC).
+... AH 3, Preface p414 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/401) (SA).
 
 > 1/ We have learned from none others the plan of our salvation, than from
 those through whom the Gospel has come down to us, which they did at one time
@@ -382,7 +414,7 @@ of the Saviour; and that not the apostles alone, but even the Lord Himself,
 spoke as at one time from the Demiurge, at another from the intermediate
 place, and yet again from the Pleroma, but that they themselves, indubitably,
 unsulliedly, and purely, have knowledge of the hidden mystery: ... AH 3, II:2
-p416 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/409) (NC)
+p416 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/409) (SA)
 
 > 1/ It is within the power of all, therefore, in every Church, who may wish
 to see the truth,, to contemplate clearly the tradition of the apostles
@@ -393,7 +425,7 @@ taught nor knew of anything like what these [heretics] rave about. For if the
 apostles had known hidden mysteries, which they were in the habit of imparting
 to "the perfect" apart and privily from the rest, they would have delivered
 them especially to those to whom they were also committing the Churches
-themselves. AH 3, III:1 p415 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/412) (NC)
+themselves. AH 3, III:1 p415 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/412) (SA)
 
 > ... we do put to confusion all those who ... assemble in unauthorized
 meetings; [we do this, I say,] by indicating that tradition derived from the
@@ -401,7 +433,7 @@ apostles, of the very great, the very ancient, and universally known Church
 founded and organized at Rome by the two most glorious apostles, Peter and
 Paul; as also [by pointing out] the faith preached to men, which comes down to
 our time by means of the successions of the bishops. AH 3, III:2 p415
-[BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/413) (NC)
+[BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/413) (SA)
 
 > 3/ The blessed apostles, then, having founded and built up the Church,
 committed into the hands of Linus the office of the episcopate. Of this Linus,
@@ -463,7 +495,7 @@ Philippians, from which those who choose to do so, and are anxious about their
 salvation, can learn the character of his faith, and the preaching of the
 truth. Then, again, the Church in Ephesus, founded by Paul, and having John
 remaining among them permanently until the times of Trajan, is a true witness
-of the tradition of the apostles. AH 3, III:3-4 p416 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/414) (NC)
+of the tradition of the apostles. AH 3, III:3-4 p416 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/414) (SA)
 
 > 1/ Since therefore we have such proofs, it is not necessary to seek the
 truth among others which it is easy to obtain from the Church; since the
@@ -475,18 +507,18 @@ constant intercourse, and learn from them what is certain and clear in regard
 to the present question? For how should it be if the apostles themselves had
 not left us writings? Would it not be necessary, [in that case,] to follow the
 course of the tradition which they handed down to those to whom they did
-commit the Churches? AH 3, IV:1 p416-7 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/416) (NC)
+commit the Churches? AH 3, IV:1 p416-7 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/416) (SA)
 
 > Thus, by moans of that ancient tradition of the apostles, they do not suffer
 their mind to conceive anything of the [doctrines suggested by the] portentous
 language of these teachers, among whom neither Church nor doctrine has ever
-been established. AH 3, IV:2 p417 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/418) (NC)
+been established. AH 3, IV:2 p417 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/418) (SA)
 
 > 1/ Since, therefore, the tradition from the apostles does thus exist in the
 Church, and is permanent among us, let us revert to the Scriptural proof
 furnished by those apostles who did also write the Gospel, in which they
 recorded the doctrine regarding God, pointing out that our Lord Jesus Christ
-is the truth,[ [John 14:6]] and that no lie is in Him.  As also David says,
+is the truth,[[John 14:6]] and that no lie is in Him.  As also David says,
 prophesying His birth from a virgin, and the resurrection from the dead,
 "Truth has sprung out of the earth." The apostles, likewise, being disciples
 "of the truth, are above all falsehood; for a lie has no fellowship with the
@@ -501,16 +533,16 @@ those who are capable of comprehending the unnameable Father, they did declare
 the unspeakable mystery through parables and enigmas: so that the Lord and
 the apostles exercised the office of teacher not to further the cause of
 truth, but even in hypocrisy, and as each individual was able to receive it!
-AH 3, V:1 p418 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/420) (NC)
+AH 3, V:1 p418 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/420) (SA)
 
 > ... For the apostles, who were commissioned to find out the wanderers, and
 to be for sight to those who saw not, and medicine to the weak, certainly did
 not address them in accordance with their opinion at the time, but according
-to revealed truth. AH 3, V:2 p418 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/422) (NC)
+to revealed truth. AH 3, V:2 p418 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/422) (SA)
 
 > And again, the apostles taught the Gentiles that they should leave vain
 stocks and stones, which they imagined to be gods, and worship the true God,
-... AH 3, V:3 p418 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/423) (NC)
+... AH 3, V:3 p418 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/423) (SA)
 
 > 1/ Therefore neither would the Lord, nor the Holy Spirit, nor the apostles,
 have ever named as God, definitely and absolutely, him who was not God, unless
@@ -520,7 +552,7 @@ he were truly God ... AH 3, VI:1 p418 [BKV](https://bkv.unifr.ch/en/works/cpg-13
 are no gods; ye now know God, or rather, are known of God," AH 3, VI:5 p420 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/429)
 (Paul)
 
-> 2/ From many other instances also, we may discover that the apostle [Paul]
+> 2/ From many other instances also, we may discover that the apostle [[Paul]]
 frequently uses a transposed order in his sentences, due to the rapidity of
 his discourses, and the impetus of the Spirit which is in him. ... So
 therefore, in such passages, the *hyperbaton* must be exhibited by the
@@ -529,7 +561,7 @@ p420-1 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/di
 
 > 1/ This calumny, then, of these men, having been quashed, it is clearly
 proved that neither the prophets nor the apostles did ever name another God,
-or call [him] Lord, except the true and only God. AH 3, VIII:1 p421 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/434) (NC)
+or call [him] Lord, except the true and only God. AH 3, VIII:1 p421 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/434) (SA)
 
 > 1/ This, therefore, having been clearly demonstrated here (and it shall yet
 be so still more clearly), that neither the prophets, nor the apostles, nor
@@ -540,11 +572,11 @@ and the Son; but naming no other as God, and confessing no other as Lord
 the only God and Lord, who alone is God and ruler of all; — it is incumbent
 on us to follow, if we are their disciples indeed, their testimonies to this
 effect. For Matthew the apostle ... declares that John, when preparing the way
-for Christ, ... AH 3, IX:1 p422 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/437) (NC, then "Matthew the Apostle".  Notice we
+for Christ, ... AH 3, IX:1 p422 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/437) (SA, then "Matthew the Apostle".  Notice we
 never see "John the Apostle").
 
 > 1/ Luke also, the follower and disciple of the apostles, ... AH 3, X:1 p423 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/442)
-(Paul, NC)
+(Paul, SA)
 
 > Wherefore the Lord said that He deemed him [[John the Baptist]] "more than
 a prophet." For all the other prophets preached the advent of the paternal
@@ -559,7 +591,7 @@ XI:4 p427 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies
 > We must conclude, moreover, that these men (the Montanists) cannot admit the
 Apostle Paul either. ... AH 3, XI:9 p429 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/457) (Paul)
 
-> ... Indeed, they [who are from Valentinus] have arrived at such a pitch of
+> ... Indeed, they [[who are from Valentinus]] have arrived at such a pitch of
 audacity, as to entitle their comparatively recent writing "the Gospel of
 Truth," though it agrees in nothing with the Gospels of the Apostles, so that
 they have really no Gospel which is not full of blasphemy. For if what they
@@ -569,7 +601,7 @@ shown from the Scriptures themselves, that that which has been handed down
 from the apostles can no longer be reckoned the Gospel of truth. ... let us
 proceed also to the remaining apostles, and inquire into their doctrine with
 regard to God; then, in due course we shall listen to the very words of the
-Lord. AH 3, XI:9 p429 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/457) (NC)
+Lord. AH 3, XI:9 p429 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/457) (SA)
 
 > 1/ The Apostle Peter, therefore, after the resurrection of the Lord, and His
 assumption into the heavens, being desirous of filling up the number of the
@@ -620,7 +652,7 @@ preaching among the Jews, could not declare to them another god besides Him in
 whom they (their hearers) believed, we say to them, that if the apostles
 used to speak to people in accordance with the opinion instilled into them of
 old, no one learned the truth from them, nor, at a much earlier date, from the
-Lord. AH 3, XII:6 p432 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/464) (NC)
+Lord. AH 3, XII:6 p432 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/464) (SA)
 
 > 7/ From the words of Peter, therefore, which he addressed in Caesarea to
 Cornelius the centurion, and those Gentiles with him, to whom the word of God
@@ -638,10 +670,12 @@ various opinions which exist among them, inasmuch as each one adopted error
 just as he was capable [of embracing it]. But the Church throughout all the
 world, having its origin firm from the apostles, perseveres in one and the
 same opinion with regard to God and His Son. AH 3, XII:7 p432-3 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/465) (Peter - ?12
-- NC)
+- SA)
 
-> But that all his [Paul's] Epistles are consonant to these declarations [from
-Acts], I shall, when expound ing the apostle, ... AH 3, XII:9 p434 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/467) (Paul)
+> But that all his [[Paul's]] Epistles are consonant to these declarations
+[[from Acts]], I shall, when expounding the apostle, ... AH 3, XII:9 p434
+[BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/467)
+(Paul)
 
 > 10/ And still further, Stephen, who was chosen the first deacon by the
 apostles, AH 3, XII:10 p434 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/468) (12)
@@ -655,7 +689,7 @@ consider my previous statements, in which I set forth one God as the Founder
 and Maker of all things, and destroyed and laid bare their allegations; and
 he shall find them agreeable to the doctrine of the apostles, and so to
 maintain what they used to teach, and were persuaded of, that there is one
-God, the Maker of all things. AH 3, XII:11 p434 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/469) (NC)
+God, the Maker of all things. AH 3, XII:11 p434 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/469) (SA)
 
 > Since, therefore, they have been deserted by the paternal love, and puffed
 up by Satan, being brought over to the doctrine of Simon Magus, they have
@@ -663,7 +697,7 @@ apostatized in their opinions from Him who is God, and imagined that they have
 themselves discovered more than the apostles, by finding out another god; and
 [maintained] that the apostles preached the Gospel still somewhat under the
 influence of Jewish opinions, but that they themselves are purer [in
-doctrine], and more intelligent, than the apostles. AH 3, XII:12 p434 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/470) (NC)
+doctrine], and more intelligent, than the apostles. AH 3, XII:12 p434 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/470) (SA)
 
 > 13/ But that both the apostles and their disciples thus taught as the
 Church preaches, and thus teaching were perfected, wherefore also they were
@@ -685,10 +719,10 @@ and the whole Church had convened together, Peter thus addressed them ...
 their consent, they wrote to them after this manner: "The apostles, and the
 presbyters, [and] the brethren, unto those brethren from among the Gentiles who
 are in Antioch, and Syria, and Cilicia, greeting:" [[Acts 15:22-41]] AH 3,
-XII:13 p436 (?12-NC)
-[BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/472)
+XII:13 p436
+[BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/472) (?12-SA)
 
-> He [Peter] persuaded, at the same time, those that were with him, and
+> He [[Peter]] persuaded, at the same time, those that were with him, and
 pointed out that, unless the Holy Ghost had rested upon them, there might have
 been some one who would have raised objections to their baptism. And the
 apostles who were with James allowed the Gentiles to act freely, yielding us
@@ -736,12 +770,12 @@ regarding the apostles. AH 3, XIII:2-3 p437 [BKV](https://bkv.unifr.ch/en/works/
 
 > That he [[Luke]] was not merely a follower, but also a fellow-labourer of
 the apostles, but especially of Paul, Paul has himself declared also in the
-Epistles, ... AH 3, XIV:1 p437-8 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/479) (NC)
+Epistles, ... AH 3, XIV:1 p437-8 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/479) (SA)
 
 > "I have not shunned," he [[Paul, Acts 20:27]] says, "to declare unto you all
 the counsel of God." Thus did the apostles simply, and without respect of
 persons, deliver to all what they had themselves learned from the Lord. AH 3,
-XIV:2 p438 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/480) (Paul, NC)
+XIV:2 p438 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/480) (Paul, SA)
 
 > But the followers of Valentinus must give up their utterly vain talk; for
 they have taken from that [Gospel] many occasions for their own speculations,
@@ -749,7 +783,7 @@ to put an evil interpretation upon what he has well said. If, on the other
 hand, they feel compelled to receive the remaining portions also, then, by
 studying the perfect Gospel, and the doctrine of the apostles, they will find
 it necessary to repent, that they may be saved from the danger [to which they
-are exposed]. AH 3, XIV:4 p439 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/482) (NC)
+are exposed]. AH 3, XIV:4 p439 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/482) (SA)
 
 > 1/ But again, we allege the same against those who do not recognise Paul as
 an apostle: that they should either reject the other words of the Gospel
@@ -770,7 +804,7 @@ subsequent testimony, which treats upon the acts and the doctrine of the
 apostles, and holding the unadulterated rule of truth, may be saved. His
 testimony, therefore, is true, and the doctrine of the apostles is open and
 stedfast, holding nothing in reserve; nor did they teach one set of doctrines
-in private, and another in public. AH 3, XV:1 p439 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/483) (Paul, NC)
+in private, and another in public. AH 3, XV:1 p439 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/483) (Paul, SA)
 
 > 3/ But let us revert to the same line of argument [hitherto pursued]. For
 when it has been manifestly declared, that they who were the preachers of the
@@ -783,7 +817,7 @@ the fathers; and that they knew no other. The opinion of the apostles,
 therefore, and of those (Mark and Luke)[^discentium] who learned from their
 words, concerning God, has been made manifest. AH 3, XV:3 p440
 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/486)
-(NC, but Mark and Luke distinguished from the apostles, implying Matthew and
+(SA, but Mark and Luke distinguished from the apostles, implying Matthew and
 John are apostles).
 
 [^discentium]: The Latin [@harvey1857sancti_irenaei_2, p81] has "Manifesta
@@ -833,14 +867,14 @@ the Son of God, the Only-begotten, who is also the Word of the Father, coming
 in the fulness of time, having become incarnate in man for the sake of man,
 and fulfilling all the conditions of human nature, our Lord Jesus Christ being
 one and the same, as He Himself the Lord doth testify, as the apostles
-confess, and as the prophets announce, ... AH 3, XVII:4 p445 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/501) (NC)
+confess, and as the prophets announce, ... AH 3, XVII:4 p445 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/501) (SA)
 
 > But that He is Himself in His own right, beyond all men who ever lived, God,
 and Lord, and King Eternal, and the incarnate Word, proclaimed by all the
 prophets, the apostles, and by the Spirit Himself, may be seen by all who have
 attained to even a small portion of the truth. Now, the Scriptures would not
 have testified these things of Him, if, like others, He had been a mere man.
-[[Various OT quotes follow]] AH 3, XIX:2 p449 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/512) (NC)
+[[Various OT quotes follow]] AH 3, XIX:2 p449 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/512) (SA)
 
 > For the apostles, since they are of more ancient date than all these
 [heretics], agree with this aforesaid translation [[of Isiah 7:14]]; and the
@@ -860,14 +894,14 @@ does not refer to the Virgin birth - presumably either confusion, or oral
 testimony).
 
 > The Apostle Paul, moreover, in the Epistle to the Galatians, ... AH 3,
-XXII:1 p454 (Paul) [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/531)
+XXII:1 p454 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/531) (Paul)
 
 > But [it has, on the other hand, been shown], that the preaching of the
 Church is everywhere consistent, and continues in an even course, and receives
 testimony from the prophets, the apostles, and all the disciples ... "For in
 the Church," it is said, "od hath set apostles, prophets, teachers," [[1
 Corinithians 12:28]] and all the other means through which the Spirit works;
-AH 3, XXIV:1 p458 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/544) (NC)
+AH 3, XXIV:1 p458 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/544) (SA)
 
 > And since they allege that the Creator originated from a defect or apostasy,
 so have they also taught that Christ and the Holy Spirit were emitted on
@@ -878,10 +912,10 @@ all these points have been set forth, [to the effect] that not only did they,
 "who from the beginning were eye-witnesses and ministers of the word" [[Luke
 1:2]] of truth, hold no such opinions, but that they did also preach to us to
 shun these doctrines, [[2 Timothy 2:23]] foreseeing by the Spirit those
-weak-minded persons who should be led astray. AH 4, Preface:1 p462 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/559) (NC)
+weak-minded persons who should be led astray. AH 4, Preface:1 p462 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/559) (SA)
 
 > ... and likewise that the apostles did of themselves term no one else as
-God, or name [no other] as Lord ... AH 4, I:1 p463 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/562) (NC)
+God, or name [no other] as Lord ... AH 4, I:1 p463 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/562) (SA)
 
 > The apostles, too, according to these men's showing, are proved to be
 transgressors of the commandment, since they confess the Creator as God, and
@@ -889,13 +923,13 @@ Lord, and Father, as I have shown — if He is not alone God and Father. Jesus,
 therefore, will be to them the author and teacher of such transgression,
 inasmuch as He commanded: that one Being should be called Father, [[Matthew
 23:9]] thus imposing upon them the necessity of confessing the Creator as
-their Father, as has been pointed out. AH 4 I:2 p463 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/563) (Matthew, NC)
+their Father, as has been pointed out. AH 4 I:2 p463 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/563) (Matthew, SA)
 
 > The fruit, therefore, having been sown throughout all the world, she
 (Jerusalem) was deservedly forsaken, and those things which had formerly
 brought forth fruit abundantly were taken away; for from these, according to
 the flesh, were Christ and the apostles enabled to bring forth fruit.  AH 4,
-IV:1 p466 (NC) [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/575)
+IV:1 p466 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/575) (SA)
 
 > 4/ Righteously also the apostles, being of the race of Abraham, left the
 ship and their father, and followed the Word. AH 4, V:4 p467 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/582)
@@ -918,12 +952,12 @@ Footnote for above (in Roberts) has "Not now to be found in Mark's Gospel".
 > For David had been appointed a priest by God, although Saul persecuted him.
 For all the righteous possess the sacerdotal rank. And all the apostles of the
 Lord are priests, who do inherit here neither lands nor houses, but serve God
-and the altar continually. AH 4, VIII:3 p471 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/600) (NC)
+and the altar continually. AH 4, VIII:3 p471 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/600) (SA)
 
 > ..., the Lord, exposing his covetousness, said to him, "If thou wilt be
 perfect, go, sell all that thou hast, and distribute to the poor; and come,
 follow me; " promising to those who would act thus, the portion belonging to
-the apostles (*apostolorum partem*). AH 4, XII:5 p476 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/619) (NC)
+the apostles (*apostolorum partem*). AH 4, XII:5 p476 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/619) (SA)
 
 > Luke also has recorded that Stephen, who was the first elected into the
 diaconate by the apostles, and who was the first slain for the testimony of
@@ -950,7 +984,7 @@ Paul, "all the day long as sheep for the slaughter;" AH 4, XVI:1 p482 [BKV](http
 > And the cup likewise, which is part of that creation to which we belong, He
 confessed to be His blood, and taught the new oblation of the new covenant
 ; which the Church receiving from the apostles, offers to God throughout all
-the world, AH 4, XVII:5 p484 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/643) (NC)
+the world, AH 4, XVII:5 p484 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/643) (SA)
 
 > In accordance with this, too, does the apostle say, " There is one God, the
 Father, who is above all, and in us all." [[Ephesians 4:6]]. AH 4, XX:2 p488 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/658)
@@ -983,7 +1017,7 @@ the Epistle to the Romans, the apostle declares AH 4, XXI:1-2 p492-3 [BKV](https
 > For this reason, too, did the apostles, collecting the sheep which had
 perished of the house of Israel, and discoursing to them from the Scriptures,
 prove that this crucified Jesus was the Christ, the Son of the living God; AH
-4, XXIII:2 p495 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/678) (NC)
+4, XXIII:2 p495 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/678) (SA)
 
 > 1/ Wherefore also Paul, since he was the apostle of the Gentiles, says, ...
 As I have pointed out in the preceding book, the apostle did, in the first
@@ -994,13 +1028,13 @@ XXIV:1 p495 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresi
 — those who, as I have shown, possess the succession from the apostles; those
 who, together with the succession of the episcopate, have received the certain
 gift of truth, according to the good pleasure of the Father. AH 4, XXVI:2 p497 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/689)
-(NC)
+(SA)
 
 > 4/ From all such persons, therefore, it behoves us to keep aloof, but to
 adhere to those who, as I have already observed, do hold the doctrine of the
 apostles, and who, together with the order of priesthood (*presbyterii
 ordine*), display sound speech and blameless conduct for the confirmation and
-correction of others. AH 4, XXVI:4 p497 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/691) (NC)
+correction of others. AH 4, XXVI:4 p497 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/691) (SA)
 
 > In this strain also the Apostle Paul, inasmuch as he had a good conscience,
 said to the Corinthians ... AH 4, XXVI:4 p498 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/691) (Paul)
@@ -1011,12 +1045,12 @@ said to the Corinthians ... AH 4, XXVI:4 p498 [BKV](https://bkv.unifr.ch/en/work
 placed, there it behoves us to learn the truth, [namely,] from those who
 possess that succession of the Church which is from the apostles, and among
 whom exists that which is sound and blameless in conduct, as well as that
-which is unadulterated and incorrupt in speech. AH 4, XXVI:5 p498 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/692) (NC)
+which is unadulterated and incorrupt in speech. AH 4, XXVI:5 p498 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/692) (SA)
 
 > 1/ As I have heard from a certain presbyter, who had heard it from those who
 had seen the apostles, and from those who had been their disciples, the
 punishment [declared] in Scripture was sufficient for the ancients in regard
-to what they did without the Spirit's guidance. AH 4, XXVII:1 p498 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/693) (NC)
+to what they did without the Spirit's guidance. AH 4, XXVII:1 p498 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/693) (SA)
 
 > 4/ Since therefore, beyond all doubt and contradiction, the apostle
 [[following quote of 1 Corinthians]] shows that there is one and the same God,
@@ -1030,22 +1064,22 @@ the Epistle to the Thessalonians: ... AH 4, XXVII:4 p500 [BKV](https://bkv.unifr
 > For if He had not so come, it follows that these men could not have become
 the slayers of their Lord; and if He had not sent prophets to them, they
 certainly could not have killed them, nor the apostles either. AH 4, XXVIII:3
-p501 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/701) (NC)
+p501 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/701) (SA)
 
 > Unless, then, the Jews had become the slayers of the Lord (which did,
 indeed, take eternal life away from them), and, by killing the apostles and
 persecuting the Church, had fallen into an abyss of wrath, we could not have
-been saved. AH 4, XXVIII:3 p501 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/701) (NC)
+been saved. AH 4, XXVIII:3 p501 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/701) (SA)
 
 > For the apostle does also say in the Second [Epistle] to the Corinthians: AH
-4, XXVIII:3 p501 (Paul) [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/701)
+4, XXVIII:3 p501 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/701) (Paul)
 
 > In accordance with this word, therefore, does the apostle say, in the Second
 [Epistle] to the Corinthians: AH 4, XXIX:1 p502 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/703) (Paul)
 
 > 1/ After this fashion also did a presbyter [[perhaps Polycarp]] a disciple
 of the apostles, reason with respect to the two testaments, proving that both
-were truly from one and the same God. AH 4, XXXII:1 p505 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/715) (NC)
+were truly from one and the same God. AH 4, XXXII:1 p505 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/715) (SA)
 
 > ... and the Apostle Paul [says] in like manner, "There is one Lord, one faith,
 one baptism, one God and Father, who is above all, and through all, and in us
@@ -1056,27 +1090,27 @@ the two peoples; but that it was one and the same God who appointed both for
 the advantage of those men (for whose sakes the testaments were given) who
 were to believe in God, I have proved in the third book from the very teaching
 of the apostles; and that the first testament was not given without reason,
-or to no purpose, or in an accidental sort of manner; AH 4, XXXII:1 p506 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/716) (NC)
+or to no purpose, or in an accidental sort of manner; AH 4, XXXII:1 p506 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/716) (SA)
 
 > 8/ True knowledge is [that which consists in] the doctrine of the apostles,
 and the ancient constitution s of the Church throughout all the world, AH 4,
-XXXIII:8 p508 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/725) (NC)
+XXXIII:8 p508 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/725) (SA)
 
 > And the apostle in like manner says [of them], "Who shall be punished with
 everlasting death from the face of the Lord, ..." [[2 Thessalonians 1:9]] AH
-4, XXXIII:11 p509 (Paul) [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/728)
+4, XXXIII:11 p509 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/728) (Paul)
 
 > ... read with earnest care that Gospel which has been conveyed to us by the
 apostles, and read with earnest care the prophets, and you will find that the
 whole conduct, and all the doctrine, and all the sufferings of our Lord, were
-predicted through them. AH 4, XXXIV:1 p511 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/734) (NC)
+predicted through them. AH 4, XXXIV:1 p511 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/734) (SA)
 
 > To this effect, also Paul, His apostle, says in the Epistle to the Romans,
 ... AH 4, XXXIV:1 p511 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/735) (Paul)
 
 > But if the law of liberty, that is, the word of God, preached by the apostles
 (who went forth from Jerusalem) throughout all the earth, ... AH 4, XXXIV:4
-p512 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/737) (NC)
+p512 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/737) (SA)
 
 > 2/ But if, when the Saviour came to this earth, He sent His apostles into
 the world to proclaim with accuracy His advent, and to teach the Father's
@@ -1085,9 +1119,9 @@ other apostles proclaimed the truth, but that it was the scribes and
 Pharisees, and the others, through whom the law was propounded. But if, at His
 advent, He sent forth His own apostles in the spirit of truth, and not in that
 of error, He did the very same also in the case of the prophets ... AH 4,
-XXXV:2 p513 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/741) (?12, NC)
+XXXV:2 p513 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/741) (?12, SA)
 
-> ...; on which day He [Jesus] declares that it shall be more tolerable for
+> ...; on which day He [[Jesus]] declares that it shall be more tolerable for
 Sodom and Gomorrah than for that city and house which shall not receive the
 word of His apostles. AH 4, XXXVI:3 p516 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/748) (12)
 
@@ -1097,7 +1131,7 @@ and although they preached to various nations, the prophets were not from one
 God, and the apostles from another; but, [proceeding] from one and the same,
 some of them announced the Lord, others preached the Father, and others again
 foretold the advent of the Son of God, while yet others declared Him as
-already present to those who then were afar off. AH 4, XXXVI:5 p517 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/750) (NC)
+already present to those who then were afar off. AH 4, XXXVI:5 p517 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/750) (SA)
 
 > ... for this is the wedding garment, of which also the apostle
 speaks, "Not for that we would be unclothed, but clothed upon, that mortality
@@ -1111,7 +1145,7 @@ XXXVI:6 p517 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heres
 
 > If, then, those who do believe in Him through the preaching of His apostles
 throughout the east and west shall recline with Abraham, Isaac, and Jacob, in
-the kingdom of heaven, ... AH 4, XXXVI:8 p518 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/753) (NC)
+the kingdom of heaven, ... AH 4, XXXVI:8 p518 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/753) (SA)
 
 > ... Rejecting therefore the good, and as it were spuing it out, they shall
 all deservedly incur the just judgment of God, which also the Apostle Paul
@@ -1159,7 +1193,7 @@ preserving them in their integrity (*bene*), has transmitted them to her sons.
 Then also — having disposed of all questions which the heretics propose to us,
 and having explained the doctrine of the apostles, and clearly set forth many
 of those things which were said and done by the Lord in parables ... AH 5,
-Preface p526 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/783) (NC)
+Preface p526 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/783) (SA)
 
 > By His own blood he redeemed us, as also His apostle declares, "In whom we
 have redemption through His blood, even the remission of sins." [[Colossians
@@ -1171,7 +1205,7 @@ glory in infirmities, that the power of Christ may dwell in me." What,
 therefore? (as some may exclaim:) did the Lord wish, in that case, that His
 apostles should thus undergo buffeting, and that he should endure such
 infirmity? Even so it was; the word says it. AH 5, III:1 p529
-[BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/794) (Paul, NC)
+[BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/794) (Paul, SA)
 
 > In paradise certainly, as the Scripture declares: "And God planted a garden
 [*paradisum*] eastward in Eden, and there He placed the man whom He had
@@ -1182,7 +1216,7 @@ apostles tell us that those who were translated were transferred to that place
 which place also Paul the apostle, when he was caught up, heard words which
 are unspeakable as regards us in our present condition), and that there shall
 they who have been translated remain until the consummation [of all things],
-as a prelude to immortality. AH 5, V:1 p531 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/801) (NC, Paul)
+as a prelude to immortality. AH 5, V:1 p531 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/801) (SA, Paul)
 
 > For this reason does the apostle declare, "We speak wisdom among them that
 are perfect," [[1 Corinthians 2:6]] ... In like manner we do also hear many
@@ -1214,11 +1248,11 @@ taken all pains to demonstrate. ... But the path of those belonging to the
 Church circumscribes the whole world, as possessing the sure tradition from
 the apostles, and gives unto us to see that the faith of all is one and the
 same, since all receive one and the same God the Father, ... AH 5, XX:1 p547-8 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/865)
-(NC)
+(SA)
 
 > Now I have shown in the third book, that no one is termed God by the
 apostles when speaking for themselves, except Him who truly is God, the Father
-of our Lord, AH 5, XXV:2 p553 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/885) (NC)
+of our Lord, AH 5, XXV:2 p553 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/885) (SA)
 
 > That before the Lord's appearance Satan never dared to blaspheme God,
 inasmuch as he did not yet know his own sentence, because it was contained in
@@ -1232,7 +1266,7 @@ now blasphemes, ... AH 5, XXVI:2 p555 [BKV](https://bkv.unifr.ch/en/works/cpg-13
 habitation of those who produce an hundred-fold, and that of those who produce
 sixty-fold, and that of those who produce thirty-fold: ... The presbyters, the
 disciples of the apostles, affirm that this is the gradation and arrangement
-of those who are saved, ... AH 5. XXXVI:2 p567 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/929) (NC)
+of those who are saved, ... AH 5. XXXVI:2 p567 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/929) (SA)
 
 ## Use of "apostle" in fragments attributed to Irenaeus
 
@@ -1248,8 +1282,8 @@ votaries in the utmost impiety; these opinions, even the heretics beyond the
 Church's pale have never ventured to broach; these opinions, those presbyters
 who preceded us, and who were conversant with the apostles, did not hand down
 to thee. ... And I can bear witness before God, that if that blessed and
-apostolical presbyter [Polycarp] had heard any such thing, he would have cried
-out, and stopped his ears, ... p568
+apostolical presbyter [[Polycarp]] had heard any such thing, he would have
+cried out, and stopped his ears, ... p568
 
 ### Letter to Victor
 
@@ -1311,7 +1345,7 @@ perpetrated against the body, as involving also sin against the temple of God.
 Roberts p577, Keble Syriac fragment *e*, inside insertion from "not old"
 Armenian manuscript, unclear if genuine:
 
-> ... He [Jesus] gathered the apostles together, and preached the kingdom of
+> ... He [[Jesus]] gathered the apostles together, and preached the kingdom of
 heaven ...; He manifested Himself in the body, was suspended upon a beam of
 wood, and raised from the dead; shown to the apostles, and, having been
 carried up to heaven, sitteth on the right hand of the Father, ...
