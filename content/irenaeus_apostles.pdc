@@ -16,12 +16,12 @@ uses the term.
 
 ## Sources
 
-@roberts1899ante_nicene_fathers_1 has the full text in English translation.
-@harvey1857sancti_irenaei_2 is an edition of the Latin text that is our main
-source for AH.  I refer to the AH text below by book number, chapter number (in
-Roman numerals), section number, and Roberts page number — e.g AH 4, XXXV:2
-p513. The [Bibliothek der Kirchenväter site](https://bkv.unifr.ch) (BKV) has
-Roberts' text as clean web pages, to which I link below.
+@anf01 has the full text in English translation. @harvey1857sancti_irenaei_2 is
+an edition of the Latin text that is our main source for AH.  I refer to the AH
+text below by book number, chapter number (in Roman numerals), section number,
+and Roberts page number — e.g AH 4, XXXV:2 p513. The [Bibliothek der
+Kirchenväter site](https://bkv.unifr.ch) (BKV) has Roberts' text as clean web
+pages, to which I link below.
 
 ## Motivation
 
@@ -119,6 +119,12 @@ Christ as sent forth from the Father, and III is "of one sent by God or Christ
 to preach and act on his behalf;".  Sub-meaning B of III is "of NT apostles,
 comprising 1. The Twelve, ... 2. other leaders of primitive Church ..."
 
+@bauckham1993papias notes that [Clement of
+Alexandria](https://en.wikipedia.org/wiki/Clement_of_Alexandria), soon after
+Irenaeus is writing AH, refers to [Clement of
+Rome](https://en.wikipedia.org/wiki/Clement_of_Rome) (died around 100) as 'the
+apostle Clement' (Str. 4. 17. 105).
+
 ## Abbreviations and notation
 
 * AH - Against Heresies
@@ -128,9 +134,9 @@ comprising 1. The Twelve, ... 2. other leaders of primitive Church ..."
   to (other than those named explicitly).
 * BKV — [Bibliothek der Kirchenväter](https://bkv.unifr.ch)
 
-Quotes below are from @roberts1899ante_nicene_fathers_1. Text in quotes
+Quotes below are from @anf01. Text in quotes
 enclosed in *double* square brackets ([[like this]]) is my own explanation, and
-is not in Roberts (1899).  Text enclosed in single square brackets ([like
+is not in Roberts (@anf01).  Text enclosed in single square brackets ([like
 this]) comes from Roberts.
 
 ## Use of "apostle" in Against Heresies
