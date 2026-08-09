@@ -82,7 +82,8 @@ PANDOC_ARGS = ['--no-highlight',  # use highlight.js instead
                '--section-divs',  # wrap heading-blocks with <section>
                '--citeproc',
                '--bibliography', 'data-science-bib/data_science.bib',
-               '--bibliography', 'blog.bib']
+               '--bibliography', 'blog.bib',
+               '--bibliography', 'bible.bib']
 
 SHOW_ARCHIVES = True
 ENABLE_MATHJAX = True
