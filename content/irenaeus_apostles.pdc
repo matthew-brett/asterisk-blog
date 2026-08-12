@@ -1,5 +1,5 @@
 ---
-Title: What did Ireneaus mean by "apostle"
+Title: Who and what did Ireneaus mean by "John" and "apostle"?
 Date: 2026-08-01 15:00
 Slug: irenaeus-apostle
 Author: Matthew Brett
@@ -8,11 +8,12 @@ Status: hidden
 bibliography: ["bible.bib"]
 ---
 
-Most of the discussion here is from Irenaeus' five books of [Against
+Most of the quotes here are from Irenaeus' five books of [Against
 Heresies](https://en.wikipedia.org/wiki/Against_Heresies) — abbreviated AH.
 
-This document records all mentions of "apostle" in AH, to document how Irenaeus
-uses the term.
+This document records all mentions of "John" and "apostle" in AH, to document
+who Irenaeus thinks John is, and how Irenaeus uses the term "apostle", and
+whether, and in what sense, Irenaeus considered John to be an apostle.
 
 ## Sources
 
@@ -22,6 +23,9 @@ text below by book number, chapter number (in Roman numerals), section number,
 and Roberts page number — e.g AH 4, XXXV:2 p513. The [Bibliothek der
 Kirchenväter site](https://bkv.unifr.ch) (BKV) has Roberts' text as clean web
 pages, to which I link below.
+
+As a side-note, we aren't likely to have any difficulty using the English
+translation for "apostle", as Greek αποστολος is Latin *apostolus*.
 
 ## Motivation
 
@@ -36,13 +40,39 @@ was also John the son of Zebedee, one of the 12 apostles appointed by Jesus.
 When referring to John the author, Irenaeus very often uses the set phrase
 "John, the disciple of the Lord" (14 times of 49 total uses of "John" other
 than John the Baptist).  There are two places where he indicates John by
-"disciple of the lord", without naming him: AH 3, XI:3, AH 3, XVI:8. He does
-not use the phrase "disciple of the Lord" of any other person, though he does
-twice refer in general to the "disciples of the Lord".  He only ever uses "the
-Apostle N" or "N the Apostle" for: Paul (17 times); Matthew (once of 17
-mentions of "Matthew") and Peter (once for 48 mentions of "Peter").
+"disciple of the lord", or "His disciple", without naming him, although John
+is clear from the context: AH 3, XI:3, AH 3, XVI:8. He does not use the phrase
+"disciple of the Lord" of any other person, though he several times refers in
+general to the "disciples of the Lord" or "His disciples" in AH 2, II:5; AH 3,
+XII:4-5 (twice); AH 3, XII:13; AH 3, XVI:5; AH 5, XXXIV:3.
+
+So "disciple of [the,our] Lord", or "the Lord's disciple" in Irenaeus *always*
+means John the author of the Gospel or the letters, or the Apocalypse.
+
+This is similar to the phrasing of Papias, quoted by Eusebius in
+@mcgiffert1890eusebius_history_etc (EH III. 39, p289). From
+@lightfoot1891fathers, p529, (quoting Eusebius, quoting Papias):
+
+> And again, any occasion when a person came (in my way) who had been
+a follower of the Elders, I would inquire about the discourses of the
+elders — what was said by Andrew, or by Peter, or by Philip, or by Thomas or
+James, or by John or Matthew or any other of the Lord’s disciples, and what
+Aristion and the Elder John, the disciples of the Lord, say.
+
+John's Gospel gives its own primary author as "the beloved disciple" (John
+21:24), who is not otherwise explicitly named or identified.
+
+The author of the second and third letters of John introduces himself only as
+"The elder" (2 John 1:1, 3 John 1:1).
+
+Revelation (the Apocalypse) names its source as "[Jesus Christ's] servant
+John" (Revelation 1:1)
 
 ### Irenaeus' apostles
+
+Irenaeus only ever uses "the Apostle N" or "N the Apostle" for: Paul (17
+times); Matthew (once of 17 mentions of "Matthew") and Peter (once for 48
+mentions of "Peter").  He never uses "the Apostle John" or "John the Apostle".
 
 For Irenaeus, the most representative apostles are Peter and Paul — he
 criticizes the heretics for claiming to be "superior to his disciples, such as
@@ -75,8 +105,11 @@ As background, it is clear from the quotes below that:
 1. The same John, disciple of the Lord, is the author of the Apocalypse: "And.
    if any one will devote a close attention to those things ... which John the
    disciple of the Lord saw in the Apocalypse," ... AH 4, XXX:4 p504.
-1. The same John is the author of letters 1 John and 2 John. In AH 3, XVI:8:
-   "His disciple, in his Epistle already mentioned," (quoting 2 John), and 
+1. The same John is the author of letters 1 John and 2 John. AH 1, XVI:3 has
+   "John, the disciple of the Lord ... says ..." followed by a quote from
+   2 John. In AH 3, XVI:8: "His disciple, in his Epistle already mentioned,"
+   (quoting 2 John), and later: "Wherefore he again exclaims in his Epistle,"
+   (quoting 1 John).
 1. Irenaeus considered John the disciple of the Lord to be an apostle: "[the
    heretics assert that John] has, by thus speaking, referred to the primary
    Ogdoad, in which there was as yet no Jesus, and no Christ, the teacher of
@@ -166,12 +199,19 @@ BKV](https://bkv.unifr.ch/en/works/cpg-3495/versions/the-church-history-of-euseb
   to (other than those named explicitly).
 * BKV — [Bibliothek der Kirchenväter](https://bkv.unifr.ch)
 
-Quotes below are from @anf01. Text in quotes
-enclosed in *double* square brackets ([[like this]]) is my own explanation, and
-is not in Roberts (@anf01).  Text enclosed in single square brackets ([like
-this]) comes from Roberts.
+For each quote referring to "apostle", I have tried to classify the meaning
+into one of more of "12" (the 12 apostles specifically), "12 + Paul", "AJG",
+"JsZ" or "SA", allowing that "SA" might also be "12".  I have labeled quotes
+referring to "John" specifically in the heading.  If there is no such label,
+then the quote refers to "apostle".
 
-## Use of "apostle" in Against Heresies
+Quotes and page numbers below are from @anf01. Text in quotes enclosed in
+*double* square brackets ([[like this]]) is my own explanation, and is not in
+Roberts (@anf01).  Text enclosed in single square brackets ([like this]) comes
+from Roberts.  Roberts sometimes uses parentheses — like (this) — for
+explanation or insertion; I haven't changed this.
+
+## Use of "John" and "apostle" in Against Heresies
 
 ### AH 1, Preface:1
 
@@ -291,8 +331,9 @@ mention Paul or Peter, or any other of the apostles. AH 1, XIII:6 p335 [BKV](htt
 > And John, the disciple of the Lord, has intensified their condemnation, when
 he desires us not even to address to them the salutation of "good-speed;" for,
 says he, "He that bids them be of good-speed is a partaker with their evil
-deeds;" and that with reason, "for there is no good-speed to the ungodly,"
-saith the Lord. AH 1, XVI:3 p341 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/104)
+deeds;" [[2 John 1:10-11]] and that with reason, "for there is no good-speed
+to the ungodly," saith the Lord. AH 1, XVI:3 p341
+[BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/104)
 
 ### AH 1, XVIII:3
 
@@ -465,7 +506,7 @@ sheep to the slaughter." AH 2, XXII:2 p390 [BKV](https://bkv.unifr.ch/en/works/c
 
 ### AH 2, XXII:3 (John reference)
 
-> ... He [ [Jesus]] went up to the festival day of the passover, on which
+> ... He [[Jesus]] went up to the festival day of the passover, on which
 occasion it is written, "For many believed in Him, when they saw the signs
 which He did," [[John 2:23]] as John the disciple of the Lord records. AH 2,
 XXII, 3: p390-391
@@ -1237,6 +1278,13 @@ an apostle of Jesus Christ, predestinated unto the Gospel of God, which He had
 promised by His prophets in the holy Scriptures, concerning His Son, ..." AH
 3, XVI:3 p441 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/490) (Paul of himself)
 
+### AH 3, XVI:5 (His disciples)
+
+> Therefore did the Lord also say to His disciples after the resurrection,
+"O thoughtless ones, and slow of heart to believe all that the prophets have
+spoken ! Ought not Christ to have suffered these things, and to enter into His
+glory?" [[Luke 24:25-26]] AH 3, XVI:5, p442 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/492)
+
 ### AH 3, XVI:5 (John reference)
 
 > The Gospel, therefore, knew no other son of man but Him who was of Mary, who
@@ -1245,7 +1293,7 @@ Him who was born it knew as Jesus Christ the Son of God, and that this same
 suffered and rose again, as John, the disciple of the Lord, verifies, saying:
 "But these are written, that ye might believe that Jesus is the Christ, the Son
 of God, and that believing ye might have eternal life in His name," [[John
-20:31]] ... AH 3, XVI:5, p442.
+20:31]] ... AH 3, XVI:5, p442
 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/492)
 
 ### AH 3, XVI:8 (John as "His disciple")
@@ -1323,6 +1371,13 @@ testimony).
 
 > The Apostle Paul, moreover, in the Epistle to the Galatians, ... AH 3,
 XXII:1 p454 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/531) (Paul)
+
+### AH 3, XXII:2 (John reference)
+
+> ... nor, again, would John His disciple have said, when writing of Him, "But
+Jesus, being wearied with the journey, was sitting [to rest];" ... [[John
+4:6]] AH 3, XXII:2 p454
+[BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/532)
 
 ### AH 3, XXIV:1
 
@@ -1961,6 +2016,13 @@ he who has part in the first resurrection." [[Revelation 20:6]] AH 5, XXXIV:2,
 p564
 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/921)
 
+### AH 5, XXXIV:3 (disciples of the Lord)
+
+> Now, in the preceding book I have shown that, all the disciples of the Lord
+are Levites and priests, they who used in the temple to profane the Sabbath,
+but are blameless." AH 5, XXXIV:3, p564
+[BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/922)
+
 ### AH 5, XXXV:2 (John reference)
 
 > And in the Apocalypse John saw this new [Jerusalem] descending upon the new
@@ -2018,6 +2080,74 @@ cup new with His disciples in the kingdom. The apostle, too, has confessed that
 the creation shall be free from the bondage of corruption, [so as to pass] into
 the liberty of the sons of God. [[Romans 8:21]] AH 5, XXXVI:2-3 p567
 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/930) (Paul)
+
+## Use of "John", "apostle" in "Demonstration of the Apostolic Preaching"
+
+See [Demonstration of the Apostolic
+Preaching](https://www.ccel.org/ccel/irenaeus/demonstr.preaching_the_demonstration_of_the_apostolic_preaching.html)
+(DAP). For history and text see @smith1952irenaeus_proof.  From Smith:
+
+> The Proof was for long supposed to have been irretrievably lost, but in
+1904 an Armenian version of it was found, in a manuscript belonging to the
+church of Our Lady at Erevan (now the capital of Soviet Armenia) by the Most
+Rev. Archimandrite (of Etschmiadzin) Karapet Ter Mekerttschian, ... (Smith p4)
+
+> ... our only sources for the text of the Proof are this manuscript and
+a few Armenian fragments. (Smith p7)
+
+DAP (from Smith):
+
+> ... Now, this is what faith does for us, as the elders, the disciples of the
+apostles, have handed down to us. ... DAP 3, p49 (SA)
+
+> ... Hence too His apostle Paul well says ... DAP 5, p50 (Paul)
+
+> ... as the blessed apostle says: *knowing not, that the benignity of God
+leadeth thee to penance ...*" ... [[Romans 2:4]] DAP 8, p52 (Paul)
+
+> ... Taught by Him, and witnesses of all His good works and of His teaching
+and of His passion and death and resurrection and ascent into heaven after
+the bodily resurrection, were the apostles, who after <the descent of> the
+power of the Holy Spirit were sent by Him into the whole world and carried
+out the calling of the Gentiles, ... DAP 41, p73 (?12, SA)
+
+> ... To this purpose also His disciple John, telling us who God's Son is, who
+was with the Father before the world was made, says also, that it was through
+Him that all creatures were made, as follows: *In the beginning was the Word,
+and the Word was with God, and the Word was God; the same was in the beginning
+with God; all things were made by Him, and without Him was made nothing;*...
+[[John 1:1-3]] DAP 43, p75-76
+
+> ... He has both caused to gush forth in abundance in the desert a stream of
+water from a rock — and the rock is Himself — and given twelve springs — that
+is, the teaching of the twelve apostles ... DAP 46, p77-78 (12)
+
+> ... And "oil of anointing" is the Spirit, through whom He is the Anointed,
+and "His fellows" are the prophets and the just and the apostles, and all who
+receive fellowship of His kingdom, that is, His disciples. ... DAP 47, p78 (12
+/ SA)
+
+> ... and true the tradition of the preaching, that is, the witness of the
+apostles, who, sent by the Lord, preached to the whole world that the Son of
+God was come unto sufferings ... DAP 86, p100 (SA)
+
+> ... And therefore the apostle Paul says: *Love is the fulfilment of the law*,
+... [[Romans 13:10]] DAP 87, p101 (Paul)
+
+> 94/ So through the new calling a change of heart comes about in the Gentiles,
+through the Word of God, when He became incarnate and tabernacled with men, as
+also His disciple John says: *and His Word was made flesh and dwelt among us*.
+... [[John 1:14]] DAP 94, p104
+
+> 98/ This, beloved, is the preaching of the truth, this is the manner of our
+salvation, and this is the way of life, announced by the prophets and ratified
+by Christ and handed over by the apostles and handed down by the Church in the
+whole world to her children. ... DAP 98, p108 (SA)
+
+> ... And others again despise the coming of the Son of God and the
+dispensation of His incarnation, which the apostles have transmitted to us, and
+which the prophets foretold would be the summing-up of humanity, as we have
+shown you in brief. ... DAP 99, p108 (SA)
 
 ## Use of "John" and apostle" in fragments attributed to Irenaeus
 
