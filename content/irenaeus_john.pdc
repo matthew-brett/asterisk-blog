@@ -1,19 +1,147 @@
 ---
-Title: Who and what did Ireneaus mean by "John" and "apostle"?
+Title: Irenaeus and the author of John's Gospel
 Date: 2026-08-01 15:00
-Slug: irenaeus-apostle
+Slug: irenaeus-john
 Author: Matthew Brett
 Category: NT criticism
-Status: hidden
 bibliography: ["bible.bib"]
 ---
 
-Most of the quotes here are from Irenaeus' five books of [Against
-Heresies](https://en.wikipedia.org/wiki/Against_Heresies) — abbreviated AH.
+## The central question
 
-This document records all mentions of "John" and "apostle" in AH, to document
-who Irenaeus thinks John is, and how Irenaeus uses the term "apostle", and
-whether, and in what sense, Irenaeus considered John to be an apostle.
+Church tradition has the apostle John as the author of the Gospel according to
+John, and the three letters of John (1 John, 2 John, 3 John).
+
+By "the apostle John" I mean John, son of Zebedee, brother of James, one of the
+twelve named apostles in the Gospels.  At the beginning of e.g. Mark (Mark
+1:16-20), he is a fisherman, working in a business with his brother and father:
+
+> Now walking beside the sea of Galilee, he saw Simon and Andrew his brother,
+sons of Simon, casting a net in the sea; for they were fishermen. And Jesus
+said to them, Come-here after me and I will make you to become fishermen of
+men. And immediately they left their nets and followed him. And he advanced
+a few feet from there and saw James and John his brother, the sons of Zebedee,
+and they were in the ship mending the nets. And immediately he called them, and
+they left their father Zebedee with the hired-hands in the ship and went after
+him. (Modern Literal Version - MLV)[^mlv]
+
+[^mlv]: Translation from the [Modern Literal Version — Aug
+2026](https://modernliteralversion.org/mlv/MLVBL.pdf)
+
+For reasons that will soon become clear, I will call this person "John son of
+Zebedee" or JsZ for short.
+
+For the moment, I'll assume that there is a single author of John's Gospel and
+at least 1 John.  I think that's a reasonable assumption.  Let's say we don't
+know who that author is.  So we'll call this person the "Author of John's
+Gospel" or AJG for short.
+
+For reasons I won't go into in detail here, but most famously described in
+@dodd1963historical, there is internal evidence that AJG knew geographical and
+historical details of first-century Palestine and Jerusalem and Judaism, that
+make it tempting to assume that AJG was an eye-witness.  JsZ would have been
+such an eye-witness. But was he the author of John?
+
+The Gospel itself indicates that it was written by "the beloved disciple". From
+John 21:21-22,24:
+
+> But Peter turned again and sees the disciple whom Jesus loved following; who
+also leaned-back upon his chest at the supper and who had said, Lord, who is he
+who is giving you up? ... This is the disciple who is testifying concerning
+these things and wrote these things and we know that his testimony is true.
+
+For various reasons, it seems likely that we are to understand it was this
+disciple who was the unnamed disciple who went with Peter to the house of the
+High Priest while Jesus was being tried.
+
+The passage on this incident is a problem for the theory that JsZ was AJG (John
+18:15-16):
+
+> Now Simon Peter was following Jesus and the other disciple. Now that disciple
+was known to the high-priest and entered in together-with Jesus into the
+courtyard of the high-priest; but Peter stood outside before the door.
+Therefore, the other disciple, who was known to the high-priest, went forth and
+spoke to the doorkeeper and led in Peter. (MLV)
+
+It's possible, but hard, to see how a fisherman, even someone who worked in
+a business with hired hands, would have been "known to the high-priest".
+
+One response to this and other difficulties, is to suggest that John, the
+beloved disciple, was a disciple named John, other than JsZ.  Martin Hengel
+made this proposal in @hengel1989johannine, followed by @bauckham1993papias and
+others.
+
+However, there is a hard test for this hypothesis, in the form of [Irenaeus of
+Lyons](https://en.wikipedia.org/wiki/Irenaeus).  He wrote several works in the
+late second century, listed below, that cite John and refer to the authorship
+of the Gospel and letters.  He would have had good reason to know who had
+written the Gospel and letters, because he had been a disciple of
+[Polycarp](https://en.wikipedia.org/wiki/Polycarp) (c69 AD - c155 AD), who had
+in turn been taught by a John who had seen Jesus.  Irenaeus writes, in his
+letter to Florinus:
+
+> I can even describe the place where the blessed Polycarp used to sit and
+discourse — his going out, too, and his coming in — his general mode of life
+and personal appearance, together with the discourses which he delivered to the
+people; also how he would speak of his familiar intercourse with John, and with
+the rest of those who had seen the Lord; and how he would call their words to
+remembrance.
+
+As we will see, it must be this John that Irenaeus believes to be AJG.
+
+So, there is a strong eye-witness tradition linking AJG to Irenaeus, through
+Polycarp, and perhaps through
+[Pothinus](https://en.wikipedia.org/wiki/Saint_Pothinus), Irenaeus' predecessor
+as Bishop of Lyons, who was also a disciple of Polycarp.
+
+The test for the Hengel / Bauckham hypothesis, is whether Irenaeus' substantial
+extant writings can reasonably be read on the understanding that Irenaeus knew
+that AJG was not JsZ, but another disciple of Jesus, also called John.
+
+That is the theme for the rest of the page, starting with some discussion and
+summary, and ending with all evidence I could bring to bear from Irenaeus'
+writing.
+
+To leap to the end, it seems to me that Irenaeus' writing is compatible with
+AJG as JsZ, or with AJG being another of Jesus' disciples, also called John.
+It's striking that AJG in Irenaeus is very specifically and often called "the
+disciple of the Lord", which seems to have been a familiar title of AJG, and no
+other disciple.  This is suggestive of "the disciple whom Jesus loved" of the
+Gospel text.
+
+See "Summary of results" below for more detail.
+
+## Irenaeus and his texts
+
+Irenaeus' life and writing are summarized in:
+
+* [Wikipedia on Irenaeus](https://en.wikipedia.org/wiki/Irenaeus)
+* [Britannica on Irenaeus](https://www.britannica.com/biography/Irenaeus)
+* [Development of the NT Canon:
+  Irenaeus](http://www.ntcanon.org/Irenaeus.shtml)
+
+His known works are: (see Britannica):
+
+* Against heresies (AH)
+* Demonstration of the Apostolic Preaching (DAP)
+* Various fragments.
+
+Eusebius of Caesarea quotes from, and refers to Irenaeus' work in his
+[Ecclesiastical
+History](https://en.wikipedia.org/wiki/Ecclesiastical_History_(Eusebius)) (EH)
+— [316-326 AD](https://www.bartehrman.com/eusebius-church-history/) (also see
+[J. B. Lightfoot's biography of
+    Eusebius](https://www.tertullian.org/rpearse/eusebius/lightfoot.htm)).
+
+## Use of John and "apostle" in Irenaeus' writing
+
+Most of the quotes here are from Irenaeus' five books of [Against
+Heresies](https://en.wikipedia.org/wiki/Against_Heresies) — abbreviated AH, but
+I also cover Irenaeus' other known work, as you'll see below.
+
+The quotes below record all mentions of "John" and "apostle" in Irenaeus, to
+document who Irenaeus thinks John is, and how Irenaeus uses the term "apostle",
+and whether, and in what sense, Irenaeus considered John to be an apostle.
 
 ## Sources
 
@@ -27,13 +155,7 @@ pages, to which I link below.
 As a side-note, we aren't likely to have any difficulty using the English
 translation for "apostle", as Greek αποστολος is Latin *apostolus*.
 
-## Motivation
-
-The question of interest to us here is whether Irenaeus thought that John — the
-author of the Gospel and Letters and — according to Irenaeus — the Apocalypse,
-was also John the son of Zebedee, one of the 12 apostles appointed by Jesus.
-
-## Summary
+## Summary of results
 
 ### John the disciple of the Lord
 
@@ -50,8 +172,8 @@ So "disciple of [the,our] Lord", or "the Lord's disciple" in Irenaeus *always*
 means John the author of the Gospel or the letters, or the Apocalypse.
 
 This is similar to the phrasing of Papias, quoted by Eusebius in
-@mcgiffert1890eusebius_history_etc (EH III. 39, p289). From
-@lightfoot1891fathers, p529, (quoting Eusebius, quoting Papias):
+@mcgiffert1890eusebius (EH III. 39, p289). From @lightfoot1891fathers, p529,
+(quoting Eusebius, quoting Papias):
 
 > And again, any occasion when a person came (in my way) who had been
 a follower of the Elders, I would inquire about the discourses of the
@@ -128,8 +250,6 @@ Irenaeus does use this second, more general interpretation of apostle, when he
 argues that John the Baptist could be considered an apostle, because "he
 actually saw [[Jesus]] when he came, and pointed him out":
 
-### AH 3, XI:4
-
 > Wherefore the Lord said that He deemed [[John the Baptist]] "more than
 a prophet." For all the other prophets preached the advent of the paternal
 Light, and desired to be worthy of seeing Him whom they preached; but John did
@@ -149,8 +269,7 @@ implies there may be other apostles not mentioned by name.
 
 What did other early church writers mean by the term "apostle"?
 
-First note that Acts 14:14 [Modern Literal Version — Aug
-2026](https://modernliteralversion.org/mlv/MLVBL.pdf) describes
+First note that Acts 14:14 (MLV) describes
 [Barnabas](https://en.wikipedia.org/wiki/Barnabas) as an apostle:
 
 > But after the apostles, Barnabas and Paul, heard it, they ripped their
@@ -165,12 +284,12 @@ translated, Son of Encouragement), a Levite from Cyprus by birth, sold a field,
 possessed by him, and brought the money and placed it beside the apostles’
 feet.
 
-See the @lampe1961patristic_lexicon lexicon entry for  entry for αποστολος
-(emissary, apostle) (pp. 211 - 214).  It lists five broad categories, of which
-I is "in gen", II is "of Christ as sent forth from the Father", and III is "of
-one sent by God or Christ to preach and act on his behalf;".  Sub-meaning B of
-III is "of NT apostles, comprising 1. The Twelve, ... 2. other leaders of
-primitive Church ...", with various entries therein.  By 
+See the @lampe1961patristic_lexicon lexicon entry for  αποστολος (emissary,
+apostle) (pp. 211 - 214).  It lists five broad categories, of which I is "in
+gen", II is "of Christ as sent forth from the Father", and III is "of one sent
+by God or Christ to preach and act on his behalf;".  Sub-meaning B of III is
+"of NT apostles, comprising 1. The Twelve, ... 2. other leaders of primitive
+Church ...", with various entries therein.
 
 From Lampe we see that [Clement of
 Alexandria](https://en.wikipedia.org/wiki/Clement_of_Alexandria), writing soon
@@ -2235,6 +2354,8 @@ of Irenaeus to Victor Bishop of Rome (Hist. Eccl. , v. 24 ; copied also by
 Nicephorus, iv. 39) . It appears to have been a synodical epistle to the head
 of the- Roman Church, the historian saying that it was written by Irenaeus,
 "in the name of (ἐκ προσοπτου) those brethren over whom he ruled, throughout Gaul.
+
+Text:
 
 > For the controversy is not merely as regards; the day, but also as regards
 the form itself of the fast. For some consider themselves bound to fast one
