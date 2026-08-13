@@ -1,5 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Asterisk</title><link href="https://asterisk.dynevor.org/" rel="alternate"/><link href="https://asterisk.dynevor.org/feeds/all.atom.xml" rel="self"/><id>https://asterisk.dynevor.org/</id><updated>2026-08-01T15:00:00+01:00</updated><entry><title>Irenaeus and the author of John’s Gospel</title><link href="https://asterisk.dynevor.org/irenaeus-john.html" rel="alternate"/><published>2026-08-01T15:00:00+01:00</published><updated>2026-08-01T15:00:00+01:00</updated><author><name>Matthew Brett</name></author><id>tag:asterisk.dynevor.org,2026-08-01:/irenaeus-john.html</id><summary type="html">&lt;section id="the-central-question" class="level2"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Asterisk</title><link href="https://asterisk.dynevor.org/" rel="alternate"/><link href="https://asterisk.dynevor.org/feeds/all.atom.xml" rel="self"/><id>https://asterisk.dynevor.org/</id><updated>2026-08-13T10:13:00+01:00</updated><entry><title>Fascinating speculations</title><link href="https://asterisk.dynevor.org/fascinating-speculations.html" rel="alternate"/><published>2026-08-13T10:13:00+01:00</published><updated>2026-08-13T10:13:00+01:00</updated><author><name>Matthew Brett</name></author><id>tag:asterisk.dynevor.org,2026-08-13:/fascinating-speculations.html</id><summary type="html">&lt;p&gt;&lt;a href="https://en.wikipedia.org/wiki/J._B._Lightfoot"&gt;J. B.
+Lightfoot&lt;/a&gt; was a great 19th century scholar of the early church; he
+is still widely cited.&lt;/p&gt;
+&lt;p&gt;The quote below is at the end of an essay on &lt;a
+href="https://en.wikipedia.org/wiki/Polycarp"&gt;Polycarp of Smyrna&lt;/a&gt;
+that he wrote in response to the then-anonymous author of the book &lt;a
+href="https://en.wikipedia.org/wiki/Walter_Richard_Cassels"&gt;Supernatural
+Religion&lt;/a&gt; (1874). In this, and …&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;a href="https://en.wikipedia.org/wiki/J._B._Lightfoot"&gt;J. B.
+Lightfoot&lt;/a&gt; was a great 19th century scholar of the early church; he
+is still widely cited.&lt;/p&gt;
+&lt;p&gt;The quote below is at the end of an essay on &lt;a
+href="https://en.wikipedia.org/wiki/Polycarp"&gt;Polycarp of Smyrna&lt;/a&gt;
+that he wrote in response to the then-anonymous author of the book &lt;a
+href="https://en.wikipedia.org/wiki/Walter_Richard_Cassels"&gt;Supernatural
+Religion&lt;/a&gt; (1874). In this, and other essays collected in &lt;span
+class="citation" data-cites="lightfoot1889supernatural"&gt;Lightfoot
+(1889)&lt;/span&gt;, he is clearly frustrated by what he regards (with good
+evidence) as sloppy, incompetent and biased analysis of the early church
+writers. His essay on Polycarp ends (p141) by acknowledging his debts to
+the critical German theologians of his day, but appealing to his readers
+“to exercise their judicial faculties independently” in order to see
+past “fascinating speculations” to understand the “historical position
+in all its bearings” of the early church writers:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;But I would wish to add one caution. No good will ever come from
+merely working on the lines of modern theorists. Perhaps the reader will
+forgive me if I add a few words of explanation, for I do not wish to be
+misunderstood. I should be most ungrateful if, in speaking of German
+writers, I used the language of mere depreciation. If there is any
+recent theologian from whom I have learnt more than from another, it is
+the German Neander. Nor can I limit my obligations to men of this stamp.
+All diligent students of early Christian history must have derived the
+greatest advantage on special points from the conscientious research,
+and frequently also from the acute analysis, even of writers of the most
+extreme school. But it is high time that the incubus of fascinating
+speculations should be shaken off, and that Englishmen should learn to
+exercise their judicial faculty independently. Any one who will take the
+pains to read Irenaeus through carefully, endeavouring to enter into his
+historical position in all its bearings, striving to realize what he and
+his contemporaries actually thought about the writings of the New
+Testament and what grounds they had for thinking it, and, above all,
+resisting the temptation to read in modern theories between the lines,
+will be in a more favourable position for judging rightly of the early
+history of the Canon than if he had studied all the monographs which
+have issued from the German press during the last half century.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;section id="references" class="level2 unnumbered"&gt;
+&lt;h2 class="unnumbered"&gt;References&lt;/h2&gt;
+&lt;div id="refs" class="references csl-bib-body hanging-indent"
+data-entry-spacing="0" role="list"&gt;
+&lt;div id="ref-lightfoot1889supernatural" class="csl-entry"
+role="listitem"&gt;
+Lightfoot, J. B. 1889. &lt;em&gt;Essays on the Work Entitled Supernatural
+Religion&lt;/em&gt;. London; New York: Macmillan; Co. &lt;a
+href="https://archive.org/details/essaysonworkenti00lighiala"&gt;https://archive.org/details/essaysonworkenti00lighiala&lt;/a&gt;.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;
+</content><category term="nt criticism"/></entry><entry><title>Irenaeus and the author of John’s Gospel</title><link href="https://asterisk.dynevor.org/irenaeus-john.html" rel="alternate"/><published>2026-08-01T15:00:00+01:00</published><updated>2026-08-01T15:00:00+01:00</updated><author><name>Matthew Brett</name></author><id>tag:asterisk.dynevor.org,2026-08-01:/irenaeus-john.html</id><summary type="html">&lt;section id="the-central-question" class="level2"&gt;
 &lt;h2&gt;The central question&lt;/h2&gt;
 &lt;p&gt;Church tradition has the apostle John as the author of the Gospel
 according to John, and the three letters of John (1 John, 2 John, 3
@@ -48,10 +106,9 @@ is testifying concerning these things and wrote these things and we know
 that his testimony is true.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;For various reasons, it seems likely that we are to understand it was
-this disciple who was the unnamed disciple that went with Peter to the
-house of the High Priest while Jesus was being tried.&lt;/p&gt;
-&lt;p&gt;The passage on this incident is a problem for the theory that JsZ was
-AJG (John 18:15-16):&lt;/p&gt;
+this disciple who was the “other disciple” that went with Peter to the
+house of the High Priest while Jesus was being tried (John
+18:15-16):&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Now Simon Peter was following Jesus and the other disciple. Now that
 disciple was known to the high-priest and entered in together-with Jesus
@@ -77,7 +134,7 @@ have had good reason to know who had written the Gospel and letters,
 because he had been a disciple of &lt;a
 href="https://en.wikipedia.org/wiki/Polycarp"&gt;Polycarp&lt;/a&gt; (c69 AD -
 c155 AD), who had in turn been taught by a John who had seen Jesus.
-Irenaeus writes, in his letter to Florinus:&lt;/p&gt;
+Irenaeus writes, in his letter to Florinus (see below):&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;I can even describe the place where the blessed Polycarp used to sit
 and discourse — his going out, too, and his coming in — his general mode
@@ -91,8 +148,8 @@ AJG.&lt;/p&gt;
 &lt;p&gt;So, there is a strong eye-witness tradition linking AJG to Irenaeus,
 through Polycarp, and perhaps through &lt;a
 href="https://en.wikipedia.org/wiki/Saint_Pothinus"&gt;Pothinus&lt;/a&gt;,
-Irenaeus’ predecessor as Bishop of Lyons, who was also a disciple of
-Polycarp.&lt;/p&gt;
+Irenaeus’ predecessor as Bishop of Lyons, who may also have been a
+disciple of Polycarp.&lt;/p&gt;
 &lt;p&gt;The test for the Hengel / Bauckham hypothesis, is whether Irenaeus’
 substantial extant writings can reasonably be read on the understanding
 that Irenaeus knew that AJG was not JsZ, but another disciple of Jesus,
@@ -12265,231 +12322,4 @@ of college for instance, their arrogance is just incredible.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;a href="https://youtu.be/-W_VsLXmjJU?t=479"&gt;Top signs of an
 inexperienced engineer&lt;/a&gt;&lt;/p&gt;
-</content><category term="misc"/></entry><entry><title>Blueprint for a modern university</title><link href="https://asterisk.dynevor.org/blueprint-for-a-modern-university.html" rel="alternate"/><published>2019-06-20T11:31:00+01:00</published><updated>2019-06-20T11:31:00+01:00</updated><author><name>Matthew Brett</name></author><id>tag:asterisk.dynevor.org,2019-06-20:/blueprint-for-a-modern-university.html</id><summary type="html">&lt;p&gt;A colleague pointed me to a job advert to teach at a new university
-in London: the &lt;a
-href="https://www.londoninterdisciplinaryschool.org"&gt;London
-Interdisciplinary School&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;I was excited to see this was happening, because a new university may
-well be the best way to make the change we need in science and
-education.&lt;/p&gt;
-&lt;p&gt;The fundamental …&lt;/p&gt;</summary><content type="html">&lt;p&gt;A colleague pointed me to a job advert to teach at a new university
-in London: the &lt;a
-href="https://www.londoninterdisciplinaryschool.org"&gt;London
-Interdisciplinary School&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;I was excited to see this was happening, because a new university may
-well be the best way to make the change we need in science and
-education.&lt;/p&gt;
-&lt;p&gt;The fundamental change we need is to &lt;em&gt;take computing
-seriously&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;Taking computing seriously implies two things:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Code as the basis for data analysis&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Disciplined working process as the basis for
-collaboration&lt;/em&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;If you don’t like reading long blog posts, skip to the blueprint at
-the end; you may want to come back here for the background.&lt;/p&gt;
-&lt;p&gt;I have discussed these changes before in &lt;a
-href="https://matthew.dynevor.org/manifesto.html"&gt;Research methods in
-the twenty-first century&lt;/a&gt;.&lt;/p&gt;
-&lt;section id="code-as-the-basis-for-data-analysis" class="level2"&gt;
-&lt;h2&gt;Code as the basis for data analysis&lt;/h2&gt;
-&lt;p&gt;This is the true and fruitful meaning of the term &lt;em&gt;data
-science&lt;/em&gt; (see &lt;a
-href="https://matthew-brett.github.io/dsfe/chapters/01/what-is-data-science"&gt;What
-is data science?&lt;/a&gt;).&lt;/p&gt;
-&lt;p&gt;The insight has been most accurately captured by the data science
-teaching initiatives at Berkeley – see &lt;a
-href="https://data.berkeley.edu/education"
-class="uri"&gt;https://data.berkeley.edu/education&lt;/a&gt;. Berkeley runs a
-foundation course in data science, called &lt;a
-href="https://data.berkeley.edu/education/courses/data-8"&gt;data8&lt;/a&gt;.
-Quoting from that page:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;The course is designed for entry-level students from any major. It is
-designed specifically for students who have not previously taken
-statistics or computer science courses.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;The course teaches programming (in Python) as the fundamental tool
-for analyzing data. It spends a lot of time thinking about plotting, and
-about the nature of inference. Because it uses a programming language,
-it can and does replace all classical statistical tests, such as
-t-tests, with equivalents that use resampling. When the student knows
-some code, resampling is much easier to explain than the classical
-statistical tests &lt;span class="citation"
-data-cites="cobb2007introductory"&gt;(Cobb 2007)&lt;/span&gt;; the students can
-write the procedures for themselves, and fully understand all the steps,
-including the inference at the end.&lt;/p&gt;
-&lt;p&gt;The Berkeley course does not cover “big data”, and that’s the right
-thing to do. “Big data” is something you learn about when you have a
-firm foundation in small data.&lt;/p&gt;
-&lt;p&gt;It does cover some machine learning and prediction, and does it very
-well, but at the end, as another set of techniques for using data to
-draw conclusions about the world. This is right too. No student should
-start using machine learning without a good basic understanding of data
-analysis, sampling and inference.&lt;/p&gt;
-&lt;p&gt;Berkeley uses this course as a foundation on which to build a whole
-new approach to teaching. They have many &lt;a
-href="https://data.berkeley.edu/education/connectors"&gt;connector
-courses&lt;/a&gt; that use the same tools and techniques as the foundation
-course, but apply them to areas such as law, statistics, computer
-science, psychology and geography.&lt;/p&gt;
-&lt;p&gt;This is right too; we should teach with data. We should engage
-students at once with the problem of real data, and the difficulties of
-drawing conclusions. They should think about the ambiguities in data and
-the conclusions we draw. They should learn to check all conclusions by
-the instructor, or in a scientific paper, against the data. They should
-constantly ask “Is that true? Under what circumstances is it true? How
-sure am I, that it is true? How would I get more evidence to support or
-refute this conclusion”.&lt;/p&gt;
-&lt;/section&gt;
-&lt;section id="disciplined-working-process-as-the-basis-for-collaboration"
-class="level2"&gt;
-&lt;h2&gt;Disciplined working process as the basis for collaboration&lt;/h2&gt;
-&lt;p&gt;Working in collaboration on data analysis and other scientific
-projects is very difficult, and we currently do that very badly. We need
-to teach our students to start with sound, efficient practice, and keep
-teaching them with this same practice, so it becomes natural for them to
-use it for all new problems.&lt;/p&gt;
-&lt;p&gt;Science as currently practiced, and taught, uses what I would call an
-&lt;em&gt;artisan&lt;/em&gt; working process, or at least, that is the polite name
-for it. A less polite description might be &lt;em&gt;sloppy, informal and
-inefficient&lt;/em&gt;. Our current model is that of the skilled craftsman,
-from before the industrial revolution. The craft is so specialized,
-variable and arcane, that the only way to learn is for the student to
-copy the techniques they see during their apprenticeship. In science,
-the apprenticeship is working as a graduate student or post-doc.
-Scientists mostly work alone. The large proportion of scientists who use
-a significant amount of computing, have disorganized, informal working
-practice, passing around scripts and Word documents via email or via
-shared drives. It is very hard to share work, because each researcher
-has their own habits of analysis, coding, and data organization. There
-is very little chance that the work will be reproducible, even by the
-same researcher, after a few weeks, and little chance that a mentor will
-be able to check the work for error.&lt;/p&gt;
-&lt;p&gt;This model is, of course, monstrously inefficient, confusing, and
-error prone. It makes collaboration very difficult. It is easy to
-underestimate the tendency of computers to confuse and distract.&lt;/p&gt;
-&lt;p&gt;Meanwhile, programmers in industry have found these same problems,
-and they learned quickly that they couldn’t do efficient work that way.
-When they tried, the result was bad software, poor collaboration and
-inefficient production. They lost money.&lt;/p&gt;
-&lt;p&gt;In response, programmers have been thinking very hard about how to
-work and collaborate efficiently. They found they needed:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;code testing&lt;/li&gt;
-&lt;li&gt;version control&lt;/li&gt;
-&lt;li&gt;continuous testing, with tests run for each code change&lt;/li&gt;
-&lt;li&gt;code review&lt;/li&gt;
-&lt;li&gt;issue tracking&lt;/li&gt;
-&lt;li&gt;pair coding&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Although these techniques evolved for writing commercial software,
-they apply with the same force of necessity to the process of writing
-scientific software. They also turn out to be revolutionary in improving
-the process of building data analyses in a team. To those of us who have
-experienced these techniques for doing scientific projects, returning to
-the old email and track changes process feels like a return to the dark
-ages, as if we had been forced to use a typewriter instead of a word
-processor. The new techniques are much more effective in increasing
-clarity, reducing error and improving discussion. I estimate they give a
-ten-fold increase in efficiency for projects involving more than one
-person, and a three-fold increase for someone working on their own.&lt;/p&gt;
-&lt;p&gt;Using these techniques is not advanced, it is where the students
-should start. We have taught these techniques to statistics and other
-undergraduates, in Berkeley &lt;span class="citation"
-data-cites="millman2018rcsds"&gt;(Millman et al. 2018)&lt;/span&gt;. Our course
-started with the basics of Python programming, then introduced the
-techniques they would need for working together, such as version
-control, and testing. We gave them a big, difficult, open-ended group
-project to do. It had to be reproducible, so we, their graders, could
-take their project repository (hosted on &lt;a
-href="https://github.com"&gt;Github&lt;/a&gt;), and follow their instructions, in
-a &lt;code&gt;README&lt;/code&gt; file, to reproduce all of their analysis, and
-build their final report, including the figures. If you read the paper,
-I hope you will agree, that they did this with great success.&lt;/p&gt;
-&lt;/section&gt;
-&lt;section id="blueprint-for-a-modern-university" class="level2"&gt;
-&lt;h2&gt;Blueprint for a modern university&lt;/h2&gt;
-&lt;p&gt;I now imagine I can design a whole new set of courses, from the
-ground up, to give the students the best possible foundation for modern
-scientific work.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;The students start with something like the &lt;a
-href="https://data.berkeley.edu/education/courses/data-8"&gt;Berkeley
-foundations of data science course&lt;/a&gt;. They learn basic programming, in
-Python. They learn to get data from real data sources and explore it
-with plots and tables. They learn what models are, what inference means,
-and how to make models and inferences with simulation and permutation.
-They learn the bootstrap for estimation, and they get an introduction to
-regression, and basic machine learning. They do a substantial open-ended
-project using these tools at the end. They will learn in easy-start
-tools like the &lt;a href="https://jupyter.org"&gt;Jupyter Notebook&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;The students will specialize too. They specialize using the same
-teaching methods as the data science foundation. If they are learning
-about the epidemiology of malaria, they get epidemiological data and do
-basic analysis. They get clinical trial data and draw conclusions. They
-learn how to put data on maps, and visualize malaria incidence.&lt;/li&gt;
-&lt;li&gt;Their courses give them a deep foundation of understanding. For
-example, when comparing the effect of two treatments for malaria, they
-know how formulate the null model (there is no effect of the treatment),
-and how to implement this model (by pooling the two treatment groups,
-permuting, and selecting random samples as a proxy for the original
-treatment groups). They know what it means to think of something as
-random, and where the randomness appears in their model. They can use
-random numbers and permutation to design new models to test new
-hypotheses.&lt;/li&gt;
-&lt;li&gt;The deep foundation gives them deep skepticism. They know what it is
-to understand something in depth, and they know the dangers of
-superficial understanding, and following recipes. When they learn
-something new, they learn it in depth, as they have learned in their
-courses. They test their understanding, by building in code.&lt;/li&gt;
-&lt;li&gt;In the first or second year, they move on to techniques for
-collaboration. Instead of Jupyter Notebooks, they start using more
-efficient tools like text editors and the terminal. They learn version
-control, and pull requests, and code review. They learn to formalize
-problems in issues, and respond to problems with code changes, or by
-finding new data for analysis. They learn to criticize each others’ work
-constructively, and to teach new team members. They learn how to deal
-with standard problems in the team, such as overconfident team members,
-or members who are not doing their share of work. Now they are in a good
-position to start collaborations with industry and academia.&lt;/li&gt;
-&lt;li&gt;As the students gain experience, they gain independence. They learn
-to start quickly, using standard tools. They begin to contribute to
-open-source, to support their analysis, and for their education, in
-group work, and in coding.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;All this is a big departure from our current model of teaching, but I
-don’t think any university will have a choice but to change in the
-coming decade. These ways of learning and working are so much more
-efficient than the techniques we are using now, that students who do not
-learn them, will be at a great disadvantage. But that is not the only
-issue; we need to prepare our students for a changing world. We are
-entering a new age, in which complex data analysis will have an
-increasing influence on our lives and our scientific understanding. If
-we want to teach students to be effective and skeptical, we can’t afford
-to use the old methods; we just don’t have time to bolt computing and
-algorithms on top of our current courses. We must start with computing
-and algorithms, to teach students to build and to understand. Then they
-will have the tools to engage with confidence and vigor with the beasts
-of the new age.&lt;/p&gt;
-&lt;/section&gt;
-&lt;section id="references" class="level2 unnumbered"&gt;
-&lt;h2 class="unnumbered"&gt;References&lt;/h2&gt;
-&lt;div id="refs" class="references csl-bib-body hanging-indent"
-role="doc-bibliography"&gt;
-&lt;div id="ref-cobb2007introductory" class="csl-entry"
-role="doc-biblioentry"&gt;
-Cobb, George W. 2007. &lt;span&gt;“The Introductory Statistics Course: A
-Ptolemaic Curriculum?”&lt;/span&gt; &lt;em&gt;Technology Innovations in Statistics
-Education&lt;/em&gt; 1 (1). &lt;a
-href="https://escholarship.org/uc/item/6hb3k0nz"&gt;https://escholarship.org/uc/item/6hb3k0nz&lt;/a&gt;.
-&lt;/div&gt;
-&lt;div id="ref-millman2018rcsds" class="csl-entry" role="doc-biblioentry"&gt;
-Millman, K. Jarrod, Matthew Brett, Ross Barnowski, and Jean-Baptiste
-Poline. 2018. &lt;span&gt;“&lt;span&gt;T&lt;/span&gt;eaching Computational Reproducibility
-for Neuroimaging.”&lt;/span&gt; &lt;em&gt;Frontiers in Neuroscience&lt;/em&gt;.
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/section&gt;
-</content><category term="teaching"/></entry></feed>
+</content><category term="misc"/></entry></feed>

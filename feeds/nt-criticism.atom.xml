@@ -1,5 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Asterisk - NT criticism</title><link href="https://asterisk.dynevor.org/" rel="alternate"/><link href="https://asterisk.dynevor.org/feeds/nt-criticism.atom.xml" rel="self"/><id>https://asterisk.dynevor.org/</id><updated>2026-08-01T15:00:00+01:00</updated><entry><title>Irenaeus and the author of John’s Gospel</title><link href="https://asterisk.dynevor.org/irenaeus-john.html" rel="alternate"/><published>2026-08-01T15:00:00+01:00</published><updated>2026-08-01T15:00:00+01:00</updated><author><name>Matthew Brett</name></author><id>tag:asterisk.dynevor.org,2026-08-01:/irenaeus-john.html</id><summary type="html">&lt;section id="the-central-question" class="level2"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Asterisk - nt criticism</title><link href="https://asterisk.dynevor.org/" rel="alternate"/><link href="https://asterisk.dynevor.org/feeds/nt-criticism.atom.xml" rel="self"/><id>https://asterisk.dynevor.org/</id><updated>2026-08-13T10:13:00+01:00</updated><entry><title>Fascinating speculations</title><link href="https://asterisk.dynevor.org/fascinating-speculations.html" rel="alternate"/><published>2026-08-13T10:13:00+01:00</published><updated>2026-08-13T10:13:00+01:00</updated><author><name>Matthew Brett</name></author><id>tag:asterisk.dynevor.org,2026-08-13:/fascinating-speculations.html</id><summary type="html">&lt;p&gt;&lt;a href="https://en.wikipedia.org/wiki/J._B._Lightfoot"&gt;J. B.
+Lightfoot&lt;/a&gt; was a great 19th century scholar of the early church; he
+is still widely cited.&lt;/p&gt;
+&lt;p&gt;The quote below is at the end of an essay on &lt;a
+href="https://en.wikipedia.org/wiki/Polycarp"&gt;Polycarp of Smyrna&lt;/a&gt;
+that he wrote in response to the then-anonymous author of the book &lt;a
+href="https://en.wikipedia.org/wiki/Walter_Richard_Cassels"&gt;Supernatural
+Religion&lt;/a&gt; (1874). In this, and …&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;a href="https://en.wikipedia.org/wiki/J._B._Lightfoot"&gt;J. B.
+Lightfoot&lt;/a&gt; was a great 19th century scholar of the early church; he
+is still widely cited.&lt;/p&gt;
+&lt;p&gt;The quote below is at the end of an essay on &lt;a
+href="https://en.wikipedia.org/wiki/Polycarp"&gt;Polycarp of Smyrna&lt;/a&gt;
+that he wrote in response to the then-anonymous author of the book &lt;a
+href="https://en.wikipedia.org/wiki/Walter_Richard_Cassels"&gt;Supernatural
+Religion&lt;/a&gt; (1874). In this, and other essays collected in &lt;span
+class="citation" data-cites="lightfoot1889supernatural"&gt;Lightfoot
+(1889)&lt;/span&gt;, he is clearly frustrated by what he regards (with good
+evidence) as sloppy, incompetent and biased analysis of the early church
+writers. His essay on Polycarp ends (p141) by acknowledging his debts to
+the critical German theologians of his day, but appealing to his readers
+“to exercise their judicial faculties independently” in order to see
+past “fascinating speculations” to understand the “historical position
+in all its bearings” of the early church writers:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;But I would wish to add one caution. No good will ever come from
+merely working on the lines of modern theorists. Perhaps the reader will
+forgive me if I add a few words of explanation, for I do not wish to be
+misunderstood. I should be most ungrateful if, in speaking of German
+writers, I used the language of mere depreciation. If there is any
+recent theologian from whom I have learnt more than from another, it is
+the German Neander. Nor can I limit my obligations to men of this stamp.
+All diligent students of early Christian history must have derived the
+greatest advantage on special points from the conscientious research,
+and frequently also from the acute analysis, even of writers of the most
+extreme school. But it is high time that the incubus of fascinating
+speculations should be shaken off, and that Englishmen should learn to
+exercise their judicial faculty independently. Any one who will take the
+pains to read Irenaeus through carefully, endeavouring to enter into his
+historical position in all its bearings, striving to realize what he and
+his contemporaries actually thought about the writings of the New
+Testament and what grounds they had for thinking it, and, above all,
+resisting the temptation to read in modern theories between the lines,
+will be in a more favourable position for judging rightly of the early
+history of the Canon than if he had studied all the monographs which
+have issued from the German press during the last half century.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;section id="references" class="level2 unnumbered"&gt;
+&lt;h2 class="unnumbered"&gt;References&lt;/h2&gt;
+&lt;div id="refs" class="references csl-bib-body hanging-indent"
+data-entry-spacing="0" role="list"&gt;
+&lt;div id="ref-lightfoot1889supernatural" class="csl-entry"
+role="listitem"&gt;
+Lightfoot, J. B. 1889. &lt;em&gt;Essays on the Work Entitled Supernatural
+Religion&lt;/em&gt;. London; New York: Macmillan; Co. &lt;a
+href="https://archive.org/details/essaysonworkenti00lighiala"&gt;https://archive.org/details/essaysonworkenti00lighiala&lt;/a&gt;.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;
+</content><category term="nt criticism"/></entry><entry><title>Irenaeus and the author of John’s Gospel</title><link href="https://asterisk.dynevor.org/irenaeus-john.html" rel="alternate"/><published>2026-08-01T15:00:00+01:00</published><updated>2026-08-01T15:00:00+01:00</updated><author><name>Matthew Brett</name></author><id>tag:asterisk.dynevor.org,2026-08-01:/irenaeus-john.html</id><summary type="html">&lt;section id="the-central-question" class="level2"&gt;
 &lt;h2&gt;The central question&lt;/h2&gt;
 &lt;p&gt;Church tradition has the apostle John as the author of the Gospel
 according to John, and the three letters of John (1 John, 2 John, 3
@@ -48,10 +106,9 @@ is testifying concerning these things and wrote these things and we know
 that his testimony is true.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;For various reasons, it seems likely that we are to understand it was
-this disciple who was the unnamed disciple that went with Peter to the
-house of the High Priest while Jesus was being tried.&lt;/p&gt;
-&lt;p&gt;The passage on this incident is a problem for the theory that JsZ was
-AJG (John 18:15-16):&lt;/p&gt;
+this disciple who was the “other disciple” that went with Peter to the
+house of the High Priest while Jesus was being tried (John
+18:15-16):&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Now Simon Peter was following Jesus and the other disciple. Now that
 disciple was known to the high-priest and entered in together-with Jesus
@@ -77,7 +134,7 @@ have had good reason to know who had written the Gospel and letters,
 because he had been a disciple of &lt;a
 href="https://en.wikipedia.org/wiki/Polycarp"&gt;Polycarp&lt;/a&gt; (c69 AD -
 c155 AD), who had in turn been taught by a John who had seen Jesus.
-Irenaeus writes, in his letter to Florinus:&lt;/p&gt;
+Irenaeus writes, in his letter to Florinus (see below):&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;I can even describe the place where the blessed Polycarp used to sit
 and discourse — his going out, too, and his coming in — his general mode
@@ -91,8 +148,8 @@ AJG.&lt;/p&gt;
 &lt;p&gt;So, there is a strong eye-witness tradition linking AJG to Irenaeus,
 through Polycarp, and perhaps through &lt;a
 href="https://en.wikipedia.org/wiki/Saint_Pothinus"&gt;Pothinus&lt;/a&gt;,
-Irenaeus’ predecessor as Bishop of Lyons, who was also a disciple of
-Polycarp.&lt;/p&gt;
+Irenaeus’ predecessor as Bishop of Lyons, who may also have been a
+disciple of Polycarp.&lt;/p&gt;
 &lt;p&gt;The test for the Hengel / Bauckham hypothesis, is whether Irenaeus’
 substantial extant writings can reasonably be read on the understanding
 that Irenaeus knew that AJG was not JsZ, but another disciple of Jesus,
