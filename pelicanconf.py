@@ -78,7 +78,7 @@ PLUGINS = [
     'pelican_pandoc_reader',
 ]
 
-PANDOC_ARGS = ['--no-highlight',  # use highlight.js instead
+PANDOC_ARGS = ['--syntax-highlighting=none',  # use highlight.js instead
                '--section-divs',  # wrap heading-blocks with <section>
                '--citeproc',
                '--bibliography', 'data-science-bib/data_science.bib',
