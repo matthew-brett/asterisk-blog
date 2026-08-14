@@ -15,12 +15,22 @@ History](https://en.wikipedia.org/wiki/Ecclesiastical_History_(Eusebius)) (EH)
 
 See @lightfoot1880eusebius for more detail on Eusebius' life and work.
 
-Here we are interested in who Eusebius believed had written John's Gospel.
+Eusebius is the only source we have for some quotes from three earlier writers
+that give information about the Gospels, including the Gospel according to
+John.
 
-Part of our interest is that Eusebius quotes from the very early five books of
-[Papias of Hierapolis](https://en.wikipedia.org/wiki/Papias_of_Hierapolis)
-called "Exposition of the Sayings of the Lord".  @carlson2025foucault_papias
-has: (footnote 48) "... Call this ESL.  The consensus of Papias scholarship has
+These sources are:
+
+* Papias of Hierapolis (writing around 110 AD).
+* Polycrates of Ephesus (writing 190-195 AD).
+* Clement of Alexandria (writing 204-210 AD).
+
+## Papias
+
+EH quotes from the very early five books of [Papias of
+Hierapolis](https://en.wikipedia.org/wiki/Papias_of_Hierapolis) called
+"Exposition of the Sayings of the Lord".  @carlson2025foucault_papias has:
+(footnote 48) "... Call this ESL.  The consensus of Papias scholarship has
 settled on dating him around 110 CE ..." citing p1 n.7 of his own book on the
 Papias fragments — @carlson2021papias — to which I do not have access.  Papias
 lived in Hierapolis, which is about 200 km from Ephesus, the city in which
@@ -35,8 +45,41 @@ Although Eusebius quotes from ESL, it is not clear that Eusebius had access to
 any of Papias' five books — he may have been quoting from a secondary source
 — see @stevens2019eusebius_papias.
 
-These are the relevant passages from EH on the authorship of the Gospels, and
-particularly, that of John.  Quotes and page numbers are from
+## Polycrates of Ephesus
+
+EH has an extended quote from
+[Polycrates'](https://en.wikipedia.org/wiki/Polycrates_of_Ephesus) letter to
+[Pope Victor](https://en.wikipedia.org/wiki/Pope_Victor_I) about the
+controversy on the correct day of the year to celebrate Easter.
+
+Virtually all we know about Polycrates is in this letter; from
+@lightfoot1889fathers2_part2_1, p393:
+
+> The notices in Irenzeus are further confirmed by the language of his
+contemporary Polycrates. Polycrates was himself bishop of Ephesus, and the
+letter of which fragments are preserved (Euseb. H. £. ν. 24) was written by
+him to Victor bishop of Rome, consequently between the years A.D. 189 and a.p.
+198 or 199. He there mentions his ‘hoar head’ (πολιᾶς) and speaks of himself
+as ‘numbering sixty-five years in the Lord’ (ἑξήκοντα πέντε ἔτη ἔχων ἐν
+Κυρίῳ). Even if this period dates from his birth and not from his conversion,
+he must have been born within about a quarter of a century after the death of
+the last surviving Apostle [John], who passed his later years in the Church of
+Ephesus where Polycrates ruled.
+
+## Clement of Alexandria
+
+[Clement of Alexandria](https://en.wikipedia.org/wiki/Clement_of_Alexandria) may have been born in Athens, or in Alexandria, in 150-160 AD [@wescott1877clement_alex].
+
+EH quotes from Clement's book "Hypotyposes".
+
+Méhat [@mehat1966stromates, p54], dates the Hypotyposes after the third of
+Clement's major works — the [Stromata](https://en.wikipedia.org/wiki/Stromata)
+— where he (and Wikipedia) date the Stromata around 203 AD.
+
+## EH on the source of the Gospels
+
+There follow the relevant passages from EH on the authorship of the Gospels,
+and particularly, that of John.  Quotes and page numbers are from
 @mcgiffert1890eusebius, with obvious scan defects corrected from [another scan
 of McGiffert](https://archive.org/details/eusebiuschurchhi0001euse).
 
@@ -394,3 +437,6 @@ But who wrote the epistle, in truth, God knows. The statement of some who have
 gone before us is that Clement, bishop of the Romans, wrote the epistle, and of
 others that Luke, the author of the Gospel and the Acts, wrote it.” But let
 this suffice on these matters.
+
+## References
+
