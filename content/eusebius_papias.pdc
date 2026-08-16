@@ -18,10 +18,10 @@ See @lightfoot1880eusebius for detail on Eusebius' life and work.
 
 ## Eusebius as source for earlier writers
 
-Eusebius is the only source we have for some quotes from three earlier writers
-that give information about the origin of the Gospels.
+Eusebius is the only source we have for some quotes from earlier writers that
+give information about the origin of the Gospels.
 
-These sources are:
+The sources for these quotes are:
 
 * Papias of Hierapolis (a set of books around 110 AD).
 * Polycrates of Ephesus (letter 190-195 AD).
@@ -29,17 +29,20 @@ These sources are:
 * Origen, Commentaries (?220 - 240 AD)
 * Justin Martyr, [Dialogue with
   Trypho](https://en.wikipedia.org/wiki/Dialogue_with_Trypho) (155-160 AD)
+*  Apollonius of Ephesus (writing around 200 AD)
+* [Dionysius of
+  Alexandria](https://en.wikipedia.org/wiki/Dionysius_of_Alexandria) (c190
+  — 264)
+* Appolonius of Ephesus (c 210)
 
 ### Papias
 
 EH quotes from the very early five books of [Papias of
 Hierapolis](https://en.wikipedia.org/wiki/Papias_of_Hierapolis) called
-"Exposition of the Sayings of the Lord".  @carlson2025foucault_papias has:
-(footnote 48) "... Call this ESL.  The consensus of Papias scholarship has
-settled on dating him around 110 CE ..." citing p1 n.7 of his own book on the
-Papias fragments — @carlson2021papias — to which I do not have access.  Papias
-lived in Hierapolis, which is about 200 km from Ephesus, the city in which
-John's Gospel is most likely to have been written, and about 220 km from
+"Exposition of the Sayings of the Lord"; call this ESL.
+@carlson2025foucault_papias estimates the date of ESL as 110 AD (footnote 48).
+Papias lived in Hierapolis, which is about 200 km from Ephesus, the city in
+which John's Gospel is most likely to have been written, and about 220 km from
 Smyrna, the home of Polycarp and the younger Irenaeus.
 
 @lightfoot1889supernatural has a chapter on Papias, starting at page 142.  He
@@ -80,7 +83,7 @@ may have been born in Athens, or in Alexandria, in 140-150 AD
 EH quotes from two of Clement's books:
 
 * "Who is the rich man who is being saved?" and
-* "Hypotyposes", also known ad (with a different transliteration from Greek)
+* "Hypotyposes", also known as (with a different transliteration from Greek)
   "Hypotyposeis".
 
 Méhat (above), dates both works after the third of Clement's major works — the
@@ -93,6 +96,23 @@ date the Stromata around 203 AD.
 
 * Commentary on the Gospel of John
 * Commentary on Genesis
+
+### Apollonius of Ephesus
+
+From @wace1911dictionary, p35:
+
+> Apollonius of Ephesus, so called on the doubtful authority of the writer of
+Praedestinatus, ed. by Sirmond, who styles him [bishop] of Ephesus, but the
+silence of Eusebius and all other earlier testimony makes it difficult to lay
+much stress on this statement.He wrote a work in five books against the
+Cataphrygian or Montanist heresy. Fragments of the first three books are extant
+in Eusebius (H. E. y. 18), ... Taking for the rise of Montanism the date given
+in the Chronicon of Eusebius (A.D. 172), this would give about A.D. 210 for the
+date of this work.
+
+Also see [Apollonius'
+entry](https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Apollonius_of_Ephesus)
+in the 1913 Catholic Encyclopedia.
 
 ## EH on the source of the Gospels
 
@@ -347,7 +367,7 @@ when on one occasion he said, This beginning of his marvels did
 Jesus,[[John ii. 11]] and when on another he mentioned the Baptist, in the
 midst of an account of the acts of Jesus, as still at that time *baptizing in
 Aenon near to Salim; and that he shows this clearly when he says, For John
-was not yet cast into prison.[[John iii. 23, 24]]
+was not yet cast into prison.*[[John iii. 23, 24]]
 >
 > Therefore John in writing his Gospel gives us the things which Christ did
 before the Baptist was cast into prison; but the remaining three evangelists
@@ -567,6 +587,18 @@ arrival; for that Bartholomew, one of the apostles, had preached to them and
 left behind the writing of Matthew in the actual Hebrew characters, and that
 it was preserved up to the said time. (p155)
 
+### EH 5.18
+
+> 18/ But an ecclesiastical writer called Apollonius also undertook to refute
+the Phrygian heresy, as it is called, when it was then still at its height in
+Phrygia; ...
+>
+> ... And he also mentions one Thraseas as a martyr at that time. And he says
+too, relying on tradition, that the Saviour had ordered His apostles not to
+depart from Jerusalem for twelve years; and he also makes use of testimonies
+drawn from the Apocalypse of John; and he records that a dead man had, through
+the divine power, been raised at Ephesus by John himself;... (p164)
+
 ### EH 5.22
 
 > ... In their time [[Pope Victor, Demetrius of Alexandria ...]] Bacchyllus
@@ -618,19 +650,48 @@ that I have ever lived in Christ Jesus. (p168)
 
 ### EH 6.14
 
-> And again in the same books [[the Hypotyposeis]] Clement has inserted
-a tradition of the primitive elders with regard to the order of the Gospels,
-as follows. He said that those Gospels were first written which include the
-genealogies, but that the Gospel according to Mark came into being in this
-manner: When Peter had publicly preached the word at Rome, and by the Spirit
-had proclaimed the Gospel, that those present, who were many, exhorted Mark,
-as one who had followed him for a long time and remembered what had been
-spoken, to make a record of what was said; and that he did this, and
-distributed the Gospel among those that asked him. And that when the matter
-came to Peter’s knowledge he neither strongly forbade it nor urged it forward.
-But that John, last of all, conscious that the outward facts had been set
-forth in the Gospels, was urged on by his disciples, and, divinely moved by
-the Spirit, composed a spiritual Gospel. This is Clement’s account. (p189)
+> And in [2] the Hypotyposeis, to speak briefly, he [[Clement]] has given
+concise explanations of all the Canonical Scriptures, not passing over even the
+disputed writings, I mean the Epistle of Jude and the.remaining Catholic
+Epistles, and the Epistle of Barnabas, and the Apocalypse known as Peter’s. And
+as for the Epistle to the Hebrews, he says indeed that it is Paul’s, but that
+it was written for Hebrews in the Hebrew tongue, and that Luke, having
+carefully translated it, published it for the Greeks; hence, as a result of
+this translation, the same complexion of style is found in this Epistle and in
+the Acts: but that the [words] "Paul an apostle" were naturally not prefixed.
+For, says he,
+>
+>> in writing to Hebrews who had conceived a prejudice against him and were
+suspicious of him, he very wisely did not repel them at the beginning by
+putting his name.
+>
+> Then lower down he adds:
+>
+>> But now, as the blessed elder[^pantaenus] used to say, since the Lord, being
+the apostle? of the Almighty, was sent to the Hebrews, Paul, through modesty,
+since he had been sent to the Gentiles, does not inscribe himself as an apostle
+of the Hebrews, both to give due deference to the Lord and because he wrote to
+the Hebrews also out of his abundance, being a preacher and apostle of the
+Gentiles.
+>
+> And again in the same books Clement has inserted a tradition of the primitive
+elders with regard to the order of the Gospels, as follows. He said that those
+Gospels were first written which include the genealogies, but that the Gospel
+according to Mark came into being in this manner: When Peter had publicly
+preached the word at Rome, and by the Spirit had proclaimed the Gospel, that
+those present, who were many, exhorted Mark, as one who had followed him for
+a long time and remembered what had been spoken, to make a record of what was
+said; and that he did this, and distributed the Gospel among those that asked
+him. And that when the matter came to Peter’s knowledge he neither strongly
+forbade it nor urged it forward. But that John, last of all, conscious that the
+outward facts had been set forth in the Gospels, was urged on by his disciples,
+and, divinely moved by the Spirit, composed a spiritual Gospel. This is
+Clement’s account. (p188)
+
+[^pantaenus]: The "blessed elder" is likely to have been Clement's teacher,
+  Pantaenus: "It was Pantaenus ('the blessed presbyter') who taught Clement
+  that Paul was the author of Hebrews (Church History vi. 14. 4) ..."
+  [@goodspeed1942history, p200].
 
 ### EH 6:25
 
@@ -691,6 +752,45 @@ men of old time handed it down as Paul's. But who wrote the epistle, in truth
 God knows. Yet the account which has reached us [is twofold], some saying
 that Clement, who was bishop of the Romans, wrote the epistle, others, that it
 was Luke, he who wrote the Gospel and the Acts... (p197)
+
+### EH 7.25
+
+> 25/ Then, in due course, lower down he [[Dionysius]] speaks thus, with
+reference to the Apocalypse of John :
+>
+>> Some indeed of those before our time rejected and altogether impugned the
+book, examining it chapter by chapter and declaring it to be unintelligible
+and illogical, and its title false. For they say that it is not John’s, no, nor
+yet an apocalypse (unveiling), since it is veiled by its great thick curtain of
+unintelligibility ; and that the author of this book was not only not one of
+the apostles, nor even one of the saints or those belonging to the Church, but
+Cerinthus, the same who created the sect called "Cerinthian" after him, since
+he desired to affix to his own forgery a name worthy of credit. ...
+...
+>> After completing the whole, one might say, of his prophecy, the prophet
+calls those blessed who observe it, and indeed himself also. For he says:
+Blessed is he that keepeth the words of the prophecy of this book, and I John,
+he that saw and heard these things. I will not gainsay the fact that he was
+certainly named John and that this book is by one John, for I fully allow that
+it is the work of some holy and inspired person. But I should not readily agree
+that he was the apostle, the son of Zebedee, the brother of James, whose are
+the Gospel entitled According to John and the Catholic Epistle. For I form my
+judgment from the character of each and from the nature of the language and
+from what is known as the general construction of the book, that [the John
+therein mentioned] is not the same. For the evangelist nowhere adds his name,
+nor yet proclaims himself, throughout either the Gospel or the Epistle.
+...
+>>
+>> ... I hold that there have been many persons of the same name as John the
+apostle, ...  But I think that there was a certain other [John] among those
+that were in Asia, since it is said both that there were two tombs at Ephesus,
+and that each of the two is said to be John's. ...
+>>
+>> ... In a word, it is obvious that those who observe their character
+throughout will see at a glance that the Gospel and Epistle have one and the
+same complexion. But the Apocalypse is utterly different from, and foreign to,
+these writings; it has no connexion, no affinity, in any way with them; it
+scarcely, so to speak, has even a syllable in common with them. ... (p237)
 
 ## References
 
