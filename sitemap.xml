@@ -1,2372 +1,1331 @@
-<?xml version="1.0" encoding="utf-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
-xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-<url>
-<loc>https://asterisk.dynevor.org/</loc>
-<lastmod>2026-08-17T11:54:29-00:00</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/tags.html</loc>
-<lastmod>2026-08-17T11:54:29-00:00</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/categories.html</loc>
-<lastmod>2026-08-17T11:54:29-00:00</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/archives.html</loc>
-<lastmod>2026-08-17T11:54:29-00:00</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/search.html</loc>
-<lastmod>2026-08-17T11:54:29-00:00</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/404.html</loc>
-<lastmod>2026-08-17T11:54:29-00:00</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/pages/about.html</loc>
-<lastmod>2018-01-13T13:42:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/on-john.html</loc>
-<lastmod>2026-08-16T14:27:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/fascinating-speculations.html</loc>
-<lastmod>2026-08-13T10:13:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/irenaeus-john.html</loc>
-<lastmod>2026-08-01T15:00:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/water-and-blood.html</loc>
-<lastmod>2026-07-16T00:00:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/kratopistia.html</loc>
-<lastmod>2026-07-14T10:19:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/an-unfair-fight-at-ok-corral.html</loc>
-<lastmod>2026-07-13T12:26:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/isms-and-ai.html</loc>
-<lastmod>2026-06-03T11:55:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/its-quite-obvious-that-lucy-letby-is-innocent.html</loc>
-<lastmod>2026-04-24T07:00:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/they-hate-us-for-our-freedom.html</loc>
-<lastmod>2026-04-23T15:28:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/not-godly.html</loc>
-<lastmod>2026-04-01T08:50:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/attachment-to-ai.html</loc>
-<lastmod>2026-03-17T09:10:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/barbarism.html</loc>
-<lastmod>2026-03-07T07:25:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/pile-it-on.html</loc>
-<lastmod>2026-01-17T11:47:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/nhs-snapshot.html</loc>
-<lastmod>2025-10-21T10:39:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/lose-total-control.html</loc>
-<lastmod>2025-03-04T11:59:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/marginal-benefit.html</loc>
-<lastmod>2024-12-01T13:44:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/win-election-hammer-disinformation.html</loc>
-<lastmod>2024-09-30T11:49:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/love-and-warmth.html</loc>
-<lastmod>2024-09-05T10:31:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/we-own-the-science.html</loc>
-<lastmod>2024-05-29T12:11:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/saw-that-everywhere.html</loc>
-<lastmod>2024-05-07T11:36:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/shoes-in-my-soul.html</loc>
-<lastmod>2024-03-31T18:11:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/meritocracy-and-valor.html</loc>
-<lastmod>2024-03-13T16:12:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/nissan-knows-what-you-did-last-summer.html</loc>
-<lastmod>2024-01-01T12:45:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/candor-commitment-courage-and-competence.html</loc>
-<lastmod>2023-07-27T11:07:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/where-do-we-disagree.html</loc>
-<lastmod>2023-07-05T12:57:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/risk-from-artificial-intelligence.html</loc>
-<lastmod>2023-05-01T17:41:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/achieve.html</loc>
-<lastmod>2023-05-01T14:53:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/google-bard-appears-to-admit-it-was-told-to-recommend-masks.html</loc>
-<lastmod>2023-05-01T12:25:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/die-playing-our-own-thing.html</loc>
-<lastmod>2023-04-21T11:39:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/corrupt-all-the-way-down.html</loc>
-<lastmod>2023-03-29T13:19:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/core-goal-of-undergraduate-education.html</loc>
-<lastmod>2022-11-11T16:11:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/novel-moraltiy.html</loc>
-<lastmod>2022-09-11T17:40:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/no-fog.html</loc>
-<lastmod>2022-09-11T17:33:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/covid-school-closures-and-other-deviations.html</loc>
-<lastmod>2022-08-22T11:29:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/unscientific-unsafe-ableist-fatphobic-and-unethical.html</loc>
-<lastmod>2022-08-17T23:00:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/interested-in-politics-study-mathematics.html</loc>
-<lastmod>2022-08-09T15:55:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/postmodern-consent.html</loc>
-<lastmod>2022-08-09T10:59:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/calm-capable-women.html</loc>
-<lastmod>2022-08-07T09:41:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/to-be-an-individual.html</loc>
-<lastmod>2022-08-07T09:27:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/popper-against-proportional-representation.html</loc>
-<lastmod>2022-08-06T12:38:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/better-educated-more-irrational.html</loc>
-<lastmod>2022-08-06T11:26:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/going-at-it-blind.html</loc>
-<lastmod>2022-08-06T10:24:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/education-of-the-heart.html</loc>
-<lastmod>2022-08-02T13:53:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/what-is-critical-race-theory.html</loc>
-<lastmod>2022-07-28T10:07:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/wicked-and-dangerous-fraud.html</loc>
-<lastmod>2022-07-16T12:39:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/swift-downfall.html</loc>
-<lastmod>2022-07-09T12:41:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/time-to-call-it.html</loc>
-<lastmod>2022-07-09T12:00:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/who-do-the-work.html</loc>
-<lastmod>2022-07-08T19:48:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/because-it-hurts.html</loc>
-<lastmod>2022-07-08T19:15:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/fumbling-the-future.html</loc>
-<lastmod>2022-07-08T17:45:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/not-convinced.html</loc>
-<lastmod>2022-07-08T17:17:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/parkinsons-law.html</loc>
-<lastmod>2022-05-10T18:02:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/define-professional.html</loc>
-<lastmod>2021-09-11T18:28:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/malice-cured-by-stupidity.html</loc>
-<lastmod>2021-09-08T15:22:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/bad-writing.html</loc>
-<lastmod>2021-08-07T09:31:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/language-hygiene-initiative.html</loc>
-<lastmod>2021-07-15T15:39:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/hows-julia-2021.html</loc>
-<lastmod>2021-06-11T12:00:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/on-too-simple-solutions.html</loc>
-<lastmod>2021-03-04T12:51:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/righteous-disobedient-stubborn-and-firm.html</loc>
-<lastmod>2021-03-03T14:25:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/die-frau-mit-dem-fagott.html</loc>
-<lastmod>2021-02-06T18:10:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/eternal-return.html</loc>
-<lastmod>2021-01-31T18:19:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/legally-christian.html</loc>
-<lastmod>2021-01-17T18:19:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/quantum-realm.html</loc>
-<lastmod>2021-01-11T13:28:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/spiritual-damage.html</loc>
-<lastmod>2020-11-19T10:54:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/desire-to-punish.html</loc>
-<lastmod>2020-10-30T16:35:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/gothic-mask.html</loc>
-<lastmod>2020-10-30T16:35:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/not-professional.html</loc>
-<lastmod>2020-08-08T10:58:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/nothing-is-easy-but-failure.html</loc>
-<lastmod>2020-07-29T11:23:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/i-do-it.html</loc>
-<lastmod>2020-07-26T13:18:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/editor-dominance.html</loc>
-<lastmod>2020-07-26T11:00:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/data-no-defense.html</loc>
-<lastmod>2020-07-23T21:03:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/world-divided.html</loc>
-<lastmod>2020-07-21T19:53:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/change-programming.html</loc>
-<lastmod>2020-07-18T11:01:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/mosteller-and-data-science.html</loc>
-<lastmod>2020-07-14T12:30:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/mosteller-and-muddy.html</loc>
-<lastmod>2020-07-14T12:30:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/covid-and-cronies.html</loc>
-<lastmod>2020-07-06T17:06:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/universities-and-truth.html</loc>
-<lastmod>2020-07-06T14:19:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/drearification.html</loc>
-<lastmod>2020-06-18T12:53:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/code-is-for-people.html</loc>
-<lastmod>2020-06-07T18:47:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/surgisphere-machine-learning.html</loc>
-<lastmod>2020-06-07T15:20:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/laws-protect-police-from-their-own-interrogation.html</loc>
-<lastmod>2020-06-07T13:25:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/lecturers-used-to-value-teaching.html</loc>
-<lastmod>2020-03-13T19:55:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/lecturers-nearly-all-above-average.html</loc>
-<lastmod>2020-03-13T19:29:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/popularity-of-python-and-matlab.html</loc>
-<lastmod>2020-02-26T17:11:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/hows-julia-2020.html</loc>
-<lastmod>2020-02-07T23:00:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/data-science-tools-over-time.html</loc>
-<lastmod>2020-02-05T10:46:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/against-data.html</loc>
-<lastmod>2020-02-04T19:23:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/despair-of-twitter.html</loc>
-<lastmod>2020-01-04T12:43:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/python-for-teaching-computer-science.html</loc>
-<lastmod>2019-12-06T19:11:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/chapter-3-of-the-raspberry-pi-book.html</loc>
-<lastmod>2019-11-29T11:14:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/chomsky-on-class-war.html</loc>
-<lastmod>2019-11-17T18:57:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/big-stuff-in-ukraine.html</loc>
-<lastmod>2019-11-16T10:58:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/the-great-university-con.html</loc>
-<lastmod>2019-09-11T10:00:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/thinking-is-the-hardest-work.html</loc>
-<lastmod>2019-09-05T13:37:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/maths-and-a-hard-chair.html</loc>
-<lastmod>2019-09-04T17:47:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/the-fall-and-rise-of-exploratory-data-analysis.html</loc>
-<lastmod>2019-09-02T10:30:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/josephus-on-a-political-error-by-the-high-priest.html</loc>
-<lastmod>2019-08-18T15:04:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/computer-scientists-are-no-more-likely-to-use-best-practice-for-software-development.html</loc>
-<lastmod>2019-07-10T16:09:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/the-plain-persons-guide-to-plain-text-social-science.html</loc>
-<lastmod>2019-07-08T22:44:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/you-cant-do-data-science-in-a-gui.html</loc>
-<lastmod>2019-07-08T19:25:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/arrogance-and-inexperience.html</loc>
-<lastmod>2019-07-01T11:23:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/blueprint-for-a-modern-university.html</loc>
-<lastmod>2019-06-20T11:31:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/python-is-the-most-in-demand-language.html</loc>
-<lastmod>2019-06-07T15:40:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/after-data-science.html</loc>
-<lastmod>2019-05-30T17:41:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/how-do-the-foundations-get-built.html</loc>
-<lastmod>2019-05-16T19:26:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/who-is-building-the-foundations.html</loc>
-<lastmod>2019-05-14T16:14:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/learning-and-twitter.html</loc>
-<lastmod>2019-04-17T10:21:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/worse-is-better.html</loc>
-<lastmod>2019-04-15T11:35:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/hows-julia.html</loc>
-<lastmod>2019-04-11T13:00:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/python-r-2019.html</loc>
-<lastmod>2019-04-10T14:10:06+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/improper-teaching.html</loc>
-<lastmod>2019-04-05T16:58:08+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/python-matlab-r-julia.html</loc>
-<lastmod>2019-04-05T14:26:06+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/modern-brexit.html</loc>
-<lastmod>2019-04-03T13:40:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/the-gulf-between-her.html</loc>
-<lastmod>2019-04-01T12:19:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/saw.html</loc>
-<lastmod>2019-02-10T11:22:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/lambda-calculus-a-vignette.html</loc>
-<lastmod>2019-02-09T21:58:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/i-do-nt-want.html</loc>
-<lastmod>2019-02-01T21:58:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/who-knew.html</loc>
-<lastmod>2018-12-19T11:18:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/joys-of-craft.html</loc>
-<lastmod>2018-10-12T14:41:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/the-nhs-sues-a.html</loc>
-<lastmod>2018-08-31T13:01:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/the-language-hygiene-initiative.html</loc>
-<lastmod>2018-08-17T11:21:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/speaking-to-a-steelworker.html</loc>
-<lastmod>2018-07-21T08:28:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/what-is-data-science.html</loc>
-<lastmod>2018-07-16T09:56:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/i-call-bullshit-on.html</loc>
-<lastmod>2018-06-26T10:43:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/i-ve-been-reflecting.html</loc>
-<lastmod>2018-06-05T11:30:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/james-shaw-jr-on.html</loc>
-<lastmod>2018-04-23T15:51:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/the-dirty-little-secret.html</loc>
-<lastmod>2018-04-07T19:40:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/the-dunning-kuger-effect-is.html</loc>
-<lastmod>2018-04-05T19:53:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/we-know-now-that.html</loc>
-<lastmod>2018-03-22T22:59:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/video-from-uber-car.html</loc>
-<lastmod>2018-03-22T10:04:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/alex-lovell-s-girlfriend.html</loc>
-<lastmod>2018-03-16T09:51:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/the-stackoverflow-developer-survey.html</loc>
-<lastmod>2018-03-16T09:37:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/science-by-volume-science.html</loc>
-<lastmod>2018-02-26T14:23:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/learning-outcomes-encapsulate-a.html</loc>
-<lastmod>2018-02-25T17:09:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/python-has-become-the.html</loc>
-<lastmod>2018-02-23T09:34:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/data-scientist-wanted-must.html</loc>
-<lastmod>2018-02-19T09:44:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/working-more-than-40.html</loc>
-<lastmod>2018-01-29T21:40:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/noam-chomsky-on-the.html</loc>
-<lastmod>2018-01-16T11:54:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/just-a-humble-question.html</loc>
-<lastmod>2018-01-13T13:42:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/some-evidence-that-employers.html</loc>
-<lastmod>2018-01-13T11:44:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/why-i-m-learning.html</loc>
-<lastmod>2018-01-13T11:37:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/i-had-not-thought.html</loc>
-<lastmod>2017-12-30T16:33:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/i-propose-this-as.html</loc>
-<lastmod>2017-12-30T15:09:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/the-growth-of-julia.html</loc>
-<lastmod>2017-12-09T13:14:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/python-overtook-r-in.html</loc>
-<lastmod>2017-12-09T12:46:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/in-his-famous-essay.html</loc>
-<lastmod>2017-11-10T11:54:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/i-wrote-up-the.html</loc>
-<lastmod>2017-11-09T12:04:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/python-matlab.html</loc>
-<lastmod>2017-11-08T12:00:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/the-seeker-after-truth.html</loc>
-<lastmod>2017-10-30T09:44:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/a-study-comparing-standard.html</loc>
-<lastmod>2017-10-25T08:42:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/the-derisive-local-nickname.html</loc>
-<lastmod>2017-10-21T23:06:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/i-am-trying-to.html</loc>
-<lastmod>2017-10-04T19:26:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/i-am-reading-a.html</loc>
-<lastmod>2017-10-02T16:57:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/douglas-crockford-got-uninvited.html</loc>
-<lastmod>2017-09-25T20:35:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/analysis-of-stackoverflow-views.html</loc>
-<lastmod>2017-09-08T13:15:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/data-engineering.html</loc>
-<lastmod>2017-09-04T14:03:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/how-to-deal-with.html</loc>
-<lastmod>2017-09-03T17:41:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/i-had-previously-noticed.html</loc>
-<lastmod>2017-08-30T20:57:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/training-data-scientists-is.html</loc>
-<lastmod>2017-08-30T10:52:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/eminent-teachers-of-statistics.html</loc>
-<lastmod>2017-08-28T17:21:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/i-just-read-the.html</loc>
-<lastmod>2017-08-10T19:36:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/i-just-watched-an.html</loc>
-<lastmod>2017-07-29T21:26:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/what-does-real-data.html</loc>
-<lastmod>2017-07-20T13:40:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/excellent-10-minute-argument.html</loc>
-<lastmod>2017-07-20T12:46:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/apparently-a-gender-reveal.html</loc>
-<lastmod>2017-07-09T17:30:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/uk-science-has-declined.html</loc>
-<lastmod>2017-07-06T17:01:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/is-the-uk-research.html</loc>
-<lastmod>2017-07-06T16:42:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/student-ratings-of-satisfaction.html</loc>
-<lastmod>2017-07-05T14:29:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/hadley-wickham-on-big.html</loc>
-<lastmod>2017-07-01T09:23:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/smetative.html</loc>
-<lastmod>2017-06-03T10:19:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/wasting-money-on-mapping.html</loc>
-<lastmod>2017-05-27T13:47:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/at-a-recent-workshop.html</loc>
-<lastmod>2017-05-24T19:41:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/bundle-it-up-and.html</loc>
-<lastmod>2017-05-24T18:53:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/big-data-and-not.html</loc>
-<lastmod>2017-05-18T08:08:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/panel-discussion-what-is-data-science.html</loc>
-<lastmod>2017-05-17T20:18:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/academic-statistics-may-have.html</loc>
-<lastmod>2017-05-17T15:09:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/industry-as-the-origin.html</loc>
-<lastmod>2017-05-17T14:21:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/tukey-1965-on-the.html</loc>
-<lastmod>2017-05-17T13:47:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/in-1965-tukey-predicted.html</loc>
-<lastmod>2017-05-17T13:33:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/this-figure-is-a.html</loc>
-<lastmod>2017-05-17T11:15:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/to-be-a-mature.html</loc>
-<lastmod>2017-05-17T10:51:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/hatred-in-america.html</loc>
-<lastmod>2017-05-17T09:34:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/a-rather-depressing-snapshot.html</loc>
-<lastmod>2017-04-28T10:17:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/i-have-a-memory.html</loc>
-<lastmod>2017-04-23T11:58:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/i-have-found-it.html</loc>
-<lastmod>2017-03-11T00:12:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/looking-out-a-link.html</loc>
-<lastmod>2017-02-27T20:15:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/i-got-sick-so.html</loc>
-<lastmod>2017-02-23T21:45:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/a-love-song-to-cuba.html</loc>
-<lastmod>2017-02-11T11:31:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/in-the-1820s-the.html</loc>
-<lastmod>2017-01-25T04:54:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/inauguration-day.html</loc>
-<lastmod>2017-01-20T20:24:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/here-i-have-made.html</loc>
-<lastmod>2017-01-13T20:10:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/this-is-more-of.html</loc>
-<lastmod>2017-01-13T01:08:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/terry-speed-remembering-george.html</loc>
-<lastmod>2017-01-12T22:26:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/courses-on-imaging-often.html</loc>
-<lastmod>2017-01-07T11:11:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/teaching-simple.html</loc>
-<lastmod>2016-12-09T12:00:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/kent-beck-is-interesting.html</loc>
-<lastmod>2016-12-03T05:06:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/how-much-do-scientists.html</loc>
-<lastmod>2016-11-25T20:10:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/i-hope-you-will.html</loc>
-<lastmod>2016-09-18T18:26:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/there-s-an-interesting.html</loc>
-<lastmod>2016-09-13T19:02:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/on-getting-basics-right.html</loc>
-<lastmod>2016-08-29T17:12:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/data-scientist-n.html</loc>
-<lastmod>2016-08-24T08:30:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/whos-reading.html</loc>
-<lastmod>2016-08-22T00:50:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/how-should-we-teach-link.html</loc>
-<lastmod>2016-08-19T22:19:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/how-should-we-teach-computing.html</loc>
-<lastmod>2016-08-19T12:00:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/i-get-regular-fund-raising.html</loc>
-<lastmod>2016-07-22T13:03:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/in-the-years-between.html</loc>
-<lastmod>2016-06-06T17:36:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/todd-talks.html</loc>
-<lastmod>2016-05-30T02:40:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/at-the-theory-lunch.html</loc>
-<lastmod>2016-05-04T13:58:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/uc-berkeley-student-questioned.html</loc>
-<lastmod>2016-04-15T21:01:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/i-found-that-i.html</loc>
-<lastmod>2016-04-13T20:42:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/in-guess-who-s.html</loc>
-<lastmod>2016-04-03T22:22:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/a-flash-bulb-illumination-of.html</loc>
-<lastmod>2016-04-03T18:36:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/which-programming-language-should.html</loc>
-<lastmod>2016-03-27T23:13:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/an-occasional-cure-for.html</loc>
-<lastmod>2016-03-21T19:52:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/every-error-is-a.html</loc>
-<lastmod>2016-03-07T06:11:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/one-evening-thomas-carlyle.html</loc>
-<lastmod>2016-02-11T09:40:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/sea-lioning-is-an-internet.html</loc>
-<lastmod>2016-02-07T22:19:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/an-interesting-before-and.html</loc>
-<lastmod>2016-02-07T21:13:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/nine-reasons-women-do.html</loc>
-<lastmod>2016-01-27T00:03:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/thus-structurelessness-becomes-a.html</loc>
-<lastmod>2016-01-26T22:03:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/stefan-van-der-walt.html</loc>
-<lastmod>2016-01-22T18:18:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/researchers-are-surprisingly-likely.html</loc>
-<lastmod>2016-01-15T23:20:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/i-wrote-a-blog-link.html</loc>
-<lastmod>2016-01-15T21:29:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/love-letter.html</loc>
-<lastmod>2016-01-15T14:00:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/makes-sense.html</loc>
-<lastmod>2016-01-15T14:00:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/the-american-academy-of.html</loc>
-<lastmod>2016-01-10T01:13:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/here-we-see-a.html</loc>
-<lastmod>2016-01-09T23:33:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/stanford-s-jordan-hall.html</loc>
-<lastmod>2016-01-09T21:28:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/but-it-is-only.html</loc>
-<lastmod>2016-01-05T09:53:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/i-read-this-quote.html</loc>
-<lastmod>2015-09-23T20:00:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/i-believe-these-lines.html</loc>
-<lastmod>2015-09-20T21:11:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/jon-stewart-on-bullshit.html</loc>
-<lastmod>2015-09-07T21:34:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/a-uk-report-on.html</loc>
-<lastmod>2015-08-21T13:17:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/excellent-and-relevant-quote.html</loc>
-<lastmod>2015-08-21T12:35:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/nancy-kanwisher-on-how.html</loc>
-<lastmod>2015-08-13T14:30:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/bibliometrics-the-leiden-manifesto.html</loc>
-<lastmod>2015-08-06T12:53:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/sourceforge-went-down-heavily.html</loc>
-<lastmod>2015-07-21T16:41:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/the-bbc-bowed-to.html</loc>
-<lastmod>2015-07-03T06:43:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/are-preclinical-drug-studies.html</loc>
-<lastmod>2015-07-02T17:52:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/here-is-a-picture.html</loc>
-<lastmod>2015-07-01T13:22:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/the-tools-we-use.html</loc>
-<lastmod>2015-06-22T21:47:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/apl-is-a-mistake.html</loc>
-<lastmod>2015-06-22T21:46:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/the-work-on-satisfactory.html</loc>
-<lastmod>2015-06-10T17:44:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/i-fully-agree-with.html</loc>
-<lastmod>2015-06-10T17:29:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/results-for-standard-neuroimaging.html</loc>
-<lastmod>2015-06-08T21:26:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/authors-should-submit-their.html</loc>
-<lastmod>2015-06-04T20:02:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/please-sign-this.html</loc>
-<lastmod>2015-04-21T20:43:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/i-was-reading-about.html</loc>
-<lastmod>2015-03-28T18:57:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/fred-brooks-on-the.html</loc>
-<lastmod>2015-03-24T23:09:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/suggestive-evidence-that-women.html</loc>
-<lastmod>2015-03-23T21:16:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/software-engineering-had-emerged.html</loc>
-<lastmod>2015-03-13T23:15:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/i-just-watched-this.html</loc>
-<lastmod>2015-02-07T05:21:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/thomas-caswell-just-mentioned.html</loc>
-<lastmod>2015-02-04T22:08:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/my-impression-is-that.html</loc>
-<lastmod>2015-01-30T23:05:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/one-reason-that-people.html</loc>
-<lastmod>2015-01-30T22:48:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/psychiatry-psychology-papers-support.html</loc>
-<lastmod>2015-01-30T20:46:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/living-in-the-danger.html</loc>
-<lastmod>2015-01-30T19:55:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/dijkstra-was-not-impressed.html</loc>
-<lastmod>2015-01-30T19:14:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/the-last-sentence-of.html</loc>
-<lastmod>2015-01-23T06:34:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/max-weber-on-science.html</loc>
-<lastmod>2015-01-23T04:19:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/the-enjoyment-of-one.html</loc>
-<lastmod>2015-01-21T17:28:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/email-is-a-wonderful.html</loc>
-<lastmod>2015-01-21T17:20:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/the-bbc-has-a.html</loc>
-<lastmod>2015-01-20T20:02:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/us-department-of-defense.html</loc>
-<lastmod>2015-01-19T17:55:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/chomsky-you-can-only.html</loc>
-<lastmod>2015-01-08T17:32:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/paul-ivanov-mentioned-this.html</loc>
-<lastmod>2014-10-18T00:46:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/the-founder-that-julie.html</loc>
-<lastmod>2014-07-04T15:06:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/julie-ann-horvath-describes.html</loc>
-<lastmod>2014-07-04T13:05:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/this-is-a-self-conscious.html</loc>
-<lastmod>2014-06-24T11:48:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/this-blog-post-argues.html</loc>
-<lastmod>2014-06-08T18:23:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/frederick-herzberg-points-out.html</loc>
-<lastmod>2014-05-16T19:30:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/egypt-wants-to-execute.html</loc>
-<lastmod>2014-04-29T18:16:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/elsevier-journals-some-facts.html</loc>
-<lastmod>2014-04-24T18:25:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/a-poem-by-ivor.html</loc>
-<lastmod>2014-03-21T06:48:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/mac-libraries-finding-binaries.html</loc>
-<lastmod>2014-02-27T04:27:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/for-the-quote-at.html</loc>
-<lastmod>2014-02-17T22:15:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/i-spent-a-while.html</loc>
-<lastmod>2013-11-08T08:36:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/a-confused-crowd-shouting.html</loc>
-<lastmod>2013-10-05T05:33:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/a-science-journalist-sent.html</loc>
-<lastmod>2013-10-04T20:17:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/we-urge-future-researchers.html</loc>
-<lastmod>2013-10-04T16:37:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/summary-of-a-study.html</loc>
-<lastmod>2013-09-27T04:35:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/quoting-from-page-32.html</loc>
-<lastmod>2013-08-31T20:25:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/another-danger-is-that.html</loc>
-<lastmod>2013-08-28T18:08:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/since-the-romans-have.html</loc>
-<lastmod>2013-08-28T18:01:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/computer-coding-for-children.html</loc>
-<lastmod>2013-08-12T17:00:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/honest-and-later-on.html</loc>
-<lastmod>2013-08-11T22:20:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/this-experience-has-taught.html</loc>
-<lastmod>2013-08-09T20:04:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/a-reflection-on-the.html</loc>
-<lastmod>2013-06-26T07:56:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/xfree-forked.html</loc>
-<lastmod>2013-06-25T16:00:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/melting-core.html</loc>
-<lastmod>2013-06-25T14:00:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/thinking-of-the-depressing.html</loc>
-<lastmod>2013-06-24T19:37:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/paying-people-for-work.html</loc>
-<lastmod>2013-06-02T20:00:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/the-page-tells-the.html</loc>
-<lastmod>2013-06-02T06:51:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/the-editors-of-plos.html</loc>
-<lastmod>2013-05-29T22:11:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/a-hint-as-to.html</loc>
-<lastmod>2013-05-27T20:41:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/i-gave-desperate-warnings.html</loc>
-<lastmod>2013-05-24T22:02:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/the-mysterious-belief-that.html</loc>
-<lastmod>2013-05-23T22:22:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/why-many-scientists-think.html</loc>
-<lastmod>2013-05-23T22:22:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/a-characteristic-summary-of.html</loc>
-<lastmod>2013-05-23T18:54:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/do-nt-expect-too.html</loc>
-<lastmod>2013-05-09T01:40:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/some-more-vivid-phrasing.html</loc>
-<lastmod>2013-05-01T20:51:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/excellent-quote-from-the.html</loc>
-<lastmod>2013-04-30T23:47:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/disapproval-of-heart-link.html</loc>
-<lastmod>2013-04-30T18:45:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/a-bad-time-link.html</loc>
-<lastmod>2013-04-30T07:21:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/disapproval-of-heart.html</loc>
-<lastmod>2013-04-22T00:50:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/a-bad-time.html</loc>
-<lastmod>2013-04-21T16:30:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/evidence-of-very-low.html</loc>
-<lastmod>2013-04-18T18:59:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/matthew-brett-hung-out.html</loc>
-<lastmod>2013-04-11T18:06:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/message-in-banner-at.html</loc>
-<lastmod>2013-04-06T03:22:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/python-script-installation.html</loc>
-<lastmod>2013-02-01T04:13:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/quoting-from.html</loc>
-<lastmod>2013-01-12T18:57:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/fast-forward-tracking-branch.html</loc>
-<lastmod>2012-12-31T11:59:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/ted-talks-on-vulnerability.html</loc>
-<lastmod>2012-12-10T11:23:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/my-niece-is-so.html</loc>
-<lastmod>2012-10-04T13:40:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/some-useful-references-including.html</loc>
-<lastmod>2012-09-14T15:17:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/i-need-to-use.html</loc>
-<lastmod>2012-08-21T18:42:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/then-the-question-what.html</loc>
-<lastmod>2012-06-29T01:00:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/last-year-in-a.html</loc>
-<lastmod>2012-05-08T19:29:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/this-is-a-continuous.html</loc>
-<lastmod>2012-05-05T06:18:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/in-this-study-the.html</loc>
-<lastmod>2012-04-29T22:55:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/i-wonder-whether-there.html</loc>
-<lastmod>2012-04-29T19:50:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/i-realized-that-i.html</loc>
-<lastmod>2012-04-23T16:51:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/i-have-twice-now.html</loc>
-<lastmod>2012-04-23T16:47:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/do-functional-mri-papers.html</loc>
-<lastmod>2012-04-11T01:06:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/forensics-on-a-paper.html</loc>
-<lastmod>2012-04-04T19:35:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/blog-post-with-some.html</loc>
-<lastmod>2012-03-28T02:37:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/then-on-the-bbc.html</loc>
-<lastmod>2012-03-14T20:03:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/i-visited-this-link.html</loc>
-<lastmod>2012-03-04T07:04:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/i-wrote-a-discussion.html</loc>
-<lastmod>2012-02-20T23:20:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/the-photo-that-jb.html</loc>
-<lastmod>2012-02-20T19:06:00+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://asterisk.dynevor.org/i-never-felt-i.html</loc>
-<lastmod>2011-10-07T20:37:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/time-to-call-it/index.html</loc>
+    <lastmod>2026-08-18T05:40:17.012Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/hows-julia-2021/index.html</loc>
+    <lastmod>2026-08-18T05:40:17.009Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/you-cant-do-data-science-in-a-gui/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.578Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/worse-is-better/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.574Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/working-more-than-40/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.445Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/wicked-and-dangerous-fraud/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.572Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/why-i-m-learning/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.443Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/who-is-building-the-foundations/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.569Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/which-programming-language-should/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.380Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/what-is-data-science/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.458Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/what-does-real-data/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.423Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/we-own-the-science/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.564Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/water-and-blood/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.564Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/video-from-uber-car/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.451Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/unscientific-unsafe-ableist-fatphobic-and-unethical/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.563Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/uk-science-has-declined/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.421Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/tukey-1965-on-the/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.411Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/todd-talks/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.385Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/to-be-a-mature/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.410Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/thomas-caswell-just-mentioned/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.339Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/this-is-a-self-conscious/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.323Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/this-figure-is-a/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.409Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/this-blog-post-argues/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.322Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/thinking-is-the-hardest-work/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.560Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/there-s-an-interesting/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.391Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/then-on-the-bbc/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.268Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/the-tools-we-use/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.352Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/the-seeker-after-truth/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.435Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/the-photo-that-jb/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.266Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/the-nhs-sues-a/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.460Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/the-last-sentence-of/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.333Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/the-gulf-between-her/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.464Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/the-great-university-con/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.557Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/the-fall-and-rise-of-exploratory-data-analysis/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.556Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/the-editors-of-plos/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.296Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/the-dirty-little-secret/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.454Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/the-bbc-has-a/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.330Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/the-american-academy-of/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.369Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/ted-talks-on-vulnerability/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.280Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/swift-downfall/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.554Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/summary-of-a-study/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.310Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/student-ratings-of-satisfaction/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.419Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/stanford-s-jordan-hall/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.368Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/speaking-to-a-steelworker/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.458Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/some-useful-references-including/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.278Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/some-evidence-that-employers/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.442Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/software-engineering-had-emerged/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.341Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/since-the-romans-have/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.308Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/sea-lioning-is-an-internet/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.375Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/saw/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.463Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/risk-from-artificial-intelligence/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.549Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/results-for-standard-neuroimaging/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.347Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/quoting-from/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.281Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/quantum-realm/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.548Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/python-r-2019/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.547Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/python-matlab/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.545Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/python-is-the-most-in-demand-language/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.543Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/python-for-teaching-computer-science/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.542Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/postmodern-consent/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.541Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/popper-against-proportional-representation/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.540Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/pile-it-on/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.539Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/paul-ivanov-mentioned-this/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.327Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/panel-discussion-what-is-data-science/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.413Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/one-evening-thomas-carlyle/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.377Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/on-john/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.536Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/novel-moraltiy/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.535Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/not-professional/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.533Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/not-convinced/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.532Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/no-fog/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.531Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/nine-reasons-women-do/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.373Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/nancy-kanwisher-on-how/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.358Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/my-impression-is-that/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.336Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/mosteller-and-data-science/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.527Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/meritocracy-and-valor/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.526Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/max-weber-on-science/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.333Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/maths-and-a-hard-chair/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.524Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/malice-cured-by-stupidity/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.522Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/mac-libraries-finding-binaries/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.317Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/love-and-warmth/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.520Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/looking-out-a-link/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.402Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/legally-christian/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.518Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/lecturers-nearly-all-above-average/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.516Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/learning-and-twitter/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.516Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/last-year-in-a/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.276Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/lambda-calculus-a-vignette/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.463Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/kent-beck-is-interesting/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.393Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/julie-ann-horvath-describes/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.325Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/josephus-on-a-political-error-by-the-high-priest/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.511Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/its-quite-obvious-that-lucy-letby-is-innocent/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.510Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/is-the-uk-research/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.420Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/irenaeus-john/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.507Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/industry-as-the-origin/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.408Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/in-this-study-the/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.274Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/in-the-1820s-the/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.399Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/in-guess-who-s/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.381Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/improper-teaching/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.505Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/i-wrote-a-discussion/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.265Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/i-wonder-whether-there/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.273Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/i-visited-this-link/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.267Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/i-spent-a-while/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.315Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/i-read-this-quote/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.364Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/i-never-felt-i/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.264Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/i-just-watched-this/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.340Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/i-just-read-the/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.425Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/i-have-twice-now/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.271Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/i-have-a-memory/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.404Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/i-had-not-thought/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.440Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/i-get-regular-fund-raising/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.387Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/i-fully-agree-with/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.348Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/i-do-nt-want/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.462Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/i-call-bullshit-on/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.457Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/i-am-trying-to/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.433Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/how-to-deal-with/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.428Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/how-should-we-teach-computing/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.525Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/how-do-the-foundations-get-built/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.503Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/here-we-see-a/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.367Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/here-i-have-made/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.396Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/hadley-wickham-on-big/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.418Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/google-bard-appears-to-admit-it-was-told-to-recommend-masks/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.500Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/fumbling-the-future/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.498Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/fred-brooks-on-the/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.343Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/for-the-quote-at/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.316Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/fascinating-speculations/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.497Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/excellent-and-relevant-quote/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.360Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/evidence-of-very-low/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.285Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/eternal-return/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.481Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/email-is-a-wonderful/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.331Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/egypt-wants-to-execute/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.320Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/editor-dominance/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.493Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/douglas-crockford-got-uninvited/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.431Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/do-functional-mri-papers/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.270Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/disapproval-of-heart-link/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.287Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/die-playing-our-own-thing/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.490Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/despair-of-twitter/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.489Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/define-professional/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.487Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/data-scientist-n/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.389Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/data-no-defense/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.485Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/covid-school-closures-and-other-deviations/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.485Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/courses-on-imaging-often/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.394Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/core-goal-of-undergraduate-education/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.482Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/computer-coding-for-children/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.303Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/chomsky-you-can-only/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.328Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/chapter-3-of-the-raspberry-pi-book/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.478Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/candor-commitment-courage-and-competence/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.476Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/but-it-is-only/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.365Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/blueprint-for-a-modern-university/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.475Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/big-stuff-in-ukraine/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.474Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/bibliometrics-the-leiden-manifesto/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.357Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/because-it-hurts/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.472Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/bad-writing/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.471Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/attachment-to-ai/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.470Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/at-a-recent-workshop/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.415Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/are-preclinical-drug-studies/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.354Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/apl-is-a-mistake/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.351Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/another-danger-is-that/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.304Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/an-unfair-fight-at-ok-corral/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.467Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/an-interesting-before-and/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.374Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/against-data/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.467Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/achieve/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.465Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/a-uk-report-on/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.359Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/a-science-journalist-sent/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.312Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/a-rather-depressing-snapshot/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.405Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/a-love-song-to-cuba/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.400Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/a-flash-bulb-illumination-of/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.380Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/a-characteristic-summary-of/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.291Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/a-bad-time-link/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.286Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/about.html</loc>
+    <lastmod>2026-08-18T05:37:34.475Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/index.html</loc>
+    <lastmod>2026-08-18T05:37:28.847Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/a-bad-time/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.502Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/a-confused-crowd-shouting/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.314Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/a-hint-as-to/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.295Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/a-poem-by-ivor/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.318Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/a-reflection-on-the/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.300Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/a-study-comparing-standard/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.435Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/academic-statistics-may-have/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.406Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/after-data-science/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.466Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/alex-lovell-s-girlfriend/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.449Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/an-occasional-cure-for/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.379Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/analysis-of-stackoverflow-views/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.430Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/apparently-a-gender-reveal/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.421Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/arrogance-and-inexperience/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.469Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/at-the-theory-lunch/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.384Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/authors-should-submit-their/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.345Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/barbarism/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.471Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/better-educated-more-irrational/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.473Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/big-data-and-not/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.414Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/blog-post-with-some/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.269Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/bundle-it-up-and/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.415Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/calm-capable-women/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.475Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/change-programming/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.477Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/chomsky-on-class-war/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.479Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/code-is-for-people/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.480Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/computer-scientists-are-no-more-likely-to-use-best-practice-for-software-development/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.481Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/corrupt-all-the-way-down/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.483Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/covid-and-cronies/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.484Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/data-engineering/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.429Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/data-science-tools-over-time/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.486Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/data-scientist-wanted-must/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.446Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/desire-to-punish/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.488Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/die-frau-mit-dem-fagott/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.489Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/dijkstra-was-not-impressed/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.334Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/disapproval-of-heart/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.491Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/do-nt-expect-too/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.290Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/drearification/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.492Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/education-of-the-heart/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.494Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/elsevier-journals-some-facts/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.319Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/eminent-teachers-of-statistics/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.426Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/every-error-is-a/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.378Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/excellent-10-minute-argument/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.422Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/excellent-quote-from-the/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.288Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/fast-forward-tracking-branch/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.281Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/forensics-on-a-paper/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.269Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/frederick-herzberg-points-out/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.321Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/going-at-it-blind/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.499Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/gothic-mask/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.501Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/hatred-in-america/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.406Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/here-is-a-picture/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.353Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/honest-and-later-on/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.302Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/how-much-do-scientists/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.392Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/how-should-we-teach-link/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.388Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/i-am-reading-a/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.432Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/i-believe-these-lines/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.363Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/i-do-it/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.503Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/i-found-that-i/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.382Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/i-gave-desperate-warnings/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.294Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/i-got-sick-so/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.401Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/i-had-previously-noticed/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.427Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/i-have-found-it/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.403Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/i-hope-you-will/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.391Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/i-just-watched-an/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.424Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/i-need-to-use/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.277Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/i-propose-this-as/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.440Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/i-realized-that-i/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.272Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/i-ve-been-reflecting/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.456Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/i-was-reading-about/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.344Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/i-wrote-a-blog-link/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.370Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/i-wrote-up-the/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.436Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/in-1965-tukey-predicted/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.407Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/in-his-famous-essay/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.437Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/in-the-years-between/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.386Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/inauguration-day/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.398Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/interested-in-politics-study-mathematics/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.506Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/isms-and-ai/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.509Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/james-shaw-jr-on/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.455Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/jon-stewart-on-bullshit/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.362Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/joys-of-craft/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.512Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/just-a-humble-question/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.441Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/kratopistia/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.513Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/language-hygiene-initiative/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.514Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/laws-protect-police-from-their-own-interrogation/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.515Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/learning-outcomes-encapsulate-a/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.448Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/lecturers-used-to-value-teaching/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.517Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/living-in-the-danger/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.335Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/lose-total-control/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.519Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/love-letter/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.521Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/makes-sense/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.522Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/marginal-benefit/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.523Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/matthew-brett-hung-out/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.284Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/melting-core/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.530Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/message-in-banner-at/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.283Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/mosteller-and-muddy/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.528Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/my-niece-is-so/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.279Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/nhs-snapshot/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.528Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/nissan-knows-what-you-did-last-summer/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.529Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/noam-chomsky-on-the/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.444Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/not-godly/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.533Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/nothing-is-easy-but-failure/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.534Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/on-getting-basics-right/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.390Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/on-too-simple-solutions/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.537Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/one-reason-that-people/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.337Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/parkinsons-law/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.538Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/paying-people-for-work/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.297Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/please-sign-this/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.345Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/popularity-of-python-and-matlab/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.541Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/psychiatry-psychology-papers-support/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.338Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/python-has-become-the/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.447Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/python-matlab-r-julia/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.544Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/python-overtook-r-in/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.438Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/python-script-installation/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.282Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/quoting-from-page-32/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.309Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/researchers-are-surprisingly-likely/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.371Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/righteous-disobedient-stubborn-and-firm/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.549Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/saw-that-everywhere/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.550Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/science-by-volume-science/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.448Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/shoes-in-my-soul/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.551Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/smetative/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.417Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/some-more-vivid-phrasing/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.290Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/sourceforge-went-down-heavily/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.356Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/spiritual-damage/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.553Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/stefan-van-der-walt/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.372Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/suggestive-evidence-that-women/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.342Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/surgisphere-machine-learning/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.553Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/teaching-simple/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.555Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/terry-speed-remembering-george/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.395Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/the-bbc-bowed-to/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.355Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/the-derisive-local-nickname/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.434Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/the-dunning-kuger-effect-is/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.453Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/the-enjoyment-of-one/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.332Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/the-founder-that-julie/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.326Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/the-growth-of-julia/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.439Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/the-language-hygiene-initiative/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.459Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/the-mysterious-belief-that/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.292Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/the-page-tells-the/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.298Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/the-plain-persons-guide-to-plain-text-social-science/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.558Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/the-stackoverflow-developer-survey/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.450Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/the-work-on-satisfactory/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.350Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/then-the-question-what/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.277Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/they-hate-us-for-our-freedom/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.559Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/thinking-of-the-depressing/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.299Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/this-experience-has-taught/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.301Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/this-is-a-continuous/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.275Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/this-is-more-of/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.397Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/thus-structurelessness-becomes-a/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.373Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/to-be-an-individual/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.561Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/training-data-scientists-is/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.427Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/uc-berkeley-student-questioned/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.383Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/universities-and-truth/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.562Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/us-department-of-defense/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.329Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/wasting-money-on-mapping/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.416Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/we-know-now-that/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.452Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/we-urge-future-researchers/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.313Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/what-is-critical-race-theory/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.565Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/where-do-we-disagree/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.566Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/who-do-the-work/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.567Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/who-knew/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.461Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/whos-reading/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.571Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/why-many-scientists-think/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.293Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/win-election-hammer-disinformation/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.573Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/world-divided/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.573Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/xfree-forked/index.html</loc>
+    <lastmod>2026-08-18T05:38:21.577Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/hows-julia-2020/index.html</loc>
+    <lastmod>2026-08-18T05:40:17.006Z</lastmod>
+  </url>
+  <url>
+    <loc>https://asterisk.dynevor.org/posts/hows-julia/index.html</loc>
+    <lastmod>2026-08-18T05:40:17.002Z</lastmod>
+  </url>
 </urlset>

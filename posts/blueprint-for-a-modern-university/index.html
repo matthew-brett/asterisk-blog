@@ -1,0 +1,700 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-99.9.9">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Matthew Brett">
+<meta name="dcterms.date" content="2019-06-20">
+
+<title>Blueprint for a modern university – Asterisk</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
+
+
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<link href="../../favicon.png" rel="icon" type="image/png">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-494121dfa8658343c03537e94414993d.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-7042db0c46528fd9fa9f9eface6cb98d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+
+<link rel="stylesheet" href="../../styles.css">
+</head>
+
+<body class="nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="../../index.html">
+    <span class="navbar-title">Asterisk</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../index.html"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../about.html"> 
+<span class="menu-text">About</span></a>
+  </li>  
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item compact">
+    <a class="nav-link" href="../../index.xml"> <i class="bi bi-rss" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#code-as-the-basis-for-data-analysis" id="toc-code-as-the-basis-for-data-analysis" class="nav-link active" data-scroll-target="#code-as-the-basis-for-data-analysis">Code as the basis for data analysis</a></li>
+  <li><a href="#disciplined-working-process-as-the-basis-for-collaboration" id="toc-disciplined-working-process-as-the-basis-for-collaboration" class="nav-link" data-scroll-target="#disciplined-working-process-as-the-basis-for-collaboration">Disciplined working process as the basis for collaboration</a></li>
+  <li><a href="#blueprint-for-a-modern-university" id="toc-blueprint-for-a-modern-university" class="nav-link" data-scroll-target="#blueprint-for-a-modern-university">Blueprint for a modern university</a></li>
+  <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references">References</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Blueprint for a modern university</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">teaching</div>
+  </div>
+  </div>
+
+
+
+<div class="quarto-title-meta">
+
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Matthew Brett </p>
+          </div>
+  </div>
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">June 20, 2019</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<p>A colleague pointed me to a job advert to teach at a new university in London: the <a href="https://www.londoninterdisciplinaryschool.org">London Interdisciplinary School</a>.</p>
+<p>I was excited to see this was happening, because a new university may well be the best way to make the change we need in science and education.</p>
+<p>The fundamental change we need is to <em>take computing seriously</em>.</p>
+<p>Taking computing seriously implies two things:</p>
+<ul>
+<li><em>Code as the basis for data analysis</em></li>
+<li><em>Disciplined working process as the basis for collaboration</em>.</li>
+</ul>
+<p>If you don’t like reading long blog posts, skip to the blueprint at the end; you may want to come back here for the background.</p>
+<p>I have discussed these changes before in <a href="https://matthew.dynevor.org/manifesto.html">Research methods in the twenty-first century</a>.</p>
+<section id="code-as-the-basis-for-data-analysis" class="level2">
+<h2 class="anchored" data-anchor-id="code-as-the-basis-for-data-analysis">Code as the basis for data analysis</h2>
+<p>This is the true and fruitful meaning of the term <em>data science</em> (see <a href="https://matthew-brett.github.io/dsfe/chapters/01/what-is-data-science">What is data science?</a>).</p>
+<p>The insight has been most accurately captured by the data science teaching initiatives at Berkeley – see <a href="https://data.berkeley.edu/education" class="uri">https://data.berkeley.edu/education</a>. Berkeley runs a foundation course in data science, called <a href="https://data.berkeley.edu/education/courses/data-8">data8</a>. Quoting from that page:</p>
+<blockquote class="blockquote">
+<p>The course is designed for entry-level students from any major. It is designed specifically for students who have not previously taken statistics or computer science courses.</p>
+</blockquote>
+<p>The course teaches programming (in Python) as the fundamental tool for analyzing data. It spends a lot of time thinking about plotting, and about the nature of inference. Because it uses a programming language, it can and does replace all classical statistical tests, such as t-tests, with equivalents that use resampling. When the student knows some code, resampling is much easier to explain than the classical statistical tests <span class="citation" data-cites="cobb2007introductory">(<a href="#ref-cobb2007introductory" role="doc-biblioref">Cobb 2007</a>)</span>; the students can write the procedures for themselves, and fully understand all the steps, including the inference at the end.</p>
+<p>The Berkeley course does not cover “big data”, and that’s the right thing to do. “Big data” is something you learn about when you have a firm foundation in small data.</p>
+<p>It does cover some machine learning and prediction, and does it very well, but at the end, as another set of techniques for using data to draw conclusions about the world. This is right too. No student should start using machine learning without a good basic understanding of data analysis, sampling and inference.</p>
+<p>Berkeley uses this course as a foundation on which to build a whole new approach to teaching. They have many <a href="https://data.berkeley.edu/education/connectors">connector courses</a> that use the same tools and techniques as the foundation course, but apply them to areas such as law, statistics, computer science, psychology and geography.</p>
+<p>This is right too; we should teach with data. We should engage students at once with the problem of real data, and the difficulties of drawing conclusions. They should think about the ambiguities in data and the conclusions we draw. They should learn to check all conclusions by the instructor, or in a scientific paper, against the data. They should constantly ask “Is that true? Under what circumstances is it true? How sure am I, that it is true? How would I get more evidence to support or refute this conclusion”.</p>
+</section>
+<section id="disciplined-working-process-as-the-basis-for-collaboration" class="level2">
+<h2 class="anchored" data-anchor-id="disciplined-working-process-as-the-basis-for-collaboration">Disciplined working process as the basis for collaboration</h2>
+<p>Working in collaboration on data analysis and other scientific projects is very difficult, and we currently do that very badly. We need to teach our students to start with sound, efficient practice, and keep teaching them with this same practice, so it becomes natural for them to use it for all new problems.</p>
+<p>Science as currently practiced, and taught, uses what I would call an <em>artisan</em> working process, or at least, that is the polite name for it. A less polite description might be <em>sloppy, informal and inefficient</em>. Our current model is that of the skilled craftsman, from before the industrial revolution. The craft is so specialized, variable and arcane, that the only way to learn is for the student to copy the techniques they see during their apprenticeship. In science, the apprenticeship is working as a graduate student or post-doc. Scientists mostly work alone. The large proportion of scientists who use a significant amount of computing, have disorganized, informal working practice, passing around scripts and Word documents via email or via shared drives. It is very hard to share work, because each researcher has their own habits of analysis, coding, and data organization. There is very little chance that the work will be reproducible, even by the same researcher, after a few weeks, and little chance that a mentor will be able to check the work for error.</p>
+<p>This model is, of course, monstrously inefficient, confusing, and error prone. It makes collaboration very difficult. It is easy to underestimate the tendency of computers to confuse and distract.</p>
+<p>Meanwhile, programmers in industry have found these same problems, and they learned quickly that they couldn’t do efficient work that way. When they tried, the result was bad software, poor collaboration and inefficient production. They lost money.</p>
+<p>In response, programmers have been thinking very hard about how to work and collaborate efficiently. They found they needed:</p>
+<ul>
+<li>code testing</li>
+<li>version control</li>
+<li>continuous testing, with tests run for each code change</li>
+<li>code review</li>
+<li>issue tracking</li>
+<li>pair coding</li>
+</ul>
+<p>Although these techniques evolved for writing commercial software, they apply with the same force of necessity to the process of writing scientific software. They also turn out to be revolutionary in improving the process of building data analyses in a team. To those of us who have experienced these techniques for doing scientific projects, returning to the old email and track changes process feels like a return to the dark ages, as if we had been forced to use a typewriter instead of a word processor. The new techniques are much more effective in increasing clarity, reducing error and improving discussion. I estimate they give a ten-fold increase in efficiency for projects involving more than one person, and a three-fold increase for someone working on their own.</p>
+<p>Using these techniques is not advanced, it is where the students should start. We have taught these techniques to statistics and other undergraduates, in Berkeley <span class="citation" data-cites="millman2018rcsds">(<a href="#ref-millman2018rcsds" role="doc-biblioref">Millman et al. 2018</a>)</span>. Our course started with the basics of Python programming, then introduced the techniques they would need for working together, such as version control, and testing. We gave them a big, difficult, open-ended group project to do. It had to be reproducible, so we, their graders, could take their project repository (hosted on <a href="https://github.com">Github</a>), and follow their instructions, in a <code>README</code> file, to reproduce all of their analysis, and build their final report, including the figures. If you read the paper, I hope you will agree, that they did this with great success.</p>
+</section>
+<section id="blueprint-for-a-modern-university" class="level2">
+<h2 class="anchored" data-anchor-id="blueprint-for-a-modern-university">Blueprint for a modern university</h2>
+<p>I now imagine I can design a whole new set of courses, from the ground up, to give the students the best possible foundation for modern scientific work.</p>
+<ul>
+<li>The students start with something like the <a href="https://data.berkeley.edu/education/courses/data-8">Berkeley foundations of data science course</a>. They learn basic programming, in Python. They learn to get data from real data sources and explore it with plots and tables. They learn what models are, what inference means, and how to make models and inferences with simulation and permutation. They learn the bootstrap for estimation, and they get an introduction to regression, and basic machine learning. They do a substantial open-ended project using these tools at the end. They will learn in easy-start tools like the <a href="https://jupyter.org">Jupyter Notebook</a>.</li>
+<li>The students will specialize too. They specialize using the same teaching methods as the data science foundation. If they are learning about the epidemiology of malaria, they get epidemiological data and do basic analysis. They get clinical trial data and draw conclusions. They learn how to put data on maps, and visualize malaria incidence.</li>
+<li>Their courses give them a deep foundation of understanding. For example, when comparing the effect of two treatments for malaria, they know how formulate the null model (there is no effect of the treatment), and how to implement this model (by pooling the two treatment groups, permuting, and selecting random samples as a proxy for the original treatment groups). They know what it means to think of something as random, and where the randomness appears in their model. They can use random numbers and permutation to design new models to test new hypotheses.</li>
+<li>The deep foundation gives them deep skepticism. They know what it is to understand something in depth, and they know the dangers of superficial understanding, and following recipes. When they learn something new, they learn it in depth, as they have learned in their courses. They test their understanding, by building in code.</li>
+<li>In the first or second year, they move on to techniques for collaboration. Instead of Jupyter Notebooks, they start using more efficient tools like text editors and the terminal. They learn version control, and pull requests, and code review. They learn to formalize problems in issues, and respond to problems with code changes, or by finding new data for analysis. They learn to criticize each others’ work constructively, and to teach new team members. They learn how to deal with standard problems in the team, such as overconfident team members, or members who are not doing their share of work. Now they are in a good position to start collaborations with industry and academia.</li>
+<li>As the students gain experience, they gain independence. They learn to start quickly, using standard tools. They begin to contribute to open-source, to support their analysis, and for their education, in group work, and in coding.</li>
+</ul>
+<p>All this is a big departure from our current model of teaching, but I don’t think any university will have a choice but to change in the coming decade. These ways of learning and working are so much more efficient than the techniques we are using now, that students who do not learn them, will be at a great disadvantage. But that is not the only issue; we need to prepare our students for a changing world. We are entering a new age, in which complex data analysis will have an increasing influence on our lives and our scientific understanding. If we want to teach students to be effective and skeptical, we can’t afford to use the old methods; we just don’t have time to bolt computing and algorithms on top of our current courses. We must start with computing and algorithms, to teach students to build and to understand. Then they will have the tools to engage with confidence and vigor with the beasts of the new age.</p>
+</section>
+<section id="references" class="level2">
+
+
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" role="list">
+<div id="ref-cobb2007introductory" class="csl-entry" role="listitem">
+Cobb, George W. 2007. <span>“The Introductory Statistics Course: A Ptolemaic Curriculum?”</span> <em>Technology Innovations in Statistics Education</em> 1 (1). <a href="https://escholarship.org/uc/item/6hb3k0nz">https://escholarship.org/uc/item/6hb3k0nz</a>.
+</div>
+<div id="ref-millman2018rcsds" class="csl-entry" role="listitem">
+Millman, K. Jarrod, Matthew Brett, Ross Barnowski, and Jean-Baptiste Poline. 2018. <span>“<span>T</span>eaching Computational Reproducibility for Neuroimaging.”</span> <em>Frontiers in Neuroscience</em>.
+</div>
+</div></section></div></main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const onCopySuccess = function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
+  });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("https:\/\/asterisk\.dynevor\.org");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+          // target, if specified
+          link.setAttribute("target", "_blank");
+          if (link.getAttribute("rel") === null) {
+            link.setAttribute("rel", "noopener");
+          }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+      &nbsp;
+    </div>   
+    <div class="nav-footer-center">
+<p>Matthew Brett · <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></p>
+</div>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
+  </div>
+</footer>
+
+
+
+
+</body></html>
