@@ -77,7 +77,7 @@ of the Gospel and letters.  He would have had good reason to know who had
 written the Gospel and letters, because he had been a disciple of
 [Polycarp](https://en.wikipedia.org/wiki/Polycarp) (c69 AD - c155 AD), who had
 in turn been taught by a John who had seen Jesus.  Irenaeus writes, in his
-letter to Florinus (see below):
+[letter to Florinus](@sec-florinus):
 
 > I can even describe the place where the blessed Polycarp used to sit and
 discourse — his going out, too, and his coming in — his general mode of life
@@ -2317,7 +2317,7 @@ this fragment to Diodorus or some other writer.
 "g", the last listed fragment, which must be the "the last fragment from the
 Armenian" referred to above.)
 
-### Letter to Florinus (John, apostle)
+### Letter to Florinus (John, apostle) {#sec-florinus}
 
 From Roberts (@anf01), above, p568 (Roberts, Keble fragment #II, likely
 genuine). Notes from Roberts):
