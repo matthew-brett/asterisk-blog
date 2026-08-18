@@ -28,8 +28,11 @@ builds unless the notebook source changed.
 
 ```bash
 make html       # full quarto render -> _site/
-make github     # full render, then publish to gh-pages (--no-render)
+make github     # full render, then publish to gh-pages
 ```
+
+Pushes to `main` also deploy via GitHub Actions (`.github/workflows/publish.yml`).
+You can trigger a deploy manually from the Actions tab (“Render and Publish”).
 
 ## Content
 
