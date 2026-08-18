@@ -1,0 +1,49 @@
+---
+title: Fascinating speculations
+aliases:
+- /fascinating-speculations.html
+date: 2026-08-13 10:13
+categories:
+- NT criticism
+bibliography:
+- ../../bible.bib
+---
+
+[J\. B\. Lightfoot](https://en.wikipedia.org/wiki/J._B._Lightfoot) was a great
+19th century scholar of the early church; he is still widely cited. 
+
+The quote below is at the end of an essay on [Polycarp of
+Smyrna](https://en.wikipedia.org/wiki/Polycarp) that he wrote in response to
+the then-anonymous author of the book [Supernatural
+Religion](https://en.wikipedia.org/wiki/Walter_Richard_Cassels) (1874).  In
+this, and other essays responding to the book, collected in
+@lightfoot1889supernatural, he is clearly frustrated by what he regards (with
+much supporting evidence) as the writer's sloppy, incompetent and partisan
+analysis of the early church writers.  His essay on Polycarp ends (p141) by
+acknowledging his debts to the critical German theologians of his day, but
+appealing to his readers "to exercise their judicial faculties independently"
+in order to see past "fascinating speculations" to understand the "historical
+position in all its bearings" of the early church writers:
+
+> But I would wish to add one caution. No good will ever come from merely
+working on the lines of modern theorists. Perhaps the reader will forgive me if
+I add a few words of explanation, for I do not wish to be misunderstood.
+I should be most ungrateful if, in speaking of German writers, I used the
+language of mere depreciation. If there is any recent theologian from whom
+I have learnt more than from another, it is the German Neander. Nor can I limit
+my obligations to men of this stamp. All diligent students of early Christian
+history must have derived the greatest advantage on special points from the
+conscientious research, and frequently also from the acute analysis, even of
+writers of the most extreme school. But it is high time that the incubus of
+fascinating speculations should be shaken off, and that Englishmen should learn
+to exercise their judicial faculty independently. Any one who will take the
+pains to read Irenaeus through carefully, endeavouring to enter into his
+historical position in all its bearings, striving to realize what he and his
+contemporaries actually thought about the writings of the New Testament and
+what grounds they had for thinking it, and, above all, resisting the temptation
+to read in modern theories between the lines, will be in a more favourable
+position for judging rightly of the early history of the Canon than if he had
+studied all the monographs which have issued from the German press during the
+last half century.
+
+## References

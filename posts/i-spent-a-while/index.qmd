@@ -1,0 +1,17 @@
+---
+title: I spent a while trying to understand the detail of "Why most published research
+  findings are false" by John PA Ioannidis
+aliases:
+- /i-spent-a-while.html
+date: 2013-11-08 08:36
+categories:
+- G+ archive
+---
+
+I spent a while trying to understand the detail of \"Why most published
+research findings are false\" by John PA Ioannidis:\
+\
+<http://nbviewer.ipython.org/urls/raw.github.com/matthew-brett/sketch-books/g+ioannidis/ioannidis_2005.ipynb>
+
+
+The Google+ URL for this post was `https://plus.google.com/+MatthewBrett/posts/9Bvf3SWWFmk`

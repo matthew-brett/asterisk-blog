@@ -1,0 +1,4 @@
+# Shared options for all posts
+format:
+  html:
+    toc: true

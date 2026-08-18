@@ -1,0 +1,17 @@
+---
+title: This blog post argues that BSD licenses make it more likely that projects will
+  lose developers when they get hired by companies
+aliases:
+- /this-blog-post-argues.html
+date: 2014-06-08 18:23
+categories:
+- G+ archive
+---
+
+This blog post argues that BSD licenses make it more likely that
+projects will lose developers when they get hired by companies:\
+\
+<http://www.dwheeler.com/blog/2006/09/01/#gpl-bsd>
+
+
+The Google+ URL for this post was `https://plus.google.com/+MatthewBrett/posts/bUWnM5r7rLH`

@@ -1,0 +1,13 @@
+---
+title: Why I'm Learning Python in 2018
+aliases:
+- /why-i-m-learning.html
+date: 2018-01-13 11:37
+categories:
+- G+ archive
+---
+
+<http://news.codecademy.com/why-learn-python/>
+
+
+The Google+ URL for this post was `https://plus.google.com/+MatthewBrett/posts/Yps4DbKgD6s`

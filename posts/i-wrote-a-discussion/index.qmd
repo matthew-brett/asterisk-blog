@@ -1,0 +1,17 @@
+---
+title: I wrote a discussion of culture on the numpy mailing list
+aliases:
+- /i-wrote-a-discussion.html
+date: 2012-02-20 23:20
+categories:
+- G+ archive
+---
+
+I wrote a discussion of culture on the numpy mailing list:
+<http://nipyworld.blogspot.com/2012/02/numpy-culture.html>\
+\
+- and meritocracy in open source culture:
+<http://nipyworld.blogspot.com/2012/02/what-is-meritocracy-in-open-source.html>
+
+
+The Google+ URL for this post was `https://plus.google.com/+MatthewBrett/posts/JPPUr1ZVzpk`

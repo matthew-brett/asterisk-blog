@@ -1,0 +1,17 @@
+---
+title: Thomas Caswell just mentioned this article in a post to the matplotlib mailing
+  list
+aliases:
+- /thomas-caswell-just-mentioned.html
+date: 2015-02-04 22:08
+categories:
+- G+ archive
+---
+
+Thomas Caswell just mentioned this article in a post to the matplotlib
+mailing list:\
+\
+<http://www.nature.com/news/programming-pick-up-python-1.16833>
+
+
+The Google+ URL for this post was `https://plus.google.com/+MatthewBrett/posts/9pFT8PWg3zL`

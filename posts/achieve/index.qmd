@@ -1,0 +1,24 @@
+---
+title: Achieve!
+aliases:
+- /achieve.html
+date: 2023-05-01 14:53
+categories:
+- organizations
+---
+
+As I walked home from my job as a lecturer in Birmingham University, I often
+noticed this banner on the fences of the all-surface sports pitches:
+
+![Discover. Develop. Achieve.](/images/discover_develop_achieve.jpg)
+
+I remember recoiling each time I saw it, and thinking, consciously: "That's
+a bit fascist".
+
+A little later, I watched the Amazon Prime series "The Man in the High Castle".
+It imagines a world in which the Nazis and the Japanese have won the war, and
+have occupied the United States.  Almost exactly half way through the first
+episode of the first season, one of the characters is driving a truck across
+the Nazi-occupied Midwest. As the camera follows the truck, it pans across this poster:
+
+![Achieve!](/images/achieve.jpg)

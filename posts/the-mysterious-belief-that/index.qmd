@@ -1,0 +1,17 @@
+---
+title: The mysterious belief that we don't make many mistakes in scientific computer
+  programs
+aliases:
+- /the-mysterious-belief-that.html
+date: 2013-05-23 22:22
+categories:
+- G+ archive
+---
+
+The mysterious belief that we don\'t make many mistakes in scientific
+computer programs:\
+\
+<http://blog.nipy.org/ubiquity-of-error.html>
+
+
+The Google+ URL for this post was `https://plus.google.com/+MatthewBrett/posts/4RVrW61HJrv`

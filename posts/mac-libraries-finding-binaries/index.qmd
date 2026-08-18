@@ -1,0 +1,17 @@
+---
+title: Mac binaries find their libraries at run-time
+aliases:
+- /mac-libraries-finding-binaries.html
+date: 2014-02-27 04:27
+categories:
+- G+ archive
+---
+
+I wrote a tutorial on how Mac binaries find their libraries at
+run-time:\
+\
+<http://matthew-brett.github.io/pydagogue/mac_runtime_link.html>
+
+
+
+The Google+ URL for this post was `https://plus.google.com/+MatthewBrett/posts/jkZynkcRDtP`

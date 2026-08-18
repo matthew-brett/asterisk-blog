@@ -1,0 +1,17 @@
+---
+title: How Python installs scripts on Windows and Unix.
+aliases:
+- /python-script-installation.html
+date: 2013-02-01 04:13
+categories:
+- G+ archive
+---
+
+I wrote a tutorial on how Python installs scripts on Windows and Unix.
+ I think I found a better way to do it.\
+\
+<http://matthew-brett.github.com/pydagogue/installing_scripts.html>
+
+
+
+The Google+ URL for this post was `https://plus.google.com/+MatthewBrett/posts/ET1aJF7HaRw`

@@ -1,20 +1,3 @@
-pelican[markdown]
-cssmin
-jupyter
-nbconvert
-jinja2
-jupyter_contrib_nbextensions
-webassets
-pytz
-# https://github.com/jupyter/notebook/issues/4436#issuecomment-2591585054
-notebook<7
-# For pelican-pandoc-reader
-pypandoc
-# Tools for making new posts
--e ./pelitools
-# For notebooks
-pandas
-matplotlib
-jupytext
-# Github upload
-ghp_import
+# Quarto / Jupyter helpers for notebook posts (optional)
+jupytext>=1.14
+pyyaml>=6

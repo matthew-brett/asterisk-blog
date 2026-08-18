@@ -1,0 +1,9 @@
+---
+title: Irrational universities
+aliases:
+- /irrational-universities.html
+date: 2022-08-08 10:47
+draft: true
+---
+
+

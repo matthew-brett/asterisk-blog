@@ -1,0 +1,17 @@
+---
+title: I realized that I was still confused about floating point error, and I found
+  it hard to understand the explanations I could easily find, so I wrote my own
+aliases:
+- /i-realized-that-i.html
+date: 2012-04-23 16:51
+categories:
+- G+ archive
+---
+
+I realized that I was still confused about floating point error, and I
+found it hard to understand the explanations I could easily find, so I
+wrote my own:
+<http://matthew-brett.github.com/pydagogue/floating_error.html>
+
+
+The Google+ URL for this post was `https://plus.google.com/+MatthewBrett/posts/drWL3vDMPqm`

@@ -1,0 +1,14 @@
+---
+title: "About"
+---
+
+* [Personal pages](http://matthew.dynevor.org)
+* The [Nipy community](http://nipy.org)
+* [My GitHub profile](https://github.com/matthew-brett)
+
+You are welcome to re-use content from this blog under the [CC by 4.0
+international license](http://creativecommons.org/licenses/by/4.0)
+
+I don't use X, Bluesky, LinkedIn, Facebook or Instagram.
+
+My email address is `matthew.brett` on Gmail.

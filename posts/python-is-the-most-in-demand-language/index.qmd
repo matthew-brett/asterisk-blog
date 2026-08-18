@@ -1,0 +1,14 @@
+---
+title: Python is the primary language for data scientists
+aliases:
+- /python-is-the-most-in-demand-language.html
+date: 2019-06-07 15:40
+---
+
+See: [this analysis of data science job
+listings](https://towardsdatascience.com/the-most-in-demand-skills-for-data-scientists-4a4a8db896db):
+
+> Python is the most in-demand language. The popularity of this open-source
+> language has been widely observed. It’s beginner friendly, with many support
+> resources. The vast majority of new data science tools are compatible with
+> it. Python is the primary language for data scientists.

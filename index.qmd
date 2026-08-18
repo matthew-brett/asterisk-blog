@@ -1,0 +1,15 @@
+---
+title: "Asterisk"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  feed: true
+page-layout: full
+title-block-banner: false
+---
+
+Writings by Matthew Brett.

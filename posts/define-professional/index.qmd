@@ -1,0 +1,12 @@
+---
+title: Define Professional
+aliases:
+- /define-professional.html
+date: 2021-09-11 18:28
+---
+
+*Professional*
+: A person or state characterized by a lack of charm, imagination, and
+independence.
+
+Also see [Not Professional](/posts/not-professional/).

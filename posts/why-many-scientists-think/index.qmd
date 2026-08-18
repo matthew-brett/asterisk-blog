@@ -1,0 +1,16 @@
+---
+title: Why many scientists think reproducible science is desirable but not necessary
+aliases:
+- /why-many-scientists-think.html
+date: 2013-05-23 22:22
+categories:
+- G+ archive
+---
+
+Why many scientists think reproducible science is desirable but not
+necessary.\
+\
+<http://blog.nipy.org/unscientific-programming.html>
+
+
+The Google+ URL for this post was `https://plus.google.com/+MatthewBrett/posts/ZNUwierMe5z`

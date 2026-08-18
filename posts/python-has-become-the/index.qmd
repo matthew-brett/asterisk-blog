@@ -1,0 +1,17 @@
+---
+title: Python has become the most popular language for teaching introductory courses
+  in computer science
+aliases:
+- /python-has-become-the.html
+date: 2018-02-23 09:34
+categories:
+- G+ archive
+---
+
+Python has become the most popular language for teaching introductory
+courses in computer science.\
+\
+<https://cacm.acm.org/blogs/blog-cacm/176450-python-is-now-the-most-popular-introductory-teaching-language-at-top-u-s-universities/fulltext>
+
+
+The Google+ URL for this post was `https://plus.google.com/+MatthewBrett/posts/c6HbtejibPz`

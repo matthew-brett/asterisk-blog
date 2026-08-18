@@ -1,0 +1,16 @@
+---
+title: I wrote a blog post about "makes-sense epistemology
+aliases:
+- /i-wrote-a-blog-link.html
+date: 2016-01-15 21:29
+categories:
+- G+ archive
+---
+
+I wrote a blog post about \"makes-sense epistemology\":\
+\
+<http://asterisk.dynevor.org/makes-sense.html>
+
+
+
+The Google+ URL for this post was `https://plus.google.com/+MatthewBrett/posts/jPHws66q5cn`

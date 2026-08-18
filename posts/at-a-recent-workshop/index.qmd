@@ -1,0 +1,20 @@
+---
+title: Shotguns to toddlers
+aliases:
+- /at-a-recent-workshop.html
+date: 2017-05-24 19:41
+categories:
+- G+ archive
+---
+
+\"At a recent workshop on mixed-effects models, a prominent
+psycholinguist \[G. T. M. Altmann\] memorably quipped that encouraging
+psycholinguists to use linear mixed-effects models was like giving
+shotguns to toddlers\".\
+\
+Barr *et al* (2013) \"Random effects structure for confirmatory
+hypothesis testing: Keep it maximal\" Journal of Memory and Language 68,
+255--278. <http://idiom.ucsd.edu/~rlevy/papers/barr-etal-2013-jml.pdf>
+
+
+The Google+ URL for this post was `https://plus.google.com/+MatthewBrett/posts/DmbV4YhTFH7`

@@ -1,0 +1,19 @@
+---
+title: Analysis of StackOverflow views shows that interest in Python is growing fast,
+  and at an increasing rate.
+aliases:
+- /analysis-of-stackoverflow-views.html
+date: 2017-09-08 13:15
+categories:
+- G+ archive
+---
+
+Analysis of StackOverflow views shows that interest in Python is growing
+fast, and at an increasing rate. It is one of the fastest growing
+languages on StackOverflow, and of the languages with a large share of
+views, is the fastest growing, by a considerable margin:\
+\
+<https://stackoverflow.blog/2017/09/06/incredible-growth-python/>
+
+
+The Google+ URL for this post was `https://plus.google.com/+MatthewBrett/posts/YVBHPuxLjth`

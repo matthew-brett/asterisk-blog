@@ -1,0 +1,798 @@
+---
+title: Eusebius, Papias, Polycrates, Alexander
+aliases:
+- /eusebius-papias.html
+date: 2026-08-12 15:00
+categories:
+- NT criticism
+draft: true
+bibliography:
+- ../../bible.bib
+---
+
+[Eusebius of Caesarea](https://en.wikipedia.org/wiki/Eusebius)(c260-339) wrote,
+among other works, a history of the church until that point, usually called the
+[Ecclesiastical
+History](https://en.wikipedia.org/wiki/Ecclesiastical_History_(Eusebius)) (EH)
+— [316-326 AD](https://www.bartehrman.com/eusebius-church-history/).
+
+See @lightfoot1880eusebius for detail on Eusebius' life and work.
+
+## Eusebius as source for earlier writers
+
+Eusebius is the only source we have for some quotes from earlier writers that
+give information about the origin of the Gospels.
+
+The sources for these quotes are:
+
+* Papias of Hierapolis (a set of books around 110 AD).
+* Polycrates of Ephesus (letter 190-195 AD).
+* Clement of Alexandria (book 204-210 AD).
+* Origen, Commentaries (?220 - 240 AD)
+* Justin Martyr, [Dialogue with
+  Trypho](https://en.wikipedia.org/wiki/Dialogue_with_Trypho) (155-160 AD)
+*  Apollonius of Ephesus (writing around 200 AD)
+* [Dionysius of
+  Alexandria](https://en.wikipedia.org/wiki/Dionysius_of_Alexandria) (c190
+  — 264)
+* Appolonius of Ephesus (c 210)
+
+### Papias
+
+EH quotes from the very early five books of [Papias of
+Hierapolis](https://en.wikipedia.org/wiki/Papias_of_Hierapolis) called
+"Exposition of the Sayings of the Lord"; call this ESL.
+@carlson2025foucault_papias estimates the date of ESL as 110 AD (footnote 48).
+Papias lived in Hierapolis, which is about 200 km from Ephesus, the city in
+which John's Gospel is most likely to have been written, and about 220 km from
+Smyrna, the home of Polycarp and the younger Irenaeus.
+
+@lightfoot1889supernatural has a chapter on Papias, starting at page 142.  He
+sets out the striking lack of good information we have for definite dates of
+Papias' life, or ESL.
+
+Although Eusebius quotes from ESL, it is not clear that Eusebius had access to
+any of Papias' five books — he may have been quoting from a secondary source
+— see @stevens2019eusebius_papias.
+
+### Polycrates of Ephesus
+
+EH has an extended quote from
+[Polycrates'](https://en.wikipedia.org/wiki/Polycrates_of_Ephesus) letter to
+[Pope Victor](https://en.wikipedia.org/wiki/Pope_Victor_I) about the
+controversy on the correct day of the year to celebrate Easter.
+
+Virtually all we know about Polycrates is in the letter quoted in EH; from
+@lightfoot1889fathers2_part2_1, p393:
+
+> The notices in Irenaeus are further confirmed by the language of his
+contemporary Polycrates. Polycrates was himself bishop of Ephesus, and the
+letter of which fragments are preserved (Euseb. H. E. v. 24) was written by
+him to Victor bishop of Rome, consequently between the years A.D. 189 and a.p.
+198 or 199. He there mentions his ‘hoar head’ (πολιᾶς) and speaks of himself
+as ‘numbering sixty-five years in the Lord’ (ἑξήκοντα πέντε ἔτη ἔχων ἐν
+Κυρίῳ). Even if this period dates from his birth and not from his conversion,
+he must have been born within about a quarter of a century after the death of
+the last surviving Apostle [John], who passed his later years in the Church of
+Ephesus where Polycrates ruled.
+
+### Clement of Alexandria
+
+[Clement of Alexandria](https://en.wikipedia.org/wiki/Clement_of_Alexandria)
+may have been born in Athens, or in Alexandria, in 140-150 AD
+[@mehat1966stromates, p54].  See Wescott's [-@wescott1877clement_alex] biography for more background.
+
+EH quotes from two of Clement's books:
+
+* "Who is the rich man who is being saved?" and
+* "Hypotyposes", also known as (with a different transliteration from Greek)
+  "Hypotyposeis".
+
+Méhat (above), dates both works after the third of Clement's major works — the
+[Stromata](https://en.wikipedia.org/wiki/Stromata) — where he (and Wikipedia)
+date the Stromata around 203 AD.
+
+### Origen of Alexandria
+
+[Origen](https://en.wikipedia.org/wiki/Origen), (c. 185 – c. 253)
+
+* Commentary on the Gospel of John
+* Commentary on Genesis
+
+### Apollonius of Ephesus
+
+From @wace1911dictionary, p35:
+
+> Apollonius of Ephesus, so called on the doubtful authority of the writer of
+Praedestinatus, ed. by Sirmond, who styles him [bishop] of Ephesus, but the
+silence of Eusebius and all other earlier testimony makes it difficult to lay
+much stress on this statement.He wrote a work in five books against the
+Cataphrygian or Montanist heresy. Fragments of the first three books are extant
+in Eusebius (H. E. y. 18), ... Taking for the rise of Montanism the date given
+in the Chronicon of Eusebius (A.D. 172), this would give about A.D. 210 for the
+date of this work.
+
+Also see [Apollonius'
+entry](https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Apollonius_of_Ephesus)
+in the 1913 Catholic Encyclopedia.
+
+## EH on the source of the Gospels
+
+There follow the relevant passages from EH on the authorship of the Gospels.
+Quotes and page numbers are from @lawlor1927eusebius.
+
+## Key passages from HE
+
+### HE 2.15
+
+> So then, when the divine Word had thus come to sojourn among them, the power
+of Simon [[the Samaritan]] was quenched and destroyed simultaneously with the
+man himself. But so brilliant was the light of piety that shone upon the minds
+of Peter’s hearers, that they were not content to be satisfied with hearing
+him once and no more, nor with the unwritten teaching of the divine message;
+but besought with all kinds of entreaties Mark, whose Gospel is extant,
+a follower of Peter, that he would leave them in writing also a memoir of the
+teaching they had received by word of mouth; nor did they relax their efforts
+until they had prevailed upon the man; and thus they became the originators of
+the book of the 2 Gospel according to Mark, as it is called. Now it is said
+that when the apostle learnt, by revelation of the Spirit, what was done, he
+was pleased with the men’s zeal, and authorized the book to be read in the
+churches — Clement has given the story in the sixth book of the Hypotyposeis;
+[[ See vi. 14. 6, 7]] and the bishop of Hierapolis also, Papias by name,
+corroborates his testimony.[[See iii. 39. 16.]] And [it is said] that Peter
+mentions Mark in his former epistle; which also it is said he composed at Rome
+itself, and indicates the fact when he calls the city, somewhat metaphoric-
+ally, "Babylon,” in these words: She that is in Babylon, elect together with
+you, saluteth you; and so doth Mark my son.[[1 Peter. v. 13.]], p48.
+
+McGiffert's [@mcgiffert1890eusebius] footnote to this passage traces the early testimony to the sources of Mark.
+
+> That Mark wrote the second Gospel under the influence of Peter, or as
+a record of what he had heard from him, is the universal tradition of
+antiquity. Papias, in the famous and much-disputed passage (quoted by Eusebius,
+III. 39, below), is the first to record the tradition. Justin Martyr refers to
+Mark’s Gospel under the name “Memoirs (ἀπομνημονεύματα) of Peter” (Dial. c\.
+Tryph. 106; the translation in the Ante-Nicene Fathers, Am. Ed. Vol. I. p. 252,
+which refers the αὐτοῦ to Christ, is incorrect; compare Weiss, N. T.
+Einleitung, p. 44, note 4). Irenæus (Adv. Hær. III. 11. 1, quoted below, V. 8.
+2), Tertullian (Adv. Marcionem, IV. 5), and Origen (quoted below, VI. 25)
+confirm the tradition, which is repeated over and over again by the Fathers.
+
+### HE 3.1
+
+> Such, then, was the plight of the Jews at that time [[during the Jewish
+revolt, described by Josephus]]. But when the holy apostles and disciples of
+our Saviour were dispersed over the whole world, Parthia was allotted to
+Thomas, according to tradition, while Scythia was allotted to Andrew, and Asia
+to John,
+
+>> ... with whom [[original footnote: plural (οὑς)]] also he lived, dying at Ephesus. But Peter, it seems, preached in Pontus and Galatia and Bithynia, in Cappadocia and Asia, to those Jews who were of the Dispersion. He
+also at the last came to Rome, and was crucified head-down- wards; for he
+requested that he might suffer thus. What need to speak of Paul, who from
+Jerusalem even unto Illyricum has fully preached the gospel of Christ, and
+afterwards was martyred at Rome under Nero;
+>
+> These are the express terms which Origen uses in the third tome of his
+Commentaries on Genesis.
+
+### HE 3.18
+
+> 18/ It is recorded that at that time the apostle and evangelist John, being
+still alive, was condemned to dwell in the island of Patmos for his testimony
+to the divine word. [[Original footnote: Heg. in J. A. Cramer, Anecd. Greca,
+ii. 88; and C de Boor, 7.U. v. 2. 169.]]
+>
+> Indeed, Ireneus, in writing about the number of the name
+of the Antichrist which is to be found in the Apocalypse of
+John, as it is called, uses these very words in the fifth book
+of his work Against the Heresies, with reference to John:
+>
+>> But if it were necessary that his name should be announced openly at this
+present time, it would have been stated by him who also saw the revelation.
+For it was seen not long ago, but almost in our own generation, at the close
+of the principate of Domitian. [[AH 5, 30]] p79
+
+### HE 3.20
+
+> ...Now after Domitian had ruled for fifteen years and Nerva had succeeded
+him in the principate, the Senate of the Romans decreed that Domitian’s
+honours should be taken away, and that those unjustly banished should return
+to their own homes, and receive back their property as well. This is recorded
+by 9 those who wrote the history of the period. At that time, then, the record
+of our ancient men informs us that the apostle John also took up his abode
+once more at Ephesus after his exile on the island.
+>
+> 21/ But when Nerva had reigned little more than a year, he was succeeded by
+Trajan. ... (p81)
+
+### HE 3.23-25
+
+> 23/ Moreover, there was still alive in Asia and directing the churches
+there, he whom Jesus loved,[[John xiii. 23; xxi. 7, 20]] apostle alike and evangelist, even John, having
+returned from his exile on the island after the death of Domitian. And that he
+survived up to their day — this account is sufficiently accredited by two
+witnesses, who may be considered worthy of credit, as men who were ambassadors
+of the orthodoxy of the Church: seeing that such were Ireneus and Clement the
+Alexandrian. The former of these indeed writes thus in the second book of his
+work Against the Heresies, in these very words:
+>
+>> ... and all the elders who have come in contact with John, the disciple of
+the Lord, in Asia testify that John delivered. ... For he remained with them
+until the time of Trajan.[[AH, 2, 33. 3]]
+>
+> And in the third book of the same work he states this same thing, as
+follows:
+>
+>> Yea also the church at Ephesus, founded by Paul, and where John remained
+with them until the time of Trajan, is a truthful witness of the tradition of
+the apostles. [[AH. 2, 3. 4]]
+>
+> But Clement both indicated the time, and also adds a story which such as
+delight in hearing what is beautiful and helpful should most certainly know.
+It is in his treatise which he entitled Who is the rich man who is being
+saved? Take and read this writing of his also; it runs as follows:
+>
+>> ... hear a tale that is no mere tale, but a true account of John the
+apostle, which has been handed down and preserved in memory. For when on the
+death of the tyrant he removed from the island of Patmos to Ephesus, he used
+to go off, when requested, to the neighbouring districts of the Gentiles also,
+to appoint bishops in some places, to organize whole churches in others, in
+others again to appoint to an order some one of those who were indicated by
+the Spirit. He came, then, also to a certain city at no great distance, whose
+very name is told by some, and having otherwise refreshed the brethren, he
+finally looked at the bishop who presided (for he saw a young man of powerful
+physique, refined appearance and ardent temperament), and said: "This youth
+I entrust to thee in all earnestness in the presence of the Church and Christ
+as witnesses." On the bishop accepting him and making all promises, the
+apostle again addressed and adjured him in the same words.
+>>
+>> Then he went back to Ephesus, while the presbyter took home his youthful
+charge, brought him up, kept him by his side, cherished and finally
+enlightened him. After that he relaxed his excessive care and guardianship,
+thinking that he had placed over him the perfect guard, the seal of the Lord.
+But the youth grasped his freedom too soon, and to his ruin fell in with
+certain idle and dissolute fellows of his own age, of evil habits. First they
+led him on by costly entertainments; then also they would perhaps take him
+with them as they sallied forth at night to rob; then they urged him to join
+them in some even greater crime. He for his part little by little adopted
+their habits; and like a hard-mouthed and powerful horse he left the straight
+path, took the bit between his teeth, and rushed down the precipice, the more
+violently because of his strength of character. And completely despairing of
+his salvation in God, he was no longer minded to commit some slight offence;
+but, since he had lost his soul once and for all, determined to do a big thing
+and suffer a like fate with the rest. So he took these same companions and got
+together a robber band, of which he was an active chief, the most violent,
+bloody and cruel of them all.
+>>
+>> Time passed, and, some necessity having arisen, they called John back; who,
+when he had set in order the business that brought him thither, said: "Come
+now, bishop, return us the deposit, which both Christ and I have committed to
+thee, in the presence of the church over which thou presidest as witness." At
+first the bishop was amazed, thinking that he was being falsely accused with
+regard to money which he had not received; and he could neither believe
+a charge about what he did not possess, nor disbelieve John. But when the
+latter said, "It is the youth that I demand, and the soul of our brother," the
+old man heaved a deep sigh, and even shed some tears. "That youth,” said he,
+"is dead." "How; and by what kind of death?" "He is dead to God," he replied;
+"for he turned out a wicked and abandoned person, in short, a robber; and now
+he has left the Church to haunt the mountain with a troop of men like
+himself." The apostle rent his clothes and smote his head with loud
+lamentation: "A fine guardian," said he, "I left of our brother’s soul!
+Howbeit, provide me with a horse at once, and let me have someone to guide the
+way."
+>>
+>> He rode right from the church, just as he was; and when he came to the spot
+and was captured by the robbers’ sentry, he neither made to fly nor protested,
+but cried aloud: "To this end am I come; bring me to your leader." The latter
+for a while awaited them, armed as he was. But when he recognized John as he
+approached, he was filled with shame and turned to flee. Forgetful of his
+years John followed after him with all his might, crying aloud: "Why dost thou
+fly from me, my child; from thy own father, from one unarmed and aged? Have
+pity on me, my child, fear not. Thou hast still hopes of life. I myself will
+give account to Christ on thy behalf. If need be, I will willingly endure thy
+death, as the Lord the death which He suffered on behalf of us. For thy sake
+I will give my own life in place of thine. Stand, believe; Christ has sent
+me."  On hearing this the robber at first stood still with downcast eyes, then
+he threw away his arms, then trembled and wept bitterly. But when the old man
+drew near he embraced him, pleading his cause, as best he could, with groans;
+being baptized a second time in his tears, and concealing only his right hand.
+But the apostle gave his pledge and solemn assurance that he had found
+forgiveness for him from the Saviour; and praying he kneeled down and kissed
+that same right hand as if it were now purified by his repentance. Thus he
+brought him back to the church. And making intercession for him with copious
+prayers, striving with him in continual fastings, subduing his mind with the
+varied siren-spell of words, he did not depart, as it is said, until he had
+set him over the church, thus affording a notable example of true repentance
+and a notable token of regeneration, a trophy of a resurrection that all might
+see.
+>
+> 24/ I have placed here this extract from Clement both for its historical
+interest and for the profit of such as shall read it.
+>
+> But come, let us now indicate also the unquestionable writings of this
+apostle. And let his Gospel, recognized by the churches under heaven, be first
+acknowledged. That indeed it has with good reason been reckoned by the
+ancients in the fourth place after the other three, may be made clear in this
+way.
+> Those inspired and truly divine men, I mean the apostles of Christ, had
+purified their lives exceedingly and adorned their souls with every virtue;
+but in speech they were uncultivated. They verily placed their confidence in
+the divine, wonder-working power truly bestowed upon them by the Saviour; they
+neither knew how, nor attempted, to present the teachings of the Master in
+persuasive and skilful words, but they used only the demonstration of the
+divine Spirit which was working with them, and the wonder-working power of
+Christ which found its fulfilment through them. Thus they published the
+knowledge of the kingdom of heaven throughout the whole world, paying little
+heed to the desire for writing books. And such was their practice, inasmuch as
+they were aided by a greater and more than human ministry. For instance, Paul,
+who excelled them all in the power of composition and in fertility of thought,
+has committed to writing nothing but the briefest of epistles; although he had
+countless unutterable things to relate, since he had attained to the sights
+even of the third heaven, and was caught up to the divine Paradise itself, and
+deemed worthy to hear the unspeakable words there. And, indeed, the rest of
+the followers of our Saviour — the twelve apostles, the seventy disciples, and
+countless others as well—were not without these same experiences
+>
+> Yet out of them all Matthew and John alone have left us memoirs of the
+Lord’s discourses; and they, it is recorded, only came to write under
+compulsion. For Matthew first of all preached to Hebrews; and when he was
+about to go also to others he committed his Gospel to writing in his native
+tongue: thus he made his writing compensate those from whom he was departing
+for the lack of his bodily presence. And when Mark and Luke had already
+published their Gospels, it is said that John, who all the time had used
+unwritten preaching, at last came also to write, for the following reason.
+Those three which we mentioned above having come already into the hands of
+all, including his own, it is said that he accepted them and attested their
+truth; but [expressed the opinion] that the narrative only lacked, it seems,
+an account of what had been done by Christ first of all and at the beginning
+of the preaching.
+>
+> And this statement is indeed true. For instance, one can
+see at a glance that the three evangelists have only recorded
+the deeds of the Saviour for one year after the shutting up
+in prison of John the Baptist, and that they indicated this
+very fact at the beginning of their account. Thus, after the
+forty days' fast and the temptation that ensued, Matthew
+informs us as to the chronology of his work by saying, *Now
+when he heard that John was delivered up, he withdrew from
+Judea into Galilee*;[[Matt. iv. 12.]] and Mark likewise says, *Now after that
+John was delivered up, Jesus came into Galilee*; [[Mark i. 14]], and Luke too,
+before he begins the acts of Jesus, makes a similar observation, declaring
+that *Herod, in adding to the evil things he had committed, shut up John in
+prison.*[[Luke iti. 19, 20.]]
+>
+> It is said, then, that the apostle John for these reasons was called upon to
+give in his Gospel the period which the former evangelists had passed over in
+silence, and the deeds of the Saviour during that period (and these were
+before the shutting up of the Baptist); and that he indicated this very fact,
+when on one occasion he said, This beginning of his marvels did
+Jesus,[[John ii. 11]] and when on another he mentioned the Baptist, in the
+midst of an account of the acts of Jesus, as still at that time *baptizing in
+Aenon near to Salim; and that he shows this clearly when he says, For John
+was not yet cast into prison.*[[John iii. 23, 24]]
+>
+> Therefore John in writing his Gospel gives us the things which Christ did
+before the Baptist was cast into prison; but the remaining three evangelists
+mention those done after the shutting up of the Baptist in the dungeon. And
+anyone who understands this can no longer imagine that the Gospels are at
+variance with one another, because the Gospel according to John contains the
+first acts of Christ, but the remaining Gospels contain the record of what He
+did at the close of the period; but would therefore regard it as natural that,
+while John passed over in silence the genealogy according to the flesh of our
+Saviour, inasmuch as it had been previously set down by Matthew and Luke, he
+should begin with the doctrine of His divinity, since the divine Spirit had
+reserved that for him as their superior.
+>
+> This, then, must suffice as to the writing of the Gospel according to John;
+and we have stated above the cause which led to the writing of that according
+to Mark. But Luke has himself at the beginning of his treatise prefixed the
+cause which had led him to its composition: showing that many others had
+somewhat rashly taken it upon them to compose a narrative of those things
+of which he had been fully persuaded; and so, feeling himself bound to free
+us from our doubt and suspicion as to the others, he gave us in his own Gospel
+the certain record of those events whose truth he had firmly grasped by the
+aid of his intercourse and stay with Paul and his converse with the other
+apostles.[[Luke i. 1-4]] So much for our own account of these things. But in
+a more suitable place we shall endeavour to show by means of quotations from
+the ancients what others also have said about them.
+>
+> And as to the treatises of John, the former of the epistles, as well as the
+Gospel, has been acknowledged as undisputed, both by the men of to-day and by
+the ancients also; but the remaining two are disputed. As to the Apocalypse,
+the opinion of the majority is still to this day divided one way or the other.
+But at the proper time this question also will be likewise decided by the
+testimony of the ancients.
+>
+> 25/ But now that we have reached this point, it is reasonable to sum up the
+writings of the New Testament already mentioned. Well then, we must set in the
+first place the holy quaternion of the Gospels; which are followed by the book
+of the Acts of the Apostles. After this we must reckon the epistles of Paul;
+following which we must pronounce genuine the extant former epistle of John,
+and likewise the epistle of Peter. After these we must place, if it really
+seem right, the Apocalypse of John, the views that have been held as to which
+we shall set forth at the proper time. These, then, [are to be placed] among
+the acknowledged writings. But of those which are disputed, nevertheless
+familiar to the majority, there is extant the epistle of James, as it is
+called; and that of Jude; and the second epistle of Peter; and the second and
+third of John, so named, whether they belong to the evangelist or perhaps to
+some other of the same name as he. Among the spurious writings there are to be
+placed also the book of the Acts of Paul, and the Shepherd, as it is called,
+and the Apocalypse of Peter; and, in addition to these, the extant epistle of
+Barnabas, and the Teachings of the Apostles, as it is called; and, moreover,
+as I said, the Apocalypse of John, if it seem right. (This last, as I said, is
+rejected by some, but 5 others give it a place among the acknowledged
+writings.)...
+
+The sequence above starts on page 82 of @lawlor1927eusebius.
+
+### HE 3.31
+
+> Now indeed as regards Paul and Peter, we have already on a former occasion
+shown both the time and manner of their death, and, as well, the spot where
+their tabernacles were laid after they departed this life. But as for John,
+while we have already stated after a fashion the time [of his death],[[HE
+3,23]] we must go to the epistle of Polycrates (who was bishop of the
+community at Ephesus) to show us the place where his tabernacle lies. In
+writing this epistle to Victor, bishop of the Romans, he mentions John and,
+together with him, Philip the apostle and his daughters, somewhat as follows :
+>
+>> For indeed in Asia great luminaries have fallen asleep, such as shall rise
+again at the last day, the day of the Lord’s appearing, when He comes with
+glory from heaven to seek out all His saints: to wit, Philip, one of the
+twelve apostles, who has fallen asleep in Hierapolis, [as have] also his two
+daughters who grew old in virginity, and his other daughter who lived in the
+Holy Spirit and rests at Ephesus; and, moreover, [there is] John too, who
+leant back on the Lord’s breast,[[John xiii. 25]] who was [[original footnote:
+or "became"]] a priest, wearing the sacerdotal plate, both martyr and teacher.
+He has fallen asleep at Ephesus. (p91)
+
+### HE 3.36
+
+> 36/ But to resume. In their day in Asia a companion of the apostles,
+Polycarp, was in eminence: he had been entrusted with the episcopate of the
+church at Smyrna by the eye-witnesses and ministers of the Lord. In his
+day Papias was well known, also a bishop, but of the community at Hierapolis;
+as was also Ignatius, he whose name is still to this day on the lips of very
+many, who was the second in the succession from Peter at Antioch to receive
+the episcopate.
+
+### HE 3.39
+
+> 39/ But of Papias there are five treatises extant, which also have been
+entitled Expositions of the Dominical Oracles. These Irenaeus also mentions as
+his only writings, saying somewhat as follows:
+>
+>> And these things Papias also, who was a hearer of John and a companion of
+Polycarp, a man of primitive times, attests in writing in the fourth of his
+books. For there are five books composed by him.[[AH. v. 33]]
+>
+> So, indeed, says Irenaeus. Nevertheless Papias himself, in the preface to
+his discourses, makes it plain that he was in no sense a hearer and
+eye-witness of the holy apostles; but tells us, by the language he uses, that
+he had received the things pertaining to the faith from those who were their
+pupils:
+>
+>> But I will not hesitate also to set down for thy benefit, along with the
+interpretations, all that ever I carefully learnt and carefully recalled from
+the elders, guaranteeing its truth. For I did not take delight, as most men
+do, in those who have much to say, but in those who teach what is true; not in
+those who recall foreign commandments, but in those who recall the
+commandments given by the Lord to faith, and reaching us from the truth
+itself. And if anyone chanced to come who had actually been a follower of the
+elders, I would enquire as to the discourses of the elders, what Andrew or
+what Peter said, or what Philip, or what Thomas or James, or what John or
+Matthew or any other of the Lord’s disciples; and the things which Aristion
+and John the elder, disciples of the Lord, say. For I supposed that things out
+of books did not profit me so much as the utterances of a voice which liveth
+and abideth.
+>
+> Here it is worth while noting that twice in his enumeration he mentions the
+name John: the former of these Johns he puts in the same list with Peter and
+James and Matthew and the other apostles, clearly indicating the evangelist;
+but the latter he places with others, in a separate clause, outside the number
+of the apostles, placing Aristion before him; and he clearly calls him
+"elder." So that he hereby also proves their statement to be true who have
+said that two persons in Asia have borne the same name, and that there were
+two tombs at Ephesus, each of which is still to this day said to be John's.
+And to these details one must needs pay attention, for it is likely that the
+second (if one is unwilling to admit that it was the first) saw the Revelation
+which is extant under the name of John. And Papias, of whom we are now
+speaking, acknowledges that he received the discourses of the apostles from
+those who had been their followers, but says that he was himself an actual
+hearer of Aristion and of John the elder. Certainly he mentions them by name
+frequently in his treatises and sets forth their traditions.
+>
+> So much, then, for these points which, it is hoped, we have not adduced to
+no purpose. But it is right to add to the words of Papias which we have quoted
+other sayings, in which he relates some other miraculous events likewise, as
+having come down to him by tradition. It has been shown, indeed, by what has
+gone before, that Philip the apostle resided in Hierapolis with his daughters;
+but now it must be pointed out that Papias, their contemporary, mentions that
+he had a wonderful story from the daughters of Philip. For he relates that the
+resurrection of a dead body took place in his day; and, on the other hand, he
+tells of another miraculous happening, concerned with Justus who was surnamed
+Barsabbas: that he drank a deadly poison and, by the grace of the Lord,
+suffered no unpleasant effects.
+>
+> The book of the Acts records that, after the ascension of the Saviour, the
+holy apostles put forward this Justus along with Matthias and prayed as to the
+lot [which was to be taken] to fill up the place in their number vacated by
+the traitor Judas. The passage runs somewhat as follows:
+>
+>> And they put forward two, Joseph called Barsabbas, who was surnamed Justus,
+and Matthias. And they prayed and said ... [[Acts i. 17, 23, 24]]
+>
+> And the same writer has quoted other things also, as coming to him from
+unwritten tradition; for instance, certain strange parables of the Saviour and
+teachings of His, and some other things of a rather mythical character. And
+among these is his statement that there will be a certain period of a thousand
+years after the resurrection from the dead, when the kingdom of Christ will be
+set up in a material order upon this earth. I imagine that he got these ideas
+through a misinterpretation of the apostolic accounts, for he did not
+understand what they said mystically and in figurative language. For he
+evidently was a man of exceedingly small intelligence, as one might say
+judging from his discourses; nevertheless it was owing to him that so very
+many churchmen after him adopted a like opinion, taking their stand on the
+fact that he was a man of primitive times: as, for example, Irenaeus and all
+others who have given evident expression to like views. And, besides, Papias
+gives us in his work accounts of the aforesaid Aristion of the sayings of the
+Lord, and traditions of John the elder.
+>
+> While we refer scholars to these, we shall now of necessity add to the words
+of his already quoted a tradition which he has set forth concerning Mark who
+wrote the Gospel. It is in these words:
+>
+>> This also the elder used to say. Mark, indeed, having been the interpreter
+of Peter, wrote accurately, howbeit not in order, all that he recalled of what
+was either said or done by the Lord. For he neither heard the Lord, nor was he
+a follower of His, but, at a later date (as I said), of Peter ; who used to
+adapt his instructions to the needs [of the moment], but not with a view to
+putting together the Dominical oracles in orderly fashion: so that Mark did no
+wrong in thus writing some things as he recalled them. For he kept a single
+aim in view: not to omit anything of what he heard, nor to state anything
+therein falsely.
+>
+> Such, then, is Papias' account of Mark. But the following is the statement
+concerning Matthew :
+>
+>> So then, Matthew compiled the oracles in the Hebrew language ; but everyone
+interpreted them as he was able.
+>
+> And the same writer has used testimonies drawn from the former epistle of
+John, and likewise from that of Peter; and he has set forth, as well, another
+story about a woman accused falsely of many sins before the Lord, which the
+Gospel of the Hebrews contains. So much, then, for these things which of
+necessity we have noted, in addition to what has been already set forth. (p99)
+
+### EH 4.18
+
+> ... And he [[Justin]] writes also that even as late as his day prophetical
+gifts were a conspicuous feature in the Church. And he mentions the Apocalypse
+of John, saying clearly that it was the apostle’s. [[Just., Dial. 81]] p126
+
+<!---
+Stopped search for "John" here 15 Aug
+-->
+
+### EH 5.10
+
+> Now, it is said that he [[Pantaenus]] displayed such ardent love and zeal
+for the divine word that he was appointed as a herald of the Gospel of Christ
+to the nations of the East, and that he journeyed even as far as the land of
+the Indians. For there were, yes, even still at that time, many evangelists of
+the word, desirous to contribute an inspired zeal, after the manner of the
+apostles, for the increase and building up of the divine word. Pantaenus also
+was one of these, and is mentioned as having gone to India; and the story goes
+that there he found, in the hands of some persons who had come to know Christ
+in that land, the Gospel according to Matthew, which had anticipated his
+arrival; for that Bartholomew, one of the apostles, had preached to them and
+left behind the writing of Matthew in the actual Hebrew characters, and that
+it was preserved up to the said time. (p155)
+
+### EH 5.18
+
+> 18/ But an ecclesiastical writer called Apollonius also undertook to refute
+the Phrygian heresy, as it is called, when it was then still at its height in
+Phrygia; ...
+>
+> ... And he also mentions one Thraseas as a martyr at that time. And he says
+too, relying on tradition, that the Saviour had ordered His apostles not to
+depart from Jerusalem for twelve years; and he also makes use of testimonies
+drawn from the Apocalypse of John; and he records that a dead man had, through
+the divine power, been raised at Ephesus by John himself;... (p164)
+
+### EH 5.22
+
+> ... In their time [[Pope Victor, Demetrius of Alexandria ...]] Bacchyllus
+was bishop of Corinth in Greece, and Polycrates of the community at Ephesus.
+(p168)
+
+### EH 5.24
+
+> But of those bishops in Asia who confidently affirmed that they ought to
+keep to the custom which they had received from days of yore, Polycrates was
+the leader. And he too sets forth the tradition which h ad come down to him,
+in the letter he penned to Victor and the church of the Romans, in the
+following words:
+>
+>> As for us, then, we keep the day without tampering with it,
+neither adding, nor subtracting. For indeed in Asia great luminaries have
+fallen asleep, such as shall rise again on the day of the Lord’s appearing,
+when He comes with glory from heaven to seek out all his saints: to wit,
+Philip, one of the twelve apostles, who has fallen asleep in Hierapolis, [as
+have] also his two daughters who grew old in virginity, and his other daughter
+who lived in the Holy Spirit and rests at Ephesus; and, moreover, [there is]
+John too, he who leant back on the Lord’s breast,[[John xiii. 25.]] who was
+[[original footnote: or "became"]] a priest, wearing the sacerdotal plate,
+both martyr and teacher. He has fallen asleep at Ephesus. Moreover, Polycarp
+too at Smyrna, both bishop and martyr; and Thraseas, both bishop and martyr,
+of Eumenia, who has fallen asleep at Smyrna. And why need I mention Sagaris,
+bishop and martyr, who has fallen asleep at Laodicea? or the blessed Papirius,
+or Melito the eunuch who in all things lived in the Holy Spirit, who lies at
+Sardis, awaiting the visitation from heaven, when he shall rise from the dead?
+These all observed the fourteenth day for the Pascha according to the Gospel,
+in no way deviating therefrom, but following the rule of faith. And moreover
+I also, Polycrates, the least of you all, [do] according to the tradition of
+my kinsmen, some of whom also I have followed closely. Seven of my kinsmen
+were bishops, and I am the eighth. And my kinsmen always kept the day when the
+people put away the leaven. Therefore I for my part, brethren, who number
+sixty-five years in the Lord and have conversed with the brethren from all
+parts of the world and traversed the entire range of holy Scripture, am not
+affrighted by threats. For those better than I have said, We must obey God
+rather than men.
+>
+> Then he goes on to add as follows, with reference to the bishops present at
+his writing who held the same view as he did:
+>
+>> But I could mention the bishops present with me, whom I summoned when ye
+yourselves desired that I should summon them. And if I were to write their
+names, the number thereof would be great. But they who know my littleness
+approved my letter, knowing that I did not wear my grey hairs in vain, but
+that I have ever lived in Christ Jesus. (p168)
+
+### EH 6.14
+
+> And in [2] the Hypotyposeis, to speak briefly, he [[Clement]] has given
+concise explanations of all the Canonical Scriptures, not passing over even the
+disputed writings, I mean the Epistle of Jude and the.remaining Catholic
+Epistles, and the Epistle of Barnabas, and the Apocalypse known as Peter’s. And
+as for the Epistle to the Hebrews, he says indeed that it is Paul’s, but that
+it was written for Hebrews in the Hebrew tongue, and that Luke, having
+carefully translated it, published it for the Greeks; hence, as a result of
+this translation, the same complexion of style is found in this Epistle and in
+the Acts: but that the [words] "Paul an apostle" were naturally not prefixed.
+For, says he,
+>
+>> in writing to Hebrews who had conceived a prejudice against him and were
+suspicious of him, he very wisely did not repel them at the beginning by
+putting his name.
+>
+> Then lower down he adds:
+>
+>> But now, as the blessed elder[^pantaenus] used to say, since the Lord, being
+the apostle? of the Almighty, was sent to the Hebrews, Paul, through modesty,
+since he had been sent to the Gentiles, does not inscribe himself as an apostle
+of the Hebrews, both to give due deference to the Lord and because he wrote to
+the Hebrews also out of his abundance, being a preacher and apostle of the
+Gentiles.
+>
+> And again in the same books Clement has inserted a tradition of the primitive
+elders with regard to the order of the Gospels, as follows. He said that those
+Gospels were first written which include the genealogies, but that the Gospel
+according to Mark came into being in this manner: When Peter had publicly
+preached the word at Rome, and by the Spirit had proclaimed the Gospel, that
+those present, who were many, exhorted Mark, as one who had followed him for
+a long time and remembered what had been spoken, to make a record of what was
+said; and that he did this, and distributed the Gospel among those that asked
+him. And that when the matter came to Peter’s knowledge he neither strongly
+forbade it nor urged it forward. But that John, last of all, conscious that the
+outward facts had been set forth in the Gospels, was urged on by his disciples,
+and, divinely moved by the Spirit, composed a spiritual Gospel. This is
+Clement’s account. (p188)
+
+[^pantaenus]: The "blessed elder" is likely to have been Clement's teacher,
+  Pantaenus: "It was Pantaenus ('the blessed presbyter') who taught Clement
+  that Paul was the author of Hebrews (Church History vi. 14. 4) ..."
+  [@goodspeed1942history, p200].
+
+### EH 6:25
+
+> ... But in the first of his [[Origen's]] [Commentaries] on the Gospel according to
+Matthew, defending the canon of the Church, he gives his testimony that he
+knows only four Gospels, writing somewhat as follows:
+>
+>> ... as having learnt by tradition concerning the four Gospels, which alone
+are unquestionable in the Church of God under heaven, that first was written
+that according to Matthew, who was once a tax-collector but afterwards an
+apostle of Jesus Christ, who published it for those who from Judaism came to
+believe, composed as it was in the Hebrew language. Secondly, that according
+to Mark, who wrote it in accordance with Peter’s instructions, whom also Peter
+acknowledged as his son in the catholic epistle, speaking in these terms: *She
+that is in Babylon, elect together with you, saluteth you; and so doth Mark my
+son*.[[1 Pet v. 13]] And thirdly, that according to Luke, who wrote, for those
+who from the Gentiles [came to believe], the Gospel that was praised by Paul.
+After them all, that according to John.
+>
+> And in the fifth of his Expositions on the Gospel according to John the same
+person says this with reference to the epistles of the apostles:
+>
+>> But he who was made sufficient to become a minister of the new covenant,
+not of the letter but of the spirit, even Paul, who fully preached the Gospel
+from Jerusalem and round about even unto Illyricum, did not so much as write
+to all the churches that he taught; and even to those to which he wrote he
+sent but a few lines. And Peter, on whom the Church of Christ is built,
+against which the gates of Hades shall not prevail, has left one acknowledged
+epistle, and, it may be, a second also; for it is doubted. Why need I speak of
+him who leaned back on Jesus’ breast,[[John xiii. 25.]] John, who has left
+behind one Gospel, confessing that he could write so many that even the world
+itself could not contain them;" and he wrote also the Apocalypse, being
+ordered to keep silence and not to write the voices of seven thunders? [[Rev.
+x. 3, 4]] He has left also an epistle of a very few lines, and, it may be,
+a second and a third; for not all say that these are genuine. Only, the two of
+them together are not a hundred lines long.
+>
+> Furthermore, he thus discusses the Epistle to the Hebrews, in his Homilies
+upon it:
+>
+> That the character of the diction of the epistle entitled To the Hebrews has
+not the apostle’s rudeness in speech, who confessed himself rude in
+speech,[[2.Cor. xi. 6]] that is, in style, but that the epistle is better
+Greek in the framing of its diction, will be admitted by everyone who is able
+to discern differences of style. But again, on the other hand, that the
+thoughts of the epistle are admirable, and not inferior to the acknowledged
+writings of the apostle, to this also everyone will consent as true who has
+given attention to reading the apostle.
+>
+> Further on, he adds the following remarks:
+>
+>> But as for myself, if I were to state my own opinion, I should say that the
+thoughts are the apostle’s, but that the style and composition belong to one
+who called to mind the apostle’s teachings and, as it were, made short notes
+of what his master said. If any church, therefore, holds this epistle as
+Paul's, let it be commended for this also. For not without reason have the
+men of old time handed it down as Paul's. But who wrote the epistle, in truth
+God knows. Yet the account which has reached us [is twofold], some saying
+that Clement, who was bishop of the Romans, wrote the epistle, others, that it
+was Luke, he who wrote the Gospel and the Acts... (p197)
+
+### EH 7.25
+
+> 25/ Then, in due course, lower down he [[Dionysius]] speaks thus, with
+reference to the Apocalypse of John :
+>
+>> Some indeed of those before our time rejected and altogether impugned the
+book, examining it chapter by chapter and declaring it to be unintelligible
+and illogical, and its title false. For they say that it is not John’s, no, nor
+yet an apocalypse (unveiling), since it is veiled by its great thick curtain of
+unintelligibility ; and that the author of this book was not only not one of
+the apostles, nor even one of the saints or those belonging to the Church, but
+Cerinthus, the same who created the sect called "Cerinthian" after him, since
+he desired to affix to his own forgery a name worthy of credit. ...
+...
+>> After completing the whole, one might say, of his prophecy, the prophet
+calls those blessed who observe it, and indeed himself also. For he says:
+Blessed is he that keepeth the words of the prophecy of this book, and I John,
+he that saw and heard these things. I will not gainsay the fact that he was
+certainly named John and that this book is by one John, for I fully allow that
+it is the work of some holy and inspired person. But I should not readily agree
+that he was the apostle, the son of Zebedee, the brother of James, whose are
+the Gospel entitled According to John and the Catholic Epistle. For I form my
+judgment from the character of each and from the nature of the language and
+from what is known as the general construction of the book, that [the John
+therein mentioned] is not the same. For the evangelist nowhere adds his name,
+nor yet proclaims himself, throughout either the Gospel or the Epistle.
+...
+>>
+>> ... I hold that there have been many persons of the same name as John the
+apostle, ...  But I think that there was a certain other [John] among those
+that were in Asia, since it is said both that there were two tombs at Ephesus,
+and that each of the two is said to be John's. ...
+>>
+>> ... In a word, it is obvious that those who observe their character
+throughout will see at a glance that the Gospel and Epistle have one and the
+same complexion. But the Apocalypse is utterly different from, and foreign to,
+these writings; it has no connexion, no affinity, in any way with them; it
+scarcely, so to speak, has even a syllable in common with them. ... (p237)
+
+## References
+

@@ -1,102 +1,52 @@
-PY?=python3
-PELICAN?=pelican
-PELICANOPTS=
+QUARTO?=quarto
+BASE?=origin/main
 
-BASEDIR=$(CURDIR)
-INPUTDIR=$(BASEDIR)/content
-CACHEDIR=$(BASEDIR)/cache
-OUTPUTDIR=$(BASEDIR)/output
-CONFFILE=$(BASEDIR)/pelicanconf.py
-PUBLISHCONF=$(BASEDIR)/publishconf.py
-
-SSH_HOST=dynevor
-SSH_PORT=22
-SSH_USER=dynevoro
-SSH_TARGET_DIR=./public_html/asterisk
-
-
-DEBUG ?= 0
-ifeq ($(DEBUG), 1)
-	PELICANOPTS += -D
-endif
-
-RELATIVE ?= 0
-ifeq ($(RELATIVE), 1)
-	PELICANOPTS += --relative-urls
-endif
+.PHONY: help preview post changed html publish github clean
 
 help:
-	@echo 'Makefile for a pelican Web site                                           '
-	@echo '                                                                          '
-	@echo 'Usage:                                                                    '
-	@echo '   make html                           (re)generate the web site          '
-	@echo '   make clean                          remove the generated files         '
-	@echo '   make regenerate                     regenerate files upon modification '
-	@echo '   make publish                        generate using production settings '
-	@echo '   make serve [PORT=8000]              serve site at http://localhost:8000'
-	@echo '   make serve-global [SERVER=0.0.0.0]  serve (as root) to $(SERVER):80    '
-	@echo '   make devserver [PORT=8000]          serve and regenerate together      '
-	@echo '   make ssh_upload                     upload the web site via SSH        '
-	@echo '   make rsync_upload                   upload the web site via rsync+ssh  '
-	@echo '                                                                          '
-	@echo 'Set the DEBUG variable to 1 to enable debugging, e.g. make DEBUG=1 html   '
-	@echo 'Set the RELATIVE variable to 1 to enable relative urls                    '
-	@echo '                                                                          '
+	@echo 'Quarto Asterisk blog'
+	@echo
+	@echo 'Writing (fast):'
+	@echo '  make preview              live preview (rebuilds on save)'
+	@echo '  make post SLUG=my-slug    render one post + refresh index'
+	@echo '  make changed              render posts changed vs working tree / $(BASE)'
+	@echo
+	@echo 'Publish (slow full site):'
+	@echo '  make html                 full quarto render -> _site/'
+	@echo '  make github               full render, then publish to gh-pages'
+	@echo '  make publish              alias for html'
+	@echo
+	@echo 'Other:'
+	@echo '  make clean                remove _site/ and .quarto/'
+	@echo '  BASE=HEAD~1 make changed  choose git base for "changed"'
 
-content:
-	(cd $(INPUTDIR) && make)
+preview:
+	$(QUARTO) preview
 
-html: content
-	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
+# Render a single post directory: posts/$(SLUG)/
+post:
+ifndef SLUG
+	$(error Set SLUG, e.g. make post SLUG=achieve)
+endif
+	@test -e posts/$(SLUG)/index.qmd -o -e posts/$(SLUG)/index.ipynb \
+		|| (echo 'No posts/$(SLUG)/index.qmd or index.ipynb' >&2; exit 1)
+	@if [ -f posts/$(SLUG)/index.ipynb ]; then \
+		$(QUARTO) render posts/$(SLUG)/index.ipynb; \
+	else \
+		$(QUARTO) render posts/$(SLUG)/index.qmd; \
+	fi
+	$(QUARTO) render index.qmd
+
+changed:
+	BASE=$(BASE) python3 scripts/render_changed.py --base $(BASE)
+
+html:
+	$(QUARTO) render
+
+publish: html
+
+github: html
+	$(QUARTO) publish gh-pages --no-prompt --no-render
 
 clean:
-	[ ! -d $(OUTPUTDIR) ] || rm -rf $(OUTPUTDIR)
-
-realclean: clean
-	[ ! -d $(CACHEDIR) ] || rm -rf $(CACHEDIR)
-
-
-regenerate: content
-	$(PELICAN) -r $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
-
-serve: content
-ifdef PORT
-	$(PELICAN) -l $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS) -p $(PORT)
-else
-	$(PELICAN) -l $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
-endif
-
-serve-global: content
-ifdef SERVER
-	$(PELICAN) -l $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS) -p $(PORT) -b $(SERVER)
-else
-	$(PELICAN) -l $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS) -p $(PORT) -b 0.0.0.0
-endif
-
-
-devserver: content
-ifdef PORT
-	$(PELICAN) -lr $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS) -p $(PORT)
-else
-	$(PELICAN) -lr $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
-endif
-
-publish: content
-	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
-
-ssh_upload: publish
-	scp -P $(SSH_PORT) -r $(OUTPUTDIR)/* $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)
-
-.PHONY: html help clean regenerate serve serve-global devserver stopserver publish ssh_upload rsync_upload content
-
-newpost:
-ifdef NAME
-	pt-newpost -es "${NAME}"
-else
-	@echo 'Variable NAME is not defined.'
-	@echo 'Do make newpost NAME='"'"'Post Name'"'"
-endif
-
-github: publish
-	if [ -e "CNAME" ]; then cp CNAME $(OUTPUTDIR); fi
-	ghp-import -n $(OUTPUTDIR) -p -f
+	rm -rf _site .quarto

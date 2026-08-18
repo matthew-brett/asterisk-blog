@@ -1,0 +1,17 @@
+---
+title: A hint as to why an older generation of scientists might be more prone to believe
+  that scientific sofware need not be written by scientists
+aliases:
+- /a-hint-as-to.html
+date: 2013-05-27 20:41
+categories:
+- G+ archive
+---
+
+A hint as to why an older generation of scientists might be more prone
+to believe that scientific sofware need not be written by scientists.\
+\
+<http://blog.nipy.org/science-joins-software.html>
+
+
+The Google+ URL for this post was `https://plus.google.com/+MatthewBrett/posts/bBmYxBdGv2V`

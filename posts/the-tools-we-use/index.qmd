@@ -1,0 +1,18 @@
+---
+title: The tools we use have a profound (and devious!)
+aliases:
+- /the-tools-we-use.html
+date: 2015-06-22 21:47
+categories:
+- G+ archive
+---
+
+\"The tools we use have a profound (and devious!) influence on our
+thinking habits, and, therefore, on our thinking abilities.\"\
+\
+Edsger W.Dijkstra \"How do we tell truths that might hurt?\"\
+\
+<http://www.cs.virginia.edu/~evans/cs655/readings/ewd498.html>﻿
+
+
+The Google+ URL for this post was `https://plus.google.com/+MatthewBrett/posts/53uUihhSxcr`

@@ -5,3 +5,16 @@ cache/
 .ipynb_checkpoints/
 .DS_Store
 .python-version
+_site/
+.quarto/
+**/_freeze/
+# Accidental render outputs beside sources
+posts/**/index.html
+posts/**/*_files/
+/index.html
+/about.html
+/site_libs/
+/index-listing.json
+/index.feed-full-staged
+
+/.quarto/

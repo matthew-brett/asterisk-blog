@@ -1,0 +1,55 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+    - "posts/*/index.qmd"
+    - "posts/*/index.ipynb"
+    - "!posts/antidemographic-list-box/index.qmd"
+    - "!posts/eusebeia/index.qmd"
+    - "!posts/eusebius-papias/index.qmd"
+    - "!posts/irrational-universities/index.qmd"
+    - "!posts/john-theologian/index.qmd"
+    - "!posts/software-engineers-and-scientists/index.qmd"
+    - "!posts/who-wrote-the-four-gospels/index.qmd"
+  resources:
+    - images/**
+    - downloads/**
+    - favicon.ico
+    - favicon.png
+    - robots.txt
+    - CNAME
+
+website:
+  title: "Asterisk"
+  site-url: https://asterisk.dynevor.org
+  description: "Asterisk blog by Matthew Brett"
+  favicon: favicon.png
+  draft-mode: gone
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+    right:
+      - icon: rss
+        href: index.xml
+  page-footer: "Matthew Brett · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
+  search: true
+
+author: "Matthew Brett"
+
+# Bibliographies are set per citing post (see posts/*/index.qmd).
+csl: chicago-author-date.csl
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    html-math-method: mathjax
+    footnotes-hover: true
+    link-external-newwindow: true
+    css: styles.css
+
+execute:
+  freeze: auto

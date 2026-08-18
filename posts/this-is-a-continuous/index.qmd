@@ -1,0 +1,18 @@
+---
+title: This is a continuous functional MRI activation map.
+aliases:
+- /this-is-a-continuous.html
+date: 2012-05-05 06:18
+categories:
+- G+ archive
+---
+
+This is a continuous functional MRI activation map. It shows the raw
+effect size (not the t statistic) of a particular experimental
+condition. Red means that condition A had greater signal than condition
+B, blue vice versa. The black contour lines enclose areas where the
+signal difference is significant after correcting for multiple
+comparisons.
+
+
+The Google+ URL for this post was `https://plus.google.com/+MatthewBrett/posts/48uit2LGx2j`

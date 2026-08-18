@@ -1,0 +1,15 @@
+---
+title: Summary of a study of code review techniques
+aliases:
+- /summary-of-a-study.html
+date: 2013-09-27 04:35
+categories:
+- G+ archive
+---
+
+Summary of a study of code review techniques:\
+\
+<http://www.ibm.com/developerworks/rational/library/11-proven-practices-for-peer-review/>
+
+
+The Google+ URL for this post was `https://plus.google.com/+MatthewBrett/posts/6wixeQN1xCb`

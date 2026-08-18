@@ -1,53 +1,60 @@
-# Asterisk blog content
+# Asterisk blog
 
-Hosted at <http://asterisk.dynevor.org>.
+Hosted at <https://asterisk.dynevor.org>.
+
+Static site generated with [Quarto](https://quarto.org/) (Pandoc under the hood).
 
 ## Setup
 
-```
-brew install stork-search/stork-tap/stork
-python -m pip install -r requirements.txt
-```
+Install [Quarto](https://quarto.org/docs/get-started/).
 
-## Pandoc markdown format for posts
+Optional notebook authoring tools: Python, Jupyter, and [Jupytext](https://github.com/mwouts/jupytext).
 
-See `requirements.txt` and `pelicanconf.py`.  In `pelicanconf.py`:
+## Day-to-day writing (fast)
 
-```python
-# Set Pandoc markdown flavor
-sys.path.append(pjoin('plugins', 'pelican_pandoc_reader'))
-import pelican_pandoc_reader as pdr
-pdr.pandoc_fmt_map['pdc'] = 'markdown+footnotes'
-```
+Prefer these over a full-site render:
 
-## Notebook blogging
-
-I'm using the `ipynb.liquid` plugin for embedding notebooks.
-
-I used RMarkdown for editing notebook blog posts, via the excellent
-[Jupytext](https://github.com/mwouts/jupytext).
-
-To allow cell input hiding in RMarkdown notebooks, use `use_runtools: true` in
-the `jupytext` section of the notebook metadata, and `echo=FALSE` in the cell
-header, as in:
-
-~~~
-```{python echo=FALSE}
-# Don't show the code for this cell.
-```
-~~~
-
-See also this configuration snippet in `pelicanconf.py`:
-
-```{python}
-# Hide cells with hide_input tag
-sys.path.append('plugins')
-from hideinputs import HideInputs
-IPYNB_PREPROCESSORS = [HideInputs]
+```bash
+make preview                 # live reload while editing
+make post SLUG=achieve       # render one post + refresh the listing
+make changed                 # render posts changed in git (vs origin/main)
+BASE=HEAD~1 make changed     # optional: different git base
 ```
 
+`execute.freeze: auto` in `_quarto.yml` skips re-running notebook code on full
+builds unless the notebook source changed.
 
-Set the Pelican metadata such as Category and Title in a matching `.nbdata`
-file.
+## Publish (slow — full site)
 
-There is an example in `contents/hows-julia-2020.Rmd` and its associated files.
+```bash
+make html       # full quarto render -> _site/
+make github     # full render, then publish to gh-pages (--no-render)
+```
+
+## Content
+
+- Posts live in `posts/<slug>/index.qmd` (or `index.ipynb`).
+- Site config: `_quarto.yml`.
+- Citations use `chicago-author-date.csl`. Bibliographies are set only on posts that cite (`bibliography:` in the post YAML), pointing at `blog.bib`, `bible.bib`, and/or `data-science-bib/data_science.bib`.
+- Pandoc-style citations work as usual: `@key`, `[@key]`.
+- Old Pelican URLs `/{slug}.html` are preserved via Quarto `aliases`.
+
+## Notebook posts
+
+Notebook posts keep stored outputs (`execute: false` in their YAML). Freeze still
+applies on project renders. To rebuild from R Markdown sources:
+
+```bash
+make -C posts ipynbs
+```
+
+Hide code cells with Quarto/`remove-input` cell tags (or `#| echo: false`).
+
+## Migration helpers
+
+```bash
+python3 scripts/pelican_to_quarto.py
+python3 scripts/port_notebooks.py
+python3 scripts/normalize_taxonomy.py   # canonicalize categories / keywords
+python3 scripts/render_changed.py       # same as make changed
+```
