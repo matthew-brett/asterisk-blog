@@ -77,7 +77,7 @@ of the Gospel and letters.  He would have had good reason to know who had
 written the Gospel and letters, because he had been a disciple of
 [Polycarp](https://en.wikipedia.org/wiki/Polycarp) (c69 AD - c155 AD), who had
 in turn been taught by a John who had seen Jesus.  Irenaeus writes, in his
-[letter to Florinus](@sec-florinus):
+[letter to Florinus](#sec-florinus):
 
 > I can even describe the place where the blessed Polycarp used to sit and
 discourse — his going out, too, and his coming in — his general mode of life
@@ -101,7 +101,7 @@ That is the theme for the rest of the page, starting with some discussion and
 summary, and ending with all evidence I could bring to bear from Irenaeus'
 writing.
 
-As [J\ B\. Lightfoot](/posts/fascinating-speculations/) points out, it is
+As [J\ B\. Lightfoot](../fascinating-speculations/) points out, it is
 worth reading Irenaeus directly on his testimony to the four Gospels, and
 especially John:
 
@@ -174,10 +174,12 @@ When referring to John the author, Irenaeus very often uses the set phrase
 "John, the disciple of the Lord" (14 times of 49 total uses of "John" other
 than John the Baptist).  There are two places where he indicates John by
 "disciple of the lord", or "His disciple", without naming him, although John
-is clear from the context: AH 3, XI:3, AH 3, XVI:8. He does not use the phrase
-"disciple of the Lord" of any other person, though he several times refers in
-general to the "disciples of the Lord" or "His disciples" in AH 2, II:5; AH 3,
-XII:4-5 (twice); AH 3, XII:13; AH 3, XVI:5; AH 5, XXXIV:3.
+is clear from the context: [AH 3, XI:3](#sec-ah-3-xi-3), [AH 3,
+XVI:8](#sec-ah-3-xvi-8). He does not use the phrase "disciple of the Lord" of
+any other person, though he several times refers in general to the "disciples
+of the Lord" or "His disciples" in [AH 2, II:5](#sec-ah-2-ii-5); [AH 3,
+XII:4-5](#sec-ah-3-xii-4-5) (twice); [AH 3, XII:13](#sec-ah-3-xii-13); [AH 3,
+XVI:5](#sec-ah-3-xvi-5); [AH 5, XXXIV:3](#sec-ah-5-xxxiv-3).
 
 So "disciple of [the,our] Lord", or "the Lord's disciple" in Irenaeus *always*
 means John the author of the Gospel or the letters, or the Apocalypse.
@@ -209,10 +211,10 @@ mentions of "Peter").  He never uses "the Apostle John" or "John the Apostle".
 
 For Irenaeus, the most representative apostles are Peter and Paul — he
 criticizes the heretics for claiming to be "superior to his disciples, such as
-Peter and Paul, and the rest of the apostles" [AH 1, XXV:2](@sec-ah-1-xxv-2),
+Peter and Paul, and the rest of the apostles" [AH 1, XXV:2](#sec-ah-1-xxv-2),
 and contrasts the heretics' teaching with that of the apostles with "Therefore
 let them not any longer assert that Peter and Paul and the other apostles
-proclaimed the truth ..." [AH 4, XXXV:2](@sec-ah-4-xxxv-2).
+proclaimed the truth ..." [AH 4, XXXV:2](#sec-ah-4-xxxv-2).
 
 In his letters, Paul specifically and often identifies himself as an "apostle of Christ Jesus" (e.g. Romans 1:1, 1 and 2 Corinthians 1), but did not claim to have met Jesus in person.
 
@@ -231,16 +233,16 @@ As background, it is clear from the quotes below that:
 1. Irenaeus identifies the author of John's Gospel as John, the disciple of
    the Lord: "... John, the disciple of the Lord, who also had leaned upon His
    breast, did himself publish a Gospel during his residence at Ephesus in
-   Asia." [AH 3, I:1 p414](@sec-ah-3-i-1).  Also: "And to these things does John
+   Asia." [AH 3, I:1](#sec-ah-3-i-1).  Also: "And to these things does John
    also, the disciple of the Lord, bear witness, when he speaks thus in the
    Gospel: “In the beginning was the Word, and the Word was with God, and the
-   Word was God. ..." [AH 5, XVIII:2 p546](@sec-ah-5-xviii-2).
+   Word was God. ..." [AH 5, XVIII:2](#sec-ah-5-xviii-2).
 1. The same John, disciple of the Lord, is the author of the Apocalypse: "And.
    if any one will devote a close attention to those things ... which John the
-   disciple of the Lord saw in the Apocalypse," ... [AH 4, XXX:4 p504](@sec-ah-4-xxx-4).
-1. The same John is the author of letters 1 John and 2 John. [AH 1, XVI:3](@sec-ah-1-xvi-3) has
+   disciple of the Lord saw in the Apocalypse," ... [AH 4, XXX:4](#sec-ah-4-xxx-4).
+1. The same John is the author of letters 1 John and 2 John. [AH 1, XVI:3](#sec-ah-1-xvi-3) has
    "John, the disciple of the Lord ... says ..." followed by a quote from
-   2 John. In [AH 3, XVI:8](@sec-ah-3-xvi-8): "His disciple, in his Epistle already mentioned,"
+   2 John. In [AH 3, XVI:8](#sec-ah-3-xvi-8): "His disciple, in his Epistle already mentioned,"
    (quoting 2 John), and later: "Wherefore he again exclaims in his Epistle,"
    (quoting 1 John).
 1. Irenaeus considered John the disciple of the Lord to be an apostle: "[the
@@ -251,7 +253,7 @@ As background, it is clear from the quotes below that:
    acknowledges as the Word of God, he himself has made evident. For, summing
    up his statements respecting the Word previously mentioned by him, he
    further declares, "And the Word was made flesh, and dwelt among us."
-   [AH 1, IX:2-3 p329](@sec-ah-1-ix-2-3).
+   [AH 1, IX:2-3](#sec-ah-1-ix-2-3).
 
 [^ogdoad]: See [Wikipedia — Ogdoad
   (Gnosticism)](https://en.wikipedia.org/wiki/Ogdoad_(Gnosticism))
@@ -272,12 +274,12 @@ both announce [the advent] beforehand, in a like manner as did the others, and
 actually saw Him when He came, and pointed Him out, and persuaded many to
 believe on Him, so that he did himself hold the place of both prophet and
 apostle. For this is to be more than a prophet, because, "first apostles,
-secondarily prophets;" ... [AH 3, XI:4 p427](@sec-ah-3-xi-4).
+secondarily prophets;" ... [AH 3, XI:4](#sec-ah-3-xi-4).
 
 There is another piece of suggestive evidence that Irenaeus allows other
 disciples of Jesus to be apostles.  He writes: "For that Judas the traitor is
 the twelfth in order, is agreed upon by all, there being twelve apostles
-mentioned by name in the Gospel." [AH 2, XX:4 p388](@sec-ah-2-xx-4); "mentioned by name" weakly
+mentioned by name in the Gospel." [AH 2, XX:4](#sec-ah-2-xx-4); "mentioned by name" weakly
 implies there may be other apostles not mentioned by name.
 
 ## Use of "apostle" in early church writing
@@ -578,7 +580,7 @@ conduct would it be, were we to forsake the utterances of the prophets, of the
 Lord, and of the apostles, that we might give heed to these persons, who speak
 not a word of sense? AH 2, II:5 p362 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/203) (Paul + SA)
 
-### AH 2, II:5 (John reference)
+### AH 2, II:5 (John reference) {#sec-ah-2-ii-5}
 
 > His own Word is both suitable and sufficient for the formation of all things,
 even as John, the disciple of the Lord, declares regarding Him: "All things
@@ -1008,7 +1010,7 @@ the world knew Him not. He came unto His own [things], and His own [people]
 received Him not." [[John 1:10-11]] AH 3, XI:1-2, p426
 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/450)
 
-### AH 3, XI:3 (John as "the Lord's disciple")
+### AH 3, XI:3 (John as "the Lord's disciple") {#sec-ah-3-xi-3}
 
 > Therefore the Lord's disciple, pointing them all out as false witnesses,
 says, "And the Word was made flesh, and dwelt among us." [[John 1:14]] AH 3,
@@ -1138,7 +1140,7 @@ tidings, that the promise which God made to the fathers had been fulfilled by
 Jesus; ... AH 3, XII:3 p431
 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/461)
 
-### AH 3, XII:4-5
+### AH 3, XII:4-5 {#sec-ah-3-xii-4-5}
 
 > 4/ For this reason, too, when the chief priests were assembled, Peter, full
 of boldness, said to them, "Ye rulers of the people, and elders of Israel,
@@ -1242,7 +1244,7 @@ was yet on earth, saw the glory of God, and Jesus on His right hand, and
 exclaimed, "Behold, I see the heavens opened, and the Son of man standing
 on the right hand of God." ... AH 3, XII:13 p435 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/471) (?12 presumably classifying Stephen as a disciple)
 
-### AH 3, XII:13
+### AH 3, XII:13 {#sec-ah-3-xii-13}
 
 > 14/ This is shown in a still clearer light from the letter of the apostles,
 which they forwarded neither to the Jews nor to the Greeks, but to those who
@@ -1413,7 +1415,7 @@ an apostle of Jesus Christ, predestinated unto the Gospel of God, which He had
 promised by His prophets in the holy Scriptures, concerning His Son, ..." AH
 3, XVI:3 p441 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/490) (Paul of himself)
 
-### AH 3, XVI:5 (His disciples)
+### AH 3, XVI:5 (His disciples) {#sec-ah-3-xvi-5}
 
 > Therefore did the Lord also say to His disciples after the resurrection,
 "O thoughtless ones, and slow of heart to believe all that the prophets have
@@ -2151,7 +2153,7 @@ he who has part in the first resurrection." [[Revelation 20:6]] AH 5, XXXIV:2,
 p564
 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/921)
 
-### AH 5, XXXIV:3 (disciples of the Lord)
+### AH 5, XXXIV:3 (disciples of the Lord) {#sec-ah-5-xxxiv-3}
 
 > Now, in the preceding book I have shown that, all the disciples of the Lord
 are Levites and priests, they who used in the temple to profane the Sabbath,
