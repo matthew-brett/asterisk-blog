@@ -8,8 +8,13 @@ listing:
   sort-ui: true
   filter-ui: true
   feed: true
+  exclude:
+    path:
+      - "eusebeia/**"
+      - "eusebius-papias/**"
+      - "john-theologian/**"
 page-layout: full
 title-block-banner: false
 ---
 
-Writings by Matthew Brett.
+Thoughts written for my better understanding.

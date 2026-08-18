@@ -5,7 +5,6 @@ aliases:
 date: 2026-08-12 15:00
 categories:
 - NT criticism
-draft: true
 bibliography:
 - ../../bible.bib
 ---
