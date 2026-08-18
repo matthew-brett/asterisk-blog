@@ -5,13 +5,6 @@ project:
     - "*.qmd"
     - "posts/*/index.qmd"
     - "posts/*/index.ipynb"
-    - "!posts/antidemographic-list-box/index.qmd"
-    - "!posts/eusebeia/index.qmd"
-    - "!posts/eusebius-papias/index.qmd"
-    - "!posts/irrational-universities/index.qmd"
-    - "!posts/john-theologian/index.qmd"
-    - "!posts/software-engineers-and-scientists/index.qmd"
-    - "!posts/who-wrote-the-four-gospels/index.qmd"
   resources:
     - images/**
     - downloads/**
@@ -25,7 +18,7 @@ website:
   site-url: https://asterisk.dynevor.org
   description: "Asterisk blog by Matthew Brett"
   favicon: favicon.png
-  draft-mode: gone
+  draft-mode: unlinked
   navbar:
     left:
       - href: index.qmd

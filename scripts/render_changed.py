@@ -29,15 +29,7 @@ GLOBAL_TRIGGERS = {
     "robots.txt",
 }
 
-DRAFT_SLUGS = {
-    "antidemographic-list-box",
-    "eusebeia",
-    "eusebius-papias",
-    "irrational-universities",
-    "john-theologian",
-    "software-engineers-and-scientists",
-    "who-wrote-the-four-gospels",
-}
+DRAFT_SLUGS: set[str] = set()  # drafts render under draft-mode: unlinked
 
 
 def run(cmd: list[str], check: bool = True) -> subprocess.CompletedProcess:
