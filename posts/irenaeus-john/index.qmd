@@ -209,10 +209,10 @@ mentions of "Peter").  He never uses "the Apostle John" or "John the Apostle".
 
 For Irenaeus, the most representative apostles are Peter and Paul — he
 criticizes the heretics for claiming to be "superior to his disciples, such as
-Peter and Paul, and the rest of the apostles" (AH 1, XXV:2, p350), and
-contrasts the heretics' teaching with that of the apostles with "Therefore let
-them not any longer assert that Peter and Paul and the other apostles
-proclaimed the truth ..." AH 4, XXXV:2 p513
+Peter and Paul, and the rest of the apostles" [AH 1, XXV:2](@sec-ah-1-xxv-2),
+and contrasts the heretics' teaching with that of the apostles with "Therefore
+let them not any longer assert that Peter and Paul and the other apostles
+proclaimed the truth ..." [AH 4, XXXV:2](@sec-ah-4-xxxv-2).
 
 In his letters, Paul specifically and often identifies himself as an "apostle of Christ Jesus" (e.g. Romans 1:1, 1 and 2 Corinthians 1), but did not claim to have met Jesus in person.
 
@@ -231,16 +231,16 @@ As background, it is clear from the quotes below that:
 1. Irenaeus identifies the author of John's Gospel as John, the disciple of
    the Lord: "... John, the disciple of the Lord, who also had leaned upon His
    breast, did himself publish a Gospel during his residence at Ephesus in
-   Asia." AH 3, I:1 p414 (see below).  Also: "And to these things does John
+   Asia." [AH 3, I:1 p414](@sec-ah-3-i-1).  Also: "And to these things does John
    also, the disciple of the Lord, bear witness, when he speaks thus in the
    Gospel: “In the beginning was the Word, and the Word was with God, and the
-   Word was God. ..." AH XVIII:2 p546.
+   Word was God. ..." [AH 5, XVIII:2 p546](@sec-ah-5-xviii-2).
 1. The same John, disciple of the Lord, is the author of the Apocalypse: "And.
    if any one will devote a close attention to those things ... which John the
-   disciple of the Lord saw in the Apocalypse," ... AH 4, XXX:4 p504.
-1. The same John is the author of letters 1 John and 2 John. AH 1, XVI:3 has
+   disciple of the Lord saw in the Apocalypse," ... [AH 4, XXX:4 p504](@sec-ah-4-xxx-4).
+1. The same John is the author of letters 1 John and 2 John. [AH 1, XVI:3](@sec-ah-1-xvi-3) has
    "John, the disciple of the Lord ... says ..." followed by a quote from
-   2 John. In AH 3, XVI:8: "His disciple, in his Epistle already mentioned,"
+   2 John. In [AH 3, XVI:8](@sec-ah-3-xvi-8): "His disciple, in his Epistle already mentioned,"
    (quoting 2 John), and later: "Wherefore he again exclaims in his Epistle,"
    (quoting 1 John).
 1. Irenaeus considered John the disciple of the Lord to be an apostle: "[the
@@ -250,8 +250,8 @@ As background, it is clear from the quotes below that:
    conjunctions, but concerning our Lord Jesus Christ, whom he also
    acknowledges as the Word of God, he himself has made evident. For, summing
    up his statements respecting the Word previously mentioned by him, he
-   further declares, "And the Word was made flesh, and dwelt among us." AH 1,
-   IX:2-3 p329 (see below).
+   further declares, "And the Word was made flesh, and dwelt among us."
+   [AH 1, IX:2-3 p329](@sec-ah-1-ix-2-3).
 
 [^ogdoad]: See [Wikipedia — Ogdoad
   (Gnosticism)](https://en.wikipedia.org/wiki/Ogdoad_(Gnosticism))
@@ -272,12 +272,12 @@ both announce [the advent] beforehand, in a like manner as did the others, and
 actually saw Him when He came, and pointed Him out, and persuaded many to
 believe on Him, so that he did himself hold the place of both prophet and
 apostle. For this is to be more than a prophet, because, "first apostles,
-secondarily prophets;" ... AH 3, XI:4 p427. (see below)
+secondarily prophets;" ... [AH 3, XI:4 p427](@sec-ah-3-xi-4).
 
 There is another piece of suggestive evidence that Irenaeus allows other
 disciples of Jesus to be apostles.  He writes: "For that Judas the traitor is
 the twelfth in order, is agreed upon by all, there being twelve apostles
-mentioned by name in the Gospel." AH 2, XX:4 p388; "mentioned by name" weakly
+mentioned by name in the Gospel." [AH 2, XX:4 p388](@sec-ah-2-xx-4); "mentioned by name" weakly
 implies there may be other apostles not mentioned by name.
 
 ## Use of "apostle" in early church writing
@@ -418,7 +418,7 @@ Word, and the Word was with God, and the Word was God;..." [[John 1:1]] AH 1,
 VIII:4 p328, continued intermittently through paragraph 5, p329
 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/53)
 
-### AH 1, IX:2-3
+### AH 1, IX:2-3 {#sec-ah-1-ix-2-3}
 
 > For if he has named the Father, and Charis, and Monogenes, and Aletheia, and
 Logos, and Zoe, and Anthropos, and Ecclesia, according to their hypothesis, he
@@ -461,7 +461,7 @@ God; how unsearchable are His judgments, and His ways past finding out!"
 to them with respect to the immensity of their knowledge, nor even were you to
 mention Paul or Peter, or any other of the apostles. AH 1, XIII:6 p335 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/82) (SA).
 
-### AH 1, XVI:3 (John reference)
+### AH 1, XVI:3 (John reference) {#sec-ah-1-xvi-3}
 
 > And John, the disciple of the Lord, has intensified their condemnation, when
 he desires us not even to address to them the salutation of "good-speed;" for,
@@ -510,7 +510,7 @@ with still greater zeal to the study of the whole magic art, that he might the
 better bewilder and overpower multitudes of men. AH 1, XXIII:1 p347 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/129) [[Acts
 89-24]] (Peter and JsZ).
 
-### AH 1, XXV:2
+### AH 1, XXV:2 {#sec-ah-1-xxv-2}
 
 > This idea has raised them to such a pitch of pride, that some of them declare
 themselves similar to Jesus; while others, still more mighty, maintain that
@@ -614,7 +614,7 @@ happened in the case of the twelfth Aeon, from this fact, that the passion of
 the Saviour was brought about by the twelfth apostle, and happened in the
 twelfth month. AH 2, XX:1 p387 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/313) (12)
 
-### AH 2, XX:4
+### AH 2, XX:4 {#sec-ah-2-xx-4}
 
 > For that Judas the traitor is the twelfth in order, is agreed upon by all,
 there being twelve apostles mentioned by name in the Gospel. AH 2, XX:4 p388 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/316) (12)
@@ -758,7 +758,7 @@ the apostles and imparted to her sons. For the Lord of all gave to His
 apostles the power of the Gospel, through whom also we have known the truth,
 ... AH 3, Preface p414 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/401) (SA).
 
-### AH 3, I:1
+### AH 3, I:1 {#sec-ah-3-i-1}
 
 > 1/ We have learned from none others the plan of our salvation, than from
 those through whom the Gospel has come down to us, which they did at one time
@@ -1015,7 +1015,7 @@ says, "And the Word was made flesh, and dwelt among us." [[John 1:14]] AH 3,
 XI:3, p427
 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/451)
 
-### AH 3, XI:4
+### AH 3, XI:4 {#sec-ah-3-xi-4}
 
 > Wherefore the Lord said that He deemed him [[John the Baptist]] "more than
 a prophet." For all the other prophets preached the advent of the paternal
@@ -1431,7 +1431,7 @@ of God, and that believing ye might have eternal life in His name," [[John
 20:31]] ... AH 3, XVI:5, p442
 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/492)
 
-### AH 3, XVI:8 (John as "His disciple")
+### AH 3, XVI:8 (John as "His disciple") {#sec-ah-3-xvi-8}
 
 > These are they against whom the Lord has cautioned us beforehand; and His
 disciple, in his Epistle already mentioned, commands us to avoid them, when he
@@ -1817,7 +1817,7 @@ been saved. AH 4, XXVIII:3 p501 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/ver
 > In accordance with this word, therefore, does the apostle say, in the Second
 [Epistle] to the Corinthians: AH 4, XXIX:1 p502 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/703) (Paul)
 
-### AH 4, XXX:4 (John reference)
+### AH 4, XXX:4 (John reference) {#sec-ah-4-xxx-4}
 
 > And if any one will devote a close attention to those things which are stated
 by the prophets with regard to the [time of the] end and those which John the
@@ -1877,7 +1877,7 @@ predicted through them. AH 4, XXXIV:1 p511 [BKV](https://bkv.unifr.ch/en/works/c
 (who went forth from Jerusalem) throughout all the earth, ... AH 4, XXXIV:4
 p512 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/737) (SA)
 
-### AH 4, XXXV:2
+### AH 4, XXXV:2 {#sec-ah-4-xxxv-2}
 
 > 2/ But if, when the Saviour came to this earth, He sent His apostles into
 the world to proclaim with accuracy His advent, and to teach the Father's
@@ -2040,7 +2040,7 @@ accustomed to receive and bear God; which also the apostle terms "an
 earnest," that is, a part of the honour which has been promised us by God,
 where he says in the Epistle to the Ephesians, ... AH 5, VIII:1 p533 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/809) (Paul)
 
-### AH 5, XVIII:2 (John reference)
+### AH 5, XVIII:2 (John reference) {#sec-ah-5-xviii-2}
 
 > And to these things does John also, the disciple of the Lord, bear witness,
 when he speaks thus in the Gospel: "In the beginning was the Word, and the
