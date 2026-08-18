@@ -9,8 +9,8 @@
 <link>https://asterisk.dynevor.org/</link>
 <atom:link href="https://asterisk.dynevor.org/index.xml" rel="self" type="application/rss+xml"/>
 <description>Asterisk blog by Matthew Brett</description>
-<generator>quarto-99.9.9</generator>
-<lastBuildDate>Sun, 16 Aug 2026 13:27:00 GMT</lastBuildDate>
+<generator>quarto-1.10.18</generator>
+<lastBuildDate>Sun, 16 Aug 2026 14:27:00 GMT</lastBuildDate>
 <item>
   <title>On John</title>
   <dc:creator>Matthew Brett</dc:creator>
@@ -73,7 +73,7 @@
  ]]></description>
   <category>NT criticism</category>
   <guid>https://asterisk.dynevor.org/posts/on-john/</guid>
-  <pubDate>Sun, 16 Aug 2026 13:27:00 GMT</pubDate>
+  <pubDate>Sun, 16 Aug 2026 14:27:00 GMT</pubDate>
 </item>
 <item>
   <title>Fascinating speculations</title>
@@ -103,7 +103,7 @@ Lightfoot, J. B. 1889. <em>Essays on the Work Entitled Supernatural Religion</em
 </div></section></div> ]]></description>
   <category>NT criticism</category>
   <guid>https://asterisk.dynevor.org/posts/fascinating-speculations/</guid>
-  <pubDate>Thu, 13 Aug 2026 09:13:00 GMT</pubDate>
+  <pubDate>Thu, 13 Aug 2026 10:13:00 GMT</pubDate>
 </item>
 <item>
   <title>Irenaeus and the author of John’s Gospel</title>
@@ -1501,7 +1501,7 @@ Roberts, Alexander, and James Donaldson, eds. 1885b. <em>The Ante-Nicene Fathers
 </section></div> ]]></description>
   <category>NT criticism</category>
   <guid>https://asterisk.dynevor.org/posts/irenaeus-john/</guid>
-  <pubDate>Sat, 01 Aug 2026 14:00:00 GMT</pubDate>
+  <pubDate>Sat, 01 Aug 2026 15:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Blood and water</title>
@@ -1550,7 +1550,7 @@ Roberts, Alexander, and James Donaldson, eds. 1885b. <em>The Ante-Nicene Fathers
 </section></div> ]]></description>
   <category>NT criticism</category>
   <guid>https://asterisk.dynevor.org/posts/water-and-blood/</guid>
-  <pubDate>Wed, 15 Jul 2026 23:00:00 GMT</pubDate>
+  <pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Kratopistia</title>
@@ -1598,7 +1598,7 @@ Roberts, Alexander, and James Donaldson, eds. 1885b. <em>The Ante-Nicene Fathers
  ]]></description>
   <category>misc</category>
   <guid>https://asterisk.dynevor.org/posts/kratopistia/</guid>
-  <pubDate>Tue, 14 Jul 2026 09:19:00 GMT</pubDate>
+  <pubDate>Tue, 14 Jul 2026 10:19:00 GMT</pubDate>
 </item>
 <item>
   <title>An unfair fight at OK Corral</title>
@@ -1620,7 +1620,7 @@ Roberts, Alexander, and James Donaldson, eds. 1885b. <em>The Ante-Nicene Fathers
  ]]></description>
   <category>misc</category>
   <guid>https://asterisk.dynevor.org/posts/an-unfair-fight-at-ok-corral/</guid>
-  <pubDate>Mon, 13 Jul 2026 11:26:00 GMT</pubDate>
+  <pubDate>Mon, 13 Jul 2026 12:26:00 GMT</pubDate>
 </item>
 <item>
   <title>isms and AI</title>
@@ -1662,7 +1662,7 @@ Roberts, Alexander, and James Donaldson, eds. 1885b. <em>The Ante-Nicene Fathers
  ]]></description>
   <category>politics</category>
   <guid>https://asterisk.dynevor.org/posts/isms-and-ai/</guid>
-  <pubDate>Wed, 03 Jun 2026 10:55:00 GMT</pubDate>
+  <pubDate>Wed, 03 Jun 2026 11:55:00 GMT</pubDate>
 </item>
 <item>
   <title>It’s quite obvious that Lucy Letby is innocent</title>
@@ -1711,7 +1711,7 @@ Roberts, Alexander, and James Donaldson, eds. 1885b. <em>The Ante-Nicene Fathers
  ]]></description>
   <category>misc</category>
   <guid>https://asterisk.dynevor.org/posts/its-quite-obvious-that-lucy-letby-is-innocent/</guid>
-  <pubDate>Fri, 24 Apr 2026 06:00:00 GMT</pubDate>
+  <pubDate>Fri, 24 Apr 2026 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>They hate us for our freedom</title>
@@ -1736,7 +1736,7 @@ Roberts, Alexander, and James Donaldson, eds. 1885b. <em>The Ante-Nicene Fathers
  ]]></description>
   <category>misc</category>
   <guid>https://asterisk.dynevor.org/posts/they-hate-us-for-our-freedom/</guid>
-  <pubDate>Thu, 23 Apr 2026 14:28:00 GMT</pubDate>
+  <pubDate>Thu, 23 Apr 2026 15:28:00 GMT</pubDate>
 </item>
 <item>
   <title>Not godly</title>
@@ -1778,7 +1778,7 @@ Roberts, Alexander, and James Donaldson, eds. 1885b. <em>The Ante-Nicene Fathers
 </section></div> ]]></description>
   <category>NT criticism</category>
   <guid>https://asterisk.dynevor.org/posts/not-godly/</guid>
-  <pubDate>Wed, 01 Apr 2026 07:50:00 GMT</pubDate>
+  <pubDate>Wed, 01 Apr 2026 08:50:00 GMT</pubDate>
 </item>
 <item>
   <title>Attachment to AI</title>
@@ -1908,7 +1908,7 @@ Roberts, Alexander, and James Donaldson, eds. 1885b. <em>The Ante-Nicene Fathers
 </section></div> ]]></description>
   <category>management</category>
   <guid>https://asterisk.dynevor.org/posts/nhs-snapshot/</guid>
-  <pubDate>Tue, 21 Oct 2025 09:39:00 GMT</pubDate>
+  <pubDate>Tue, 21 Oct 2025 10:39:00 GMT</pubDate>
 </item>
 <item>
   <title>Lose total control</title>
@@ -1996,7 +1996,7 @@ Roberts, Alexander, and James Donaldson, eds. 1885b. <em>The Ante-Nicene Fathers
 
  ]]></description>
   <guid>https://asterisk.dynevor.org/posts/win-election-hammer-disinformation/</guid>
-  <pubDate>Mon, 30 Sep 2024 10:49:00 GMT</pubDate>
+  <pubDate>Mon, 30 Sep 2024 11:49:00 GMT</pubDate>
 </item>
 <item>
   <title>Love and warmth</title>
@@ -2022,7 +2022,7 @@ Roberts, Alexander, and James Donaldson, eds. 1885b. <em>The Ante-Nicene Fathers
  ]]></description>
   <category>literature</category>
   <guid>https://asterisk.dynevor.org/posts/love-and-warmth/</guid>
-  <pubDate>Thu, 05 Sep 2024 09:31:00 GMT</pubDate>
+  <pubDate>Thu, 05 Sep 2024 10:31:00 GMT</pubDate>
 </item>
 <item>
   <title>We own the science</title>
@@ -2047,7 +2047,7 @@ Roberts, Alexander, and James Donaldson, eds. 1885b. <em>The Ante-Nicene Fathers
  ]]></description>
   <category>information</category>
   <guid>https://asterisk.dynevor.org/posts/we-own-the-science/</guid>
-  <pubDate>Wed, 29 May 2024 11:11:00 GMT</pubDate>
+  <pubDate>Wed, 29 May 2024 12:11:00 GMT</pubDate>
 </item>
 <item>
   <title>Saw that everywhere</title>
@@ -2070,7 +2070,7 @@ Roberts, Alexander, and James Donaldson, eds. 1885b. <em>The Ante-Nicene Fathers
  ]]></description>
   <category>organizations</category>
   <guid>https://asterisk.dynevor.org/posts/saw-that-everywhere/</guid>
-  <pubDate>Tue, 07 May 2024 10:36:00 GMT</pubDate>
+  <pubDate>Tue, 07 May 2024 11:36:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
