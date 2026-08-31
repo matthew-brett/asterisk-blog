@@ -43,6 +43,9 @@ format:
     footnotes-hover: true
     link-external-newwindow: true
     css: styles.css
+    filters:
+      - path: filters/section-cites.lua
+        at: pre-quarto
 
 execute:
   freeze: auto

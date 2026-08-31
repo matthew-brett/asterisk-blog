@@ -1,8 +1,8 @@
 ---
-title: "Asterisk"
+title: Asterisk
 listing:
   contents: posts
-  sort: "date desc"
+  sort: date desc
   type: default
   categories: true
   sort-ui: true
@@ -10,10 +10,10 @@ listing:
   feed: true
   exclude:
     path:
-      - "eusebeia/**"
-      - "eusebius-papias/**"
-      - "john-theologian/**"
-      - "irenaeus-excerpts/**"
+    - /posts/eusebeia/**
+    - /posts/eusebius-papias/**
+    - /posts/john-theologian/**
+    - /posts/irenaeus-excerpts/**
 page-layout: full
 title-block-banner: false
 ---

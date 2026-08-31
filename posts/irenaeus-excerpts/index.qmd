@@ -1,31 +1,54 @@
 ---
-Title: Excerpts from Irenaeus on John, Apostles
+title: Excerpts from Irenaeus on John, Apostles
+aliases:
+- /irenaeus-excerpts.html
 date: 2026-08-01 15:00
 categories:
 - NT criticism
 bibliography:
 - ../../bible.bib
+section-cites:
+  id-prefix: sec
+  auto-id-headings: true
+  works:
+    ah:
+      label: AH
+      names:
+      - preface
+      scheme: cite
+    if:
+      label: IF
+      scheme: number
 ---
 
-This page has excepts from Irenaeus' "Against Heresies".  The excerpts record
-all mentions of "John" (where not referring to John the Baptist), and of
-"apostle".
+This page has excepts from Irenaeus' "Against Heresies" (AH) and his
+"Demonstration of the Apostolic Preaching" (DAP) and other fragments of
+Irenaeus.  The excerpts record all mentions of "John" (where not referring to
+John the Baptist), and of "apostle".
+
+The English translations of AH and of the fragments come from @anf01.  Each
+section of AH here gives book number, chapter number (in Roman numerals) and
+section number.  The text also gives the page number in @anf01, and the
+corresponding link to the [Bibliothek der Kirchenväter
+site](https://bkv.unifr.ch) that has Roberts' text as clean web pages.
 
 ## Abbreviations and notation
 
 * AH - Irenaeus' Against Heresies.
+* DAP - Irenaeus' Demonstration of the Apostolic Preaching.
 * EH - Eusebius' Ecclesiastical History.
 * AJG - Author of John's Gospel.
 * JsZ - John son of Zebedee, one of the 12 Apostles.
 * SA - Source of Authority.  It is not clear who specifically is being referred
   to (other than those named explicitly).
+* IF - Irenaeus Fragments (Roberts section numbers from @anf01; letters and other fragments attributed to Irenaeus).
 * BKV — [Bibliothek der Kirchenväter](https://bkv.unifr.ch)
 
-For each quote referring to "apostle", I have tried to classify the meaning
-into one of more of "12" (the 12 apostles specifically), "12 + Paul", "AJG",
-"JsZ" or "SA", allowing that "SA" might also be "12".  I have labeled quotes
-referring to "John" specifically in the heading.  If there is no such label,
-then the quote refers to "apostle".
+For each quote referring to "apostle", I have classified the meaning into one
+of more of "12" (the 12 apostles specifically), "12 + Paul", "AJG", "JsZ" or
+"SA", allowing that "SA" might also be "12".  I have labeled quotes referring
+to "John" specifically in the heading.  If there is no such label, then the
+quote refers to "apostle".
 
 Quotes and page numbers below are from @anf01. Text in quotes enclosed in
 *double* square brackets ([[like this]]) is my own explanation, and is not in
@@ -35,29 +58,28 @@ explanation or insertion; I haven't changed this.
 
 ## Use of "John" and "apostle" in Against Heresies
 
-### AH 1, Preface:1
+### AH 1, Preface:1 (Paul)
 
 > Inasmuch as certain men have set the truth aside, and bring in lying words
 and vain genealogies, which," as the apostle says, "minister questions rather
 than godly edifying which is in faith," [[quoting 1 Tim 1:4]] 1, Preface:1 p315
 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/1)
-(Paul)
 
-### AH 1, III:2
+### AH 1, III:2 (12)
 
 > 2/ The production, again, of the Duodecad of the Aeons, is indicated by the
 fact that the Lord was twelve years of age when He disputed with the teachers
 of the law, and by the election of the apostles, for of these there were
-twelve. [[Luke vi 13]], AH 1,III:2 p319 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/18) (12 Apostles)
+twelve. [[Luke vi 13]], AH 1,III:2 p319 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/18)
 
-### AH 1, III:3
+### AH 1, III:3 (12)
 
 > 3/ They further maintain that the passion which took place in the case of the
 twelfth Aeon is pointed at by the apostasy of Judas, who was the twelfth
 apostle, and also by the fact that Christ suffered in the twelfth month. AH 1,
-III:3 p319 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/19) (12)
+III:3 p319 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/19)
 
-### AH 1, III:5 (John, apostle)
+### AH 1, III:5 (John, apostle Paul)
 
 > They [[the heretics]] also maintain that John indicated the same thing [[the
 twofold Houros / Stauros nature of God]] when he said, "The fan is in His hand,
@@ -69,11 +91,10 @@ objects, as fire does chaff, but it purifies all them that are saved, as
 a fan does wheat.  Moreover, they affirm that the Apostle Paul himself made
 mention of this cross in the following words ... AH 1, III:5, p320
 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/21)
-(Paul)
 
 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/21)
 
-### AH 1, III:6
+### AH 1, III:6 (apostles Matthew, AJG, Paul Peter)
 
 > 6/ Such, then, is the account which they all give of their Pleroma, and of
 the formation of the universe, striving, as they do, to adapt the good words of
@@ -82,10 +103,11 @@ of the evangelists and the apostles that they endeavour to derive proofs for
 their opinions by means of perverse interpretations and deceitful expositions: they deal in the same way with the law and the prophets, which contain many
 parables and allegories that can frequently be drawn into various senses,
 according to the kind of exegesis to which they are subjected. AH 1, III:6 p320 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/22)
-(likely thinking of evangelists as Mark, Luke, and apostles as Matthew,
-John-AJG, Paul and Peter)
 
-### AH 1, VIII:1
+Irenaeus is likely thinking of the "evangelists" as Mark, Luke, and "apostles"
+as Matthew, John-AJG, Paul and Peter, authors of letters).
+
+### AH 1, VIII:1 (SA)
 
 > 1/ Such, then, is their system, which neither the prophets announced, nor the
 Lord taught, nor the apostles delivered, but of which they boast that beyond
@@ -94,7 +116,7 @@ sources than the Scriptures; and, to use a common proverb, they strive to weave
 ropes of sand, while they endeavour to adapt with an air of probability to
 their own peculiar assertions the parables of the Lord, the sayings of the
 prophets, and the words of the apostles, in order that their scheme may not
-seem altogether without support. AH 1, VIII:1 p326 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/49) (SA)
+seem altogether without support. AH 1, VIII:1 p326 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/49)
 
 ### AH 1, VIII:4 (John reference)
 
@@ -106,7 +128,7 @@ Word, and the Word was with God, and the Word was God;..." [[John 1:1]] AH 1,
 VIII:4 p328, continued intermittently through paragraph 5, p329
 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/53)
 
-### AH 1, IX:2-3 {#sec-ah-1-ix-2-3}
+### AH 1, IX:2-3 {#sec-ah-1-ix-2-3} (AJG)
 
 > For if he has named the Father, and Charis, and Monogenes, and Aletheia, and
 Logos, and Zoe, and Anthropos, and Ecclesia, according to their hypothesis, he
@@ -128,26 +150,26 @@ another. But if the Word of the Father who descended is the same also that
 ascended, He, namely, the Only-begotten Son of the only God, who, according to
 the good pleasure of the Father, became flesh for the sake of men, the apostle
 certainly does not speak regarding any other, or concerning any Ogdoad, but
-respecting our Lord Jesus Christ. AH 1, IX:2-3 p329 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/57)(AJG)
+respecting our Lord Jesus Christ. AH 1, IX:2-3 p329 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/57)
 
-### AH 1, X:1
+### AH 1, X:1 (SA)
 
 > 1/ The Church, though dispersed throughout, the whole world, even to the ends
 of the earth, has received from the apostles and their disciples this faith: [She believes] in one God, the Father Almighty, Maker of heaven, and earth,
-and the sea, and all things that are in them; ... AH 1, X:1 p330 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/61) (SA)
+and the sea, and all things that are in them; ... AH 1, X:1 p330 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/61)
 
-### AH 1, X:3
+### AH 1, X:3 (Paul)
 
 > For in reference to these points, and others of a like nature, the apostle
 exclaims: "Oh! the depth of the riches both of the wisdom and knowledge of
 God; how unsearchable are His judgments, and His ways past finding out!"
-[Romans XI:33] AH 1, X:3 p331 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/64) (Paul)
+[Romans XI:33] AH 1, X:3 p331 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/64)
 
-### AH 1, XIII:6
+### AH 1, XIII:6 (SA)
 
 > They proclaim themselves as being "perfect," so that no-one can be compared
 to them with respect to the immensity of their knowledge, nor even were you to
-mention Paul or Peter, or any other of the apostles. AH 1, XIII:6 p335 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/82) (SA).
+mention Paul or Peter, or any other of the apostles. AH 1, XIII:6 p335 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/82)
 
 ### AH 1, XVI:3 (John reference) {#sec-ah-1-xvi-3}
 
@@ -155,24 +177,24 @@ mention Paul or Peter, or any other of the apostles. AH 1, XIII:6 p335 [BKV](htt
 he desires us not even to address to them the salutation of "good-speed;" for,
 says he, "He that bids them be of good-speed is a partaker with their evil
 deeds;" [[2 John 1:10-11]] and that with reason, "for there is no good-speed
-to the ungodly," saith the Lord. AH 1, XVI:3 p341
+to the ungodly," saith the Lord. AH 1, XVI:3 p342
 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/104)
 
-### AH 1, XVIII:3
+### AH 1, XVIII:3 (12)
 
 > Jeroboam also, who received the ten sceptres (tribes), and the ten courts of
 the tabernacle, and the columns of ten cubits [high] , and the ten sons of
 Jacob who were at first sent into Egypt to buy corn, and the ten apostles to
 whom the Lord appeared after His resurrection, — Thomas being absent,
-— represented, according to them, the invisible Decad. AH 1, XVIII:3 p344 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/111) (12)
+— represented, according to them, the invisible Decad. AH 1, XVIII:3 p344 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/111)
 
-### AH 1, XVIII:4
+### AH 1, XVIII:4 (12)
 
 > ... the number, too, of the apostles; and, in fine, every event which
 embraces in it the number twelve, — set forth their Duodecad. AH 1, XVIII:4
-p344 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/112) (12)
+p344 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/112)
 
-### AH 1, XXIII:1
+### AH 1, XXIII:1 (Peter and JsZ)
 
 > 1/ Simon the Samaritan was that magician of whom Luke, the disciple and
 follower of the apostles, says, "But there was a certain man, Simon by name,
@@ -195,45 +217,41 @@ gall of bitterness, and in the bond of iniquity." He, then, not putting faith
 in God a whit the more, set himself eagerly to contend against the apostles, in
 order that he himself might seem to be a wonderful being, and applied himself
 with still greater zeal to the study of the whole magic art, that he might the
-better bewilder and overpower multitudes of men. AH 1, XXIII:1 p347 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/129) [[Acts
-89-24]] (Peter and JsZ).
+better bewilder and overpower multitudes of men. [[Acts 89-24]] AH 1, XXIII:1 p347 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/129)
 
-### AH 1, XXV:2 {#sec-ah-1-xxv-2}
+### AH 1, XXV:2 {#sec-ah-1-xxv-2} (SA)
 
 > This idea has raised them to such a pitch of pride, that some of them declare
 themselves similar to Jesus; while others, still more mighty, maintain that
 they are superior to his disciples, such as Peter and Paul, and the rest of the
 apostles, whom they consider to be in no respect inferior to Jesus. AH 1,
-XXV:2, p350 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/144) (SA)
+XXV:2, p350 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/144)
 
-### AH 1, XXV:5
+### AH 1, XXV:5 (12)
 
 > And in their writings we read as follows, the interpretation which they give
 [of their views], declaring that Jesus spoke in a mystery to His disciples and
 apostles privately, and that they requested and obtained permission to hand
 down the things thus taught them, to others who should be worthy and believing.
-AH 1, XXV:5, p351 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/147) (12)
+AH 1, XXV:5, p351 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/147)
 
-### AH 1, XXVI:2
+### AH 1, XXVI:2 (Paul)
 
 > They use the Gospel according to Matthew only, and repudiate the Apostle
-Paul, maintaining that he was an apostate from the law. AH 1, XXVI:2, p352 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/151) (Paul)
+Paul, maintaining that he was an apostate from the law. AH 1, XXVI:2, p352 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/151)
 
-### AH 1, XXVI:3
+### AH 1, XXVI:3 (John reference, ?12)
 
 > 3/ The Nicolaitanes are the followers of that Nicolas who was one of the
-seven first ordained to the diaconate by the apostles. AH 1, XXVI:3, p352 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/152) (?12)
-
-### AH 1, XXVI:3 (John reference)
-
+seven first ordained to the diaconate by the apostles. ...
 > The character of these men is very plainly pointed out in the
 Apocalypse of John, ... AH 1, XXVI:3 p352 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/152)
 
-### AH 1, XXVII:1
+### AH 1, XXVII:1 (SA)
 
 > 1/ Cerdo was one who took his system from the followers of Simon, and came
 to live at Rome in the time of Hyginus, who held the ninth place in the
-episcopal succession from the apostles downwards. AH 1, XXVII:1 p352 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/154) (SA)
+episcopal succession from the apostles downwards. AH 1, XXVII:1 p352 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/154)
 
 ### AH 1, XXVII:2
 
@@ -482,7 +500,7 @@ of the Saviour; and that not the apostles alone, but even the Lord Himself,
 spoke as at one time from the Demiurge, at another from the intermediate
 place, and yet again from the Pleroma, but that they themselves, indubitably,
 unsulliedly, and purely, have knowledge of the hidden mystery: ... AH 3, II:2
-p416 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/409) (SA)
+p415 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/409) (SA)
 
 ### AH 3, III:1
 
@@ -1144,7 +1162,7 @@ Jesus is the Christ, has been born of God;" [[1 John 5:1]] AH 3, XVI:8, p443
 suffered, namely Christ Jesus, he again says in the same Epistle: "Know ye
 not, that so many of us as were baptized in Christ Jesus were baptized in His
 death? that like as Christ rose from the dead, so should we also walk in
-newness of life." [[Romans VI:3-4]] AH 3, XVI:9 p443 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/496) (Paul)
+newness of life." [[Romans VI:3-4]] AH 3, XVI:9 p444 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/496) (Paul)
 
 ### AH 3, XVII:1
 
@@ -1273,7 +1291,7 @@ Thus hath Matthew set it down, and Luke in like manner, and Mark [[see Roberts
 footnote below]] the very same; for John omits this passage. They, however, who
 would be wiser than the apostles, write [the verse] in the following manner:
 "No man knew the Father, but the Son; nor the Son, but the Father, and he to
-whom the Son has willed to reveal [Him];" ... AH 4, VI:1 p468
+whom the Son has willed to reveal [Him];" ... AH 4, VI:1 p467-8
 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/584)
 (maybe Matthew and AJG)
 
@@ -1334,7 +1352,7 @@ consideration of human infirmity, because of the incontinence of some, ... AH
 made without hands." [[Colossians 2:11]] And the prophet declares, "Circumcise
 the hardness of your heart." But the Sabbaths taught that we should continue
 day by day in God's service. "For we have been counted," says the Apostle
-Paul, "all the day long as sheep for the slaughter;" AH 4, XVI:1 p482 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/632) (Paul)
+Paul, "all the day long as sheep for the slaughter;" AH 4, XVI:1 p481 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/632) (Paul)
 
 ### AH 4, XVII:5
 
@@ -1800,7 +1818,7 @@ contained in it, will amount to six hundred and sixty and six;... AH 5, XXX:1
 p558
 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/904)
 
-### AH 5, XXXIII:4 (John reference)
+### AH 5, XXXIII:3-4 (John reference)
 
 > The predicted blessing, therefore, belongs unquestionably to the times of
 the kingdom, when the righteous shall bear rule upon their rising from the
@@ -1830,7 +1848,7 @@ books compiled (συντεταγμενα) by him.  And he says in addition, "Now
 things are credible to believers." And he says that, "when the traitor Judas
 did not give credit to them, and put the question, 'How then can things about
 to bring forth so abundantly be wrought by the Lord?' the Lord declared, 'They
-who shall come to these [times] shall see.'" AH 5, XXXIII:4, p562 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/918)
+who shall come to these [times] shall see.'" AH 5, XXXIII:4, p562-3 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/918)
 
 ### AH 5, XXXIV:2 (John reference)
 
@@ -2005,9 +2023,8 @@ this fragment to Diodorus or some other writer.
 "g", the last listed fragment, which must be the "the last fragment from the
 Armenian" referred to above.)
 
-### Letter to Florinus (John, apostle) {#sec-florinus}
-
-From Roberts (@anf01), above, p568 (Roberts, Keble fragment #II, likely
+### IF II: Letter to Florinus (John, apostle)
+From Roberts (@anf01), above, p568 (Roberts II; Keble fragment #II, likely
 genuine). Notes from Roberts):
 
 > This interesting extract we also owe to Eusebius, who (*ut sup.*)
@@ -2048,9 +2065,8 @@ words. This fact, too, can be made clear, from his Epistles — which he
 despatched, whether to the neighbouring Churches to confirm them, or to
 certain of the brethren, admonishing and exhorting them.
 
-### Letter to Victor on observance of Easter
-
-Roberts, p568-9 (Roberts, Keble fragment #III, likely genuine).  Note from
+### IF III: Letter to Victor on observance of Easter
+Roberts, p568-9 (Roberts III; Keble fragment #III, likely genuine).  Note from
 Roberts:
 
 > We are indebted again to Eusebius for this valuable fragment from the Epistle
@@ -2097,8 +2113,7 @@ Church the celebration of the Eucharist, by way of showing him respect ; so
 that they parted in peace one from the other, maintaining peace with the whole
 Church, both those who did observe [this custom] and those who did not.
 
-### Fragment XXXI in Roberts
-
+### IF XXXI
 Roberts, p573 (Keble fragment #XXIX, "doubtful"):
 
 > For the Judge of the whole world is thus proclaimed, who, having been hidden
@@ -2109,16 +2124,14 @@ made a shelter for the nations as for the fowls of heaven, under which boughs,
 all having taken refuge, as birds flocking to a nest, have been made partakers
 of that wholesome and celestial food which is derived from them. p573
 
-### Roberts Fragment XXXVI
-
+### IF XXXVI
 Roberts p574, Keble #XXXV, "probably" genuine:
 
 > ... and "the word is nigh thee, in thy mouth and in thy heart," [[Romans
 10:8]] as the same apostle [[Paul]] declares, being easy of comprehension to
 those who are obedient.
 
-### Roberts fragment XXXVII
-
+### IF XXXVII
 Roberts p574, Keble #XXXVI, "probably" genuine:
 
 > Those who have become acquainted with the secondary (i.e., under Christ)
@@ -2126,24 +2139,21 @@ constitutions of the apostles, are aware that the Lord instituted a new
 oblation, in the new covenant, according to [the declaration of] Malachi the
 prophet.
 
-### Roberts fragment XXXVIII
-
+### IF XXXVIII
 Roberts p575, Keble #XXXVII, "probably" genuine:
 
 > The apostles ordained, that "we should not judge any one in respect to meat or
 drink, or in regard to a feast day, or the new moons, or the sabbaths."
 [[Colossians 2:16]]
 
-### Roberts fragment XL
-
+### IF XL
 Roberts p575, Keble #XXXIX "doubtful":
 
 > ... For thus, according to the holy apostle, the sin of fornication is
 perpetrated against the body, as involving also sin against the temple of God.
 [[1 Corinthians 3:16-17]]
 
-### Roberts fragment LIV
-
+### IF LIV
 Roberts p577, Keble Syriac fragment *e*, inside insertion from "not old"
 Armenian manuscript, unclear if genuine:
 
