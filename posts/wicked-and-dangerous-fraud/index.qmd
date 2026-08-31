@@ -4,7 +4,7 @@ aliases:
 - /wicked-and-dangerous-fraud.html
 date: 2022-07-16 12:39
 categories:
-- politics
+- Politics
 ---
 
 Here is a quote about American intellectual liberals from "No name in the

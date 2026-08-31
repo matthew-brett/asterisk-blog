@@ -4,7 +4,7 @@ aliases:
 - /die-playing-our-own-thing.html
 date: 2023-04-21 11:39
 categories:
-- organizations
+- Organizations
 ---
 
 [Benny Goodman](https://en.wikipedia.org/wiki/Benny_Goodman) and his band were

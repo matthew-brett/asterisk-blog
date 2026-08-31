@@ -4,7 +4,7 @@ aliases:
 - /i-do-it.html
 date: 2020-07-26 13:18
 categories:
-- organizations
+- Organizations
 ---
 
 [Andrew Grove](https://en.wikipedia.org/wiki/Andrew_Grove) gives a vivid

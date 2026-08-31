@@ -4,11 +4,10 @@ aliases:
 - /joys-of-craft.html
 date: 2018-10-12 14:41
 categories:
-- organizations
-- open source
-- free software
-- programming
-- coding
+- Organizations
+- Open source
+- Free software
+- Coding
 description: The Joys of the Craft
 ---
 

@@ -4,7 +4,7 @@ aliases:
 - /attachment-to-ai.html
 date: 2026-03-17 09:10
 categories:
-- misc
+- Misc
 ---
 
 I use the Vim text editor.  I have used it for many years, my fingers know where to go and what to type, to do what I want to do.

@@ -4,7 +4,7 @@ aliases:
 - /chapter-3-of-the-raspberry-pi-book.html
 date: 2019-11-29 11:14
 categories:
-- teaching
+- Teaching
 ---
 
 The [Raspberry Pi](https://www.raspberrypi.org) is a small cheap computer designed to get children interested in programming.

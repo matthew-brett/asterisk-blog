@@ -4,7 +4,7 @@ aliases:
 - /world-divided.html
 date: 2020-07-21 19:53
 categories:
-- misc
+- Misc
 ---
 
 > “The world,” [Dwight Morrow] once wrote to his son, “is divided into people

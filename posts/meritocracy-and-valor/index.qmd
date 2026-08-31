@@ -4,7 +4,7 @@ aliases:
 - /meritocracy-and-valor.html
 date: 2024-03-13 16:12
 categories:
-- organizations
+- Organizations
 ---
 
 [Christopher Lasch](https://en.wikipedia.org/wiki/Christopher_Lasch) wrote a book called [The revolt of the elites and the betrayal of democracy](https://www.alibris.co.uk/The-Revolt-of-the-Elites-and-the-Betrayal-of-Democracy-Christopher-Lasch/book/5741108) (1996).

@@ -4,7 +4,7 @@ aliases:
 - /google-bard-appears-to-admit-it-was-told-to-recommend-masks.html
 date: 2023-05-01 12:25
 categories:
-- information
+- Information
 ---
 
 A friend of mine was interested in the way that the [Google Bard

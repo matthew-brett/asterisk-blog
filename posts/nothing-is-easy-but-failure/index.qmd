@@ -4,7 +4,7 @@ aliases:
 - /nothing-is-easy-but-failure.html
 date: 2020-07-29 11:23
 categories:
-- coding
+- Coding
 ---
 
 From an [interview about Domain Driven

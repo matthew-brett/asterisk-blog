@@ -4,7 +4,7 @@ aliases:
 - /universities-and-truth.html
 date: 2020-07-06 14:19
 categories:
-- teaching
+- Teaching
 ---
 
 As I was reading the book [How to take smart

@@ -4,7 +4,7 @@ aliases:
 - /what-is-critical-race-theory.html
 date: 2022-07-28 10:07
 categories:
-- politics
+- Politics
 ---
 
 These are from the standard work "Critical Race Theory: An Introduction", Third Edition, by Richard Delgado and Jean Stefancic (2017).

@@ -4,8 +4,8 @@ aliases:
 - /how-should-we-teach-computing.html
 date: 2016-08-19 12:00
 categories:
-- teaching
-- coding
+- Teaching
+- Coding
 description: Teaching students for the long term
 ---
 

@@ -4,7 +4,7 @@ aliases:
 - /surgisphere-machine-learning.html
 date: 2020-06-07 15:20
 categories:
-- data science
+- Data science
 ---
 
 [Surgisphere](https://en.wikipedia.org/wiki/Surgisphere) is the company that

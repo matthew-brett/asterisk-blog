@@ -4,7 +4,7 @@ aliases:
 - /candor-commitment-courage-and-competence.html
 date: 2023-07-27 11:07
 categories:
-- organizations
+- Organizations
 ---
 
 From "National Defense" (1981) by James Fallows, pages 110-111.

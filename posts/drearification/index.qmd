@@ -4,7 +4,7 @@ aliases:
 - /drearification.html
 date: 2020-06-18 12:53
 categories:
-- teaching
+- Teaching
 ---
 
 UK universities can be tiring and joyless places to work.

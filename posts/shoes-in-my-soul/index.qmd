@@ -4,7 +4,7 @@ aliases:
 - /shoes-in-my-soul.html
 date: 2024-03-31 18:11
 categories:
-- organizations
+- Organizations
 ---
 
 Trinh Nhoc is 90 years old.  He rather sweetly describes himself (in French) as

@@ -4,7 +4,7 @@ aliases:
 - /code-is-for-people.html
 date: 2020-06-07 18:47
 categories:
-- data science
+- Data science
 ---
 
 [Guido van Rossum](https://en.wikipedia.org/wiki/Guido_van_Rossum) gave

@@ -4,7 +4,7 @@ aliases:
 - /lose-total-control.html
 date: 2025-03-04 11:59
 categories:
-- politics
+- Politics
 ---
 
 In a CNN interview in September 2024, Hillary Clinton said that, without

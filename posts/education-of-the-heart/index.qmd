@@ -4,7 +4,7 @@ aliases:
 - /education-of-the-heart.html
 date: 2022-08-02 13:53
 categories:
-- politics
+- Politics
 ---
 
 [Dr Wyatt Tee Walker](https://en.wikipedia.org/wiki/Wyatt_Tee_Walker) was a

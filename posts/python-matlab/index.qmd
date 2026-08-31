@@ -4,11 +4,10 @@ aliases:
 - /python-matlab.html
 date: 2017-11-08 12:00
 categories:
-- teaching
-- programming
-- education
-- open source
-- free software
+- Teaching
+- Coding
+- Open source
+- Free software
 description: Comparing Python and Matlab for Psychology teaching
 keywords:
 - Matlab

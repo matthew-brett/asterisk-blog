@@ -4,7 +4,7 @@ aliases:
 - /they-hate-us-for-our-freedom.html
 date: 2026-04-23 15:28
 categories:
-- misc
+- Misc
 ---
 
 I found myself watching the first episode of the original (1978) Battlestar

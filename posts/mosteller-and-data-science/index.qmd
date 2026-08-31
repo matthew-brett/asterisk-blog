@@ -4,7 +4,7 @@ aliases:
 - /mosteller-and-data-science.html
 date: 2020-07-14 12:30
 categories:
-- data science
+- Data science
 ---
 
 While chasing down a reference, I came across this paper:

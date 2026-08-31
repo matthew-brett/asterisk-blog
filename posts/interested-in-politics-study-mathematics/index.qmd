@@ -4,7 +4,7 @@ aliases:
 - /interested-in-politics-study-mathematics.html
 date: 2022-08-09 15:55
 categories:
-- politics
+- Politics
 ---
 
 From Dominic Cummings' blog: [On the referendum #20

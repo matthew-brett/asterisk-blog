@@ -4,9 +4,8 @@ aliases:
 - /improper-teaching.html
 date: '2019-04-05 16:58:08'
 categories:
-- teaching
-- programming
-- education
+- Teaching
+- Coding
 bibliography:
 - ../../data-science-bib/data_science.bib
 ---

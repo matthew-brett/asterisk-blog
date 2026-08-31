@@ -4,7 +4,7 @@ aliases:
 - /quantum-realm.html
 date: 2021-01-11 13:28
 categories:
-- politics
+- Politics
 ---
 
 > What we did on Jan. 6 in many ways was an evolution in consciousness, because

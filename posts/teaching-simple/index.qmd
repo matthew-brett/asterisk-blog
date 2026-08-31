@@ -4,8 +4,8 @@ aliases:
 - /teaching-simple.html
 date: 2016-12-09 12:00
 categories:
-- teaching
-- coding
+- Teaching
+- Coding
 description: We should teach for the long term using simple tools
 keywords:
 - Thinking

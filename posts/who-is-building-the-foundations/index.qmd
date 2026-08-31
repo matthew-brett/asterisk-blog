@@ -4,9 +4,9 @@ aliases:
 - /who-is-building-the-foundations.html
 date: 2019-05-14 16:14
 categories:
-- teaching
-- open source
-- culture
+- Teaching
+- Open source
+- Culture
 keywords:
 - Python
 - scientific Python

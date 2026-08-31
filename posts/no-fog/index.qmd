@@ -4,7 +4,7 @@ aliases:
 - /no-fog.html
 date: 2022-09-11 17:33
 categories:
-- misc
+- Misc
 ---
 
 This is an extended version of a fairly well-known quote from the essay "Paths

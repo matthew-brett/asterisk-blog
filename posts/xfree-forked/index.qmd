@@ -4,10 +4,10 @@ aliases:
 - /xfree-forked.html
 date: 2013-06-25 16:00
 categories:
-- organizations
-- management
-- open source
-- free software
+- Organizations
+- Management
+- Open source
+- Free software
 description: A short history of the XFree86 / X.org fork and some interpretations
 keywords:
 - core

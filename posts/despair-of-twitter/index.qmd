@@ -4,7 +4,7 @@ aliases:
 - /despair-of-twitter.html
 date: 2020-01-04 12:43
 categories:
-- politics
+- Politics
 ---
 
 From the always-inspiring [Despair.com

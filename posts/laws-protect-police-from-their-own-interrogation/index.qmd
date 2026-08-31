@@ -4,7 +4,7 @@ aliases:
 - /laws-protect-police-from-their-own-interrogation.html
 date: 2020-06-07 13:25
 categories:
-- politics
+- Politics
 ---
 
 In the article [Police

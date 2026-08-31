@@ -4,11 +4,10 @@ aliases:
 - /python-r-2019.html
 date: '2019-04-10 14:10:06'
 categories:
-- teaching
-- programming
-- education
-- open source
-- free software
+- Teaching
+- Coding
+- Open source
+- Free software
 keywords:
 - Matlab
 - Python

@@ -4,7 +4,7 @@ aliases:
 - /data-no-defense.html
 date: 2020-07-23 21:03
 categories:
-- data science
+- Data science
 ---
 
 David Shor is a 28-year-old political data analyst who worked for the 2012

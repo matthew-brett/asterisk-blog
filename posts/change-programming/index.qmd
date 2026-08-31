@@ -4,7 +4,7 @@ aliases:
 - /change-programming.html
 date: 2020-07-18 11:01
 categories:
-- teaching
+- Teaching
 bibliography:
 - ../../data-science-bib/data_science.bib
 ---

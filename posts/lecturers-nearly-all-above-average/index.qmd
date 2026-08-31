@@ -4,7 +4,7 @@ aliases:
 - /lecturers-nearly-all-above-average.html
 date: 2020-03-13 19:29
 categories:
-- teaching
+- Teaching
 ---
 
 [Patricia Cross](https://en.wikipedia.org/wiki/K._Patricia_Cross) found that 94

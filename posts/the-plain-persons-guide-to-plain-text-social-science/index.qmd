@@ -4,7 +4,7 @@ aliases:
 - /the-plain-persons-guide-to-plain-text-social-science.html
 date: 2019-07-08 22:44
 categories:
-- teaching
+- Teaching
 ---
 
 Exploring some links, I came across [this course

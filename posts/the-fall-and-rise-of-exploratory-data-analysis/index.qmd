@@ -4,7 +4,7 @@ aliases:
 - /the-fall-and-rise-of-exploratory-data-analysis.html
 date: 2019-09-02 10:30
 categories:
-- data science
+- Data science
 bibliography:
 - ../../blog.bib
 - ../../data-science-bib/data_science.bib

@@ -4,11 +4,10 @@ aliases:
 - /python-matlab-r-julia.html
 date: '2019-04-05 14:26:06'
 categories:
-- teaching
-- programming
-- education
-- open source
-- free software
+- Teaching
+- Coding
+- Open source
+- Free software
 keywords:
 - Matlab
 - Python

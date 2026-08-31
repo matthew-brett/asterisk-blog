@@ -4,7 +4,7 @@ aliases:
 - /maths-and-a-hard-chair.html
 date: 2019-09-04 17:47
 categories:
-- teaching
+- Teaching
 bibliography:
 - ../../blog.bib
 ---

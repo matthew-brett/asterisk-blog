@@ -4,7 +4,7 @@ aliases:
 - /covid-and-cronies.html
 date: 2020-07-06 17:06
 categories:
-- politics
+- Politics
 ---
 
 I have just finished reading [The COVID-19 Catastrophe: What's Gone Wrong and

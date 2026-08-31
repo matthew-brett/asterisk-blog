@@ -4,8 +4,8 @@ aliases:
 - /love-letter.html
 date: 2016-01-15 14:00
 categories:
-- teaching
-- coding
+- Teaching
+- Coding
 description: A love letter to the computer
 keywords:
 - Thinking

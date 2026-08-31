@@ -4,7 +4,7 @@ aliases:
 - /to-be-an-individual.html
 date: 2022-08-07 09:27
 categories:
-- organizations
+- Organizations
 ---
 
 [Tara Henley](https://tarahenley.substack.com/), [quoting William Deresiewicz's

@@ -4,7 +4,7 @@ aliases:
 - /thinking-is-the-hardest-work.html
 date: 2019-09-05 13:37
 categories:
-- teaching
+- Teaching
 ---
 
 There follows a quote from Henry Ford in 1929:

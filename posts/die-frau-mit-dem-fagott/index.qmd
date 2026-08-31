@@ -4,7 +4,7 @@ aliases:
 - /die-frau-mit-dem-fagott.html
 date: 2021-02-06 18:10
 categories:
-- misc
+- Misc
 ---
 
 I just came across [this

@@ -4,7 +4,7 @@ aliases:
 - /spiritual-damage.html
 date: 2020-11-19 10:54
 categories:
-- teaching
+- Teaching
 ---
 
 It is shocking to read [Max Weber's](https://en.wikipedia.org/wiki/Max_Weber)

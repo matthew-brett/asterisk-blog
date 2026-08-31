@@ -4,7 +4,7 @@ aliases:
 - /not-professional.html
 date: 2020-08-08 10:58
 categories:
-- organizations
+- Organizations
 ---
 
 Among many interesting bits of advice on the BBCs [CEO

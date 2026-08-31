@@ -4,7 +4,7 @@ aliases:
 - /the-great-university-con.html
 date: 2019-09-11 10:00
 categories:
-- teaching
+- Teaching
 ---
 
 My brother pointed me to a painful, well-written article on the collapse of the

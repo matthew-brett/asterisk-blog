@@ -4,7 +4,7 @@ aliases:
 - /parkinsons-law.html
 date: 2022-05-10 18:02
 categories:
-- organizations
+- Organizations
 ---
 
 Here is C. Northcote Parkinson's terrifying and utterly convincing explanation

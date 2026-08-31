@@ -4,7 +4,7 @@ aliases:
 - /postmodern-consent.html
 date: 2022-08-09 10:59
 categories:
-- misc
+- Misc
 ---
 
 **Warning : this page refers in a general way to

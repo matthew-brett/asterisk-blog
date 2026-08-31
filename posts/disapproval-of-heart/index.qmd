@@ -4,7 +4,7 @@ aliases:
 - /disapproval-of-heart.html
 date: 2013-04-22 00:50
 categories:
-- organizations
+- Organizations
 - History
 - China
 description: Sima Qian on the dangers of a wry smile

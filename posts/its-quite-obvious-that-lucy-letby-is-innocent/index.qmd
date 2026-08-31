@@ -4,7 +4,7 @@ aliases:
 - /its-quite-obvious-that-lucy-letby-is-innocent.html
 date: 2026-04-24 07:00
 categories:
-- misc
+- Misc
 ---
 
 [Lucy Letby](https://en.wikipedia.org/wiki/Lucy_Letby) is a nurse who

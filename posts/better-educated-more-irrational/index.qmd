@@ -4,7 +4,7 @@ aliases:
 - /better-educated-more-irrational.html
 date: 2022-08-06 11:26
 categories:
-- politics
+- Politics
 ---
 
 Dominic Cummings on the [irrationality of the

@@ -4,7 +4,7 @@ aliases:
 - /who-do-the-work.html
 date: 2022-07-08 19:48
 categories:
-- organizations
+- Organizations
 ---
 
 Here is another quote from "Fumbling the future: how Xerox invented, then

@@ -4,7 +4,7 @@ aliases:
 - /you-cant-do-data-science-in-a-gui.html
 date: 2019-07-08 19:25
 categories:
-- teaching
+- Teaching
 ---
 
 [Hadley

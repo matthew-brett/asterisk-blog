@@ -4,7 +4,7 @@ aliases:
 - /nissan-knows-what-you-did-last-summer.html
 date: 2024-01-01 12:45
 categories:
-- information
+- Information
 ---
 
 Following links from a [New York Times article on cars and

@@ -4,7 +4,7 @@ aliases:
 - /swift-downfall.html
 date: 2022-07-09 12:41
 categories:
-- coding
+- Coding
 ---
 
 A while ago, a friend pointed me to the [reasoned discussion at

@@ -4,7 +4,7 @@ aliases:
 - /python-for-teaching-computer-science.html
 date: 2019-12-06 19:11
 categories:
-- teaching
+- Teaching
 ---
 
 As of 2014

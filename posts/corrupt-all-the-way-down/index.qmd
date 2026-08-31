@@ -4,7 +4,7 @@ aliases:
 - /corrupt-all-the-way-down.html
 date: 2023-03-29 13:19
 categories:
-- organizations
+- Organizations
 ---
 
 [Pierre Sprey](https://en.wikipedia.org/wiki/Pierre_Sprey) was a major

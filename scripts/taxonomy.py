@@ -2,29 +2,29 @@
 
 from __future__ import annotations
 
-# casefold(input) -> canonical category label
+# casefold(input) -> canonical category label (capitalize first word only)
 CATEGORY_CANON: dict[str, str] = {
     "g+ archive": "G+ archive",
-    "teaching": "teaching",
-    "organizations": "organizations",
-    "politics": "politics",
-    "misc": "misc",
+    "teaching": "Teaching",
+    "organizations": "Organizations",
+    "politics": "Politics",
+    "misc": "Misc",
     "nt criticism": "NT criticism",
     "bible criticism": "Bible criticism",
-    "open source": "open source",
-    "open-source": "open source",
-    "free software": "free software",
-    "data science": "data science",
-    "education": "education",
-    "information": "information",
-    "coding": "coding",
-    "code": "coding",
-    "management": "management",
-    "programming": "programming",
+    "open source": "Open source",
+    "open-source": "Open source",
+    "free software": "Free software",
+    "data science": "Data science",
+    "education": "Teaching",
+    "information": "Information",
+    "coding": "Coding",
+    "code": "Coding",
+    "management": "Management",
+    "programming": "Coding",
     "history": "History",
     "china": "China",
-    "culture": "culture",
-    "literature": "literature",
+    "culture": "Culture",
+    "literature": "Literature",
     "academia": "Academia",
 }
 

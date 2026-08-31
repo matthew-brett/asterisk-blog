@@ -4,7 +4,7 @@ aliases:
 - /barbarism.html
 date: 2026-03-07 07:25
 categories:
-- politics
+- Politics
 ---
 
 Quoting from [Aimé Césaire's "Discourse on Colonialism"

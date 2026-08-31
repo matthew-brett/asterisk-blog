@@ -4,7 +4,7 @@ aliases:
 - /a-bad-time.html
 date: 2013-04-21 16:30
 categories:
-- organizations
+- Organizations
 - History
 - China
 description: Sima Qian on decay

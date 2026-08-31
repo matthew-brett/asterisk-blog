@@ -4,7 +4,7 @@ aliases:
 - /kratopistia.html
 date: 2026-07-14 10:19
 categories:
-- misc
+- Misc
 ---
 
 *Kratopistia* is a Greek term I have just invented, for the

@@ -4,7 +4,7 @@ aliases:
 - /malice-cured-by-stupidity.html
 date: 2021-09-08 15:22
 categories:
-- organizations
+- Organizations
 ---
 
 [Kit Smart](https://en.wikipedia.org/wiki/Christopher_Smart) was a religious

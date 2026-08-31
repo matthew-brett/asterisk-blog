@@ -4,7 +4,7 @@ aliases:
 - /lecturers-used-to-value-teaching.html
 date: 2020-03-13 19:55
 categories:
-- teaching
+- Teaching
 ---
 
 Like the [last post](/posts/lecturers-nearly-all-above-average/), this

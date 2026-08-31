@@ -4,7 +4,7 @@ aliases:
 - /data-science-tools-over-time.html
 date: 2020-02-05 10:46
 categories:
-- teaching
+- Teaching
 ---
 
 It looks as though Python is starting to dominate as the data science language

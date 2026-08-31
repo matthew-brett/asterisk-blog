@@ -4,7 +4,7 @@ aliases:
 - /makes-sense.html
 date: 2016-01-15 14:00
 categories:
-- teaching
+- Teaching
 description: Something that looks like understanding
 keywords:
 - Thinking

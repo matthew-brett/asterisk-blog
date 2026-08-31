@@ -4,7 +4,7 @@ aliases:
 - /love-and-warmth.html
 date: 2024-09-05 10:31
 categories:
-- literature
+- Literature
 ---
 
 Nietzsche's publisher, Ernst Schmeitzner, expressed his frustrations at Wagner and his circle at Bayreuth:

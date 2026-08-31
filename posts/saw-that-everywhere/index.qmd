@@ -4,7 +4,7 @@ aliases:
 - /saw-that-everywhere.html
 date: 2024-05-07 11:36
 categories:
-- organizations
+- Organizations
 ---
 
 [John Gage](https://en.wikipedia.org/wiki/John_Gage) was at Berkeley during the student protests in the sixties.

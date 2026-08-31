@@ -4,7 +4,7 @@ aliases:
 - /language-hygiene-initiative.html
 date: 2021-07-15 15:39
 categories:
-- organizations
+- Organizations
 ---
 
 ## Take my money if I use these phrases

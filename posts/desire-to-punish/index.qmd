@@ -4,7 +4,7 @@ aliases:
 - /desire-to-punish.html
 date: 2020-10-30 16:35
 categories:
-- misc
+- Misc
 ---
 
 Nietzsche, predicting the age of social media:

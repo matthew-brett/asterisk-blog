@@ -4,7 +4,7 @@ aliases:
 - /mosteller-and-muddy.html
 date: 2020-07-14 12:30
 categories:
-- teaching
+- Teaching
 ---
 
 This is a teaching suggestion I found in this paper:

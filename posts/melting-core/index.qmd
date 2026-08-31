@@ -4,10 +4,10 @@ aliases:
 - /melting-core.html
 date: 2013-06-25 14:00
 categories:
-- organizations
-- management
-- open source
-- free software
+- Organizations
+- Management
+- Open source
+- Free software
 description: NetBSD developers on death by leadership vacuum
 keywords:
 - core

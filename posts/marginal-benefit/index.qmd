@@ -4,7 +4,7 @@ aliases:
 - /marginal-benefit.html
 date: 2024-12-01 13:44
 categories:
-- politics
+- Politics
 ---
 
 From [Rob Henderson's Nov 2024 interview at Wellesley

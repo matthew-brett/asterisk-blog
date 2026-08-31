@@ -4,7 +4,7 @@ aliases:
 - /risk-from-artificial-intelligence.html
 date: 2023-05-01 17:41
 categories:
-- misc
+- Misc
 ---
 
 The [AI impacts

@@ -4,7 +4,7 @@ aliases:
 - /isms-and-ai.html
 date: 2026-06-03 11:55
 categories:
-- politics
+- Politics
 ---
 
 I have just finished reading Musa Al-Gharbi's book [We Have Never Been
