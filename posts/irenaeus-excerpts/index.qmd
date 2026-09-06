@@ -62,7 +62,7 @@ explanation or insertion; I haven't changed this.
 
 > Inasmuch as certain men have set the truth aside, and bring in lying words
 and vain genealogies, which," as the apostle says, "minister questions rather
-than godly edifying which is in faith," [[quoting 1 Tim 1:4]] 1, Preface:1 p315
+than godly edifying which is in faith," [[quoting 1 Tim 1:4]] AH 1, Preface:1 p315
 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/1)
 
 ### AH 1, III:2 (12)
@@ -70,7 +70,7 @@ than godly edifying which is in faith," [[quoting 1 Tim 1:4]] 1, Preface:1 p315
 > 2/ The production, again, of the Duodecad of the Aeons, is indicated by the
 fact that the Lord was twelve years of age when He disputed with the teachers
 of the law, and by the election of the apostles, for of these there were
-twelve. [[Luke vi 13]], AH 1,III:2 p319 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/18)
+twelve. [[Luke vi 13]], AH 1, III:2 p319 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/18)
 
 ### AH 1, III:3 (12)
 
@@ -347,7 +347,7 @@ sheep to the slaughter." AH 2, XXII:2 p390 [BKV](https://bkv.unifr.ch/en/works/c
 > ... He [[Jesus]] went up to the festival day of the passover, on which
 occasion it is written, "For many believed in Him, when they saw the signs
 which He did," [[John 2:23]] as John the disciple of the Lord records. AH 2,
-XXII, 3: p390-391
+XXII:3 p390-391
 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/324)
 
 ### AH 2, XXII:5 (John, apostle reference)
@@ -450,7 +450,7 @@ the apostles,[ [footnote 3]] ...
 >
 > [[Contents of footnote 3]] The words are "apostolorum dictatio," probably
 referring to the *letters* of the apostles, as distinguished from their
-*preaching* already mentioned. AH 2 XXXV:4 p413
+*preaching* already mentioned. AH 2, XXXV:4 p413
 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/400)
 (SA)
 
@@ -762,7 +762,7 @@ according to John relates His original, effectual, and glorious generation from
 the Father, thus declaring, "In the beginning was the Word, and the Word was
 with God, and the Word was God." Also, "all things were made by Him, and
 without Him was nothing made." For this reason, too, is that Gospel full of all
-confidence, for such is His person. AH 3, XI:7,8 p428
+confidence, for such is His person. AH 3, XI:7-8 p428
 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/456)
 
 ### AH 3, XI:9 (AJG, Paul, SA)
@@ -945,7 +945,7 @@ brethren, ye know how that from the days of old ..." [[Acts 15:7-11]] ...
 > And when these things had been said, and all had given their consent, they
 wrote to them after this manner: "The apostles, and the presbyters, [and] the
 brethren, unto those brethren from among the Gentiles who are in Antioch, and
-Syria, and Cilicia, greeting:" [[Acts 15:22-23]] AH 3, XII:13 p436
+Syria, and Cilicia, greeting:" [[Acts 15:22-23]] AH 3, XII:14 p436
 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/472)
 
 ### AH 3, XII:15 (John, apostle reference)
@@ -1227,7 +1227,7 @@ Lord, and Father, as I have shown — if He is not alone God and Father. Jesus,
 therefore, will be to them the author and teacher of such transgression,
 inasmuch as He commanded: that one Being should be called Father, [[Matthew
 23:9]] thus imposing upon them the necessity of confessing the Creator as
-their Father, as has been pointed out. AH 4 I:2 p463 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/563) (Matthew, SA)
+their Father, as has been pointed out. AH 4, I:2 p463 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/563) (Matthew, SA)
 
 ### AH 4, II:3 (John reference)
 
@@ -1686,14 +1686,14 @@ speak all kinds of languages, and bring to light for the general benefit the
 hidden things of men, and declare the mysteries of God, whom also the apostle
 terms "spiritual," ... And for this cause does the apostle, explaining himself,
 make it clear that the saved man is a complete man as well as a spiritual man;
-saying thus in the first Epistle to the Thessalonians, ... AH 5 VI:1 p531-2
+saying thus in the first Epistle to the Thessalonians, ... AH 5, VI:1 p531-2
 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/804)
 
 ### AH 5, VI:2
 
 > And not only does he (the apostle) acknowledge our bodies to be a temple,
 but even the temple of Christ, saying thus to the Corinthians, "Know ye not
-that your bodies are members of Christ? ..." AH 5 VI:2 p532 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/805) (Paul)
+that your bodies are members of Christ? ..." AH 5, VI:2 p532 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/805) (Paul)
 
 ### AH 5, VIII:1
 
@@ -1805,7 +1805,7 @@ books compiled (συντεταγμενα) by him.  And he says in addition, "Now
 things are credible to believers." And he says that, "when the traitor Judas
 did not give credit to them, and put the question, 'How then can things about
 to bring forth so abundantly be wrought by the Lord?' the Lord declared, 'They
-who shall come to these [times] shall see.'" AH 5, XXXIII:4, p562-3 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/918)
+who shall come to these [times] shall see.'" AH 5, XXXIII:3-4, p562-3 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/918)
 
 ### AH 5, XXXIV:2 (John reference)
 
@@ -1831,7 +1831,7 @@ that this is the tabernacle of God, in which God will dwell with men. AH 5,
 XXXV:2 p566
 [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/926)
 
-### AH 5, XXXVI:1-3 (John, apostle reference)
+### AH 5, XXXVI:1-3 (SA, Paul, John)
 
 > But when this [present] fashion [of things] passes away, and man has been
 renewed, and flourishes in an incorruptible state, so as to preclude the
@@ -1844,7 +1844,6 @@ name remain." And as the presbyters say, Then those who are deemed worthy of
 an abode in heaven shall go there, others shall enjoy the delights of paradise,
 and others shall possess the splendour of the city; for everywhere the Saviour
 shall be seen according as they who see Him shall be worthy.
-[BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/928)
 >
 > 2/ [They say, moreover], that there is this distinction between the
 habitation of those who produce an hundred-fold, and that of those who produce
@@ -1867,8 +1866,6 @@ kingdom, the righteous man who is upon the earth shall then forget to die.
 He is excepted who did put all things under Him. And when all things shall be
 subdued unto Him, then shall the Son also Himself be subject unto Him who put
 all things under Him, that God may be all in all." [[1 Cor 15:27-28]]
-[BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/929)
-(SA, Paul)
 >
 > 3/ John, therefore, did distinctly foresee the first "resurrection of the
 just," [[Luke 14:14]] and the inheritance in the kingdom of the earth; and what
@@ -1876,8 +1873,8 @@ the prophets have prophesied concerning it harmonize [with his vision]. For the
 Lord also taught these things, when He promised that He would have the mixed
 cup new with His disciples in the kingdom. The apostle, too, has confessed that
 the creation shall be free from the bondage of corruption, [so as to pass] into
-the liberty of the sons of God. [[Romans 8:21]] AH 5, XXXVI:2-3 p567
-[BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/930) (Paul)
+the liberty of the sons of God. [[Romans 8:21]] ... AH 5, XXXVI:1-3 p566-7
+[BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/928) (Paul)
 
 ## Use of "John", "apostle" in "Demonstration of the Apostolic Preaching"
 
