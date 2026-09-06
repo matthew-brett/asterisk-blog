@@ -26,11 +26,12 @@ This page has excepts from Irenaeus' "Against Heresies" (AH) and his
 Irenaeus.  The excerpts record all mentions of "John" (where not referring to
 John the Baptist), and of "apostle".
 
-The English translations of AH and of the fragments come from @anf01.  Each
-section of AH here gives book number, chapter number (in Roman numerals) and
-section number.  The text also gives the page number in @anf01, and the
-corresponding link to the [Bibliothek der Kirchenväter
-site](https://bkv.unifr.ch) that has Roberts' text as clean web pages.
+The English translations of AH and of the fragments come from @anf01 (ANF01).
+Each section of AH here gives book number, chapter number (in Roman numerals)
+and section number.  The text also gives the page number in ANF01, a link to
+the relevant page on Archive.org, and the corresponding link to the [Bibliothek
+der Kirchenväter site](https://bkv.unifr.ch) that has the ANF01 text as clean
+web pages.
 
 ## Abbreviations and notation
 
@@ -39,24 +40,25 @@ site](https://bkv.unifr.ch) that has Roberts' text as clean web pages.
 * EH - Eusebius' Ecclesiastical History.
 * AJG - Author of John's Gospel.
 * AA - Author of the Apocalypse.
-* AJ1, AJ2  - Author of the letters 1 John, 2 John.
+* A1J, A2J  - Author of the letters 1 John, 2 John.
 * JsZ - John son of Zebedee, one of the 12 Apostles.
 * SA - Source of Authority.  It is not clear who specifically is being referred
   to (other than those named explicitly).
-* IF - Irenaeus Fragments (Roberts section numbers from @anf01; letters and other fragments attributed to Irenaeus).
+* IF - Irenaeus Fragments (section numbers from @anf01; letters and other
+  fragments attributed to Irenaeus).
 * BKV — [Bibliothek der Kirchenväter](https://bkv.unifr.ch)
 
-For each quote referring to "apostle", I have classified the meaning into one
-of more of "12" (the 12 apostles specifically), "12 + Paul", "AJG", "JsZ" or
-"SA", allowing that "SA" might also be "12".  I have labeled quotes referring
-to "John" specifically in the heading.  If there is no such label, then the
-quote refers to "apostle".
+At the end of each quote, if the quote refers to John (not the baptist),
+I classify which meaning of John Irenaeus intends.  Similarly, for each quote
+referring to "apostle", I have classified the meaning into one of more of "12"
+(the 12 apostles specifically), "12 + Paul", "AJG", "JsZ" or "SA", allowing
+that "SA" might also be "12".
 
-Quotes and page numbers below are from @anf01. Text in quotes enclosed in
-*double* square brackets ([[like this]]) is my own explanation, and is not in
-Roberts (@anf01).  Text enclosed in single square brackets ([like this]) comes
-from Roberts.  Roberts sometimes uses parentheses — like (this) — for
-explanation or insertion; I haven't changed this.
+Quotes and page numbers below are from @anf01 (ANF01). Text in quotes enclosed
+in *double* square brackets ([[like this]]) is my own explanation, and is not
+in ANF01.  Text enclosed in single square brackets ([like this]) comes from
+ANF01. ANF01 sometimes uses parentheses — like (this) — for explanation or
+insertion; I haven't changed that use.
 
 ## Use of "John" and "apostle" in Against Heresies
 
@@ -250,7 +252,7 @@ says he, "He that bids them be of good-speed is a partaker with their evil
 deeds;" [[2 John 1:10-11]] and that with reason, "for there is no good-speed
 to the ungodly," saith the Lord.
 
-* John: AJ2, "the disciple of the Lord"
+* John: A2J, "the disciple of the Lord"
 
 * [ANF01 p342](https://archive.org/details/antenicenefathers01robe/page/342/mode/1up)
 * [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/104)
@@ -1455,7 +1457,7 @@ words, concerning God, has been made manifest.
   igitur et Apostolorum et ^3^discentium eorum ex verbis ipsorum de Deo facta
   est sententia.", where footnote 3 is: "discentium, i.e. μαθηται as at [p 68],
   meaning S. Luke and S. Mark.  So "(Mark and Luke)" are inferred by Harvey and
-  Roberts.
+  ANF01.
 
 ### AH 3, XVI:1-2
 
@@ -1529,7 +1531,7 @@ dwelt among us." [[John 1:14]]
 > Wherefore he again exclaims in his Epistle, "Every one that believeth that
 Jesus is the Christ, has been born of God;" [[1 John 5:1]]
 
-* John: as "His disciple"
+* John: as "His disciple", A1J
 
 * [ANF01 p443](https://archive.org/details/antenicenefathers01robe/page/443/mode/1up)
 * [BKV](https://bkv.unifr.ch/en/works/cpg-1306/versions/against-heresies/divisions/495)
@@ -2684,8 +2686,7 @@ shown you in brief. ... DAP 99, p108 (SA)
 
 These are from various sources, noted below for each.
 
-[Keble
-1872](https://archive.org/details/42ALibraryOfFathersOfTheHolyCatholicV42):
+From @keble1972ah:
 
 > With regard to the genuineness of the fragments, Massuet the Benedictine
 Editor who had bestowed much pains in verifying those which his predecessors
@@ -2714,8 +2715,9 @@ this fragment to Diodorus or some other writer.
 Armenian" referred to above.)
 
 ### IF II: Letter to Florinus (John, apostle)
-From Roberts (@anf01), above, p568 (Roberts II; Keble fragment #II, likely
-genuine). Notes from Roberts):
+
+From ANF01 (@anf01), above, p568 (ANF01 II; Keble fragment #II, likely
+genuine). Notes from ANF01):
 
 > This interesting extract we also owe to Eusebius, who (*ut sup.*)
 took it from the work *De Ogdoade*, written after this former friend of
@@ -2756,8 +2758,9 @@ despatched, whether to the neighbouring Churches to confirm them, or to
 certain of the brethren, admonishing and exhorting them.
 
 ### IF III: Letter to Victor on observance of Easter
-Roberts, p568-9 (Roberts III; Keble fragment #III, likely genuine).  Note from
-Roberts:
+
+ANF01, p568-9 (ANF01 III; Keble fragment #III, likely genuine).  Note from
+ANF01:
 
 > We are indebted again to Eusebius for this valuable fragment from the Epistle
 of Irenaeus to Victor Bishop of Rome (Hist. Eccl. , v. 24 ; copied also by
@@ -2804,7 +2807,8 @@ that they parted in peace one from the other, maintaining peace with the whole
 Church, both those who did observe [this custom] and those who did not.
 
 ### IF XXXI
-Roberts, p573 (Keble fragment #XXIX, "doubtful"):
+
+ANF01, p573 (Keble fragment #XXIX, "doubtful"):
 
 > For the Judge of the whole world is thus proclaimed, who, having been hidden
 in the heart of the earth in a tomb for three days, and having become a great
@@ -2815,14 +2819,16 @@ all having taken refuge, as birds flocking to a nest, have been made partakers
 of that wholesome and celestial food which is derived from them. p573
 
 ### IF XXXVI
-Roberts p574, Keble #XXXV, "probably" genuine:
+
+ANF01 p574, Keble #XXXV, "probably" genuine:
 
 > ... and "the word is nigh thee, in thy mouth and in thy heart," [[Romans
 10:8]] as the same apostle [[Paul]] declares, being easy of comprehension to
 those who are obedient.
 
 ### IF XXXVII
-Roberts p574, Keble #XXXVI, "probably" genuine:
+
+ANF01 p574, Keble #XXXVI, "probably" genuine:
 
 > Those who have become acquainted with the secondary (i.e., under Christ)
 constitutions of the apostles, are aware that the Lord instituted a new
@@ -2830,21 +2836,24 @@ oblation, in the new covenant, according to [the declaration of] Malachi the
 prophet.
 
 ### IF XXXVIII
-Roberts p575, Keble #XXXVII, "probably" genuine:
+
+ANF01 p575, Keble #XXXVII, "probably" genuine:
 
 > The apostles ordained, that "we should not judge any one in respect to meat or
 drink, or in regard to a feast day, or the new moons, or the sabbaths."
 [[Colossians 2:16]]
 
 ### IF XL
-Roberts p575, Keble #XXXIX "doubtful":
+
+ANF01 p575, Keble #XXXIX "doubtful":
 
 > ... For thus, according to the holy apostle, the sin of fornication is
 perpetrated against the body, as involving also sin against the temple of God.
 [[1 Corinthians 3:16-17]]
 
 ### IF LIV
-Roberts p577, Keble Syriac fragment *e*, inside insertion from "not old"
+
+ANF01 p577, Keble Syriac fragment *e*, inside insertion from "not old"
 Armenian manuscript, unclear if genuine:
 
 > ... He [[Jesus]] gathered the apostles together, and preached the kingdom of
