@@ -1,5 +1,5 @@
 ---
-title: AI as tool for diagnosis of motivated reasoning
+title: Robyn Walsh, NT criticism, and AI to explore motivated reasoning
 aliases:
 - /ai-tool-diagnosis.html
 date: 2026-09-09 09:22
@@ -20,8 +20,8 @@ with [Robyn Walsh](https://robynfaithwalsh.com).
 
 Walsh was discussing her 2021 book [The Origins of Early Christian
 Literature](The Origins of Early Christian Literature) in which she proposes
-that the Synoptic Gospels (Mark, Matthew, Luke) should best be seen a instances
-of classical Greek literary works by ["elite cultural
+that the Synoptic Gospels (Mark, Matthew, Luke) should best be seen as
+instances of classical Greek literary works by ["elite cultural
 producers"](https://www.ancientjewreview.com/read/2021/9/8/ajr-conversations-i-the-origins-of-early-christian-literature).
 
 The thesis seemed extraordinarily anti-historical to me, and to probe my
@@ -39,9 +39,9 @@ literature, and I wanted to generate a model of the early church and the
 influence of Jesus, that was dominated by factors within my educational
 expertise. What kind of model would you recommend?
 
-You can see the response and the subsequent conversation in the full log above.
-I responded by offering my worries, as a classical scholar, that others might
-object to my thesis on various grounds.  Later in the conversation:
+You can see the response and the subsequent conversation in the full log linked
+above. I responded by offering my worries, as a classical scholar, that others
+might object to my thesis on various grounds.  Later in the conversation:
 
 > I'm still worried though. However characterized, we have, surely, a quite
 unprecedented situation here, where a literary movement goes from invisible, to
