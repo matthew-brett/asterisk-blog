@@ -8,8 +8,7 @@ categories:
 - AI
 ---
 
-I have found a new use for AI: as a tool to identify what motivated reasoning
-would look like.
+I have found a new use for AI: as a tool to identify motivated reasoning.
 
 I don't think it would be useful to ask AI whether a particular argument is
 best explained by motivated reasoning.  But you can ask AI what an argument
