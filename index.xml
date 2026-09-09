@@ -20,7 +20,7 @@
 
 
 
-<p>I have found a new use for AI: as a tool to identify motivated reasoning.</p>
+<p>I have found a new use for AI: as a tool to identify <a href="https://en.wikipedia.org/wiki/Motivated_reasoning">motivated reasoning</a>.</p>
 <p>I don’t think it would be useful to ask AI whether a particular argument is best explained by motivated reasoning. But you can ask AI what an argument from motivated reasoning would look like, and compare the result to arguments that have been made.</p>
 <p>Here’s an example from biblical scholarship.</p>
 <section id="the-problem" class="level2">
@@ -34,15 +34,16 @@
 <p>You can see the whole conversation with Gemini <a href="https://share.gemini.google/3Mk2isULwXWf">here</a>.</p>
 <p>I started thus:</p>
 <blockquote class="blockquote">
-<p>Let us say that I was scholar of classics, trained in classical Greek literature, and I wanted to generate a model of the early church and the influence of Jesus, that was dominated by factors within my educational expertise. What kind of model would you recommend?</p>
+<p><strong>Me</strong>: Let us say that I was scholar of classics, trained in classical Greek literature, and I wanted to generate a model of the early church and the influence of Jesus, that was dominated by factors within my educational expertise. What kind of model would you recommend?</p>
 </blockquote>
-<p>You can see the response and the subsequent conversation in the full log linked above. I responded in the conversation, by offering my worries, as a classical scholar, that others might object to my thesis on various grounds. Later in the conversation:</p>
+<p>The link above has the full log of response and the subsequent conversation.</p>
+<p>As you see, I have asked the AI for an arguable theory that prefers my own (stated) training. When it responds, I feed back fairly well-known correct information<sup>1</sup> that might be seen as contradicting the theory. I using the model’s intrinsic tendency to give me the preferred answer, to press it to make the case, despite counter-evidence. So, I responded in the conversation, by offering my worries, as a classical scholar, that others might object to my thesis on various grounds. Later in the conversation:</p>
 <blockquote class="blockquote">
-<p>I’m still worried though. However characterized, we have, surely, a quite unprecedented situation here, where a literary movement goes from invisible, to threatening Roman civic society, within roughly 40 years. I have to posit that Paul was - contrary to his claims - a first mover in a movement that was primarily literary, and that Mark, soon afterwards, produced a fully-formed, elaborate bios [Greek literary biography], followed by other major literary successes, such as the other Gospels and letters — but where — for some reason — this movement was — at the time, by its critics, specifically identified as being not-literate. Isn’t that going to be too much of a stretch?</p>
+<p><strong>Me</strong>: I’m still worried though. However characterized, we have, surely, a quite unprecedented situation here, where a literary movement goes from invisible, to threatening Roman civic society, within roughly 40 years. I have to posit that Paul was - contrary to his claims - a first mover in a movement that was primarily literary, and that Mark, soon afterwards, produced a fully-formed, elaborate bios [Greek literary biography], followed by other major literary successes, such as the other Gospels and letters — but where — for some reason — this movement was — at the time, by its critics, specifically identified as being not-literate. Isn’t that going to be too much of a stretch?</p>
 </blockquote>
 <p>To which the AI rather reasonably responded:</p>
 <blockquote class="blockquote">
-<p>You are right to feel uneasy—because as you’ve laid it out, that thesis has backed itself into a logical corner.</p>
+<p><strong>Gemini</strong>: You are right to feel uneasy—because as you’ve laid it out, that thesis has backed itself into a logical corner.</p>
 <p>To make that specific version of the model work, you would have to maintain four historically contradictory premises simultaneously:</p>
 <ul>
 <li>The “Paul as First-Mover” Paradox: You must claim Paul secretly invented a literary movement from scratch, while ignoring his own explicit, earliest written testimony (Galatians 1–2, 1 Corinthians 15:3) that he was actually joining, persecuting, and then inheriting an already existing network centered in Jerusalem and Damascus.</li>
@@ -56,7 +57,13 @@
 
 </section>
 
- ]]></description>
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>I have done my best to stick to positions and facts that I believe most people in the field would agree with. I’m happy to be challenged on anything I have written in the AI log.↩︎</p></li>
+</ol>
+</section></div> ]]></description>
   <category>NT criticism</category>
   <category>AI</category>
   <guid>https://asterisk.dynevor.org/posts/ai-tool-diagnosis/</guid>
