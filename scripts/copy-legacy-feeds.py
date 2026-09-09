@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
-"""Copy the Quarto listing feed to legacy Pelican feed URLs."""
+"""Copy the Quarto listing feed to legacy Pelican feed URLs.
+
+Written by Cursor.   Copyright indeterminate.
+"""
 
 from __future__ import annotations
 

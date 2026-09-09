@@ -1,0 +1,85 @@
+#!/usr/bin/env python3
+"""Create a new Quarto post under posts/<slug>/index.qmd from a title.
+
+Written by Cursor.   Copyright indeterminate.
+"""
+
+from __future__ import annotations
+
+import argparse
+import re
+import sys
+from datetime import datetime
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parents[1]
+POSTS = ROOT / "posts"
+
+LINK_WORDS = frozenset({"as", "for", "and", "of"})
+
+
+def slug_from_title(title: str) -> str:
+    """Build a short slug: first three content words, hyphenated."""
+    lowered = title.lower()
+    # Split on non-alphanumeric so punctuation drops out of tokens.
+    words = re.findall(r"[a-z0-9]+", lowered)
+    content = [w for w in words if w not in LINK_WORDS]
+    chosen = content[:3]
+    if not chosen:
+        raise SystemExit(f"could not derive a slug from title: {title!r}")
+    return "-".join(chosen)
+
+
+def yaml_scalar(value: str) -> str:
+    """Quote a YAML scalar when needed for safe front matter."""
+    if re.search(r'[:#{}[\],&*!|>\'"%@`]|^\s|\s$|^$|^[-?]', value):
+        escaped = value.replace("\\", "\\\\").replace('"', '\\"')
+        return f'"{escaped}"'
+    return value
+
+
+def default_frontmatter(title: str, slug: str, when: datetime) -> str:
+    date = when.strftime("%Y-%m-%d %H:%M")
+    return (
+        "---\n"
+        f"title: {yaml_scalar(title)}\n"
+        "aliases:\n"
+        f"- /{slug}.html\n"
+        f"date: {date}\n"
+        "categories:\n"
+        "- Misc\n"
+        "---\n"
+        "\n"
+    )
+
+
+def main(argv: list[str] | None = None) -> int:
+    parser = argparse.ArgumentParser(
+        description="Create posts/<slug>/index.qmd from a title."
+    )
+    parser.add_argument("title", help="Post title (also used for the slug)")
+    args = parser.parse_args(argv)
+
+    title = args.title.strip()
+    if not title:
+        parser.error("title must not be empty")
+
+    slug = slug_from_title(title)
+    out_dir = POSTS / slug
+    out_file = out_dir / "index.qmd"
+
+    if out_file.exists():
+        print(f"error: already exists: {out_file}", file=sys.stderr)
+        return 1
+    if out_dir.exists() and any(out_dir.iterdir()):
+        print(f"error: directory not empty: {out_dir}", file=sys.stderr)
+        return 1
+
+    out_dir.mkdir(parents=True, exist_ok=True)
+    out_file.write_text(default_frontmatter(title, slug, datetime.now()), encoding="utf-8")
+    print(f"created {out_file.relative_to(ROOT)} (slug: {slug})")
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())
