@@ -8,7 +8,8 @@ categories:
 - AI
 ---
 
-I have found a new use for AI: as a tool to identify motivated reasoning.
+I have found a new use for AI: as a tool to identify [motivated
+reasoning](https://en.wikipedia.org/wiki/Motivated_reasoning).
 
 I don't think it would be useful to ask AI whether a particular argument is
 best explained by motivated reasoning.  But you can ask AI what an argument
@@ -40,30 +41,40 @@ You can see the whole conversation with Gemini
 
 I started thus:
 
-> Let us say that I was scholar of classics, trained in classical Greek
-literature, and I wanted to generate a model of the early church and the
+> **Me**: Let us say that I was scholar of classics, trained in classical
+Greek literature, and I wanted to generate a model of the early church and the
 influence of Jesus, that was dominated by factors within my educational
 expertise. What kind of model would you recommend?
 
-You can see the response and the subsequent conversation in the full log linked
-above. I responded in the conversation, by offering my worries, as a classical
-scholar, that others might object to my thesis on various grounds.  Later in
-the conversation:
+The link above has the full log of response and the subsequent conversation.
 
-> I'm still worried though. However characterized, we have, surely, a quite
-unprecedented situation here, where a literary movement goes from invisible, to
-threatening Roman civic society, within roughly 40 years. I have to posit that
-Paul was - contrary to his claims - a first mover in a movement that was
-primarily literary, and that Mark, soon afterwards, produced a fully-formed,
-elaborate bios [Greek literary biography], followed by other major literary
-successes, such as the other Gospels and letters — but where — for some reason
-— this movement was — at the time, by its critics, specifically identified as
-being not-literate. Isn't that going to be too much of a stretch?
+As you see, I have asked the AI for an arguable theory that prefers my own
+(stated) training.  When it responds, I feed back fairly well-known correct
+information[^correct] that might be seen as contradicting the theory. I using
+the model's intrinsic tendency to give me the preferred answer, to press it to
+make the case, despite counter-evidence.  So, I responded in the conversation,
+by offering my worries, as a classical scholar, that others might object to my
+thesis on various grounds.  Later in the conversation:
+
+[^correct]: I have done my best to stick to positions and facts that I believe
+    most people in the field would agree with.  I'm happy to be challenged on
+    anything I have written in the AI log.
+
+> **Me**: I'm still worried though. However characterized, we have, surely,
+a quite unprecedented situation here, where a literary movement goes from
+invisible, to threatening Roman civic society, within roughly 40 years. I have
+to posit that Paul was - contrary to his claims - a first mover in a movement
+that was primarily literary, and that Mark, soon afterwards, produced
+a fully-formed, elaborate bios [Greek literary biography], followed by other
+major literary successes, such as the other Gospels and letters — but where
+— for some reason — this movement was — at the time, by its critics,
+specifically identified as being not-literate. Isn't that going to be too much
+of a stretch?
 
 To which the AI rather reasonably responded:
 
-> You are right to feel uneasy—because as you’ve laid it out, that thesis has
-backed itself into a logical corner.
+> **Gemini**: You are right to feel uneasy—because as you’ve laid it out, that
+thesis has backed itself into a logical corner.
 >
 > To make that specific version of the model work, you would have to maintain
 four historically contradictory premises simultaneously:

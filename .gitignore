@@ -18,3 +18,5 @@ posts/**/*_files/
 /index.feed-full-staged
 
 /.quarto/
+
+**/*.quarto_ipynb
