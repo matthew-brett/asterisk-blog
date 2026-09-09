@@ -9,7 +9,14 @@ categories:
 ---
 
 I have found a new use for AI: as a tool to identify what motivated reasoning
-would look like.   Here's an example from biblical scholarship.
+would look like.
+
+I don't think it would be useful to ask AI whether a particular argument is
+best explained by motivated reasoning.  But you can ask AI what an argument
+from motivated reasoning would look like, and compare the result to arguments
+that have been made.
+
+Here's an example from biblical scholarship.
 
 ## The problem
 
@@ -29,7 +36,7 @@ instincts on this, I turned to AI.
 
 ## AI as diagnostic tool for motivated reasoning
 
-You can see the whole conversation
+You can see the whole conversation with Gemini
 [here](https://share.gemini.google/3Mk2isULwXWf).
 
 I started thus:
@@ -40,18 +47,19 @@ influence of Jesus, that was dominated by factors within my educational
 expertise. What kind of model would you recommend?
 
 You can see the response and the subsequent conversation in the full log linked
-above. I responded by offering my worries, as a classical scholar, that others
-might object to my thesis on various grounds.  Later in the conversation:
+above. I responded in the conversation, by offering my worries, as a classical
+scholar, that others might object to my thesis on various grounds.  Later in
+the conversation:
 
 > I'm still worried though. However characterized, we have, surely, a quite
 unprecedented situation here, where a literary movement goes from invisible, to
 threatening Roman civic society, within roughly 40 years. I have to posit that
 Paul was - contrary to his claims - a first mover in a movement that was
 primarily literary, and that Mark, soon afterwards, produced a fully-formed,
-elaborate bios, followed by other major literary successes, such as the other
-Gospels and letters - but where - for some reason - this movement was - at the
-time, by its critics, specifically identified as being not-literate. Isn't that
-going to be too much of a stretch?
+elaborate bios [Greek literary biography], followed by other major literary
+successes, such as the other Gospels and letters — but where — for some reason
+— this movement was — at the time, by its critics, specifically identified as
+being not-literate. Isn't that going to be too much of a stretch?
 
 To which the AI rather reasonably responded:
 
