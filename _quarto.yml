@@ -12,6 +12,8 @@ project:
     - favicon.png
     - robots.txt
     - CNAME
+  post-render:
+    - scripts/copy-legacy-feeds.py
 
 website:
   title: "Asterisk"
